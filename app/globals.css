@@ -2,25 +2,36 @@
 
 :root {
   --background: #ffffff;
-  --foreground: #171717;
+  --foreground: #1a1a1a;
+  --giavani-dark: #1a1a1a;
+  --giavani-light: #f8f8f8;
+  --giavani-muted: #666666;
+  --giavani-border: #e0e0e0;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --color-giavani-dark: var(--giavani-dark);
+  --color-giavani-light: var(--giavani-light);
+  --color-giavani-muted: var(--giavani-muted);
+  --color-giavani-border: var(--giavani-border);
+  --font-sans: var(--font-inter), system-ui, -apple-system, sans-serif;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
+}
+
+::selection {
+  background: #1a1a1a;
+  color: #ffffff;
+}
+
+input,
+textarea,
+button {
+  font-family: inherit;
 }
