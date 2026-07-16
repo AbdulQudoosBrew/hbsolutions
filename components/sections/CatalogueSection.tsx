@@ -1,4 +1,4 @@
-import Image from "next/image";
+import RemoteImage from "@/components/ui/RemoteImage";
 import Button from "@/components/ui/Button";
 import Container from "@/components/ui/Container";
 import Section from "@/components/ui/Section";
@@ -11,9 +11,9 @@ export default function CatalogueSection() {
       <Container>
         <div className="grid items-center gap-12 lg:grid-cols-2">
           <div className="relative aspect-[4/3] overflow-hidden">
-            <Image
+            <RemoteImage
               src="https://giavanibathrooms.com/wp-content/uploads/2024/06/Giavani-Catalogue-2026.jpg"
-              alt="Giavani 2026 Catalogue"
+              alt="Haris Building Solutions Product Catalogue"
               fill
               className="object-cover"
               sizes="(max-width: 1024px) 100vw, 50vw"

@@ -10,9 +10,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Giavani Bathrooms - Luxury Bathroom Products",
+  title: "Haris Building Solutions - Building Materials Supplier",
   description:
-    "Giavani bathrooms is one of the UK's largest distributors of luxury bathroom products. Sanitaryware, Taps, Showers, Baths and more.",
+    "Haris Building Solutions supplies WPC panels, shower panels, flooring, bathrooms, kitchens, artificial grass, silicone, acoustic panels, ceiling panels, trims and more.",
 };
 
 export default function RootLayout({

@@ -7,7 +7,7 @@ export default function ProductCategories() {
   return (
     <Section id="products" background="white" className="py-16 md:py-20">
       <Container size="wide">
-        <div className="grid grid-cols-2 gap-px bg-[#e0e0e0] sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
+        <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 sm:gap-5 md:grid-cols-4 md:gap-6 lg:grid-cols-5">
           {PRODUCT_CATEGORIES.map((category) => (
             <ProductCategoryCard
               key={category.id}

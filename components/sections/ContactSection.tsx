@@ -6,7 +6,7 @@ import Container from "@/components/ui/Container";
 import FormField from "@/components/ui/FormField";
 import Section from "@/components/ui/Section";
 import TextSection from "@/components/ui/TextSection";
-import { CONTACT_INFO } from "@/lib/constants/siteData";
+import { COMPANY, CONTACT_INFO } from "@/lib/constants/siteData";
 import { useAppDispatch, useAppSelector } from "@/lib/store/hooks";
 import {
   resetForm,
@@ -163,7 +163,7 @@ export default function ContactSection() {
 
                 <p className="mt-4 text-xs text-[#999999]">
                   By submitting your email address, you agree to receive updates
-                  from Giavani Bathrooms in accordance with our Privacy Policy.
+                  from {COMPANY.name} in accordance with our Privacy Policy.
                 </p>
               </form>
             )}

@@ -1,6 +1,6 @@
 "use client";
 
-import Image from "next/image";
+import RemoteImage from "@/components/ui/RemoteImage";
 import { useEffect, useCallback } from "react";
 import Button from "@/components/ui/Button";
 import TextSection from "@/components/ui/TextSection";
@@ -31,7 +31,7 @@ export default function HeroCarousel() {
             index === activeSlide ? "opacity-100" : "opacity-0"
           }`}
         >
-          <Image
+          <RemoteImage
             src={s.image}
             alt={s.title}
             fill

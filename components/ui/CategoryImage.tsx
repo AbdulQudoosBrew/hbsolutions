@@ -1,6 +1,6 @@
 "use client";
 
-import Image from "next/image";
+import RemoteImage from "./RemoteImage";
 import { useState } from "react";
 
 interface CategoryImageProps {
@@ -20,7 +20,7 @@ export default function CategoryImage({ src, alt }: CategoryImageProps) {
   }
 
   return (
-    <Image
+    <RemoteImage
       src={src}
       alt={alt}
       fill
