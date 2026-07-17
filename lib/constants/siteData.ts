@@ -1,8 +1,8 @@
 export const COMPANY = {
   name: "Haris Building Solutions",
   shortName: "HBS",
-  email: "info@harisbuildingsolutions.com",
-  emailHref: "mailto:info@harisbuildingsolutions.com",
+  email: "haris@hbsolutions.uk",
+  emailHref: "mailto:haris@hbsolutions.uk",
 } as const;
 
 export const NAV_CATEGORIES = [
@@ -43,8 +43,8 @@ export const HERO_SLIDES = [
     id: 1,
     title: "Quality Building Materials for Every Project",
     description:
-      "Haris Building Solutions supplies a comprehensive range of building and finishing materials — from WPc panels, shower panels and flooring to bathrooms, kitchens, artificial grass, silicone, acoustic panels, ceiling panels, ceiling tiles, trims, corners and fascia.",
-    ctaLabel: "Explore our product range",
+      "Haris Building Solutions supplies a comprehensive range of building and finishing materials — from WPC panels, shower panels and flooring to bathrooms, kitchens, artificial grass, silicone, acoustic panels, ceiling panels, ceiling tiles, trims, corners and fascia.",
+    ctaLabel: "Discover our product range",
     ctaHref: "#products",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/2.jpg",
@@ -54,20 +54,20 @@ export const HERO_SLIDES = [
     title: "Everything You Need to Build and Finish",
     description:
       "Whether you are working on a new build, extension or renovation, we stock solid panels, ceiling systems, angle trims, end caps, internal and external corners, and a wide selection of materials to help you complete the job to a high standard.",
-    ctaLabel: "Explore our product range",
+    ctaLabel: "Discover our product range",
     ctaHref: "#products",
     image:
-      "https://giavanibathrooms.com/wp-content/uploads/2024/01/Giavani-Bathroom-Hero-2.jpg",
+      "https://giavanibathrooms.com/wp-content/uploads/2023/12/sep09-scaled.jpg",
   },
   {
     id: 3,
     title: "Trusted Materials for Homes and Trade",
     description:
       "From bathrooms and kitchens to flooring and panel systems, Haris Building Solutions provides dependable products for homeowners, contractors and trade customers across the UK.",
-    ctaLabel: "Explore our product range",
+    ctaLabel: "Discover our product range",
     ctaHref: "#products",
     image:
-      "https://giavanibathrooms.com/wp-content/uploads/2024/01/Giavani-Bathroom-Hero-3.jpg",
+      "https://giavanibathrooms.com/wp-content/uploads/2024/02/500cmc.jpg",
   },
 ] as const;
 
@@ -105,15 +105,15 @@ export const DESIGN_SECTION = {
 } as const;
 
 export const CONTACT_INFO = {
-  phone: "Contact us for pricing",
-  phoneHref: "#contact",
+  phone: "07770 116177",
+  phoneHref: "tel:07770116177",
   email: COMPANY.email,
   emailHref: COMPANY.emailHref,
   address: {
     company: COMPANY.name,
-    street: "Trade enquiries welcome",
-    city: "United Kingdom",
-    postcode: "",
+    street: "5 Appleford Drive",
+    city: "Cheetham Hill, Manchester",
+    postcode: "M8 8XA",
   },
 } as const;
 

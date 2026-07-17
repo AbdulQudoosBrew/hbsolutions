@@ -13,7 +13,7 @@ interface SectionProps {
 const backgroundStyles: Record<SectionBackground, string> = {
   white: "bg-white",
   light: "bg-[#f8f8f8]",
-  dark: "bg-[#1a1a1a]",
+  dark: "bg-[#000000]",
   transparent: "bg-transparent",
 };
 

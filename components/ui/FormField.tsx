@@ -12,7 +12,7 @@ interface FormFieldProps {
 }
 
 const baseInputStyles =
-  "w-full border-0 border-b border-[#cccccc] bg-transparent px-0 py-3 text-sm text-[#333333] placeholder:text-[#999999] focus:border-[#1a1a1a] focus:outline-none transition-colors";
+  "w-full border-0 border-b border-[#cccccc] bg-transparent px-0 py-3 text-sm text-[#333333] placeholder:text-[#999999] focus:border-[#000000] focus:outline-none transition-colors";
 
 export default function FormField({
   label,

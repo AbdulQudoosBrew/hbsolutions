@@ -21,9 +21,9 @@ export default function ProductCategoryCard({
     >
       <div className="relative aspect-square w-full overflow-hidden">
         <CategoryImage src={image} alt={label} />
-        <div className="absolute inset-0 bg-[#1a1a1a]/0 transition-colors duration-300 group-hover:bg-[#1a1a1a]/10" />
+        <div className="absolute inset-0 bg-[#000000]/0 transition-colors duration-300 group-hover:bg-[#000000]/10" />
       </div>
-      <span className="w-full py-4 text-center text-xs font-medium uppercase tracking-[0.2em] text-[#333333] transition-colors group-hover:text-[#1a1a1a]">
+      <span className="w-full py-4 text-center text-xs font-medium uppercase tracking-[0.2em] text-[#333333] transition-colors group-hover:text-[#000000]">
         {label}
       </span>
     </Link>

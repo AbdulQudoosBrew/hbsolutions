@@ -5,6 +5,7 @@ interface UiState {
   searchOpen: boolean;
   activeSlide: number;
   showScrollTop: boolean;
+  headerScrolled: boolean;
 }
 
 const initialState: UiState = {
@@ -12,6 +13,7 @@ const initialState: UiState = {
   searchOpen: false,
   activeSlide: 0,
   showScrollTop: false,
+  headerScrolled: false,
 };
 
 const uiSlice = createSlice({
@@ -39,6 +41,9 @@ const uiSlice = createSlice({
     setShowScrollTop: (state, action: PayloadAction<boolean>) => {
       state.showScrollTop = action.payload;
     },
+    setHeaderScrolled: (state, action: PayloadAction<boolean>) => {
+      state.headerScrolled = action.payload;
+    },
   },
 });
 
@@ -50,6 +55,7 @@ export const {
   setActiveSlide,
   nextSlide,
   setShowScrollTop,
+  setHeaderScrolled,
 } = uiSlice.actions;
 
 export default uiSlice.reducer;

@@ -21,14 +21,17 @@ export default function ScrollToTop() {
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
-  if (!showScrollTop) return null;
-
   return (
     <button
       type="button"
       onClick={scrollToTop}
-      className="fixed bottom-8 right-8 z-50 flex h-12 w-12 items-center justify-center bg-[#1a1a1a] text-white shadow-lg transition-all hover:bg-[#333333]"
+      className={`fixed bottom-8 right-8 z-50 flex h-12 w-12 items-center justify-center bg-[#000000] text-white shadow-lg transition-all duration-300 ease-out hover:bg-[#333333] hover:scale-105 ${
+        showScrollTop
+          ? "pointer-events-auto translate-y-0 opacity-100"
+          : "pointer-events-none translate-y-4 opacity-0"
+      }`}
       aria-label="Scroll to top"
+      tabIndex={showScrollTop ? 0 : -1}
     >
       <svg
         className="h-5 w-5"

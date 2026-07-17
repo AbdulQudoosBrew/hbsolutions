@@ -27,7 +27,7 @@ const colorStyles: Record<TextColor, { title: string; body: string }> = {
     body: "text-white/80",
   },
   dark: {
-    title: "text-[#1a1a1a]",
+    title: "text-[#000000]",
     body: "text-[#555555]",
   },
   muted: {
