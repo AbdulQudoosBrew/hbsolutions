@@ -26,7 +26,7 @@ export default function HeroSection() {
           color="dark"
           className="max-w-xl sm:max-w-2xl lg:max-w-3xl [&_h1]:text-2xl font-bold [&_h1]:tracking-[0.08em] sm:[&_h1]:text-3xl sm:[&_h1]:tracking-[0.12em] md:[&_h1]:text-4xl lg:[&_h1]:text-5xl lg:[&_h1]:tracking-[0.15em] [&_p]:text-sm [&_p]:leading-relaxed sm:[&_p]:text-base"
         />
-        <div className="mt-8 w-full max-w-xs sm:mt-10 sm:max-w-none sm:w-auto">
+        {/* <div className="mt-8 w-full max-w-xs sm:mt-10 sm:max-w-none sm:w-auto">
           <Button
             href={hero.ctaHref}
             variant="secondary"
@@ -36,7 +36,7 @@ export default function HeroSection() {
           >
             {hero.ctaLabel}
           </Button>
-        </div>
+        </div> */}
       </div>
     </section>
   );

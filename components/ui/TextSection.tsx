@@ -75,7 +75,7 @@ export default function TextSection({
       {paragraphs.map((paragraph, index) => (
         <p
           key={index}
-          className={`mt-4 text-sm md:text-base leading-relaxed ${colors.body} ${
+          className={`mt-4 text-sm md:text-base leading-relaxed ${colors.title} ${
             index === 0 && title ? "mt-6" : "mt-4"
           }`}
         >

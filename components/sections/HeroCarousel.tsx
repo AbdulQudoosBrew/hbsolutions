@@ -51,7 +51,7 @@ export default function HeroCarousel() {
             className="[&_h1]:text-xl [&_h1]:tracking-[0.08em] sm:[&_h1]:text-3xl sm:[&_h1]:tracking-[0.12em] md:[&_h1]:text-4xl lg:[&_h1]:text-5xl lg:[&_h1]:tracking-[0.15em] [&_p]:mt-3 [&_p]:line-clamp-4 [&_p]:text-xs [&_p]:leading-relaxed sm:[&_p]:mt-5 sm:[&_p]:line-clamp-none sm:[&_p]:text-sm md:[&_p]:text-base"
           />
 
-          <div className="mt-5 w-full max-w-[220px] sm:mt-8 sm:max-w-none sm:w-auto">
+          {/* <div className="mt-5 w-full max-w-[220px] sm:mt-8 sm:max-w-none sm:w-auto">
             <Button
               href={slide.ctaHref}
               variant="outline"
@@ -61,7 +61,7 @@ export default function HeroCarousel() {
             >
               {slide.ctaLabel}
             </Button>
-          </div>
+          </div> */}
         </div>
 
         <div className="absolute bottom-4 left-1/2 flex -translate-x-1/2 gap-2 sm:bottom-8 sm:gap-3">
