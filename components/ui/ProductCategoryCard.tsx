@@ -12,7 +12,7 @@ export default function ProductCategoryCard({
   id,
   label,
   image,
-  href = `#${id}`,
+  href = `/${id}`,
 }: ProductCategoryCardProps) {
   return (
     <Link

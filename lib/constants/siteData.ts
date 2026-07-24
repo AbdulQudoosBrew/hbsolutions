@@ -5,38 +5,81 @@ export const COMPANY = {
   emailHref: "mailto:haris@hbsolutions.uk",
 } as const;
 
-export const NAV_CATEGORIES = [
-  { id: "sanitaryware", label: "Sanitaryware", href: "#sanitaryware" },
-  { id: "taps", label: "Taps", href: "#taps" },
-  { id: "showers", label: "Showers", href: "#showers" },
-  { id: "baths", label: "Baths", href: "#baths" },
-  { id: "bath-screens", label: "Bath Screens", href: "#bath-screens" },
-  { id: "shower-enclosures", label: "Shower Enclosures", href: "#shower-enclosures" },
-  { id: "wetroom-screens", label: "Wetroom Screens", href: "#wetroom-screens" },
-  { id: "shower-trays", label: "Shower Trays", href: "#shower-trays" },
-  { id: "furniture", label: "Furniture", href: "#furniture" },
-  { id: "heating", label: "Heating", href: "#heating" },
-  { id: "mirrors-cabinets", label: "Mirrors/Cabinets", href: "#mirrors-cabinets" },
-  { id: "panels", label: "Panels", href: "#panels" },
-  { id: "flooring", label: "Flooring", href: "#flooring" },
-  { id: "wall-tiles", label: "Wall Tiles", href: "#wall-tiles" },
-  { id: "accessories", label: "Accessories", href: "#accessories" },
-  { id: "wpc-panels", label: "WPC Panels", href: "#wpc-panels" },
-  { id: "shower-panels", label: "Shower Panels", href: "#shower-panels" },
-  { id: "bathrooms", label: "Bathrooms", href: "#bathrooms" },
-  { id: "kitchens", label: "Kitchens", href: "#kitchens" },
-  { id: "artificial-grass", label: "Artificial Grass", href: "#artificial-grass" },
-  { id: "silicone", label: "Silicone", href: "#silicone" },
-  { id: "acoustic-panels", label: "Acoustic Panels", href: "#acoustic-panels" },
-  { id: "solid-panels", label: "Solid Panels", href: "#solid-panels" },
-  { id: "ceiling-panels", label: "Ceiling Panels", href: "#ceiling-panels" },
-  { id: "ceiling-tiles", label: "Ceiling Tiles", href: "#ceiling-tiles" },
-  { id: "angle-trims", label: "Angle Trims", href: "#angle-trims" },
-  { id: "end-cap", label: "End Cap", href: "#end-cap" },
-  { id: "internal-corner", label: "Internal Corner", href: "#internal-corner" },
-  { id: "external-corner", label: "External Corner", href: "#external-corner" },
-  { id: "fascia", label: "Fascia", href: "#fascia" },
-] as const;
+export type NavChild = {
+  id: string;
+  label: string;
+  href: string;
+};
+
+export type NavCategory = {
+  id: string;
+  label: string;
+  href: string;
+  children?: NavChild[];
+};
+
+export const NAV_CATEGORIES: NavCategory[] = [
+  { id: "sanitaryware", label: "Sanitaryware", href: "/sanitaryware" },
+  { id: "taps", label: "Taps", href: "/taps" },
+  {
+    id: "showers",
+    label: "Showers",
+    href: "/showers",
+    children: [
+      { id: "showers", label: "Showers", href: "/showers" },
+      { id: "shower-enclosures", label: "Shower Enclosures", href: "/shower-enclosures" },
+      { id: "wetroom-screens", label: "Wetroom Screens", href: "/wetroom-screens" },
+      { id: "shower-trays", label: "Shower Trays", href: "/shower-trays" },
+      { id: "bath-screens", label: "Bath Screens", href: "/bath-screens" },
+      { id: "shower-panels", label: "Shower Panels", href: "/shower-panels" },
+    ],
+  },
+  { id: "baths", label: "Baths", href: "/baths" },
+  { id: "bathrooms", label: "Bathrooms", href: "/bathrooms" },
+  { id: "furniture", label: "Furniture", href: "/furniture" },
+  { id: "heating", label: "Heating", href: "/heating" },
+  { id: "mirrors-cabinets", label: "Mirrors/Cabinets", href: "/mirrors-cabinets" },
+  {
+    id: "panels",
+    label: "Panels",
+    href: "/panels",
+    children: [
+      { id: "panels", label: "Panels", href: "/panels" },
+      { id: "wpc-panels", label: "WPC Panels", href: "/wpc-panels" },
+      { id: "acoustic-panels", label: "Acoustic Panels", href: "/acoustic-panels" },
+      { id: "solid-panels", label: "Solid Panels", href: "/solid-panels" },
+      { id: "ceiling-panels", label: "Ceiling Panels", href: "/ceiling-panels" },
+    ],
+  },
+  {
+    id: "ceiling",
+    label: "Ceiling",
+    href: "/ceiling-tiles",
+    children: [
+      { id: "ceiling-panels", label: "Ceiling Panels", href: "/ceiling-panels" },
+      { id: "ceiling-tiles", label: "Ceiling Tiles", href: "/ceiling-tiles" },
+    ],
+  },
+  { id: "flooring", label: "Flooring", href: "/flooring" },
+  { id: "wall-tiles", label: "Wall Tiles", href: "/wall-tiles" },
+  { id: "kitchens", label: "Kitchens", href: "/kitchens" },
+  { id: "artificial-grass", label: "Artificial Grass", href: "/artificial-grass" },
+  { id: "silicone", label: "Silicone", href: "/silicone" },
+  { id: "accessories", label: "Accessories", href: "/accessories" },
+  {
+    id: "corners",
+    label: "Corners",
+    href: "/corners",
+    children: [
+      { id: "angle-trims", label: "Angle Trims / L Shape", href: "/angle-trims" },
+      { id: "end-cap", label: "End Cap", href: "/end-cap" },
+      { id: "internal-corner", label: "Internal Corner", href: "/internal-corner" },
+      { id: "external-corner", label: "External Corner", href: "/external-corner" },
+      { id: "fascia", label: "Fascia", href: "/fascia" },
+    ],
+  },
+];
+
 
 export const HERO_SLIDES = [
   {
@@ -47,27 +90,60 @@ export const HERO_SLIDES = [
     ctaLabel: "Discover our product range",
     ctaHref: "#products",
     image:
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/2.jpg",
+      "https://giavanibathrooms.com/wp-content/uploads/2026/05/web-header-scaled.jpg",
+  },
+] as const;
+
+export const CAROUSEL_SLIDES = [
+  {
+    id: 1,
+    title: "Bathrooms Built to Last",
+    description:
+      "Sanitaryware, taps and furniture chosen for everyday performance and lasting style.",
+    ctaLabel: "View range",
+    ctaHref: "/sanitaryware",
+    image:
+      "https://giavanibathrooms.com/wp-content/uploads/2026/05/web-header-scaled.jpg",
   },
   {
     id: 2,
-    title: "Everything You Need to Build and Finish",
+    title: "Showers & Wetrooms",
     description:
-      "Whether you are working on a new build, extension or renovation, we stock solid panels, ceiling systems, angle trims, end caps, internal and external corners, and a wide selection of materials to help you complete the job to a high standard.",
-    ctaLabel: "Discover our product range",
-    ctaHref: "#products",
+      "Enclosures, trays and screens designed for a clean, contemporary finish.",
+    ctaLabel: "View range",
+    ctaHref: "/showers",
     image:
-      "https://giavanibathrooms.com/wp-content/uploads/2023/12/sep09-scaled.jpg",
+      "https://giavanibathrooms.com/wp-content/uploads/2026/03/showers.jpg",
   },
   {
     id: 3,
-    title: "Trusted Materials for Homes and Trade",
+    title: "Panels & Flooring",
     description:
-      "From bathrooms and kitchens to flooring and panel systems, Haris Building Solutions provides dependable products for homeowners, contractors and trade customers across the UK.",
-    ctaLabel: "Discover our product range",
-    ctaHref: "#products",
+      "Waterproof panels, SPC flooring and wall tiles for spaces that work hard.",
+    ctaLabel: "View range",
+    ctaHref: "/panels",
     image:
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/500cmc.jpg",
+      "https://giavanibathrooms.com/wp-content/uploads/2026/03/panels.jpg",
+  },
+  {
+    id: 4,
+    title: "Heating & Finishing",
+    description:
+      "Radiators, mirrors, cabinets and accessories to complete every project.",
+    ctaLabel: "View range",
+    ctaHref: "/heating",
+    image:
+      "https://giavanibathrooms.com/wp-content/uploads/2026/03/heating.jpg",
+  },
+  {
+    id: 5,
+    title: "Baths & Furniture",
+    description:
+      "Statement baths and vanity ranges that pull a bathroom scheme together.",
+    ctaLabel: "View range",
+    ctaHref: "/baths",
+    image:
+      "https://giavanibathrooms.com/wp-content/uploads/2026/03/baths.jpg",
   },
 ] as const;
 
@@ -120,19 +196,19 @@ export const CONTACT_INFO = {
 export const FOOTER_LINKS = {
   primary: [
     { label: "NEWS / PR", href: "#" },
-    { label: "CATALOGUE", href: "#catalogue" },
+    { label: "CATALOGUE", href: "/#catalogue" },
     { label: "RETURNS POLICY", href: "#" },
     { label: "TERMS & CONDITIONS", href: "#" },
     { label: "PRIVACY POLICY", href: "#" },
   ],
   secondary: [
-    { label: "CONTACT US", href: "#contact" },
-    { label: "ABOUT US", href: "#about" },
+    { label: "CONTACT US", href: "/#contact" },
+    { label: "ABOUT US", href: "/#about" },
   ],
   mobile: [
-    { label: "ABOUT US", href: "#about" },
-    { label: "CATALOGUE", href: "#catalogue" },
-    { label: "CONTACT US", href: "#contact" },
+    { label: "ABOUT US", href: "/#about" },
+    { label: "CATALOGUE", href: "/#catalogue" },
+    { label: "CONTACT US", href: "/#contact" },
     { label: "MEET THE TEAM", href: "#" },
   ],
 } as const;

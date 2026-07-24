@@ -1,9 +1,9 @@
 "use client";
 
 import Link from "next/link";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import Logo from "@/components/ui/Logo";
-import { NAV_CATEGORIES } from "@/lib/constants/siteData";
+import { NAV_CATEGORIES, type NavCategory } from "@/lib/constants/siteData";
 import { useAppDispatch, useAppSelector } from "@/lib/store/hooks";
 import {
   setHeaderScrolled,
@@ -13,11 +13,76 @@ import {
   toggleSearch,
 } from "@/lib/store/slices/uiSlice";
 
+function NavItem({
+  category,
+  onNavigate,
+}: {
+  category: NavCategory;
+  onNavigate?: () => void;
+}) {
+  const hasChildren = Boolean(category.children?.length);
+
+  if (!hasChildren) {
+    return (
+      <Link
+        href={category.href}
+        onClick={onNavigate}
+        className="text-[11px] font-medium uppercase tracking-[0.15em] text-white/80 transition-colors duration-300 hover:text-white"
+      >
+        {category.label}
+      </Link>
+    );
+  }
+
+  return (
+    <div className="group relative">
+      <button
+        type="button"
+        className="inline-flex items-center gap-1.5 text-[11px] font-medium uppercase tracking-[0.15em] text-white/80 transition-colors duration-300 group-hover:text-white"
+        aria-haspopup="true"
+      >
+        {category.label}
+        <svg
+          className="h-3 w-3 transition-transform duration-300 group-hover:rotate-180"
+          fill="none"
+          stroke="currentColor"
+          viewBox="0 0 24 24"
+          aria-hidden
+        >
+          <path
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth={2}
+            d="M19 9l-7 7-7-7"
+          />
+        </svg>
+      </button>
+
+      <div className="invisible absolute top-full left-1/2 z-50 min-w-[220px] -translate-x-1/2 pt-3 opacity-0 transition-all duration-300 group-hover:visible group-hover:opacity-100">
+        <ul className="border border-white/10 bg-[#000000] py-2 shadow-xl">
+          {category.children?.map((child) => (
+            <li key={child.id}>
+              <Link
+                href={child.href}
+                onClick={onNavigate}
+                className="block px-4 py-2.5 text-[11px] font-medium uppercase tracking-[0.15em] text-white/70 transition-colors duration-300 hover:bg-white/5 hover:text-white"
+              >
+                {child.label}
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </div>
+  );
+}
+
 export default function Header() {
   const dispatch = useAppDispatch();
   const { mobileMenuOpen, searchOpen, headerScrolled } = useAppSelector(
     (state) => state.ui
   );
+  const [expandedGroup, setExpandedGroup] = useState<string | null>(null);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -28,6 +93,12 @@ export default function Header() {
     window.addEventListener("scroll", handleScroll, { passive: true });
     return () => window.removeEventListener("scroll", handleScroll);
   }, [dispatch]);
+
+  useEffect(() => {
+    if (!mobileMenuOpen) setExpandedGroup(null);
+  }, [mobileMenuOpen]);
+
+  const closeMenu = () => dispatch(setMobileMenuOpen(false));
 
   const menuIcon = (
     <button
@@ -79,14 +150,14 @@ export default function Header() {
   );
 
   return (
-    <header className="fixed top-0 left-0 right-0 z-50 bg-[#000000] pb-[25px] ">
-      {/* Top design line */}
-     
-
+    <header className="fixed top-0 left-0 right-0 z-50 bg-[#000000] pb-[25px]">
       {/* Mobile: always logo left, search + menu right */}
       <div className="border-b border-white/10 lg:hidden">
         <div className="flex items-center justify-between px-4 py-4">
-          <Link href="/" className="transition-opacity duration-300 hover:opacity-80">
+          <Link
+            href="/"
+            className="transition-opacity duration-300 hover:opacity-80"
+          >
             <Logo />
           </Link>
 
@@ -105,10 +176,10 @@ export default function Header() {
             : "max-h-48 translate-y-0 opacity-100"
         }`}
       >
-         <div className="pt-[25px]">
-        <div className="h-px w-full bg-white/30 " />
-      </div>
-        <div className="mx-auto grid max-w-[1400px] grid-cols-3 items-center px-4 py-8 sm:px-6 lg:px-8 ">
+        <div className="pt-[25px]">
+          <div className="h-px w-full bg-white/30" />
+        </div>
+        <div className="mx-auto grid max-w-[1400px] grid-cols-3 items-center px-4 py-8 sm:px-6 lg:px-8">
           <div className="flex items-center gap-3 justify-self-start">
             {menuIcon}
             <button
@@ -133,14 +204,14 @@ export default function Header() {
 
       {/* Desktop: category nav — fades in when scrolled */}
       <nav
-        className={`hidden overflow-hidden border-b border-white/10 transition-all duration-500 ease-out lg:block ${
+        className={`hidden border-b border-white/10 transition-all duration-500 ease-out lg:block ${
           headerScrolled
-            ? "max-h-40 translate-y-0 opacity-100"
-            : "pointer-events-none max-h-0 translate-y-2 opacity-0"
+            ? "translate-y-0 opacity-100"
+            : "pointer-events-none max-h-0 translate-y-2 overflow-hidden opacity-0"
         }`}
       >
         <div className="mx-auto flex max-w-[1400px] items-center gap-4 px-4 py-3 sm:px-6 lg:px-8">
-          <ul className="flex flex-1 flex-wrap items-center justify-center gap-x-6 gap-y-2">
+          <ul className="flex flex-1 flex-wrap items-center justify-center gap-x-5 gap-y-2">
             {NAV_CATEGORIES.map((category, index) => (
               <li
                 key={category.id}
@@ -148,15 +219,12 @@ export default function Header() {
                 style={{
                   transitionDelay: headerScrolled ? `${index * 15}ms` : "0ms",
                   opacity: headerScrolled ? 1 : 0,
-                  transform: headerScrolled ? "translateY(0)" : "translateY(6px)",
+                  transform: headerScrolled
+                    ? "translateY(0)"
+                    : "translateY(6px)",
                 }}
               >
-                <Link
-                  href={category.href}
-                  className="text-[11px] font-medium uppercase tracking-[0.15em] text-white/80 transition-colors duration-300 hover:text-white"
-                >
-                  {category.label}
-                </Link>
+                <NavItem category={category} />
               </li>
             ))}
           </ul>
@@ -198,7 +266,7 @@ export default function Header() {
               ? "pointer-events-auto opacity-100"
               : "pointer-events-none opacity-0"
           }`}
-          onClick={() => dispatch(setMobileMenuOpen(false))}
+          onClick={closeMenu}
           aria-hidden={!mobileMenuOpen}
         />
 
@@ -212,7 +280,7 @@ export default function Header() {
           <div className="flex shrink-0 items-center justify-end border-b border-white/10 px-4 py-4 sm:px-6">
             <button
               type="button"
-              onClick={() => dispatch(setMobileMenuOpen(false))}
+              onClick={closeMenu}
               className="flex h-10 w-10 items-center justify-center text-white transition-colors duration-300 hover:text-white/70"
               aria-label="Close menu"
             >
@@ -233,30 +301,86 @@ export default function Header() {
           </div>
 
           <nav className="flex-1 px-6 py-8">
-            <ul className="space-y-4">
-              {NAV_CATEGORIES.map((category, index) => (
-                <li
-                  key={category.id}
-                  className="transition-all duration-300 ease-out"
-                  style={{
-                    transitionDelay: mobileMenuOpen
-                      ? `${80 + index * 25}ms`
-                      : "0ms",
-                    opacity: mobileMenuOpen ? 1 : 0,
-                    transform: mobileMenuOpen
-                      ? "translateX(0)"
-                      : "translateX(-16px)",
-                  }}
-                >
-                  <Link
-                    href={category.href}
-                    onClick={() => dispatch(setMobileMenuOpen(false))}
-                    className="block text-sm font-medium uppercase tracking-[0.2em] text-white/80 transition-colors duration-300 hover:text-white"
+            <ul className="space-y-2">
+              {NAV_CATEGORIES.map((category, index) => {
+                const hasChildren = Boolean(category.children?.length);
+                const isExpanded = expandedGroup === category.id;
+
+                return (
+                  <li
+                    key={category.id}
+                    className="transition-all duration-300 ease-out"
+                    style={{
+                      transitionDelay: mobileMenuOpen
+                        ? `${80 + index * 20}ms`
+                        : "0ms",
+                      opacity: mobileMenuOpen ? 1 : 0,
+                      transform: mobileMenuOpen
+                        ? "translateX(0)"
+                        : "translateX(-16px)",
+                    }}
                   >
-                    {category.label}
-                  </Link>
-                </li>
-              ))}
+                    {hasChildren ? (
+                      <div>
+                        <button
+                          type="button"
+                          onClick={() =>
+                            setExpandedGroup(isExpanded ? null : category.id)
+                          }
+                          className="flex w-full items-center justify-between py-2 text-sm font-medium uppercase tracking-[0.2em] text-white/80 transition-colors duration-300 hover:text-white"
+                          aria-expanded={isExpanded}
+                        >
+                          {category.label}
+                          <svg
+                            className={`h-4 w-4 transition-transform duration-300 ${
+                              isExpanded ? "rotate-180" : ""
+                            }`}
+                            fill="none"
+                            stroke="currentColor"
+                            viewBox="0 0 24 24"
+                            aria-hidden
+                          >
+                            <path
+                              strokeLinecap="round"
+                              strokeLinejoin="round"
+                              strokeWidth={2}
+                              d="M19 9l-7 7-7-7"
+                            />
+                          </svg>
+                        </button>
+
+                        <ul
+                          className={`overflow-hidden border-l border-white/10 pl-4 transition-all duration-300 ${
+                            isExpanded
+                              ? "mt-1 max-h-80 opacity-100"
+                              : "max-h-0 opacity-0"
+                          }`}
+                        >
+                          {category.children?.map((child) => (
+                            <li key={child.id}>
+                              <Link
+                                href={child.href}
+                                onClick={closeMenu}
+                                className="block py-2 text-xs font-medium uppercase tracking-[0.2em] text-white/60 transition-colors duration-300 hover:text-white"
+                              >
+                                {child.label}
+                              </Link>
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    ) : (
+                      <Link
+                        href={category.href}
+                        onClick={closeMenu}
+                        className="block py-2 text-sm font-medium uppercase tracking-[0.2em] text-white/80 transition-colors duration-300 hover:text-white"
+                      >
+                        {category.label}
+                      </Link>
+                    )}
+                  </li>
+                );
+              })}
             </ul>
           </nav>
         </div>

@@ -1,81 +1,137 @@
 "use client";
 
 import { useCallback, useEffect } from "react";
-import Button from "@/components/ui/Button";
-import TextSection from "@/components/ui/TextSection";
-import { HERO_SLIDES } from "@/lib/constants/siteData";
+import Link from "next/link";
+import RemoteImage from "@/components/ui/RemoteImage";
+import { CAROUSEL_SLIDES } from "@/lib/constants/siteData";
 import { useAppDispatch, useAppSelector } from "@/lib/store/hooks";
 import { nextSlide, setActiveSlide } from "@/lib/store/slices/uiSlice";
 
 export default function HeroCarousel() {
   const dispatch = useAppDispatch();
   const activeSlide = useAppSelector((state) => state.ui.activeSlide);
-  const slide = HERO_SLIDES[activeSlide];
+  const slide = CAROUSEL_SLIDES[activeSlide] ?? CAROUSEL_SLIDES[0];
+  const total = CAROUSEL_SLIDES.length;
 
   const goToNext = useCallback(() => {
-    dispatch(nextSlide(HERO_SLIDES.length));
-  }, [dispatch]);
+    dispatch(nextSlide(total));
+  }, [dispatch, total]);
+
+  const goToPrev = useCallback(() => {
+    dispatch(setActiveSlide((activeSlide - 1 + total) % total));
+  }, [dispatch, activeSlide, total]);
 
   useEffect(() => {
-    const interval = setInterval(goToNext, 6000);
+    const interval = setInterval(goToNext, 5500);
     return () => clearInterval(interval);
   }, [goToNext]);
 
   return (
-    <section className="relative h-[86dvh] max-h-[86dvh] w-full overflow-hidden">
-      {HERO_SLIDES.map((s, index) => (
-        <div
-          key={s.id}
-          className={`absolute inset-0 bg-cover bg-center bg-no-repeat transition-opacity duration-1000 ease-out ${
-            index === activeSlide ? "opacity-100" : "opacity-0"
-          }`}
-          style={{ backgroundImage: `url(${s.image})` }}
-          aria-hidden={index !== activeSlide}
-        >
-          <div className="absolute inset-0 bg-black/50 sm:bg-black/45 lg:bg-black/40" />
-          <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/25 to-black/40 sm:from-black/55 sm:via-transparent sm:to-black/30" />
-        </div>
-      ))}
+    <section
+      className="relative w-full overflow-hidden bg-[#111111]"
+      aria-roledescription="carousel"
+      aria-label="Featured products"
+    >
+      <div className="relative h-[340px] w-full sm:h-[420px] md:h-[500px] lg:h-[560px]">
+        {CAROUSEL_SLIDES.map((s, index) => (
+          <div
+            key={s.id}
+            className={`absolute inset-0 transition-opacity duration-700 ease-out ${
+              index === activeSlide
+                ? "opacity-100"
+                : "pointer-events-none opacity-0"
+            }`}
+            aria-hidden={index !== activeSlide}
+          >
+            <RemoteImage
+              src={s.image}
+              alt={s.title}
+              fill
+              priority={index === 0}
+              sizes="100vw"
+              className="object-cover object-center"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/25 to-black/10" />
+          </div>
+        ))}
 
-      <div
-        key={slide.id}
-        className="relative z-10 flex h-full max-h-[100dvh] flex-col items-center justify-center px-4 py-12 pb-16 text-center sm:px-6 sm:py-16 sm:pb-20 md:px-8 animate-[fadeUp_0.7s_ease-out]"
-      >
-        <div className="flex w-full max-w-xl flex-col items-center sm:max-w-2xl lg:max-w-3xl">
-          <TextSection
-            title={slide.title}
-            paragraphs={[slide.description]}
-            headingLevel="h1"
-            align="center"
-            color="light"
-            className="[&_h1]:text-xl [&_h1]:tracking-[0.08em] sm:[&_h1]:text-3xl sm:[&_h1]:tracking-[0.12em] md:[&_h1]:text-4xl lg:[&_h1]:text-5xl lg:[&_h1]:tracking-[0.15em] [&_p]:mt-3 [&_p]:line-clamp-4 [&_p]:text-xs [&_p]:leading-relaxed sm:[&_p]:mt-5 sm:[&_p]:line-clamp-none sm:[&_p]:text-sm md:[&_p]:text-base"
-          />
-
-          {/* <div className="mt-5 w-full max-w-[220px] sm:mt-8 sm:max-w-none sm:w-auto">
-            <Button
-              href={slide.ctaHref}
-              variant="outline"
-              size="sm"
-              fullWidth
-              className="sm:w-auto sm:!px-8 sm:!py-3.5 sm:!text-sm"
+        <div className="absolute inset-0 z-10 flex items-end">
+          <div className="flex w-full items-end justify-between gap-4 px-4 pb-14 sm:px-8 sm:pb-14 md:px-12 md:pb-16">
+            <div
+              key={slide.id}
+              className="max-w-xl animate-[fadeUp_0.55s_ease-out]"
             >
-              {slide.ctaLabel}
-            </Button>
-          </div> */}
+              <p className="text-[11px] font-medium uppercase tracking-[0.35em] text-white/70">
+                Haris Building Solutions
+              </p>
+              <h2 className="mt-2 text-2xl font-light uppercase tracking-[0.12em] text-white sm:text-3xl md:text-4xl">
+                {slide.title}
+              </h2>
+              <p className="mt-3 max-w-md text-sm leading-relaxed text-white/85 sm:text-base">
+                {slide.description}
+              </p>
+              <Link
+                href={slide.ctaHref}
+                className="mt-5 inline-flex items-center border border-white/70 px-5 py-2.5 text-xs font-medium uppercase tracking-[0.2em] text-white transition-colors hover:bg-white hover:text-[#000000]"
+              >
+                {slide.ctaLabel}
+              </Link>
+            </div>
+
+            <div className="hidden items-center gap-2 sm:flex">
+              <button
+                type="button"
+                onClick={goToPrev}
+                className="flex h-11 w-11 items-center justify-center border border-white/40 text-white transition-colors hover:border-white hover:bg-white/10"
+                aria-label="Previous slide"
+              >
+                <svg
+                  width="18"
+                  height="18"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="1.5"
+                  aria-hidden
+                >
+                  <path d="M15 18l-6-6 6-6" />
+                </svg>
+              </button>
+              <button
+                type="button"
+                onClick={goToNext}
+                className="flex h-11 w-11 items-center justify-center border border-white/40 text-white transition-colors hover:border-white hover:bg-white/10"
+                aria-label="Next slide"
+              >
+                <svg
+                  width="18"
+                  height="18"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="1.5"
+                  aria-hidden
+                >
+                  <path d="M9 18l6-6-6-6" />
+                </svg>
+              </button>
+            </div>
+          </div>
         </div>
 
-        <div className="absolute bottom-4 left-1/2 flex -translate-x-1/2 gap-2 sm:bottom-8 sm:gap-3">
-          {HERO_SLIDES.map((s, index) => (
+        <div className="absolute bottom-3 left-1/2 z-20 flex -translate-x-1/2 gap-2 sm:bottom-5">
+          {CAROUSEL_SLIDES.map((s, index) => (
             <button
               key={s.id}
               type="button"
               onClick={() => dispatch(setActiveSlide(index))}
-              className={`h-1.5 rounded-full transition-all duration-500 ease-out sm:h-2 ${
+              className={`h-1.5 rounded-full transition-all duration-400 ${
                 index === activeSlide
-                  ? "w-5 bg-white sm:w-8"
-                  : "w-1.5 bg-white/40 hover:bg-white/60 sm:w-2"
+                  ? "w-7 bg-white"
+                  : "w-1.5 bg-white/40 hover:bg-white/70"
               }`}
               aria-label={`Go to slide ${index + 1}`}
+              aria-current={index === activeSlide}
             />
           ))}
         </div>
