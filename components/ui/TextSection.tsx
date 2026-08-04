@@ -11,6 +11,7 @@ interface TextSectionProps {
   headingLevel?: HeadingLevel;
   align?: TextAlign;
   color?: TextColor;
+  backgroundColor?: string;
   className?: string;
   children?: ReactNode;
 }
@@ -50,8 +51,9 @@ export default function TextSection({
   headingLevel = "h2",
   align = "center",
   color = "dark",
+  backgroundColor = "",
   className = "",
-  children,
+  children, 
 }: TextSectionProps) {
   const Heading = headingLevel;
   const colors = colorStyles[color];
@@ -75,14 +77,10 @@ export default function TextSection({
       {paragraphs.map((paragraph, index) => (
         <p
           key={index}
-          className={`mt-4 text-sm md:text-base leading-relaxed ${colors.title} ${
+          className={`mt-4 text-sm md:text-base leading-relaxed ${backgroundColor ? `bg-[${backgroundColor}]` : ""} ${colors.title} ${
             index === 0 && title ? "mt-6" : "mt-4"
-          }`}
-        >
-          {paragraph}
-        </p>
+          }`}>{paragraph}</p>
       ))}
       {children}
-    </div>
-  );
+    </div>)
 }
