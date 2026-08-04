@@ -11,7 +11,7 @@ export default function MobileHeader() {
           href="/"
           className="transition-opacity duration-300 hover:opacity-80"
         >
-          <Logo className="h-[44px] w-[110px]" />
+          <Logo className="h-[67px] w-[110px]" />
         </Link>
 
         <div className="flex items-center gap-3">
