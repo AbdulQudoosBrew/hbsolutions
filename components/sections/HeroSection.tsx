@@ -40,7 +40,6 @@ export default function HeroSection() {
           headingLevel="h1"
           align="center"
           color="light"
-          backgroundColor="black"
           className="max-w-xl sm:max-w-2xl lg:max-w-3xl [&_h1]:text-2xl font-bold [&_h1]:tracking-[0.08em] sm:[&_h1]:text-3xl sm:[&_h1]:tracking-[0.12em] md:[&_h1]:text-4xl lg:[&_h1]:text-5xl lg:[&_h1]:tracking-[0.15em] [&_p]:text-sm [&_p]:leading-relaxed sm:[&_p]:text-base"
         />
       </div>
