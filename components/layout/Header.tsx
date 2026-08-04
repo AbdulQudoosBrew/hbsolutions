@@ -26,11 +26,8 @@ export default function Header() {
   return (
     <header className="fixed top-0 left-0 right-0 z-50 bg-[#000000]">
       <MobileHeader />
-
       <DesktopTopHeader visible={!headerScrolled} />
       <DesktopScrolledHeader visible={headerScrolled} />
-
-
       <HeaderSearchPanel />
       <HeaderMenuDrawer />
     </header>
