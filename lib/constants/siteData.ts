@@ -19,26 +19,20 @@ export type NavCategory = {
 };
 
 export const NAV_CATEGORIES: NavCategory[] = [
-  { id: "sanitaryware", label: "Sanitaryware", href: "/sanitaryware" },
-  { id: "taps", label: "Taps", href: "/taps" },
   {
-    id: "showers",
-    label: "Showers",
-    href: "/showers",
+    id: "bathrooms",
+    label: "Bathrooms",
+    href: "/bathrooms",
     children: [
+      { id: "sanitaryware", label: "Sanitaryware", href: "/sanitaryware" },
+      { id: "taps", label: "Taps", href: "/taps" },
       { id: "showers", label: "Showers", href: "/showers" },
-      { id: "shower-enclosures", label: "Shower Enclosures", href: "/shower-enclosures" },
-      { id: "wetroom-screens", label: "Wetroom Screens", href: "/wetroom-screens" },
-      { id: "shower-trays", label: "Shower Trays", href: "/shower-trays" },
-      { id: "bath-screens", label: "Bath Screens", href: "/bath-screens" },
-      { id: "shower-panels", label: "Shower Panels", href: "/shower-panels" },
+      { id: "baths", label: "Baths", href: "/baths" },
+      { id: "furniture", label: "Bath Furniture", href: "/furniture" },
+      { id: "heating", label: "Heating", href: "/heating" },
+      { id: "mirrors-cabinets", label: "Mirrors", href: "/mirrors-cabinets" },
     ],
   },
-  { id: "baths", label: "Baths", href: "/baths" },
-  { id: "bathrooms", label: "Bathrooms", href: "/bathrooms" },
-  { id: "furniture", label: "Furniture", href: "/furniture" },
-  { id: "heating", label: "Heating", href: "/heating" },
-  { id: "mirrors-cabinets", label: "Mirrors/Cabinets", href: "/mirrors-cabinets" },
   {
     id: "panels",
     label: "Panels",
@@ -148,21 +142,15 @@ export const CAROUSEL_SLIDES = [
 ] as const;
 
 export const PRODUCT_CATEGORIES = [
-  { id: "sanitaryware", label: "Sanitaryware", image: "https://giavanibathrooms.com/wp-content/uploads/2026/05/sanitaryware.jpg" },
-  { id: "taps", label: "Taps", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/taps.jpg" },
-  { id: "showers", label: "Showers", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/showers.jpg" },
-  { id: "baths", label: "Baths", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/baths.jpg" },
-  { id: "bath-screens", label: "Bath Screens", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/bath-screens.jpg" },
-  { id: "shower-enclosures", label: "Shower Enclosures", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Enclosures.jpg" },
-  { id: "wetroom-screens", label: "Wetroom Screens", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/wetroom-screens.jpg" },
-  { id: "shower-trays", label: "Shower Trays", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/trays.jpg" },
-  { id: "furniture", label: "Furniture", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Furniture.jpg" },
-  { id: "heating", label: "Heating", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/heating.jpg" },
-  { id: "mirrors-cabinets", label: "Mirrors/Cabinets", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/mirrors.jpg" },
+  { id: "bathrooms", label: "Bathrooms", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/baths.jpg" },
   { id: "panels", label: "Panels", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/panels.jpg" },
   { id: "flooring", label: "Flooring", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/flooring.jpg" },
   { id: "wall-tiles", label: "Wall Tiles", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/wall-tiles.jpg" },
+  { id: "kitchens", label: "Kitchens", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/furniture-1.jpg" },
+  { id: "artificial-grass", label: "Artificial Grass", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/flooring-1.jpg" },
+  { id: "silicone", label: "Silicone", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/accessories.jpg" },
   { id: "accessories", label: "Accessories", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/accessories.jpg" },
+  { id: "corners", label: "Corners", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/accessories.jpg" },
 ] as const;
 
 export const EXPERIENCE_SECTION = {
@@ -182,7 +170,9 @@ export const DESIGN_SECTION = {
 
 export const CONTACT_INFO = {
   phone: "07770 116177",
+  phone2: "07957 100647",
   phoneHref: "tel:07770116177",
+  phone2Href: "tel:07957100647",
   email: COMPANY.email,
   emailHref: COMPANY.emailHref,
   address: {

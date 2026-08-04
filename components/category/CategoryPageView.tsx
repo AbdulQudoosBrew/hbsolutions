@@ -13,7 +13,7 @@ export default function CategoryPageView({ category }: CategoryPageViewProps) {
   const isPortrait = category.collectionAspect === "portrait";
 
   return (
-    <div className="bg-white pt-[100px] lg:pt-[200px]">
+    <div className="bg-white pt-[64px] lg:pt-[88px]">
       <Container size="wide" className="pb-8 pt-6 md:pt-10">
         <nav
           className="text-xs uppercase tracking-[0.2em] text-[#888888]"

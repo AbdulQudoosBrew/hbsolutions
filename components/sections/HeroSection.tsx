@@ -4,11 +4,11 @@ import { HERO_SLIDES } from "@/lib/constants/siteData";
 
 const hero = HERO_SLIDES[0];
 const HERO_IMAGE =
-  "https://giavanibathrooms.com/wp-content/uploads/2026/05/web-header-scaled.jpg";
+  "/web-header-scaled.png";
 
 export default function HeroSection() {
   return (
-    <section className="relative mt-[80px] w-full overflow-hidden min-h-[calc(100dvh-80px)] sm:mt-[100px] sm:min-h-[calc(100dvh-100px)] lg:mt-[180px] lg:min-h-[calc(100dvh-180px)] xl:mt-[207px] xl:min-h-[calc(100dvh-207px)]">
+    <section className="relative mt-[64px] w-full overflow-hidden sm:mt-[72px] sm:min-h-[calc(100dvh-72px)] lg:mt-[88px] lg:min-h-[calc(100dvh-88px)]">
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat sm:bg-center"
         style={{ backgroundImage: `url(${HERO_IMAGE})` }}
@@ -23,7 +23,7 @@ export default function HeroSection() {
           paragraphs={[hero.description]}
           headingLevel="h1"
           align="center"
-          color="dark"
+          color="light"
           className="max-w-xl sm:max-w-2xl lg:max-w-3xl [&_h1]:text-2xl font-bold [&_h1]:tracking-[0.08em] sm:[&_h1]:text-3xl sm:[&_h1]:tracking-[0.12em] md:[&_h1]:text-4xl lg:[&_h1]:text-5xl lg:[&_h1]:tracking-[0.15em] [&_p]:text-sm [&_p]:leading-relaxed sm:[&_p]:text-base"
         />
         {/* <div className="mt-8 w-full max-w-xs sm:mt-10 sm:max-w-none sm:w-auto">

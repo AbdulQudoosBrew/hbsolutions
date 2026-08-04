@@ -93,6 +93,17 @@ export default function ContactSection() {
                       {CONTACT_INFO.phone}
                     </a>
                   </div>
+                  <div>
+                    <p className="mb-2 text-[11px] font-medium uppercase tracking-[0.25em] text-white/45">
+                      Phone
+                    </p>
+                    <a
+                      href={CONTACT_INFO.phone2Href}
+                      className="text-lg text-white transition-colors duration-300 hover:text-white/70"
+                    >
+                      {CONTACT_INFO.phone2}
+                    </a>
+                  </div>
 
                   <div>
                     <p className="mb-2 text-[11px] font-medium uppercase tracking-[0.25em] text-white/45">
