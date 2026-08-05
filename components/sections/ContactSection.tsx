@@ -1,5 +1,6 @@
 "use client";
 
+import { useEffect } from "react";
 import Button from "@/components/ui/Button";
 import Container from "@/components/ui/Container";
 import FadeIn from "@/components/ui/FadeIn";
@@ -24,6 +25,15 @@ export default function ContactSection() {
   const { form, isSubmitting, isSubmitted, error } = useAppSelector(
     (state) => state.contact
   );
+
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const enquiry = params.get("enquiry");
+    if (enquiry) {
+      dispatch(updateField({ field: "enquiry", value: enquiry }));
+      dispatch(setSubmitted(false));
+    }
+  }, [dispatch]);
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();

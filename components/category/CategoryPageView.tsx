@@ -14,31 +14,33 @@ export default function CategoryPageView({ category }: CategoryPageViewProps) {
 
   return (
     <div className="bg-white pt-[64px] lg:pt-[88px]">
-      <Container size="wide" className="pb-8 pt-6 md:pt-10">
-        <nav
-          className="text-xs uppercase tracking-[0.2em] text-[#888888]"
-          aria-label="Breadcrumb"
-        >
-          <Link href="/" className="transition-colors hover:text-[#000000]">
-            Home
-          </Link>
-          <span className="mx-2">/</span>
-          <span className="text-[#000000]">{category.title}</span>
-        </nav>
+      <div className="border-b border-[#ebebeb] bg-[#fafafa]">
+        <Container size="wide" className="py-6 md:py-10">
+          <nav
+            className="text-xs uppercase tracking-[0.2em] text-[#888888]"
+            aria-label="Breadcrumb"
+          >
+            <Link href="/" className="transition-colors hover:text-[#000000]">
+              Home
+            </Link>
+            <span className="mx-2">/</span>
+            <span className="text-[#000000]">{category.title}</span>
+          </nav>
 
-        <h1 className="mt-8 text-3xl font-light uppercase tracking-[0.15em] text-[#000000] md:text-4xl lg:text-5xl">
-          {category.title}
-        </h1>
+          <h1 className="mt-5 text-3xl font-light uppercase tracking-[0.15em] text-[#000000] md:text-4xl lg:text-5xl">
+            {category.title}
+          </h1>
 
-        {category.description ? (
-          <p className="mt-6 max-w-4xl text-sm leading-relaxed text-[#555555] md:text-base">
-            {category.description}
-          </p>
-        ) : null}
-      </Container>
+          {category.description ? (
+            <p className="mt-5 max-w-3xl text-sm leading-relaxed text-[#555555] md:text-base">
+              {category.description}
+            </p>
+          ) : null}
+        </Container>
+      </div>
 
       {category.heroImage ? (
-        <div className="relative mt-4 aspect-[16/9] w-full overflow-hidden md:aspect-[21/9] lg:aspect-[1754/1063]">
+        <div className="relative aspect-[16/9] w-full overflow-hidden md:aspect-[21/9] lg:aspect-[1754/1063]">
           <CategoryImage
             src={category.heroImage}
             alt={category.title}

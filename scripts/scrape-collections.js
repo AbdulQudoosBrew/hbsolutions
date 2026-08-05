@@ -102,35 +102,57 @@ function descriptionFromHtml(html) {
   return "";
 }
 
+function cleanProductLabel(raw) {
+  return brandify(raw)
+    .replace(/\s*[–-]\s*£[\d.,]+.*$/i, "")
+    .replace(/\s*£[\d.,]+.*$/i, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function nearestImage(html, index) {
+  const window = html.slice(Math.max(0, index - 3000), index);
+  const imgs = [
+    ...window.matchAll(
+      /src="(https:\/\/giavanibathrooms\.com\/wp-content\/uploads\/[^"]+\.(?:jpg|jpeg|png|webp))"/gi
+    ),
+  ].filter((m) => !/logo|333\.png|icon/i.test(m[1]));
+  return imgs.length ? imgs[imgs.length - 1][1] : "";
+}
+
 function extractItems(html) {
   const items = [];
   const seen = new Set();
 
+  // Buttons may be plain labels with no href (e.g. Classic 10mm panel finishes)
   const btns = [
     ...html.matchAll(
-      /<a class="elementor-button[^"]*" href="(https:\/\/giavanibathrooms\.com\/[^"]+)"[\s\S]*?<span class="elementor-button-text">([^<]+)<\/span>/gi
+      /<a class="elementor-button[^"]*"(?:[^>]*href="([^"]*)")?[^>]*>[\s\S]*?<span class="elementor-button-text">([^<]+)<\/span>/gi
     ),
   ];
 
   for (const btn of btns) {
-    const href = btn[1];
-    const label = brandify(btn[2]);
-    if (!label || /view our|discover|download|send|menu|search/i.test(label))
+    const href = btn[1] || "";
+    const label = cleanProductLabel(btn[2]);
+    if (
+      !label ||
+      label.length < 2 ||
+      /view our|discover|download|send|menu|search|enquire now|view more|reviews|add to cart|select options|brochure/i.test(
+        label
+      )
+    ) {
       continue;
-    const pathPart = href.replace("https://giavanibathrooms.com/", "");
-    // find nearest preceding image in a window
+    }
+
     const idx = html.indexOf(btn[0]);
-    const window = html.slice(Math.max(0, idx - 2500), idx);
-    const imgs = [
-      ...window.matchAll(
-        /src="(https:\/\/giavanibathrooms\.com\/wp-content\/uploads\/[^"]+\.(?:jpg|jpeg|png|webp))"/gi
-      ),
-    ];
-    const image = imgs.length ? imgs[imgs.length - 1][1] : "";
+    const image = nearestImage(html, idx);
+    const pathPart =
+      href && /^https:\/\/giavanibathrooms\.com\//i.test(href)
+        ? href.replace("https://giavanibathrooms.com/", "")
+        : label;
     const id = slugifyId(pathPart);
-    const key = `${id}|${label}`;
-    if (seen.has(key)) continue;
-    seen.add(key);
+    if (!id || seen.has(id)) continue;
+    seen.add(id);
     items.push({
       id,
       label,
@@ -159,14 +181,14 @@ function extractItems(html) {
       chunk.match(/woocommerce-loop-product__title[^>]*>([^<]+)/i) ||
       chunk.match(/<h2[^>]*>([^<]+)<\/h2>/i);
     if (!titleM) continue;
-    const label = brandify(titleM[1]);
+    const label = cleanProductLabel(titleM[1]);
+    if (!label || seen.has(slugifyId(label))) continue;
     const pathPart = hrefM
       ? hrefM[1].replace("https://giavanibathrooms.com/", "")
-      : slugifyId(label);
+      : label;
     const id = slugifyId(pathPart);
-    const key = `${id}|${label}`;
-    if (seen.has(key)) continue;
-    seen.add(key);
+    if (!id || seen.has(id)) continue;
+    seen.add(id);
     items.push({
       id,
       label,
@@ -273,11 +295,13 @@ async function scrapeOne(col) {
         (titleMatch && titleMatch[1]) || col.label
       ).replace(/\s*-\s*$/, "");
       const description = descriptionFromHtml(html);
-      let items = extractItems(html).filter(
+      let items = extractItems(html);
+
+      // Drop range/nav buttons that are not products (same name as collection only if alone later)
+      items = items.filter(
         (it) =>
-          !/enquire now|view more|reviews|add to cart|select options/i.test(
-            it.label
-          )
+          !/view our|discover|download|brochure|contact/i.test(it.label) &&
+          slugifyId(it.label) !== col.collectionSlug
       );
 
       // If this is a product page with no sub-items, treat page itself as the item
