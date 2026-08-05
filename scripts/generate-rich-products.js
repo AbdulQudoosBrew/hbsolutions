@@ -72,16 +72,6 @@ function parseCollections(src) {
   return collections;
 }
 
-function buildSiblingColours(collection, currentId) {
-  if (collection.items.length <= 1) return [];
-  return collection.items.map((item) => ({
-    value: item.id,
-    label: item.label,
-    image: item.image,
-    href: item.href,
-  }));
-}
-
 function extractSizeFromTitle(title) {
   const sizes = [];
   const dim = title.match(
@@ -195,26 +185,17 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
 
 let productCount = 0;
 for (const c of collections) {
-  const siblingColours = buildSiblingColours(c);
   for (const item of c.items) {
     const key = `${c.categorySlug}/${c.slug}/${item.id}`;
     const d = detailsByKey[key];
-    const scrapedColours = d?.colours || [];
+    // Only real colour/finish options for THIS product — never sibling products
+    const colours = (d?.colours || []).filter((col) => !col.href);
     const scrapedSizes = d?.sizes || [];
     const images = [
       ...new Set([...(d?.images || []), item.image].filter(Boolean)),
     ];
 
-    // Prefer scraped colour/finish options; otherwise use sibling finishes as colour choices
-    let colours =
-      scrapedColours.length > 0
-        ? scrapedColours
-        : siblingColours.length > 1
-          ? siblingColours
-          : [];
-
-    // If using siblings, mark current as selected default via value=id
-    let sizes =
+    const sizes =
       scrapedSizes.length > 0 ? scrapedSizes : extractSizeFromTitle(item.label);
 
     let description =
@@ -226,12 +207,6 @@ for (const c of collections) {
     if (description.length > 700) {
       description = `${description.slice(0, 697).trim()}...`;
     }
-
-    const features = [
-      `Part of the ${c.title} collection`,
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ];
 
     productCount += 1;
     out += `  ${esc(key)}: {\n`;
@@ -251,7 +226,6 @@ for (const c of collections) {
       out += `        value: ${esc(col.value)},\n`;
       out += `        label: ${esc(col.label)},\n`;
       if (col.image) out += `        image: ${esc(col.image)},\n`;
-      if (col.href) out += `        href: ${esc(col.href)},\n`;
       out += `      },\n`;
     }
     out += `    ],\n`;
@@ -262,9 +236,6 @@ for (const c of collections) {
       out += `        label: ${esc(size.label)},\n`;
       out += `      },\n`;
     }
-    out += `    ],\n`;
-    out += `    features: [\n`;
-    for (const f of features) out += `      ${esc(f)},\n`;
     out += `    ],\n`;
     out += `  },\n`;
   }

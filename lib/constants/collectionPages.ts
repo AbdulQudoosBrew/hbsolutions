@@ -4394,11 +4394,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Smart WC collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "sanitaryware/smart-wc/smart-wc-wall-hung": {
     key: "sanitaryware/smart-wc/smart-wc-wall-hung",
@@ -4421,11 +4416,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Smart WC collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "sanitaryware/rico/rico-comfort-height-fully-back-to-wall-including-soft-close-and-cistern-with-fittings": {
     key: "sanitaryware/rico/rico-comfort-height-fully-back-to-wall-including-soft-close-and-cistern-with-fittings",
@@ -4445,11 +4435,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     colours: [
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Rico collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "sanitaryware/branch/branch-rimless-fully-back-to-wall-pan-with-cistern-and-soft-close-seat": {
@@ -4475,11 +4460,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Branch collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "sanitaryware/branch/branch-back-to-wall-pan-including-soft-close-seat": {
     key: "sanitaryware/branch/branch-back-to-wall-pan-including-soft-close-seat",
@@ -4504,11 +4484,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Branch collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "sanitaryware/luna/luna-rimless-fully-back-to-wall-pan-with-cistern-and-soft-close-seat": {
     key: "sanitaryware/luna/luna-rimless-fully-back-to-wall-pan-with-cistern-and-soft-close-seat",
@@ -4531,11 +4506,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Luna collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "sanitaryware/luna/luna-back-to-wall-pan-including-soft-close-seat": {
@@ -4560,11 +4530,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Luna collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "sanitaryware/ruby/ruby-open-back-close-coupled-wc": {
     key: "sanitaryware/ruby/ruby-open-back-close-coupled-wc",
@@ -4580,49 +4545,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Open-Back-Close-Coupled-WC.jpg",
     ],
     colours: [
-      {
-        value: "ruby-open-back-close-coupled-wc",
-        label: "Ruby Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-open-back-close-coupled-wc",
-      },
-      {
-        value: "ruby-fully-back-to-wall-close-coupled-wc",
-        label: "Ruby Fully Back To Wall Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-fully-back-to-wall-close-coupled-wc",
-      },
-      {
-        value: "ruby-comfort-height-open-back-close-coupled-wc",
-        label: "Ruby Comfort Height Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Comfort-Height-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-comfort-height-open-back-close-coupled-wc",
-      },
-      {
-        value: "ruby-comfort-height-fully-enclosed-close-coupled-wc",
-        label: "Ruby Comfort Height Fully Enclosed Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Comfort-Height-Fully-Enclosed-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-comfort-height-fully-enclosed-close-coupled-wc",
-      },
-      {
-        value: "ruby-back-to-wall-wc-and-slimline-seat",
-        label: "Ruby Back To Wall WC and Slimline Seat",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Back-To-Wall-WC-and-Slimline-Seat.jpg",
-        href: "/sanitaryware/ruby/ruby-back-to-wall-wc-and-slimline-seat",
-      },
-      {
-        value: "ruby-wall-hung-wc",
-        label: "Ruby Wall Hung WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Wall-Hung-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-wall-hung-wc",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Ruby collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "sanitaryware/ruby/ruby-fully-back-to-wall-close-coupled-wc": {
@@ -4639,49 +4563,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
     ],
     colours: [
-      {
-        value: "ruby-open-back-close-coupled-wc",
-        label: "Ruby Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-open-back-close-coupled-wc",
-      },
-      {
-        value: "ruby-fully-back-to-wall-close-coupled-wc",
-        label: "Ruby Fully Back To Wall Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-fully-back-to-wall-close-coupled-wc",
-      },
-      {
-        value: "ruby-comfort-height-open-back-close-coupled-wc",
-        label: "Ruby Comfort Height Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Comfort-Height-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-comfort-height-open-back-close-coupled-wc",
-      },
-      {
-        value: "ruby-comfort-height-fully-enclosed-close-coupled-wc",
-        label: "Ruby Comfort Height Fully Enclosed Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Comfort-Height-Fully-Enclosed-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-comfort-height-fully-enclosed-close-coupled-wc",
-      },
-      {
-        value: "ruby-back-to-wall-wc-and-slimline-seat",
-        label: "Ruby Back To Wall WC and Slimline Seat",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Back-To-Wall-WC-and-Slimline-Seat.jpg",
-        href: "/sanitaryware/ruby/ruby-back-to-wall-wc-and-slimline-seat",
-      },
-      {
-        value: "ruby-wall-hung-wc",
-        label: "Ruby Wall Hung WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Wall-Hung-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-wall-hung-wc",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Ruby collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "sanitaryware/ruby/ruby-comfort-height-open-back-close-coupled-wc": {
@@ -4698,49 +4581,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Comfort-Height-Open-Back-Close-Coupled-WC.jpg",
     ],
     colours: [
-      {
-        value: "ruby-open-back-close-coupled-wc",
-        label: "Ruby Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-open-back-close-coupled-wc",
-      },
-      {
-        value: "ruby-fully-back-to-wall-close-coupled-wc",
-        label: "Ruby Fully Back To Wall Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-fully-back-to-wall-close-coupled-wc",
-      },
-      {
-        value: "ruby-comfort-height-open-back-close-coupled-wc",
-        label: "Ruby Comfort Height Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Comfort-Height-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-comfort-height-open-back-close-coupled-wc",
-      },
-      {
-        value: "ruby-comfort-height-fully-enclosed-close-coupled-wc",
-        label: "Ruby Comfort Height Fully Enclosed Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Comfort-Height-Fully-Enclosed-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-comfort-height-fully-enclosed-close-coupled-wc",
-      },
-      {
-        value: "ruby-back-to-wall-wc-and-slimline-seat",
-        label: "Ruby Back To Wall WC and Slimline Seat",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Back-To-Wall-WC-and-Slimline-Seat.jpg",
-        href: "/sanitaryware/ruby/ruby-back-to-wall-wc-and-slimline-seat",
-      },
-      {
-        value: "ruby-wall-hung-wc",
-        label: "Ruby Wall Hung WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Wall-Hung-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-wall-hung-wc",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Ruby collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "sanitaryware/ruby/ruby-comfort-height-fully-enclosed-close-coupled-wc": {
@@ -4757,49 +4599,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Comfort-Height-Fully-Enclosed-Close-Coupled-WC.jpg",
     ],
     colours: [
-      {
-        value: "ruby-open-back-close-coupled-wc",
-        label: "Ruby Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-open-back-close-coupled-wc",
-      },
-      {
-        value: "ruby-fully-back-to-wall-close-coupled-wc",
-        label: "Ruby Fully Back To Wall Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-fully-back-to-wall-close-coupled-wc",
-      },
-      {
-        value: "ruby-comfort-height-open-back-close-coupled-wc",
-        label: "Ruby Comfort Height Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Comfort-Height-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-comfort-height-open-back-close-coupled-wc",
-      },
-      {
-        value: "ruby-comfort-height-fully-enclosed-close-coupled-wc",
-        label: "Ruby Comfort Height Fully Enclosed Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Comfort-Height-Fully-Enclosed-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-comfort-height-fully-enclosed-close-coupled-wc",
-      },
-      {
-        value: "ruby-back-to-wall-wc-and-slimline-seat",
-        label: "Ruby Back To Wall WC and Slimline Seat",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Back-To-Wall-WC-and-Slimline-Seat.jpg",
-        href: "/sanitaryware/ruby/ruby-back-to-wall-wc-and-slimline-seat",
-      },
-      {
-        value: "ruby-wall-hung-wc",
-        label: "Ruby Wall Hung WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Wall-Hung-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-wall-hung-wc",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Ruby collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "sanitaryware/ruby/ruby-back-to-wall-wc-and-slimline-seat": {
@@ -4815,49 +4616,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Back-To-Wall-WC-and-Slimline-Seat.jpg",
     ],
     colours: [
-      {
-        value: "ruby-open-back-close-coupled-wc",
-        label: "Ruby Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-open-back-close-coupled-wc",
-      },
-      {
-        value: "ruby-fully-back-to-wall-close-coupled-wc",
-        label: "Ruby Fully Back To Wall Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-fully-back-to-wall-close-coupled-wc",
-      },
-      {
-        value: "ruby-comfort-height-open-back-close-coupled-wc",
-        label: "Ruby Comfort Height Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Comfort-Height-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-comfort-height-open-back-close-coupled-wc",
-      },
-      {
-        value: "ruby-comfort-height-fully-enclosed-close-coupled-wc",
-        label: "Ruby Comfort Height Fully Enclosed Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Comfort-Height-Fully-Enclosed-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-comfort-height-fully-enclosed-close-coupled-wc",
-      },
-      {
-        value: "ruby-back-to-wall-wc-and-slimline-seat",
-        label: "Ruby Back To Wall WC and Slimline Seat",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Back-To-Wall-WC-and-Slimline-Seat.jpg",
-        href: "/sanitaryware/ruby/ruby-back-to-wall-wc-and-slimline-seat",
-      },
-      {
-        value: "ruby-wall-hung-wc",
-        label: "Ruby Wall Hung WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Wall-Hung-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-wall-hung-wc",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Ruby collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "sanitaryware/ruby/ruby-wall-hung-wc": {
@@ -4873,49 +4633,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Wall-Hung-WC.jpg",
     ],
     colours: [
-      {
-        value: "ruby-open-back-close-coupled-wc",
-        label: "Ruby Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-open-back-close-coupled-wc",
-      },
-      {
-        value: "ruby-fully-back-to-wall-close-coupled-wc",
-        label: "Ruby Fully Back To Wall Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-fully-back-to-wall-close-coupled-wc",
-      },
-      {
-        value: "ruby-comfort-height-open-back-close-coupled-wc",
-        label: "Ruby Comfort Height Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Comfort-Height-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-comfort-height-open-back-close-coupled-wc",
-      },
-      {
-        value: "ruby-comfort-height-fully-enclosed-close-coupled-wc",
-        label: "Ruby Comfort Height Fully Enclosed Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Comfort-Height-Fully-Enclosed-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-comfort-height-fully-enclosed-close-coupled-wc",
-      },
-      {
-        value: "ruby-back-to-wall-wc-and-slimline-seat",
-        label: "Ruby Back To Wall WC and Slimline Seat",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Back-To-Wall-WC-and-Slimline-Seat.jpg",
-        href: "/sanitaryware/ruby/ruby-back-to-wall-wc-and-slimline-seat",
-      },
-      {
-        value: "ruby-wall-hung-wc",
-        label: "Ruby Wall Hung WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Wall-Hung-WC.jpg",
-        href: "/sanitaryware/ruby/ruby-wall-hung-wc",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Ruby collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "sanitaryware/azzura/azzurra-open-back-close-coupled-wc": {
@@ -4933,49 +4652,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Open-Back-Close-Coupled-WC.jpg",
     ],
     colours: [
-      {
-        value: "azzurra-open-back-close-coupled-wc",
-        label: "Azzurra Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-open-back-close-coupled-wc",
-      },
-      {
-        value: "azzurra-fully-back-to-wall-close-coupled-wc",
-        label: "Azzurra Fully Back To Wall Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-fully-back-to-wall-close-coupled-wc",
-      },
-      {
-        value: "azzurra-comfort-height-open-back-close-coupled-wc",
-        label: "Azzurra Comfort Height Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Comfort-Height-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-comfort-height-open-back-close-coupled-wc",
-      },
-      {
-        value: "azzurra-comfort-height-fully-back-to-wall-close-coupled-wc",
-        label: "Azzurra Comfort Height Fully Back To Wall Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Comfort-Height-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-comfort-height-fully-back-to-wall-close-coupled-wc",
-      },
-      {
-        value: "azzurra-back-to-wall-wc",
-        label: "Azzurra Back To Wall WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Back-To-Wall-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-back-to-wall-wc",
-      },
-      {
-        value: "azzurra-wall-hung-wc",
-        label: "Azzurra Wall Hung WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Wall-Hung-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-wall-hung-wc",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Azzurra collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "sanitaryware/azzura/azzurra-fully-back-to-wall-close-coupled-wc": {
@@ -4991,49 +4669,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
     ],
     colours: [
-      {
-        value: "azzurra-open-back-close-coupled-wc",
-        label: "Azzurra Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-open-back-close-coupled-wc",
-      },
-      {
-        value: "azzurra-fully-back-to-wall-close-coupled-wc",
-        label: "Azzurra Fully Back To Wall Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-fully-back-to-wall-close-coupled-wc",
-      },
-      {
-        value: "azzurra-comfort-height-open-back-close-coupled-wc",
-        label: "Azzurra Comfort Height Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Comfort-Height-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-comfort-height-open-back-close-coupled-wc",
-      },
-      {
-        value: "azzurra-comfort-height-fully-back-to-wall-close-coupled-wc",
-        label: "Azzurra Comfort Height Fully Back To Wall Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Comfort-Height-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-comfort-height-fully-back-to-wall-close-coupled-wc",
-      },
-      {
-        value: "azzurra-back-to-wall-wc",
-        label: "Azzurra Back To Wall WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Back-To-Wall-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-back-to-wall-wc",
-      },
-      {
-        value: "azzurra-wall-hung-wc",
-        label: "Azzurra Wall Hung WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Wall-Hung-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-wall-hung-wc",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Azzurra collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "sanitaryware/azzura/azzurra-comfort-height-open-back-close-coupled-wc": {
@@ -5050,49 +4687,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Comfort-Height-Open-Back-Close-Coupled-WC.jpg",
     ],
     colours: [
-      {
-        value: "azzurra-open-back-close-coupled-wc",
-        label: "Azzurra Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-open-back-close-coupled-wc",
-      },
-      {
-        value: "azzurra-fully-back-to-wall-close-coupled-wc",
-        label: "Azzurra Fully Back To Wall Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-fully-back-to-wall-close-coupled-wc",
-      },
-      {
-        value: "azzurra-comfort-height-open-back-close-coupled-wc",
-        label: "Azzurra Comfort Height Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Comfort-Height-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-comfort-height-open-back-close-coupled-wc",
-      },
-      {
-        value: "azzurra-comfort-height-fully-back-to-wall-close-coupled-wc",
-        label: "Azzurra Comfort Height Fully Back To Wall Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Comfort-Height-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-comfort-height-fully-back-to-wall-close-coupled-wc",
-      },
-      {
-        value: "azzurra-back-to-wall-wc",
-        label: "Azzurra Back To Wall WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Back-To-Wall-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-back-to-wall-wc",
-      },
-      {
-        value: "azzurra-wall-hung-wc",
-        label: "Azzurra Wall Hung WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Wall-Hung-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-wall-hung-wc",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Azzurra collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "sanitaryware/azzura/azzurra-comfort-height-fully-back-to-wall-close-coupled-wc": {
@@ -5108,49 +4704,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Comfort-Height-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
     ],
     colours: [
-      {
-        value: "azzurra-open-back-close-coupled-wc",
-        label: "Azzurra Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-open-back-close-coupled-wc",
-      },
-      {
-        value: "azzurra-fully-back-to-wall-close-coupled-wc",
-        label: "Azzurra Fully Back To Wall Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-fully-back-to-wall-close-coupled-wc",
-      },
-      {
-        value: "azzurra-comfort-height-open-back-close-coupled-wc",
-        label: "Azzurra Comfort Height Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Comfort-Height-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-comfort-height-open-back-close-coupled-wc",
-      },
-      {
-        value: "azzurra-comfort-height-fully-back-to-wall-close-coupled-wc",
-        label: "Azzurra Comfort Height Fully Back To Wall Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Comfort-Height-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-comfort-height-fully-back-to-wall-close-coupled-wc",
-      },
-      {
-        value: "azzurra-back-to-wall-wc",
-        label: "Azzurra Back To Wall WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Back-To-Wall-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-back-to-wall-wc",
-      },
-      {
-        value: "azzurra-wall-hung-wc",
-        label: "Azzurra Wall Hung WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Wall-Hung-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-wall-hung-wc",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Azzurra collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "sanitaryware/azzura/azzurra-back-to-wall-wc": {
@@ -5167,49 +4722,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Back-To-Wall-WC.jpg",
     ],
     colours: [
-      {
-        value: "azzurra-open-back-close-coupled-wc",
-        label: "Azzurra Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-open-back-close-coupled-wc",
-      },
-      {
-        value: "azzurra-fully-back-to-wall-close-coupled-wc",
-        label: "Azzurra Fully Back To Wall Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-fully-back-to-wall-close-coupled-wc",
-      },
-      {
-        value: "azzurra-comfort-height-open-back-close-coupled-wc",
-        label: "Azzurra Comfort Height Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Comfort-Height-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-comfort-height-open-back-close-coupled-wc",
-      },
-      {
-        value: "azzurra-comfort-height-fully-back-to-wall-close-coupled-wc",
-        label: "Azzurra Comfort Height Fully Back To Wall Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Comfort-Height-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-comfort-height-fully-back-to-wall-close-coupled-wc",
-      },
-      {
-        value: "azzurra-back-to-wall-wc",
-        label: "Azzurra Back To Wall WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Back-To-Wall-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-back-to-wall-wc",
-      },
-      {
-        value: "azzurra-wall-hung-wc",
-        label: "Azzurra Wall Hung WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Wall-Hung-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-wall-hung-wc",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Azzurra collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "sanitaryware/azzura/azzurra-wall-hung-wc": {
@@ -5226,49 +4740,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Wall-Hung-WC.jpg",
     ],
     colours: [
-      {
-        value: "azzurra-open-back-close-coupled-wc",
-        label: "Azzurra Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-open-back-close-coupled-wc",
-      },
-      {
-        value: "azzurra-fully-back-to-wall-close-coupled-wc",
-        label: "Azzurra Fully Back To Wall Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-fully-back-to-wall-close-coupled-wc",
-      },
-      {
-        value: "azzurra-comfort-height-open-back-close-coupled-wc",
-        label: "Azzurra Comfort Height Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Comfort-Height-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-comfort-height-open-back-close-coupled-wc",
-      },
-      {
-        value: "azzurra-comfort-height-fully-back-to-wall-close-coupled-wc",
-        label: "Azzurra Comfort Height Fully Back To Wall Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Comfort-Height-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-comfort-height-fully-back-to-wall-close-coupled-wc",
-      },
-      {
-        value: "azzurra-back-to-wall-wc",
-        label: "Azzurra Back To Wall WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Back-To-Wall-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-back-to-wall-wc",
-      },
-      {
-        value: "azzurra-wall-hung-wc",
-        label: "Azzurra Wall Hung WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Wall-Hung-WC.jpg",
-        href: "/sanitaryware/azzura/azzurra-wall-hung-wc",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Azzurra collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "sanitaryware/comet/comet-open-back-close-coupled-wc": {
@@ -5285,31 +4758,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Comet-Open-Back-Close-Coupled-WC.jpg",
     ],
     colours: [
-      {
-        value: "comet-open-back-close-coupled-wc",
-        label: "Comet Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Comet-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/comet/comet-open-back-close-coupled-wc",
-      },
-      {
-        value: "comet-comfort-height-open-back-close-coupled-wc",
-        label: "Comet Comfort Height Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Comet-Comfort-Height-Open-Back-Close-Coupled-WC-1.jpg",
-        href: "/sanitaryware/comet/comet-comfort-height-open-back-close-coupled-wc",
-      },
-      {
-        value: "comet-comfort-height-back-to-wall-wc",
-        label: "Comet Comfort Height Back to Wall WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Comet-Comfort-Height-Back-to-Wall-WC.jpg",
-        href: "/sanitaryware/comet/comet-comfort-height-back-to-wall-wc",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Comet collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "sanitaryware/comet/comet-comfort-height-open-back-close-coupled-wc": {
@@ -5326,31 +4776,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Comet-Comfort-Height-Open-Back-Close-Coupled-WC-1.jpg",
     ],
     colours: [
-      {
-        value: "comet-open-back-close-coupled-wc",
-        label: "Comet Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Comet-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/comet/comet-open-back-close-coupled-wc",
-      },
-      {
-        value: "comet-comfort-height-open-back-close-coupled-wc",
-        label: "Comet Comfort Height Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Comet-Comfort-Height-Open-Back-Close-Coupled-WC-1.jpg",
-        href: "/sanitaryware/comet/comet-comfort-height-open-back-close-coupled-wc",
-      },
-      {
-        value: "comet-comfort-height-back-to-wall-wc",
-        label: "Comet Comfort Height Back to Wall WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Comet-Comfort-Height-Back-to-Wall-WC.jpg",
-        href: "/sanitaryware/comet/comet-comfort-height-back-to-wall-wc",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Comet collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "sanitaryware/comet/comet-comfort-height-back-to-wall-wc": {
@@ -5367,31 +4794,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Comet-Comfort-Height-Back-to-Wall-WC.jpg",
     ],
     colours: [
-      {
-        value: "comet-open-back-close-coupled-wc",
-        label: "Comet Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Comet-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/comet/comet-open-back-close-coupled-wc",
-      },
-      {
-        value: "comet-comfort-height-open-back-close-coupled-wc",
-        label: "Comet Comfort Height Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Comet-Comfort-Height-Open-Back-Close-Coupled-WC-1.jpg",
-        href: "/sanitaryware/comet/comet-comfort-height-open-back-close-coupled-wc",
-      },
-      {
-        value: "comet-comfort-height-back-to-wall-wc",
-        label: "Comet Comfort Height Back to Wall WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Comet-Comfort-Height-Back-to-Wall-WC.jpg",
-        href: "/sanitaryware/comet/comet-comfort-height-back-to-wall-wc",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Comet collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "sanitaryware/juniper/juniper-open-back-close-coupled-wc": {
@@ -5408,31 +4812,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juniper-Open-Back-Close-Coupled-WC.jpg",
     ],
     colours: [
-      {
-        value: "juniper-open-back-close-coupled-wc",
-        label: "Juniper Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juniper-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/juniper/juniper-open-back-close-coupled-wc",
-      },
-      {
-        value: "juniper-comfort-height-open-back-close-coupled-wc",
-        label: "Juniper Comfort Height Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juniper-Comfort-Height-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/juniper/juniper-comfort-height-open-back-close-coupled-wc",
-      },
-      {
-        value: "juniper-back-to-wall-wc",
-        label: "Juniper Back To Wall WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juniper-Back-To-Wall-WC.jpg",
-        href: "/sanitaryware/juniper/juniper-back-to-wall-wc",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Juniper collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "sanitaryware/juniper/juniper-comfort-height-open-back-close-coupled-wc": {
@@ -5449,31 +4830,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juniper-Comfort-Height-Open-Back-Close-Coupled-WC.jpg",
     ],
     colours: [
-      {
-        value: "juniper-open-back-close-coupled-wc",
-        label: "Juniper Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juniper-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/juniper/juniper-open-back-close-coupled-wc",
-      },
-      {
-        value: "juniper-comfort-height-open-back-close-coupled-wc",
-        label: "Juniper Comfort Height Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juniper-Comfort-Height-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/juniper/juniper-comfort-height-open-back-close-coupled-wc",
-      },
-      {
-        value: "juniper-back-to-wall-wc",
-        label: "Juniper Back To Wall WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juniper-Back-To-Wall-WC.jpg",
-        href: "/sanitaryware/juniper/juniper-back-to-wall-wc",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Juniper collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "sanitaryware/juniper/juniper-back-to-wall-wc": {
@@ -5490,31 +4848,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juniper-Back-To-Wall-WC.jpg",
     ],
     colours: [
-      {
-        value: "juniper-open-back-close-coupled-wc",
-        label: "Juniper Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juniper-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/juniper/juniper-open-back-close-coupled-wc",
-      },
-      {
-        value: "juniper-comfort-height-open-back-close-coupled-wc",
-        label: "Juniper Comfort Height Open Back Close Coupled WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juniper-Comfort-Height-Open-Back-Close-Coupled-WC.jpg",
-        href: "/sanitaryware/juniper/juniper-comfort-height-open-back-close-coupled-wc",
-      },
-      {
-        value: "juniper-back-to-wall-wc",
-        label: "Juniper Back To Wall WC",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juniper-Back-To-Wall-WC.jpg",
-        href: "/sanitaryware/juniper/juniper-back-to-wall-wc",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Juniper collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "sanitaryware/project-550/project-550-open-back-close-coupled-wc-cistern-seat": {
@@ -5534,11 +4869,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Project 550 collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "sanitaryware/select-550/select-550-open-back-close-coupled-wc-cistern-seat": {
     key: "sanitaryware/select-550/select-550-open-back-close-coupled-wc-cistern-seat",
@@ -5557,11 +4887,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Select 550 collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "sanitaryware/select-600/select-600-open-back-close-coupled-wc-cistern-seat": {
     key: "sanitaryware/select-600/select-600-open-back-close-coupled-wc-cistern-seat",
@@ -5579,11 +4904,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     colours: [
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Select 600 collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "sanitaryware/basin-pedestal/square-basin-pedestal": {
@@ -5607,11 +4927,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Basin & Pedestal collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "sanitaryware/basin-pedestal/round-basin-pedestal": {
     key: "sanitaryware/basin-pedestal/round-basin-pedestal",
@@ -5634,11 +4949,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Basin & Pedestal collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "sanitaryware/douche-kits/chrome-thermostatic-douche-kit": {
     key: "sanitaryware/douche-kits/chrome-thermostatic-douche-kit",
@@ -5659,11 +4969,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Douche Kits collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "sanitaryware/douche-kits/black-douche-with-wall-bracket-flexible-hose-and-vertical-thermostatic-valve": {
@@ -5687,11 +4992,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Douche Kits collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/nova-taps/nova-mono-basin-mixer": {
     key: "taps/nova-taps/nova-mono-basin-mixer",
@@ -5708,31 +5008,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/branch-back-to-wall-1-768x1024.jpg",
     ],
     colours: [
-      {
-        value: "nova-mono-basin-mixer",
-        label: "Nova Mono Basin Mixer",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/branch-back-to-wall-1-768x1024.jpg",
-        href: "/taps/nova-taps/nova-mono-basin-mixer",
-      },
-      {
-        value: "nova-bath-filler",
-        label: "Nova Bath Filler",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/2l-768x1024.jpg",
-        href: "/taps/nova-taps/nova-bath-filler",
-      },
-      {
-        value: "nova-bath-shower-mixer",
-        label: "Nova Bath Shower Mixer",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-1-768x1024.jpg",
-        href: "/taps/nova-taps/nova-bath-shower-mixer",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Nova Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/nova-taps/nova-bath-filler": {
@@ -5756,11 +5033,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Nova Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/nova-taps/nova-bath-shower-mixer": {
     key: "taps/nova-taps/nova-bath-shower-mixer",
@@ -5782,11 +5054,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Nova Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/edge-taps/edge-mono-basin-mixer": {
@@ -5810,11 +5077,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Edge Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/edge-taps/edge-bath-filler": {
     key: "taps/edge-taps/edge-bath-filler",
@@ -5836,11 +5098,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Edge Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/edge-taps/edge-bath-shower-mixer": {
@@ -5864,11 +5121,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Edge Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/slope-taps/slope-mono-basin-mixer": {
     key: "taps/slope-taps/slope-mono-basin-mixer",
@@ -5890,11 +5142,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Slope Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/slope-taps/slope-bath-filler": {
@@ -5918,11 +5165,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Slope Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/slope-taps/slope-bath-shower-mixer": {
     key: "taps/slope-taps/slope-bath-shower-mixer",
@@ -5944,11 +5186,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Slope Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/slope-taps/mini-slope-mono-basin-mixer": {
@@ -5973,11 +5210,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Slope Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/storm-taps/storm-mono-basin-mixer": {
     key: "taps/storm-taps/storm-mono-basin-mixer",
@@ -5999,11 +5231,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Storm Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/storm-taps/storm-bath-filler": {
@@ -6027,11 +5254,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Storm Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/storm-taps/storm-bath-shower-mixer": {
     key: "taps/storm-taps/storm-bath-shower-mixer",
@@ -6053,11 +5275,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Storm Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/storm-taps/storm-mini-mono-basin": {
@@ -6081,11 +5298,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Storm Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/rico-taps/rico-mono-basin-mixer": {
     key: "taps/rico-taps/rico-mono-basin-mixer",
@@ -6107,11 +5319,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Rico Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/rico-taps/rico-bath-filler": {
@@ -6135,11 +5342,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Rico Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/rico-taps/rico-bath-shower-mixer": {
     key: "taps/rico-taps/rico-bath-shower-mixer",
@@ -6161,11 +5363,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Rico Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/amoura-taps/amoura-mono-basin-mixer": {
@@ -6189,11 +5386,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Amoura Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/amoura-taps/amoura-bath-filler": {
     key: "taps/amoura-taps/amoura-bath-filler",
@@ -6215,11 +5407,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Amoura Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/amoura-taps/amoura-bath-shower-mixer": {
@@ -6243,11 +5430,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Amoura Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/amoura-taps/amoura-mini-mono-basin-mixer": {
     key: "taps/amoura-taps/amoura-mini-mono-basin-mixer",
@@ -6269,11 +5451,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Amoura Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/california-taps/california-mono-basin-mixer": {
@@ -6297,11 +5474,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the California Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/california-taps/california-bath-filler": {
     key: "taps/california-taps/california-bath-filler",
@@ -6323,11 +5495,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the California Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/california-taps/california-bath-shower-mixer": {
@@ -6351,11 +5518,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the California Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/new-york-taps/new-york-mono-basin-mixer": {
     key: "taps/new-york-taps/new-york-mono-basin-mixer",
@@ -6377,11 +5539,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the New York Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/new-york-taps/new-york-bath-filler": {
@@ -6405,11 +5562,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the New York Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/new-york-taps/new-york-bath-shower-mixer": {
     key: "taps/new-york-taps/new-york-bath-shower-mixer",
@@ -6431,11 +5583,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the New York Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/halo-taps/halo-mono-mixer": {
@@ -6472,11 +5619,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Halo Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/halo-taps/halo-bath-filler": {
     key: "taps/halo-taps/halo-bath-filler",
@@ -6511,11 +5653,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Halo Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/halo-taps/halo-bath-shower-mixer": {
@@ -6552,11 +5689,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Halo Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/boston-taps/boston-mono-basin-mixer": {
     key: "taps/boston-taps/boston-mono-basin-mixer",
@@ -6578,11 +5710,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Boston Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/boston-taps/boston-bath-filler": {
@@ -6606,11 +5733,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Boston Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/boston-taps/boston-bath-shower-mixer": {
     key: "taps/boston-taps/boston-bath-shower-mixer",
@@ -6631,11 +5753,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Boston Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/amethyst-taps/amethyst-mono-basin-mixer": {
@@ -6659,11 +5776,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Amethyst Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/amethyst-taps/amethyst-bath-filler": {
     key: "taps/amethyst-taps/amethyst-bath-filler",
@@ -6685,11 +5797,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Amethyst Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/amethyst-taps/amethyst-bath-shower-mixer": {
@@ -6713,11 +5820,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Amethyst Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/niccolo-taps/niccolo-basin-mixer": {
     key: "taps/niccolo-taps/niccolo-basin-mixer",
@@ -6739,11 +5841,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Niccolo Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/niccolo-taps/niccolo-bath-filler": {
@@ -6767,11 +5864,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Niccolo Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/niccolo-taps/niccolo-bath-shower-mixer": {
     key: "taps/niccolo-taps/niccolo-bath-shower-mixer",
@@ -6793,11 +5885,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Niccolo Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/block-taps/block-mono-basin-mixer": {
@@ -6821,11 +5908,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Block Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/block-taps/block-bath-filler": {
     key: "taps/block-taps/block-bath-filler",
@@ -6847,11 +5929,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Block Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/block-taps/block-bath-shower-mixer": {
@@ -6875,11 +5952,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Block Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/block-taps/block-mini-basin-mixer": {
     key: "taps/block-taps/block-mini-basin-mixer",
@@ -6901,11 +5973,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Block Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/branch-taps/branch-mono-basin-mixer": {
@@ -6929,11 +5996,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Branch Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/branch-taps/branch-bath-filler": {
     key: "taps/branch-taps/branch-bath-filler",
@@ -6955,11 +6017,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Branch Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/branch-taps/branch-bath-shower-mixer": {
@@ -6983,11 +6040,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Branch Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/aries-taps/aries-mono-basin-mixer": {
     key: "taps/aries-taps/aries-mono-basin-mixer",
@@ -7009,11 +6061,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Aries Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/aries-taps/aries-bath-filler": {
     key: "taps/aries-taps/aries-bath-filler",
@@ -7028,31 +6075,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Aries-Bath-Filler-scaled.jpg",
     ],
     colours: [
-      {
-        value: "aries-mono-basin-mixer",
-        label: "Aries Mono Basin Mixer",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2024/02/ar1.jpg",
-        href: "/taps/aries-taps/aries-mono-basin-mixer",
-      },
-      {
-        value: "aries-bath-filler",
-        label: "Aries Bath Filler",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2024/02/ar-3.jpg",
-        href: "/taps/aries-taps/aries-bath-filler",
-      },
-      {
-        value: "aries-bath-shower-mixer",
-        label: "Aries Bath Shower Mixer",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2024/02/ar2.jpg",
-        href: "/taps/aries-taps/aries-bath-shower-mixer",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Aries Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/aries-taps/aries-bath-shower-mixer": {
@@ -7068,31 +6092,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Aries-Bath-Shower-Mixer-scaled.jpg",
     ],
     colours: [
-      {
-        value: "aries-mono-basin-mixer",
-        label: "Aries Mono Basin Mixer",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2024/02/ar1.jpg",
-        href: "/taps/aries-taps/aries-mono-basin-mixer",
-      },
-      {
-        value: "aries-bath-filler",
-        label: "Aries Bath Filler",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2024/02/ar-3.jpg",
-        href: "/taps/aries-taps/aries-bath-filler",
-      },
-      {
-        value: "aries-bath-shower-mixer",
-        label: "Aries Bath Shower Mixer",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2024/02/ar2.jpg",
-        href: "/taps/aries-taps/aries-bath-shower-mixer",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Aries Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/kyoto-taps/kyoto-black-basin-monobloc-mixer": {
@@ -7116,11 +6117,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Kyoto Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/kyoto-taps/kyoto-black-bath-filler": {
     key: "taps/kyoto-taps/kyoto-black-bath-filler",
@@ -7142,11 +6138,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Kyoto Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/kyoto-taps/kyoto-black-bath-shower-mixer": {
@@ -7170,11 +6161,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Kyoto Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/kyoto-taps/kyoto-chrome-square": {
     key: "taps/kyoto-taps/kyoto-chrome-square",
@@ -7196,11 +6182,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Kyoto Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/kyoto-taps/kyoto-black-square": {
@@ -7224,11 +6205,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Kyoto Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/laton-taps/laton-mono-basin-mixer": {
     key: "taps/laton-taps/laton-mono-basin-mixer",
@@ -7250,11 +6226,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Laton Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/laton-taps/laton-bath-filler": {
@@ -7278,11 +6249,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Laton Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/laton-taps/laton-bath-shower-mixer": {
     key: "taps/laton-taps/laton-bath-shower-mixer",
@@ -7304,11 +6270,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Laton Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/oro-taps/oro-mono-basin-mixer": {
@@ -7332,11 +6293,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Oro Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/oro-taps/oro-bath-filler": {
     key: "taps/oro-taps/oro-bath-filler",
@@ -7358,11 +6314,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Oro Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/oro-taps/oro-bath-shower-mixer": {
@@ -7386,11 +6337,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Oro Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "taps/freestanding-bath-taps/kyoto-taps": {
     key: "taps/freestanding-bath-taps/kyoto-taps",
@@ -7404,25 +6350,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/sq-3.jpg",
     ],
     colours: [
-      {
-        value: "kyoto-taps",
-        label: "KYOTO",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/sq-3.jpg",
-        href: "/taps/freestanding-bath-taps/kyoto-taps",
-      },
-      {
-        value: "tokyo-taps",
-        label: "TOKYO",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/sq-4.jpg",
-        href: "/taps/freestanding-bath-taps/tokyo-taps",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Freestanding Bath Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "taps/freestanding-bath-taps/tokyo-taps": {
@@ -7437,25 +6366,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/sq-4.jpg",
     ],
     colours: [
-      {
-        value: "kyoto-taps",
-        label: "KYOTO",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/sq-3.jpg",
-        href: "/taps/freestanding-bath-taps/kyoto-taps",
-      },
-      {
-        value: "tokyo-taps",
-        label: "TOKYO",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/sq-4.jpg",
-        href: "/taps/freestanding-bath-taps/tokyo-taps",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Freestanding Bath Taps collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "showers/bliss-twin-head-shower-with-bath-filler/soho-twin-round-shower-head": {
@@ -7479,11 +6391,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Bliss Twin Head Shower With Bath Filler collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "showers/bliss-twin-head-shower-with-bath-filler/soho-plus-round-shower-head": {
     key: "showers/bliss-twin-head-shower-with-bath-filler/soho-plus-round-shower-head",
@@ -7505,11 +6412,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Bliss Twin Head Shower With Bath Filler collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "showers/hampton-twin-head-shower-with-bath-filler/soho-twin-round-shower-head": {
@@ -7533,11 +6435,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Hampton Twin Head Shower With Bath Filler collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "showers/hampton-twin-head-shower-with-bath-filler/soho-plus-round-shower-head": {
     key: "showers/hampton-twin-head-shower-with-bath-filler/soho-plus-round-shower-head",
@@ -7560,11 +6457,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Hampton Twin Head Shower With Bath Filler collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "showers/matrix-showers/matrix-plus-square-shower-head": {
     key: "showers/matrix-showers/matrix-plus-square-shower-head",
@@ -7586,11 +6478,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Matrix Showers collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "showers/nova-showers/nova-showers": {
@@ -7624,11 +6511,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Nova Showers collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "showers/edge-showers/edge-showers": {
@@ -7664,11 +6546,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Edge Showers collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "showers/halo-shower/halo-shower": {
     key: "showers/halo-shower/halo-shower",
@@ -7703,11 +6580,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Halo Shower collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "showers/soho-plus-round-shower-head/soho-twin-round-shower-head": {
     key: "showers/soho-plus-round-shower-head/soho-twin-round-shower-head",
@@ -7730,11 +6602,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Soho Plus Round Shower Head collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "showers/soho-plus-round-shower-head/soho-black-round-twin-shower-head-anthracite": {
     key: "showers/soho-plus-round-shower-head/soho-black-round-twin-shower-head-anthracite",
@@ -7755,11 +6622,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Soho Plus Round Shower Head collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "showers/showers-accessories/identity-dual-control-shower-valve-1-outlet": {
@@ -7783,11 +6645,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "showers/showers-accessories/identity-round-push-shower-valve-2-outlet": {
     key: "showers/showers-accessories/identity-round-push-shower-valve-2-outlet",
@@ -7809,11 +6666,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "showers/showers-accessories/block-push-shower-valve-square-1-outlet": {
@@ -7837,11 +6689,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "showers/showers-accessories/block-push-shower-valve-square-2-outlet": {
     key: "showers/showers-accessories/block-push-shower-valve-square-2-outlet",
@@ -7863,11 +6710,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "showers/showers-accessories/black-dual-control-round-shower-valve-1-outlet": {
@@ -7891,11 +6733,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "showers/showers-accessories/black-triple-control-round-shower-valve-2-outlet": {
     key: "showers/showers-accessories/black-triple-control-round-shower-valve-2-outlet",
@@ -7917,11 +6754,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "showers/showers-accessories/black-dual-control-square-shower-valve-1-outlet": {
@@ -7945,11 +6777,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "showers/showers-accessories/black-triple-control-square-shower-valve-2-outlet": {
     key: "showers/showers-accessories/black-triple-control-square-shower-valve-2-outlet",
@@ -7971,11 +6798,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "showers/showers-accessories/300mm-round-fixed-head": {
@@ -8000,11 +6822,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "showers/showers-accessories/300mm-square-fixed-head": {
     key: "showers/showers-accessories/300mm-square-fixed-head",
@@ -8026,11 +6843,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "showers/showers-accessories/identity-round-arm": {
@@ -8054,11 +6866,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "showers/showers-accessories/block-ceiling-arm": {
     key: "showers/showers-accessories/block-ceiling-arm",
@@ -8081,11 +6888,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "showers/showers-accessories/ceiling-arm-round": {
     key: "showers/showers-accessories/ceiling-arm-round",
@@ -8107,11 +6909,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "showers/showers-accessories/ceiling-arm-square": {
     key: "showers/showers-accessories/ceiling-arm-square",
@@ -8132,11 +6929,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "showers/showers-accessories/identity-sliding-rail-kit": {
@@ -8160,11 +6952,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "showers/showers-accessories/square-sliding-rail-kit": {
     key: "showers/showers-accessories/square-sliding-rail-kit",
@@ -8186,11 +6973,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "showers/showers-accessories/identity-wall-outlet-and-holder": {
@@ -8214,11 +6996,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "showers/showers-accessories/block-wall-outlet-and-holder": {
     key: "showers/showers-accessories/block-wall-outlet-and-holder",
@@ -8241,11 +7018,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "showers/showers-accessories/chrome-round-elbow-outlet": {
     key: "showers/showers-accessories/chrome-round-elbow-outlet",
@@ -8266,11 +7038,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "showers/showers-accessories/chrome-block-elbow-outlet": {
@@ -8293,11 +7060,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "showers/showers-accessories/easy-fix-kit": {
     key: "showers/showers-accessories/easy-fix-kit",
@@ -8318,11 +7080,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "showers/showers-accessories/round-fixed-head": {
@@ -8346,11 +7103,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "showers/showers-accessories/fixed-square-head": {
     key: "showers/showers-accessories/fixed-square-head",
@@ -8373,11 +7125,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "showers/showers-accessories/black-round-arm": {
     key: "showers/showers-accessories/black-round-arm",
@@ -8398,11 +7145,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "showers/showers-accessories/black-square-arm": {
@@ -8425,11 +7167,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "showers/showers-accessories/ceiling-arm-round-black": {
     key: "showers/showers-accessories/ceiling-arm-round-black",
@@ -8450,11 +7187,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "showers/showers-accessories/ceiling-arm-square-black": {
@@ -8477,11 +7209,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "showers/showers-accessories/round-sliding-rail-kit-black": {
     key: "showers/showers-accessories/round-sliding-rail-kit-black",
@@ -8502,11 +7229,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "showers/showers-accessories/square-sliding-rail-kit-black": {
@@ -8530,11 +7252,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "showers/showers-accessories/round-wall-outlet-black": {
     key: "showers/showers-accessories/round-wall-outlet-black",
@@ -8555,11 +7272,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "showers/showers-accessories/square-wall-outlet-black": {
@@ -8582,11 +7294,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "showers/showers-accessories/black-round-elbow-outlet": {
     key: "showers/showers-accessories/black-round-elbow-outlet",
@@ -8607,11 +7314,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "showers/showers-accessories/black-square-elbow-outlet": {
@@ -8634,11 +7336,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "baths/edge-baths/edge-single-ended-bath": {
     key: "baths/edge-baths/edge-single-ended-bath",
@@ -8654,25 +7351,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/11-768x1024.jpg",
     ],
     colours: [
-      {
-        value: "edge-single-ended-bath",
-        label: "Edge Single Ended Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/11-768x1024.jpg",
-        href: "/baths/edge-baths/edge-single-ended-bath",
-      },
-      {
-        value: "edge-double-ended-bath",
-        label: "Edge Double Ended Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/double-end-768x1024.jpg",
-        href: "/baths/edge-baths/edge-double-ended-bath",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Edge Baths collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "baths/edge-baths/edge-double-ended-bath": {
@@ -8689,25 +7369,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/double-end-768x1024.jpg",
     ],
     colours: [
-      {
-        value: "edge-single-ended-bath",
-        label: "Edge Single Ended Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/11-768x1024.jpg",
-        href: "/baths/edge-baths/edge-single-ended-bath",
-      },
-      {
-        value: "edge-double-ended-bath",
-        label: "Edge Double Ended Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/double-end-768x1024.jpg",
-        href: "/baths/edge-baths/edge-double-ended-bath",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Edge Baths collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "baths/kyoto-freestanding-bath/tokyo-freestanding-bath": {
@@ -8725,25 +7388,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-18-300x300.jpg",
     ],
     colours: [
-      {
-        value: "tokyo-freestanding-bath",
-        label: "Tokyo Freestanding Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-18-300x300.jpg",
-        href: "/baths/kyoto-freestanding-bath/tokyo-freestanding-bath",
-      },
-      {
-        value: "edge-single-ended-bath",
-        label: "Edge Single Ended Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/11-300x300.jpg",
-        href: "/baths/kyoto-freestanding-bath/edge-single-ended-bath",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Kyoto Freestanding Bath collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "baths/kyoto-freestanding-bath/edge-single-ended-bath": {
@@ -8760,25 +7406,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/11-300x300.jpg",
     ],
     colours: [
-      {
-        value: "tokyo-freestanding-bath",
-        label: "Tokyo Freestanding Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-18-300x300.jpg",
-        href: "/baths/kyoto-freestanding-bath/tokyo-freestanding-bath",
-      },
-      {
-        value: "edge-single-ended-bath",
-        label: "Edge Single Ended Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/11-300x300.jpg",
-        href: "/baths/kyoto-freestanding-bath/edge-single-ended-bath",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Kyoto Freestanding Bath collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "baths/sapporo-freestanding-bath/tokyo-freestanding-bath": {
@@ -8796,25 +7425,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-18-300x300.jpg",
     ],
     colours: [
-      {
-        value: "tokyo-freestanding-bath",
-        label: "Tokyo Freestanding Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-18-300x300.jpg",
-        href: "/baths/sapporo-freestanding-bath/tokyo-freestanding-bath",
-      },
-      {
-        value: "edge-single-ended-bath",
-        label: "Edge Single Ended Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/11-300x300.jpg",
-        href: "/baths/sapporo-freestanding-bath/edge-single-ended-bath",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Sapporo Freestanding Bath collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "baths/sapporo-freestanding-bath/edge-single-ended-bath": {
@@ -8831,25 +7443,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/11-300x300.jpg",
     ],
     colours: [
-      {
-        value: "tokyo-freestanding-bath",
-        label: "Tokyo Freestanding Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-18-300x300.jpg",
-        href: "/baths/sapporo-freestanding-bath/tokyo-freestanding-bath",
-      },
-      {
-        value: "edge-single-ended-bath",
-        label: "Edge Single Ended Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/11-300x300.jpg",
-        href: "/baths/sapporo-freestanding-bath/edge-single-ended-bath",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Sapporo Freestanding Bath collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "baths/tokyo-freestanding-bath/edge-single-ended-bath": {
@@ -8866,25 +7461,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/11-300x300.jpg",
     ],
     colours: [
-      {
-        value: "edge-single-ended-bath",
-        label: "Edge Single Ended Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/11-300x300.jpg",
-        href: "/baths/tokyo-freestanding-bath/edge-single-ended-bath",
-      },
-      {
-        value: "edge-double-ended-bath",
-        label: "Edge Double Ended Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/double-end-300x300.jpg",
-        href: "/baths/tokyo-freestanding-bath/edge-double-ended-bath",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Tokyo Freestanding Bath collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "baths/tokyo-freestanding-bath/edge-double-ended-bath": {
@@ -8901,25 +7479,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/double-end-300x300.jpg",
     ],
     colours: [
-      {
-        value: "edge-single-ended-bath",
-        label: "Edge Single Ended Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/11-300x300.jpg",
-        href: "/baths/tokyo-freestanding-bath/edge-single-ended-bath",
-      },
-      {
-        value: "edge-double-ended-bath",
-        label: "Edge Double Ended Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/double-end-300x300.jpg",
-        href: "/baths/tokyo-freestanding-bath/edge-double-ended-bath",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Tokyo Freestanding Bath collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "baths/single-ended-intro-bath/tokyo-freestanding-bath": {
@@ -8937,25 +7498,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-18-300x300.jpg",
     ],
     colours: [
-      {
-        value: "tokyo-freestanding-bath",
-        label: "Tokyo Freestanding Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-18-300x300.jpg",
-        href: "/baths/single-ended-intro-bath/tokyo-freestanding-bath",
-      },
-      {
-        value: "edge-double-ended-bath",
-        label: "Edge Double Ended Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/double-end-300x300.jpg",
-        href: "/baths/single-ended-intro-bath/edge-double-ended-bath",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Single Ended Intro Bath collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "baths/single-ended-intro-bath/edge-double-ended-bath": {
@@ -8972,25 +7516,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/double-end-300x300.jpg",
     ],
     colours: [
-      {
-        value: "tokyo-freestanding-bath",
-        label: "Tokyo Freestanding Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-18-300x300.jpg",
-        href: "/baths/single-ended-intro-bath/tokyo-freestanding-bath",
-      },
-      {
-        value: "edge-double-ended-bath",
-        label: "Edge Double Ended Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/double-end-300x300.jpg",
-        href: "/baths/single-ended-intro-bath/edge-double-ended-bath",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Single Ended Intro Bath collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "baths/nova-double-ended-bath/branch-bath-filler": {
@@ -9014,11 +7541,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Nova Double Ended Bath collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "baths/nova-double-ended-bath/kyoto-freestanding-bath": {
     key: "baths/nova-double-ended-bath/kyoto-freestanding-bath",
@@ -9034,25 +7556,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-25-300x300.jpg",
     ],
     colours: [
-      {
-        value: "branch-bath-filler",
-        label: "Branch Bath Filler",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-11-300x300.jpg",
-        href: "/baths/nova-double-ended-bath/branch-bath-filler",
-      },
-      {
-        value: "kyoto-freestanding-bath",
-        label: "Kyoto Freestanding Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-25-300x300.jpg",
-        href: "/baths/nova-double-ended-bath/kyoto-freestanding-bath",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Nova Double Ended Bath collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "baths/l-shape-shower-bath/tokyo-freestanding-bath": {
@@ -9070,25 +7575,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-18-300x300.jpg",
     ],
     colours: [
-      {
-        value: "tokyo-freestanding-bath",
-        label: "Tokyo Freestanding Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-18-300x300.jpg",
-        href: "/baths/l-shape-shower-bath/tokyo-freestanding-bath",
-      },
-      {
-        value: "nova-double-ended-bath",
-        label: "Nova Double Ended Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-24-300x300.jpg",
-        href: "/baths/l-shape-shower-bath/nova-double-ended-bath",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the L-Shape Shower Bath collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "baths/l-shape-shower-bath/nova-double-ended-bath": {
@@ -9107,25 +7595,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-24-300x300.jpg",
     ],
     colours: [
-      {
-        value: "tokyo-freestanding-bath",
-        label: "Tokyo Freestanding Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-18-300x300.jpg",
-        href: "/baths/l-shape-shower-bath/tokyo-freestanding-bath",
-      },
-      {
-        value: "nova-double-ended-bath",
-        label: "Nova Double Ended Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-24-300x300.jpg",
-        href: "/baths/l-shape-shower-bath/nova-double-ended-bath",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the L-Shape Shower Bath collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "baths/key-hole-bath/key-hole-bath": {
@@ -9149,11 +7620,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         label: "1700mm",
       },
     ],
-    features: [
-      "Part of the Key Hole Bath collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "baths/twin-grip-bath/twin-grip-bath": {
     key: "baths/twin-grip-bath/twin-grip-bath",
@@ -9175,11 +7641,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         value: "1700mm",
         label: "1700mm",
       },
-    ],
-    features: [
-      "Part of the Twin Grip Bath collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "baths/bath-panels/bath-panels": {
@@ -9218,11 +7679,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         label: "700mm",
       },
     ],
-    features: [
-      "Part of the Bath Panels collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "bath-screens/intro-round-bath-screen/intro-black-grid-bath-screen": {
     key: "bath-screens/intro-round-bath-screen/intro-black-grid-bath-screen",
@@ -9245,11 +7701,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Intro Round Bath Screen collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "bath-screens/intro-round-bath-screen/intro-black-square-bath-screen": {
@@ -9274,11 +7725,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Intro Round Bath Screen collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "bath-screens/intro-square-bath-screen/intro-black-grid-bath-screen": {
     key: "bath-screens/intro-square-bath-screen/intro-black-grid-bath-screen",
@@ -9302,11 +7748,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Intro Square Bath Screen collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "bath-screens/intro-square-bath-screen/intro-black-square-bath-screen": {
     key: "bath-screens/intro-square-bath-screen/intro-black-square-bath-screen",
@@ -9329,11 +7770,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Intro Square Bath Screen collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "bath-screens/intro-black-grid-bath-screen/intro-round-bath-screen": {
@@ -9370,11 +7806,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Intro Black Grid Bath Screen collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "bath-screens/intro-black-grid-bath-screen/intro-square-bath-screen": {
     key: "bath-screens/intro-black-grid-bath-screen/intro-square-bath-screen",
@@ -9410,11 +7841,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Intro Black Grid Bath Screen collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "shower-enclosures/double-door-quadrant-6mm-shower-enclosures/double-door-quadrant-6mm-shower-enclosures": {
     key: "shower-enclosures/double-door-quadrant-6mm-shower-enclosures/double-door-quadrant-6mm-shower-enclosures",
@@ -9445,11 +7871,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Double Door Quadrant 6mm Shower Enclosures collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "shower-enclosures/single-door-quadrant-6mm-shower-enclosures/single-door-quadrant-6mm-shower-enclosures": {
@@ -9498,11 +7919,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         label: "900x900mm",
       },
     ],
-    features: [
-      "Part of the Single Door Quadrant 6mm Shower Enclosures collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "shower-enclosures/pivot-door-6mm-shower-enclosures-with-side-panel/pivot-door-6mm-shower-enclosures-with-side-panel": {
     key: "shower-enclosures/pivot-door-6mm-shower-enclosures-with-side-panel/pivot-door-6mm-shower-enclosures-with-side-panel",
@@ -9533,11 +7949,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Pivot Door 6mm Shower Enclosures collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "shower-enclosures/bi-fold-door-6mm-shower-enclosures-with-side-panel/bi-fold-door-6mm-shower-enclosures-with-side-panel": {
@@ -9570,11 +7981,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Bi-Fold Door 6mm Shower Enclosures collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "shower-enclosures/sliding-door-6mm-shower-enclosures-with-side-panel/sliding-door-6mm-shower-enclosures-with-side-panel": {
     key: "shower-enclosures/sliding-door-6mm-shower-enclosures-with-side-panel/sliding-door-6mm-shower-enclosures-with-side-panel",
@@ -9605,11 +8011,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Sliding Door 6mm Shower Enclosures collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "shower-enclosures/enclosure-side-panel/enclosure-side-panel": {
@@ -9662,11 +8063,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         label: "900mm",
       },
     ],
-    features: [
-      "Part of the Enclosure Side Panel collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "shower-enclosures/niche/niche-with-shelf": {
     key: "shower-enclosures/niche/niche-with-shelf",
@@ -9704,11 +8100,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Niche collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "shower-enclosures/niche/niche-with-led": {
@@ -9760,11 +8151,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         label: "300x600mm",
       },
     ],
-    features: [
-      "Part of the Niche collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "wetroom-screens/8mm-wetroom-panels/8mm-wetroom-panels": {
     key: "wetroom-screens/8mm-wetroom-panels/8mm-wetroom-panels",
@@ -9808,11 +8194,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         label: "900mm",
       },
     ],
-    features: [
-      "Part of the 8mm Wetroom Panels collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "wetroom-screens/8mm-black-grid-wetroom-panel/8mm-black-grid-wetroom-panel": {
     key: "wetroom-screens/8mm-black-grid-wetroom-panel/8mm-black-grid-wetroom-panel",
@@ -9830,11 +8211,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     colours: [
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the 8mm Black Grid Wetroom Panel collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "wetroom-screens/arched-wetroom-screen/arched-wetroom-screen": {
@@ -9874,11 +8250,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         label: "1200mm",
       },
     ],
-    features: [
-      "Part of the Arched Wetroom Screen collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "wetroom-screens/wetroom-panel-shelf/wetroom-panel-shelf": {
     key: "wetroom-screens/wetroom-panel-shelf/wetroom-panel-shelf",
@@ -9913,11 +8284,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Wetroom Panel Shelf collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "wetroom-screens/wetroom-kits/tokyo-freestanding-bath": {
     key: "wetroom-screens/wetroom-kits/tokyo-freestanding-bath",
@@ -9934,25 +8300,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-18-300x300.jpg",
     ],
     colours: [
-      {
-        value: "tokyo-freestanding-bath",
-        label: "Tokyo Freestanding Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-18-300x300.jpg",
-        href: "/wetroom-screens/wetroom-kits/tokyo-freestanding-bath",
-      },
-      {
-        value: "edge-double-ended-bath",
-        label: "Edge Double Ended Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/double-end-300x300.jpg",
-        href: "/wetroom-screens/wetroom-kits/edge-double-ended-bath",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Wetroom Kits collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "wetroom-screens/wetroom-kits/edge-double-ended-bath": {
@@ -9969,25 +8318,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/double-end-300x300.jpg",
     ],
     colours: [
-      {
-        value: "tokyo-freestanding-bath",
-        label: "Tokyo Freestanding Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-18-300x300.jpg",
-        href: "/wetroom-screens/wetroom-kits/tokyo-freestanding-bath",
-      },
-      {
-        value: "edge-double-ended-bath",
-        label: "Edge Double Ended Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/double-end-300x300.jpg",
-        href: "/wetroom-screens/wetroom-kits/edge-double-ended-bath",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Wetroom Kits collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "shower-trays/quadrant-shower-trays/quadrant-shower-trays": {
@@ -10021,11 +8353,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     colours: [
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Quadrant Shower Trays collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "shower-trays/rectangular-shower-trays/rectangular-shower-trays": {
@@ -10076,11 +8403,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Rectangular Shower Trays collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "shower-trays/square-shower-trays/square-shower-trays": {
     key: "shower-trays/square-shower-trays/square-shower-trays",
@@ -10105,11 +8427,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     colours: [
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Square Shower Trays collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "shower-trays/slate-quadrant-shower-tray/slate-quadrant-shower-tray": {
@@ -10156,11 +8473,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         value: "900x900mm",
         label: "900x900mm",
       },
-    ],
-    features: [
-      "Part of the Slate Quadrant Shower Tray collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "shower-trays/rectangular-slate-shower-tray/rectangular-slate-shower-tray": {
@@ -10259,11 +8571,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         label: "1700x800mm",
       },
     ],
-    features: [
-      "Part of the Rectangular Slate Shower Tray collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "shower-trays/slate-square-shower-tray/slate-square-shower-tray": {
     key: "shower-trays/slate-square-shower-tray/slate-square-shower-tray",
@@ -10309,11 +8616,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         value: "900x900mm",
         label: "900x900mm",
       },
-    ],
-    features: [
-      "Part of the Slate Square Shower Tray collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "shower-trays/easy-plumb-kits/easy-plumb-kits": {
@@ -10366,11 +8668,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         label: "Units under 1000mm",
       },
     ],
-    features: [
-      "Part of the Easy Plumb Kits collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "shower-trays/enclosures-tray-accessories/90mm-fast-flow-waste-black": {
     key: "shower-trays/enclosures-tray-accessories/90mm-fast-flow-waste-black",
@@ -10392,11 +8689,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Enclosures Tray Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "shower-trays/enclosures-tray-accessories/90mm-fast-flow-waste-chrome": {
@@ -10420,11 +8712,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Enclosures Tray Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "shower-trays/enclosures-tray-accessories/90mm-fast-flow-waste-brushed-brass": {
     key: "shower-trays/enclosures-tray-accessories/90mm-fast-flow-waste-brushed-brass",
@@ -10440,37 +8727,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Blank-product-image-6.jpg",
     ],
     colours: [
-      {
-        value: "90mm-fast-flow-waste-black",
-        label: "90mm Fast Flow Waste Black",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/22-3-768x1024.jpg",
-        href: "/shower-trays/enclosures-tray-accessories/90mm-fast-flow-waste-black",
-      },
-      {
-        value: "90mm-fast-flow-waste-chrome",
-        label: "90mm Fast Flow Waste Chrome",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/222-768x1024.jpg",
-        href: "/shower-trays/enclosures-tray-accessories/90mm-fast-flow-waste-chrome",
-      },
-      {
-        value: "90mm-fast-flow-waste-brushed-brass",
-        label: "90mm Fast Flow Waste Brushed Brass",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Blank-product-image-6.jpg",
-        href: "/shower-trays/enclosures-tray-accessories/90mm-fast-flow-waste-brushed-brass",
-      },
-      {
-        value: "shower-waste-for-slate-trays",
-        label: "90mm Fast Flow Waste (For slate trays)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/04/slate-waste-2.jpg",
-        href: "/shower-trays/enclosures-tray-accessories/shower-waste-for-slate-trays",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Enclosures Tray Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "shower-trays/enclosures-tray-accessories/shower-waste-for-slate-trays": {
@@ -10493,11 +8751,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Enclosures Tray Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "shower-trays/wetroom-kits/tokyo-freestanding-bath": {
     key: "shower-trays/wetroom-kits/tokyo-freestanding-bath",
@@ -10514,25 +8767,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-18-300x300.jpg",
     ],
     colours: [
-      {
-        value: "tokyo-freestanding-bath",
-        label: "Tokyo Freestanding Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-18-300x300.jpg",
-        href: "/shower-trays/wetroom-kits/tokyo-freestanding-bath",
-      },
-      {
-        value: "edge-double-ended-bath",
-        label: "Edge Double Ended Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/double-end-300x300.jpg",
-        href: "/shower-trays/wetroom-kits/edge-double-ended-bath",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Wetroom Kits collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "shower-trays/wetroom-kits/edge-double-ended-bath": {
@@ -10549,25 +8785,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/double-end-300x300.jpg",
     ],
     colours: [
-      {
-        value: "tokyo-freestanding-bath",
-        label: "Tokyo Freestanding Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-18-300x300.jpg",
-        href: "/shower-trays/wetroom-kits/tokyo-freestanding-bath",
-      },
-      {
-        value: "edge-double-ended-bath",
-        label: "Edge Double Ended Bath",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/double-end-300x300.jpg",
-        href: "/shower-trays/wetroom-kits/edge-double-ended-bath",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Wetroom Kits collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "furniture/luna-furniture/luna-500mm-floor-vanity": {
@@ -10604,11 +8823,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Luna Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "furniture/luna-furniture/luna-600mm-floor-vanity": {
     key: "furniture/luna-furniture/luna-600mm-floor-vanity",
@@ -10643,11 +8857,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Luna Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "furniture/luna-furniture/luna-600mm-wall-hung-vanity": {
@@ -10684,11 +8893,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Luna Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "furniture/luna-furniture/luna-500mm-wc-unit": {
     key: "furniture/luna-furniture/luna-500mm-wc-unit",
@@ -10723,11 +8927,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Luna Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "furniture/luna-furniture/luna-tall-unit": {
@@ -10764,11 +8963,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Luna Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "furniture/luna-furniture/luna-1100mm-l-shape-furniture-pack": {
     key: "furniture/luna-furniture/luna-1100mm-l-shape-furniture-pack",
@@ -10803,11 +8997,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Luna Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "furniture/luna-furniture/luna-900mm-l-shape-sets-compact": {
@@ -10844,11 +9033,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Luna Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "furniture/luna-furniture/luna-450mm-cloakroom-floorstanding-unit": {
     key: "furniture/luna-furniture/luna-450mm-cloakroom-floorstanding-unit",
@@ -10883,11 +9067,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Luna Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "furniture/edge-furniture/edge-500mm-floor-vanity-high-gloss": {
@@ -10924,11 +9103,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Edge Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "furniture/edge-furniture/edge-600mm-floor-vanity-high-gloss": {
     key: "furniture/edge-furniture/edge-600mm-floor-vanity-high-gloss",
@@ -10963,11 +9137,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Edge Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "furniture/edge-furniture/edge-600mm-wall-hung-vanity": {
@@ -11004,11 +9173,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Edge Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "furniture/edge-furniture/edge-500mm-wc-unit": {
     key: "furniture/edge-furniture/edge-500mm-wc-unit",
@@ -11043,11 +9207,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Edge Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "furniture/edge-furniture/edge-tall-unit": {
@@ -11084,11 +9243,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Edge Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "furniture/edge-furniture/edge-1100mm-l-shape-furniture-pack": {
     key: "furniture/edge-furniture/edge-1100mm-l-shape-furniture-pack",
@@ -11123,11 +9277,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Edge Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "furniture/edge-furniture/edge-900mm-l-shape-sets-compact": {
@@ -11165,11 +9314,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Edge Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "furniture/edge-furniture/edge-400mm-cloakroom-floorstanding-unit": {
     key: "furniture/edge-furniture/edge-400mm-cloakroom-floorstanding-unit",
@@ -11205,11 +9349,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Edge Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "furniture/edge-furniture/edge-handles-320mm-black": {
     key: "furniture/edge-furniture/edge-handles-320mm-black",
@@ -11230,11 +9369,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Edge Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "furniture/edge-furniture/edge-handles-320mm-chrome": {
@@ -11257,11 +9391,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Edge Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "furniture/edge-furniture/edge-handles-320mm-brushed-brass": {
     key: "furniture/edge-furniture/edge-handles-320mm-brushed-brass",
@@ -11282,11 +9411,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Edge Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "furniture/edge-furniture/black-basin-overflow-cover": {
@@ -11309,11 +9433,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Edge Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "furniture/edge-furniture/brushed-brass-basin-overflow-cover": {
     key: "furniture/edge-furniture/brushed-brass-basin-overflow-cover",
@@ -11334,11 +9453,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Edge Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "furniture/como-furniture/como-600mm-wall-hung-unit": {
@@ -11378,11 +9492,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Como Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "furniture/como-furniture/como-800mm-wall-hung-unit": {
     key: "furniture/como-furniture/como-800mm-wall-hung-unit",
@@ -11420,11 +9529,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Como Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "furniture/como-furniture/como-450mm-floorstanding-vanity": {
@@ -11466,11 +9570,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Como Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "furniture/sienna-furniture/sienna-600mm-wall-hung-unit": {
     key: "furniture/sienna-furniture/sienna-600mm-wall-hung-unit",
@@ -11507,11 +9606,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Sienna Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "furniture/sienna-furniture/sienna-800mm-wall-hung-unit": {
@@ -11550,11 +9644,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Sienna Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "furniture/sienna-furniture/sienna-600mm-floor-standing-unit": {
     key: "furniture/sienna-furniture/sienna-600mm-floor-standing-unit",
@@ -11592,11 +9681,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Sienna Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "furniture/sienna-furniture/sienna-800mm-floor-standing-unit": {
     key: "furniture/sienna-furniture/sienna-800mm-floor-standing-unit",
@@ -11632,11 +9716,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Sienna Furniture collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "furniture/niche/niche-with-shelf": {
@@ -11675,11 +9754,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Niche collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "furniture/niche/niche-with-led": {
@@ -11731,11 +9805,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         label: "300x600mm",
       },
     ],
-    features: [
-      "Part of the Niche collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "heating/intro-anthracite-ladder-rails-22mm/intro-anthracite-ladder-rails-22mm": {
     key: "heating/intro-anthracite-ladder-rails-22mm/intro-anthracite-ladder-rails-22mm",
@@ -11765,11 +9834,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     colours: [
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Intro Anthracite Ladder Rails 22mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "heating/black-ladder-rails-22mm/black-ladder-rails-22mm": {
@@ -11801,11 +9865,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Black Ladder Rails 22mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "heating/chrome-ladder-rails-22mm/chrome-ladder-rails-22mm": {
     key: "heating/chrome-ladder-rails-22mm/chrome-ladder-rails-22mm",
@@ -11835,11 +9894,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     colours: [
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Chrome Ladder Rails 22mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "heating/brushed-brass-ladder-rails-22mm/brushed-brass-ladder-rails-22mm": {
@@ -11898,11 +9952,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         label: "800x600mm",
       },
     ],
-    features: [
-      "Part of the Brushed Brass Ladder Rails 22mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "heating/branch-anthracite-heated-towel-rail/branch-anthracite-heated-towel-rail": {
     key: "heating/branch-anthracite-heated-towel-rail/branch-anthracite-heated-towel-rail",
@@ -11923,11 +9972,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Branch Anthracite Heated Towel Rail collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "heating/nova-anthracite-heated-towel-rail/nova-anthracite-heated-towel-rail": {
@@ -11970,11 +10014,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Nova Heated Towel Rail collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "heating/edge-anthracite-heated-towel-rail/edge-anthracite-heated-towel-rail": {
     key: "heating/edge-anthracite-heated-towel-rail/edge-anthracite-heated-towel-rail",
@@ -11993,11 +10032,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Edge Anthracite Heated Towel Rail collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "heating/hermes-anthracite-heated-towel-rail/hermes-anthracite-heated-towel-rail": {
     key: "heating/hermes-anthracite-heated-towel-rail/hermes-anthracite-heated-towel-rail",
@@ -12014,11 +10048,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     colours: [
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Hermes Anthracite Heated Towel Rail collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "heating/aries-anthracite-heated-towel-rail/aries-anthracite-heated-towel-rail": {
@@ -12040,11 +10069,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         value: "1200-x-500mm",
         label: "1200 x 500mm",
       },
-    ],
-    features: [
-      "Part of the Aries Anthracite Heated Towel Rail collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "heating/leo-radiator/leo-radiator": {
@@ -12092,11 +10116,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Leo Radiator collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "heating/libra-radiators/libra-radiators": {
     key: "heating/libra-radiators/libra-radiators",
@@ -12143,11 +10162,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Libra Radiator collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "heating/underfloor-heating/7-day-programmable-thermostat-wifi-control": {
     key: "heating/underfloor-heating/7-day-programmable-thermostat-wifi-control",
@@ -12173,11 +10187,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Underfloor Heating collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "heating/radiator-accessories/straight-radiator-valves": {
@@ -12215,11 +10224,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Radiator Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "heating/radiator-accessories/angled-radiator-valves": {
     key: "heating/radiator-accessories/angled-radiator-valves",
@@ -12255,11 +10259,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Radiator Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "heating/radiator-accessories/corner-radiator-valves": {
@@ -12302,11 +10301,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Radiator Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "heating/radiator-accessories/straight-square-radiator-valves": {
     key: "heating/radiator-accessories/straight-square-radiator-valves",
@@ -12338,11 +10332,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Radiator Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "heating/radiator-accessories/angled-square-radiator-valves": {
     key: "heating/radiator-accessories/angled-square-radiator-valves",
@@ -12373,11 +10362,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Radiator Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "heating/radiator-accessories/straight-thermostatic-radiator-valves": {
@@ -12420,11 +10404,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Radiator Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "heating/radiator-accessories/angled-thermostatic-radiator-valves": {
     key: "heating/radiator-accessories/angled-thermostatic-radiator-valves",
@@ -12465,11 +10444,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Radiator Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "heating/radiator-accessories/corner-thermostatic-radiator-valves": {
@@ -12517,11 +10491,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Radiator Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "heating/radiator-accessories/heating-element-chrome": {
     key: "heating/radiator-accessories/heating-element-chrome",
@@ -12543,11 +10512,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Radiator Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "mirrors-cabinets/como-mirror/como-mirror": {
@@ -12589,11 +10553,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         label: "800mm",
       },
     ],
-    features: [
-      "Part of the Como Mirror collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "mirrors-cabinets/halo-mirror/halo-mirror": {
     key: "mirrors-cabinets/halo-mirror/halo-mirror",
@@ -12622,11 +10581,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         value: "800mm",
         label: "800mm",
       },
-    ],
-    features: [
-      "Part of the Halo Mirror collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "mirrors-cabinets/sienna-mirror/sienna-mirror": {
@@ -12662,11 +10616,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Sienna Mirror collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "mirrors-cabinets/kai-mirror/kai-mirror": {
     key: "mirrors-cabinets/kai-mirror/kai-mirror",
@@ -12693,11 +10642,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         label: "800mm",
       },
     ],
-    features: [
-      "Part of the Kai Mirror collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "mirrors-cabinets/branch-steam-free-mirror-colour-changing/branch-steam-free-mirror-colour-changing": {
     key: "mirrors-cabinets/branch-steam-free-mirror-colour-changing/branch-steam-free-mirror-colour-changing",
@@ -12716,11 +10660,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Branch Steam Free Mirror/Colour Changing collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "mirrors-cabinets/hermes-steam-free-mirror-colour-changing/hermes-steam-free-mirror-colour-changing": {
     key: "mirrors-cabinets/hermes-steam-free-mirror-colour-changing/hermes-steam-free-mirror-colour-changing",
@@ -12737,11 +10676,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     colours: [
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Hermes Steam Free Mirror/Colour Changing collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "mirrors-cabinets/edge-steam-free-mirror-colour-changing/edge-steam-free-mirror-colour-changing": {
@@ -12761,11 +10695,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Edge Steam Free Mirror/Colour Changing collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "mirrors-cabinets/elyse-steam-free-mirror-colour-changing/elyse-steam-free-mirror-colour-changing": {
     key: "mirrors-cabinets/elyse-steam-free-mirror-colour-changing/elyse-steam-free-mirror-colour-changing",
@@ -12783,11 +10712,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     colours: [
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Elyse Steam Free Mirror/Colour Changing collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "mirrors-cabinets/kia-steam-free-mirror-colour-changing/kia-steam-free-mirror-colour-changing": {
@@ -12807,11 +10731,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Kia Steam Free Mirror/Colour Changing collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "mirrors-cabinets/eclipse-steam-free-mirror-colour-changing/eclipse-steam-free-mirror-colour-changing": {
     key: "mirrors-cabinets/eclipse-steam-free-mirror-colour-changing/eclipse-steam-free-mirror-colour-changing",
@@ -12829,11 +10748,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     colours: [
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Eclipse Steam Free Mirror/Colour Changing collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "mirrors-cabinets/rico-steam-free-mirror-colour-changing/rico-steam-free-mirror-colour-changing": {
@@ -12853,11 +10767,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Rico Steam Free Mirror/Colour Changing collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "mirrors-cabinets/luna-steam-free-mirror-colour-changing/luna-steam-free-mirror-colour-changing": {
     key: "mirrors-cabinets/luna-steam-free-mirror-colour-changing/luna-steam-free-mirror-colour-changing",
@@ -12876,11 +10785,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Luna Steam Free Mirror/Colour Changing collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "mirrors-cabinets/venus-steam-free-mirror-colour-changing/venus-steam-free-mirror-colour-changing": {
     key: "mirrors-cabinets/venus-steam-free-mirror-colour-changing/venus-steam-free-mirror-colour-changing",
@@ -12897,11 +10801,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     colours: [
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Venus Steam Free Mirror/Colour Changing collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "mirrors-cabinets/nova-steam-free-mirror-colour-changing/nova-steam-free-mirror-colour-changing": {
@@ -12920,11 +10819,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     colours: [
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Nova Steam Free Mirror/Colour Changing collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "mirrors-cabinets/intro-cabinet/intro-cabinet": {
@@ -12947,11 +10841,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         label: "500x700mm",
       },
     ],
-    features: [
-      "Part of the Intro Cabinet collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "panels/bosco-panels/bosco-beech-panels-122mm-x-12mm-x-2600mm": {
     key: "panels/bosco-panels/bosco-beech-panels-122mm-x-12mm-x-2600mm",
@@ -12966,43 +10855,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/Beech-768x1024.jpg",
     ],
     colours: [
-      {
-        value: "bosco-beech-panels-122mm-x-12mm-x-2600mm",
-        label: "Beech",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/Beech-768x1024.jpg",
-        href: "/panels/bosco-panels/bosco-beech-panels-122mm-x-12mm-x-2600mm",
-      },
-      {
-        value: "bosco-charcoal-panels-122mm-x-12mm-x-2600mm",
-        label: "Charcoal",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/Charcoal-768x1024.jpg",
-        href: "/panels/bosco-panels/bosco-charcoal-panels-122mm-x-12mm-x-2600mm",
-      },
-      {
-        value: "bosco-grey-oak-panels-122mm-x-12mm-x-2600mm",
-        label: "Grey Oak",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/Grey-Oak-768x1024.jpg",
-        href: "/panels/bosco-panels/bosco-grey-oak-panels-122mm-x-12mm-x-2600mm",
-      },
-      {
-        value: "bosco-walnut-panels-122mm-x-12mm-x-2600mm",
-        label: "Walnut",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/Walnut-768x1024.jpg",
-        href: "/panels/bosco-panels/bosco-walnut-panels-122mm-x-12mm-x-2600mm",
-      },
-      {
-        value: "bosco-natural-oak-panels-122mm-x-12mm-x-2600mm",
-        label: "Natural Oak",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/Natural-Oak-768x1024.jpg",
-        href: "/panels/bosco-panels/bosco-natural-oak-panels-122mm-x-12mm-x-2600mm",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Bosco Panels collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/bosco-panels/bosco-charcoal-panels-122mm-x-12mm-x-2600mm": {
@@ -13018,43 +10872,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/Charcoal-768x1024.jpg",
     ],
     colours: [
-      {
-        value: "bosco-beech-panels-122mm-x-12mm-x-2600mm",
-        label: "Beech",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/Beech-768x1024.jpg",
-        href: "/panels/bosco-panels/bosco-beech-panels-122mm-x-12mm-x-2600mm",
-      },
-      {
-        value: "bosco-charcoal-panels-122mm-x-12mm-x-2600mm",
-        label: "Charcoal",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/Charcoal-768x1024.jpg",
-        href: "/panels/bosco-panels/bosco-charcoal-panels-122mm-x-12mm-x-2600mm",
-      },
-      {
-        value: "bosco-grey-oak-panels-122mm-x-12mm-x-2600mm",
-        label: "Grey Oak",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/Grey-Oak-768x1024.jpg",
-        href: "/panels/bosco-panels/bosco-grey-oak-panels-122mm-x-12mm-x-2600mm",
-      },
-      {
-        value: "bosco-walnut-panels-122mm-x-12mm-x-2600mm",
-        label: "Walnut",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/Walnut-768x1024.jpg",
-        href: "/panels/bosco-panels/bosco-walnut-panels-122mm-x-12mm-x-2600mm",
-      },
-      {
-        value: "bosco-natural-oak-panels-122mm-x-12mm-x-2600mm",
-        label: "Natural Oak",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/Natural-Oak-768x1024.jpg",
-        href: "/panels/bosco-panels/bosco-natural-oak-panels-122mm-x-12mm-x-2600mm",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Bosco Panels collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/bosco-panels/bosco-grey-oak-panels-122mm-x-12mm-x-2600mm": {
@@ -13070,43 +10889,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/Grey-Oak-768x1024.jpg",
     ],
     colours: [
-      {
-        value: "bosco-beech-panels-122mm-x-12mm-x-2600mm",
-        label: "Beech",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/Beech-768x1024.jpg",
-        href: "/panels/bosco-panels/bosco-beech-panels-122mm-x-12mm-x-2600mm",
-      },
-      {
-        value: "bosco-charcoal-panels-122mm-x-12mm-x-2600mm",
-        label: "Charcoal",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/Charcoal-768x1024.jpg",
-        href: "/panels/bosco-panels/bosco-charcoal-panels-122mm-x-12mm-x-2600mm",
-      },
-      {
-        value: "bosco-grey-oak-panels-122mm-x-12mm-x-2600mm",
-        label: "Grey Oak",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/Grey-Oak-768x1024.jpg",
-        href: "/panels/bosco-panels/bosco-grey-oak-panels-122mm-x-12mm-x-2600mm",
-      },
-      {
-        value: "bosco-walnut-panels-122mm-x-12mm-x-2600mm",
-        label: "Walnut",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/Walnut-768x1024.jpg",
-        href: "/panels/bosco-panels/bosco-walnut-panels-122mm-x-12mm-x-2600mm",
-      },
-      {
-        value: "bosco-natural-oak-panels-122mm-x-12mm-x-2600mm",
-        label: "Natural Oak",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/Natural-Oak-768x1024.jpg",
-        href: "/panels/bosco-panels/bosco-natural-oak-panels-122mm-x-12mm-x-2600mm",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Bosco Panels collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/bosco-panels/bosco-walnut-panels-122mm-x-12mm-x-2600mm": {
@@ -13122,43 +10906,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/Walnut-768x1024.jpg",
     ],
     colours: [
-      {
-        value: "bosco-beech-panels-122mm-x-12mm-x-2600mm",
-        label: "Beech",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/Beech-768x1024.jpg",
-        href: "/panels/bosco-panels/bosco-beech-panels-122mm-x-12mm-x-2600mm",
-      },
-      {
-        value: "bosco-charcoal-panels-122mm-x-12mm-x-2600mm",
-        label: "Charcoal",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/Charcoal-768x1024.jpg",
-        href: "/panels/bosco-panels/bosco-charcoal-panels-122mm-x-12mm-x-2600mm",
-      },
-      {
-        value: "bosco-grey-oak-panels-122mm-x-12mm-x-2600mm",
-        label: "Grey Oak",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/Grey-Oak-768x1024.jpg",
-        href: "/panels/bosco-panels/bosco-grey-oak-panels-122mm-x-12mm-x-2600mm",
-      },
-      {
-        value: "bosco-walnut-panels-122mm-x-12mm-x-2600mm",
-        label: "Walnut",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/Walnut-768x1024.jpg",
-        href: "/panels/bosco-panels/bosco-walnut-panels-122mm-x-12mm-x-2600mm",
-      },
-      {
-        value: "bosco-natural-oak-panels-122mm-x-12mm-x-2600mm",
-        label: "Natural Oak",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/Natural-Oak-768x1024.jpg",
-        href: "/panels/bosco-panels/bosco-natural-oak-panels-122mm-x-12mm-x-2600mm",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Bosco Panels collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/bosco-panels/bosco-natural-oak-panels-122mm-x-12mm-x-2600mm": {
@@ -13174,43 +10923,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/Natural-Oak-768x1024.jpg",
     ],
     colours: [
-      {
-        value: "bosco-beech-panels-122mm-x-12mm-x-2600mm",
-        label: "Beech",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/Beech-768x1024.jpg",
-        href: "/panels/bosco-panels/bosco-beech-panels-122mm-x-12mm-x-2600mm",
-      },
-      {
-        value: "bosco-charcoal-panels-122mm-x-12mm-x-2600mm",
-        label: "Charcoal",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/Charcoal-768x1024.jpg",
-        href: "/panels/bosco-panels/bosco-charcoal-panels-122mm-x-12mm-x-2600mm",
-      },
-      {
-        value: "bosco-grey-oak-panels-122mm-x-12mm-x-2600mm",
-        label: "Grey Oak",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/Grey-Oak-768x1024.jpg",
-        href: "/panels/bosco-panels/bosco-grey-oak-panels-122mm-x-12mm-x-2600mm",
-      },
-      {
-        value: "bosco-walnut-panels-122mm-x-12mm-x-2600mm",
-        label: "Walnut",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/Walnut-768x1024.jpg",
-        href: "/panels/bosco-panels/bosco-walnut-panels-122mm-x-12mm-x-2600mm",
-      },
-      {
-        value: "bosco-natural-oak-panels-122mm-x-12mm-x-2600mm",
-        label: "Natural Oak",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/Natural-Oak-768x1024.jpg",
-        href: "/panels/bosco-panels/bosco-natural-oak-panels-122mm-x-12mm-x-2600mm",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Bosco Panels collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-8mm/black-sparkle": {
@@ -13225,97 +10939,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle",
-        label: "Black Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle.jpg",
-        href: "/panels/classic-8mm/black-sparkle",
-      },
-      {
-        value: "calcutta-white",
-        label: "Calcutta White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-white.jpg",
-        href: "/panels/classic-8mm/calcutta-white",
-      },
-      {
-        value: "carrera-marble-grey",
-        label: "Carrera Marble Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-marble-grey.jpg",
-        href: "/panels/classic-8mm/carrera-marble-grey",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-beige.jpg",
-        href: "/panels/classic-8mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-grey-1.jpg",
-        href: "/panels/classic-8mm/concrete-grey",
-      },
-      {
-        value: "cutline-marble",
-        label: "Cutline Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Cutline-Marble.jpg",
-        href: "/panels/classic-8mm/cutline-marble",
-      },
-      {
-        value: "flat-white-gloss",
-        label: "Flat White (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Flat-White-Gloss.jpg",
-        href: "/panels/classic-8mm/flat-white-gloss",
-      },
-      {
-        value: "grey-marble",
-        label: "Grey Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble.jpg",
-        href: "/panels/classic-8mm/grey-marble",
-      },
-      {
-        value: "grey-sparkle",
-        label: "Grey Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-sparkle.jpg",
-        href: "/panels/classic-8mm/grey-sparkle",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-stone.jpg",
-        href: "/panels/classic-8mm/grey-stone",
-      },
-      {
-        value: "white-sparkle",
-        label: "White Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle.jpg",
-        href: "/panels/classic-8mm/white-sparkle",
-      },
-      {
-        value: "white-chrome-gloss",
-        label: "White Chrome (gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Chrome-gloss.jpg",
-        href: "/panels/classic-8mm/white-chrome-gloss",
-      },
-      {
-        value: "matt-white-4m",
-        label: "Matt White 4m",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-4m.jpg",
-        href: "/panels/classic-8mm/matt-white-4m",
-      },
-      {
-        value: "matt-white",
-        label: "Matt White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-1.jpg",
-        href: "/panels/classic-8mm/matt-white",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 8mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-8mm/calcutta-white": {
@@ -13330,97 +10955,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-white.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle",
-        label: "Black Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle.jpg",
-        href: "/panels/classic-8mm/black-sparkle",
-      },
-      {
-        value: "calcutta-white",
-        label: "Calcutta White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-white.jpg",
-        href: "/panels/classic-8mm/calcutta-white",
-      },
-      {
-        value: "carrera-marble-grey",
-        label: "Carrera Marble Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-marble-grey.jpg",
-        href: "/panels/classic-8mm/carrera-marble-grey",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-beige.jpg",
-        href: "/panels/classic-8mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-grey-1.jpg",
-        href: "/panels/classic-8mm/concrete-grey",
-      },
-      {
-        value: "cutline-marble",
-        label: "Cutline Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Cutline-Marble.jpg",
-        href: "/panels/classic-8mm/cutline-marble",
-      },
-      {
-        value: "flat-white-gloss",
-        label: "Flat White (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Flat-White-Gloss.jpg",
-        href: "/panels/classic-8mm/flat-white-gloss",
-      },
-      {
-        value: "grey-marble",
-        label: "Grey Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble.jpg",
-        href: "/panels/classic-8mm/grey-marble",
-      },
-      {
-        value: "grey-sparkle",
-        label: "Grey Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-sparkle.jpg",
-        href: "/panels/classic-8mm/grey-sparkle",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-stone.jpg",
-        href: "/panels/classic-8mm/grey-stone",
-      },
-      {
-        value: "white-sparkle",
-        label: "White Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle.jpg",
-        href: "/panels/classic-8mm/white-sparkle",
-      },
-      {
-        value: "white-chrome-gloss",
-        label: "White Chrome (gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Chrome-gloss.jpg",
-        href: "/panels/classic-8mm/white-chrome-gloss",
-      },
-      {
-        value: "matt-white-4m",
-        label: "Matt White 4m",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-4m.jpg",
-        href: "/panels/classic-8mm/matt-white-4m",
-      },
-      {
-        value: "matt-white",
-        label: "Matt White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-1.jpg",
-        href: "/panels/classic-8mm/matt-white",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 8mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-8mm/carrera-marble-grey": {
@@ -13435,97 +10971,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-marble-grey.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle",
-        label: "Black Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle.jpg",
-        href: "/panels/classic-8mm/black-sparkle",
-      },
-      {
-        value: "calcutta-white",
-        label: "Calcutta White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-white.jpg",
-        href: "/panels/classic-8mm/calcutta-white",
-      },
-      {
-        value: "carrera-marble-grey",
-        label: "Carrera Marble Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-marble-grey.jpg",
-        href: "/panels/classic-8mm/carrera-marble-grey",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-beige.jpg",
-        href: "/panels/classic-8mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-grey-1.jpg",
-        href: "/panels/classic-8mm/concrete-grey",
-      },
-      {
-        value: "cutline-marble",
-        label: "Cutline Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Cutline-Marble.jpg",
-        href: "/panels/classic-8mm/cutline-marble",
-      },
-      {
-        value: "flat-white-gloss",
-        label: "Flat White (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Flat-White-Gloss.jpg",
-        href: "/panels/classic-8mm/flat-white-gloss",
-      },
-      {
-        value: "grey-marble",
-        label: "Grey Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble.jpg",
-        href: "/panels/classic-8mm/grey-marble",
-      },
-      {
-        value: "grey-sparkle",
-        label: "Grey Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-sparkle.jpg",
-        href: "/panels/classic-8mm/grey-sparkle",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-stone.jpg",
-        href: "/panels/classic-8mm/grey-stone",
-      },
-      {
-        value: "white-sparkle",
-        label: "White Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle.jpg",
-        href: "/panels/classic-8mm/white-sparkle",
-      },
-      {
-        value: "white-chrome-gloss",
-        label: "White Chrome (gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Chrome-gloss.jpg",
-        href: "/panels/classic-8mm/white-chrome-gloss",
-      },
-      {
-        value: "matt-white-4m",
-        label: "Matt White 4m",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-4m.jpg",
-        href: "/panels/classic-8mm/matt-white-4m",
-      },
-      {
-        value: "matt-white",
-        label: "Matt White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-1.jpg",
-        href: "/panels/classic-8mm/matt-white",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 8mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-8mm/concrete-beige": {
@@ -13540,97 +10987,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-beige.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle",
-        label: "Black Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle.jpg",
-        href: "/panels/classic-8mm/black-sparkle",
-      },
-      {
-        value: "calcutta-white",
-        label: "Calcutta White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-white.jpg",
-        href: "/panels/classic-8mm/calcutta-white",
-      },
-      {
-        value: "carrera-marble-grey",
-        label: "Carrera Marble Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-marble-grey.jpg",
-        href: "/panels/classic-8mm/carrera-marble-grey",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-beige.jpg",
-        href: "/panels/classic-8mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-grey-1.jpg",
-        href: "/panels/classic-8mm/concrete-grey",
-      },
-      {
-        value: "cutline-marble",
-        label: "Cutline Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Cutline-Marble.jpg",
-        href: "/panels/classic-8mm/cutline-marble",
-      },
-      {
-        value: "flat-white-gloss",
-        label: "Flat White (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Flat-White-Gloss.jpg",
-        href: "/panels/classic-8mm/flat-white-gloss",
-      },
-      {
-        value: "grey-marble",
-        label: "Grey Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble.jpg",
-        href: "/panels/classic-8mm/grey-marble",
-      },
-      {
-        value: "grey-sparkle",
-        label: "Grey Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-sparkle.jpg",
-        href: "/panels/classic-8mm/grey-sparkle",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-stone.jpg",
-        href: "/panels/classic-8mm/grey-stone",
-      },
-      {
-        value: "white-sparkle",
-        label: "White Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle.jpg",
-        href: "/panels/classic-8mm/white-sparkle",
-      },
-      {
-        value: "white-chrome-gloss",
-        label: "White Chrome (gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Chrome-gloss.jpg",
-        href: "/panels/classic-8mm/white-chrome-gloss",
-      },
-      {
-        value: "matt-white-4m",
-        label: "Matt White 4m",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-4m.jpg",
-        href: "/panels/classic-8mm/matt-white-4m",
-      },
-      {
-        value: "matt-white",
-        label: "Matt White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-1.jpg",
-        href: "/panels/classic-8mm/matt-white",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 8mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-8mm/concrete-grey": {
@@ -13645,97 +11003,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-grey-1.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle",
-        label: "Black Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle.jpg",
-        href: "/panels/classic-8mm/black-sparkle",
-      },
-      {
-        value: "calcutta-white",
-        label: "Calcutta White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-white.jpg",
-        href: "/panels/classic-8mm/calcutta-white",
-      },
-      {
-        value: "carrera-marble-grey",
-        label: "Carrera Marble Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-marble-grey.jpg",
-        href: "/panels/classic-8mm/carrera-marble-grey",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-beige.jpg",
-        href: "/panels/classic-8mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-grey-1.jpg",
-        href: "/panels/classic-8mm/concrete-grey",
-      },
-      {
-        value: "cutline-marble",
-        label: "Cutline Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Cutline-Marble.jpg",
-        href: "/panels/classic-8mm/cutline-marble",
-      },
-      {
-        value: "flat-white-gloss",
-        label: "Flat White (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Flat-White-Gloss.jpg",
-        href: "/panels/classic-8mm/flat-white-gloss",
-      },
-      {
-        value: "grey-marble",
-        label: "Grey Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble.jpg",
-        href: "/panels/classic-8mm/grey-marble",
-      },
-      {
-        value: "grey-sparkle",
-        label: "Grey Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-sparkle.jpg",
-        href: "/panels/classic-8mm/grey-sparkle",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-stone.jpg",
-        href: "/panels/classic-8mm/grey-stone",
-      },
-      {
-        value: "white-sparkle",
-        label: "White Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle.jpg",
-        href: "/panels/classic-8mm/white-sparkle",
-      },
-      {
-        value: "white-chrome-gloss",
-        label: "White Chrome (gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Chrome-gloss.jpg",
-        href: "/panels/classic-8mm/white-chrome-gloss",
-      },
-      {
-        value: "matt-white-4m",
-        label: "Matt White 4m",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-4m.jpg",
-        href: "/panels/classic-8mm/matt-white-4m",
-      },
-      {
-        value: "matt-white",
-        label: "Matt White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-1.jpg",
-        href: "/panels/classic-8mm/matt-white",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 8mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-8mm/cutline-marble": {
@@ -13750,97 +11019,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Cutline-Marble.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle",
-        label: "Black Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle.jpg",
-        href: "/panels/classic-8mm/black-sparkle",
-      },
-      {
-        value: "calcutta-white",
-        label: "Calcutta White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-white.jpg",
-        href: "/panels/classic-8mm/calcutta-white",
-      },
-      {
-        value: "carrera-marble-grey",
-        label: "Carrera Marble Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-marble-grey.jpg",
-        href: "/panels/classic-8mm/carrera-marble-grey",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-beige.jpg",
-        href: "/panels/classic-8mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-grey-1.jpg",
-        href: "/panels/classic-8mm/concrete-grey",
-      },
-      {
-        value: "cutline-marble",
-        label: "Cutline Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Cutline-Marble.jpg",
-        href: "/panels/classic-8mm/cutline-marble",
-      },
-      {
-        value: "flat-white-gloss",
-        label: "Flat White (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Flat-White-Gloss.jpg",
-        href: "/panels/classic-8mm/flat-white-gloss",
-      },
-      {
-        value: "grey-marble",
-        label: "Grey Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble.jpg",
-        href: "/panels/classic-8mm/grey-marble",
-      },
-      {
-        value: "grey-sparkle",
-        label: "Grey Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-sparkle.jpg",
-        href: "/panels/classic-8mm/grey-sparkle",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-stone.jpg",
-        href: "/panels/classic-8mm/grey-stone",
-      },
-      {
-        value: "white-sparkle",
-        label: "White Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle.jpg",
-        href: "/panels/classic-8mm/white-sparkle",
-      },
-      {
-        value: "white-chrome-gloss",
-        label: "White Chrome (gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Chrome-gloss.jpg",
-        href: "/panels/classic-8mm/white-chrome-gloss",
-      },
-      {
-        value: "matt-white-4m",
-        label: "Matt White 4m",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-4m.jpg",
-        href: "/panels/classic-8mm/matt-white-4m",
-      },
-      {
-        value: "matt-white",
-        label: "Matt White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-1.jpg",
-        href: "/panels/classic-8mm/matt-white",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 8mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-8mm/flat-white-gloss": {
@@ -13855,97 +11035,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Flat-White-Gloss.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle",
-        label: "Black Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle.jpg",
-        href: "/panels/classic-8mm/black-sparkle",
-      },
-      {
-        value: "calcutta-white",
-        label: "Calcutta White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-white.jpg",
-        href: "/panels/classic-8mm/calcutta-white",
-      },
-      {
-        value: "carrera-marble-grey",
-        label: "Carrera Marble Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-marble-grey.jpg",
-        href: "/panels/classic-8mm/carrera-marble-grey",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-beige.jpg",
-        href: "/panels/classic-8mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-grey-1.jpg",
-        href: "/panels/classic-8mm/concrete-grey",
-      },
-      {
-        value: "cutline-marble",
-        label: "Cutline Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Cutline-Marble.jpg",
-        href: "/panels/classic-8mm/cutline-marble",
-      },
-      {
-        value: "flat-white-gloss",
-        label: "Flat White (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Flat-White-Gloss.jpg",
-        href: "/panels/classic-8mm/flat-white-gloss",
-      },
-      {
-        value: "grey-marble",
-        label: "Grey Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble.jpg",
-        href: "/panels/classic-8mm/grey-marble",
-      },
-      {
-        value: "grey-sparkle",
-        label: "Grey Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-sparkle.jpg",
-        href: "/panels/classic-8mm/grey-sparkle",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-stone.jpg",
-        href: "/panels/classic-8mm/grey-stone",
-      },
-      {
-        value: "white-sparkle",
-        label: "White Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle.jpg",
-        href: "/panels/classic-8mm/white-sparkle",
-      },
-      {
-        value: "white-chrome-gloss",
-        label: "White Chrome (gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Chrome-gloss.jpg",
-        href: "/panels/classic-8mm/white-chrome-gloss",
-      },
-      {
-        value: "matt-white-4m",
-        label: "Matt White 4m",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-4m.jpg",
-        href: "/panels/classic-8mm/matt-white-4m",
-      },
-      {
-        value: "matt-white",
-        label: "Matt White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-1.jpg",
-        href: "/panels/classic-8mm/matt-white",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 8mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-8mm/grey-marble": {
@@ -13960,97 +11051,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle",
-        label: "Black Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle.jpg",
-        href: "/panels/classic-8mm/black-sparkle",
-      },
-      {
-        value: "calcutta-white",
-        label: "Calcutta White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-white.jpg",
-        href: "/panels/classic-8mm/calcutta-white",
-      },
-      {
-        value: "carrera-marble-grey",
-        label: "Carrera Marble Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-marble-grey.jpg",
-        href: "/panels/classic-8mm/carrera-marble-grey",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-beige.jpg",
-        href: "/panels/classic-8mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-grey-1.jpg",
-        href: "/panels/classic-8mm/concrete-grey",
-      },
-      {
-        value: "cutline-marble",
-        label: "Cutline Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Cutline-Marble.jpg",
-        href: "/panels/classic-8mm/cutline-marble",
-      },
-      {
-        value: "flat-white-gloss",
-        label: "Flat White (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Flat-White-Gloss.jpg",
-        href: "/panels/classic-8mm/flat-white-gloss",
-      },
-      {
-        value: "grey-marble",
-        label: "Grey Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble.jpg",
-        href: "/panels/classic-8mm/grey-marble",
-      },
-      {
-        value: "grey-sparkle",
-        label: "Grey Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-sparkle.jpg",
-        href: "/panels/classic-8mm/grey-sparkle",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-stone.jpg",
-        href: "/panels/classic-8mm/grey-stone",
-      },
-      {
-        value: "white-sparkle",
-        label: "White Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle.jpg",
-        href: "/panels/classic-8mm/white-sparkle",
-      },
-      {
-        value: "white-chrome-gloss",
-        label: "White Chrome (gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Chrome-gloss.jpg",
-        href: "/panels/classic-8mm/white-chrome-gloss",
-      },
-      {
-        value: "matt-white-4m",
-        label: "Matt White 4m",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-4m.jpg",
-        href: "/panels/classic-8mm/matt-white-4m",
-      },
-      {
-        value: "matt-white",
-        label: "Matt White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-1.jpg",
-        href: "/panels/classic-8mm/matt-white",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 8mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-8mm/grey-sparkle": {
@@ -14065,97 +11067,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-sparkle.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle",
-        label: "Black Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle.jpg",
-        href: "/panels/classic-8mm/black-sparkle",
-      },
-      {
-        value: "calcutta-white",
-        label: "Calcutta White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-white.jpg",
-        href: "/panels/classic-8mm/calcutta-white",
-      },
-      {
-        value: "carrera-marble-grey",
-        label: "Carrera Marble Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-marble-grey.jpg",
-        href: "/panels/classic-8mm/carrera-marble-grey",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-beige.jpg",
-        href: "/panels/classic-8mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-grey-1.jpg",
-        href: "/panels/classic-8mm/concrete-grey",
-      },
-      {
-        value: "cutline-marble",
-        label: "Cutline Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Cutline-Marble.jpg",
-        href: "/panels/classic-8mm/cutline-marble",
-      },
-      {
-        value: "flat-white-gloss",
-        label: "Flat White (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Flat-White-Gloss.jpg",
-        href: "/panels/classic-8mm/flat-white-gloss",
-      },
-      {
-        value: "grey-marble",
-        label: "Grey Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble.jpg",
-        href: "/panels/classic-8mm/grey-marble",
-      },
-      {
-        value: "grey-sparkle",
-        label: "Grey Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-sparkle.jpg",
-        href: "/panels/classic-8mm/grey-sparkle",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-stone.jpg",
-        href: "/panels/classic-8mm/grey-stone",
-      },
-      {
-        value: "white-sparkle",
-        label: "White Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle.jpg",
-        href: "/panels/classic-8mm/white-sparkle",
-      },
-      {
-        value: "white-chrome-gloss",
-        label: "White Chrome (gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Chrome-gloss.jpg",
-        href: "/panels/classic-8mm/white-chrome-gloss",
-      },
-      {
-        value: "matt-white-4m",
-        label: "Matt White 4m",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-4m.jpg",
-        href: "/panels/classic-8mm/matt-white-4m",
-      },
-      {
-        value: "matt-white",
-        label: "Matt White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-1.jpg",
-        href: "/panels/classic-8mm/matt-white",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 8mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-8mm/grey-stone": {
@@ -14170,97 +11083,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-stone.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle",
-        label: "Black Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle.jpg",
-        href: "/panels/classic-8mm/black-sparkle",
-      },
-      {
-        value: "calcutta-white",
-        label: "Calcutta White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-white.jpg",
-        href: "/panels/classic-8mm/calcutta-white",
-      },
-      {
-        value: "carrera-marble-grey",
-        label: "Carrera Marble Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-marble-grey.jpg",
-        href: "/panels/classic-8mm/carrera-marble-grey",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-beige.jpg",
-        href: "/panels/classic-8mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-grey-1.jpg",
-        href: "/panels/classic-8mm/concrete-grey",
-      },
-      {
-        value: "cutline-marble",
-        label: "Cutline Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Cutline-Marble.jpg",
-        href: "/panels/classic-8mm/cutline-marble",
-      },
-      {
-        value: "flat-white-gloss",
-        label: "Flat White (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Flat-White-Gloss.jpg",
-        href: "/panels/classic-8mm/flat-white-gloss",
-      },
-      {
-        value: "grey-marble",
-        label: "Grey Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble.jpg",
-        href: "/panels/classic-8mm/grey-marble",
-      },
-      {
-        value: "grey-sparkle",
-        label: "Grey Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-sparkle.jpg",
-        href: "/panels/classic-8mm/grey-sparkle",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-stone.jpg",
-        href: "/panels/classic-8mm/grey-stone",
-      },
-      {
-        value: "white-sparkle",
-        label: "White Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle.jpg",
-        href: "/panels/classic-8mm/white-sparkle",
-      },
-      {
-        value: "white-chrome-gloss",
-        label: "White Chrome (gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Chrome-gloss.jpg",
-        href: "/panels/classic-8mm/white-chrome-gloss",
-      },
-      {
-        value: "matt-white-4m",
-        label: "Matt White 4m",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-4m.jpg",
-        href: "/panels/classic-8mm/matt-white-4m",
-      },
-      {
-        value: "matt-white",
-        label: "Matt White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-1.jpg",
-        href: "/panels/classic-8mm/matt-white",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 8mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-8mm/white-sparkle": {
@@ -14275,97 +11099,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle",
-        label: "Black Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle.jpg",
-        href: "/panels/classic-8mm/black-sparkle",
-      },
-      {
-        value: "calcutta-white",
-        label: "Calcutta White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-white.jpg",
-        href: "/panels/classic-8mm/calcutta-white",
-      },
-      {
-        value: "carrera-marble-grey",
-        label: "Carrera Marble Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-marble-grey.jpg",
-        href: "/panels/classic-8mm/carrera-marble-grey",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-beige.jpg",
-        href: "/panels/classic-8mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-grey-1.jpg",
-        href: "/panels/classic-8mm/concrete-grey",
-      },
-      {
-        value: "cutline-marble",
-        label: "Cutline Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Cutline-Marble.jpg",
-        href: "/panels/classic-8mm/cutline-marble",
-      },
-      {
-        value: "flat-white-gloss",
-        label: "Flat White (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Flat-White-Gloss.jpg",
-        href: "/panels/classic-8mm/flat-white-gloss",
-      },
-      {
-        value: "grey-marble",
-        label: "Grey Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble.jpg",
-        href: "/panels/classic-8mm/grey-marble",
-      },
-      {
-        value: "grey-sparkle",
-        label: "Grey Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-sparkle.jpg",
-        href: "/panels/classic-8mm/grey-sparkle",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-stone.jpg",
-        href: "/panels/classic-8mm/grey-stone",
-      },
-      {
-        value: "white-sparkle",
-        label: "White Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle.jpg",
-        href: "/panels/classic-8mm/white-sparkle",
-      },
-      {
-        value: "white-chrome-gloss",
-        label: "White Chrome (gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Chrome-gloss.jpg",
-        href: "/panels/classic-8mm/white-chrome-gloss",
-      },
-      {
-        value: "matt-white-4m",
-        label: "Matt White 4m",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-4m.jpg",
-        href: "/panels/classic-8mm/matt-white-4m",
-      },
-      {
-        value: "matt-white",
-        label: "Matt White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-1.jpg",
-        href: "/panels/classic-8mm/matt-white",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 8mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-8mm/white-chrome-gloss": {
@@ -14380,97 +11115,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Chrome-gloss.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle",
-        label: "Black Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle.jpg",
-        href: "/panels/classic-8mm/black-sparkle",
-      },
-      {
-        value: "calcutta-white",
-        label: "Calcutta White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-white.jpg",
-        href: "/panels/classic-8mm/calcutta-white",
-      },
-      {
-        value: "carrera-marble-grey",
-        label: "Carrera Marble Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-marble-grey.jpg",
-        href: "/panels/classic-8mm/carrera-marble-grey",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-beige.jpg",
-        href: "/panels/classic-8mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-grey-1.jpg",
-        href: "/panels/classic-8mm/concrete-grey",
-      },
-      {
-        value: "cutline-marble",
-        label: "Cutline Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Cutline-Marble.jpg",
-        href: "/panels/classic-8mm/cutline-marble",
-      },
-      {
-        value: "flat-white-gloss",
-        label: "Flat White (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Flat-White-Gloss.jpg",
-        href: "/panels/classic-8mm/flat-white-gloss",
-      },
-      {
-        value: "grey-marble",
-        label: "Grey Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble.jpg",
-        href: "/panels/classic-8mm/grey-marble",
-      },
-      {
-        value: "grey-sparkle",
-        label: "Grey Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-sparkle.jpg",
-        href: "/panels/classic-8mm/grey-sparkle",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-stone.jpg",
-        href: "/panels/classic-8mm/grey-stone",
-      },
-      {
-        value: "white-sparkle",
-        label: "White Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle.jpg",
-        href: "/panels/classic-8mm/white-sparkle",
-      },
-      {
-        value: "white-chrome-gloss",
-        label: "White Chrome (gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Chrome-gloss.jpg",
-        href: "/panels/classic-8mm/white-chrome-gloss",
-      },
-      {
-        value: "matt-white-4m",
-        label: "Matt White 4m",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-4m.jpg",
-        href: "/panels/classic-8mm/matt-white-4m",
-      },
-      {
-        value: "matt-white",
-        label: "Matt White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-1.jpg",
-        href: "/panels/classic-8mm/matt-white",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 8mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-8mm/matt-white-4m": {
@@ -14485,97 +11131,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-4m.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle",
-        label: "Black Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle.jpg",
-        href: "/panels/classic-8mm/black-sparkle",
-      },
-      {
-        value: "calcutta-white",
-        label: "Calcutta White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-white.jpg",
-        href: "/panels/classic-8mm/calcutta-white",
-      },
-      {
-        value: "carrera-marble-grey",
-        label: "Carrera Marble Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-marble-grey.jpg",
-        href: "/panels/classic-8mm/carrera-marble-grey",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-beige.jpg",
-        href: "/panels/classic-8mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-grey-1.jpg",
-        href: "/panels/classic-8mm/concrete-grey",
-      },
-      {
-        value: "cutline-marble",
-        label: "Cutline Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Cutline-Marble.jpg",
-        href: "/panels/classic-8mm/cutline-marble",
-      },
-      {
-        value: "flat-white-gloss",
-        label: "Flat White (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Flat-White-Gloss.jpg",
-        href: "/panels/classic-8mm/flat-white-gloss",
-      },
-      {
-        value: "grey-marble",
-        label: "Grey Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble.jpg",
-        href: "/panels/classic-8mm/grey-marble",
-      },
-      {
-        value: "grey-sparkle",
-        label: "Grey Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-sparkle.jpg",
-        href: "/panels/classic-8mm/grey-sparkle",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-stone.jpg",
-        href: "/panels/classic-8mm/grey-stone",
-      },
-      {
-        value: "white-sparkle",
-        label: "White Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle.jpg",
-        href: "/panels/classic-8mm/white-sparkle",
-      },
-      {
-        value: "white-chrome-gloss",
-        label: "White Chrome (gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Chrome-gloss.jpg",
-        href: "/panels/classic-8mm/white-chrome-gloss",
-      },
-      {
-        value: "matt-white-4m",
-        label: "Matt White 4m",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-4m.jpg",
-        href: "/panels/classic-8mm/matt-white-4m",
-      },
-      {
-        value: "matt-white",
-        label: "Matt White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-1.jpg",
-        href: "/panels/classic-8mm/matt-white",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 8mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-8mm/matt-white": {
@@ -14590,97 +11147,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-1.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle",
-        label: "Black Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle.jpg",
-        href: "/panels/classic-8mm/black-sparkle",
-      },
-      {
-        value: "calcutta-white",
-        label: "Calcutta White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-white.jpg",
-        href: "/panels/classic-8mm/calcutta-white",
-      },
-      {
-        value: "carrera-marble-grey",
-        label: "Carrera Marble Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-marble-grey.jpg",
-        href: "/panels/classic-8mm/carrera-marble-grey",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-beige.jpg",
-        href: "/panels/classic-8mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-grey-1.jpg",
-        href: "/panels/classic-8mm/concrete-grey",
-      },
-      {
-        value: "cutline-marble",
-        label: "Cutline Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Cutline-Marble.jpg",
-        href: "/panels/classic-8mm/cutline-marble",
-      },
-      {
-        value: "flat-white-gloss",
-        label: "Flat White (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Flat-White-Gloss.jpg",
-        href: "/panels/classic-8mm/flat-white-gloss",
-      },
-      {
-        value: "grey-marble",
-        label: "Grey Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble.jpg",
-        href: "/panels/classic-8mm/grey-marble",
-      },
-      {
-        value: "grey-sparkle",
-        label: "Grey Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-sparkle.jpg",
-        href: "/panels/classic-8mm/grey-sparkle",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-stone.jpg",
-        href: "/panels/classic-8mm/grey-stone",
-      },
-      {
-        value: "white-sparkle",
-        label: "White Sparkle",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle.jpg",
-        href: "/panels/classic-8mm/white-sparkle",
-      },
-      {
-        value: "white-chrome-gloss",
-        label: "White Chrome (gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Chrome-gloss.jpg",
-        href: "/panels/classic-8mm/white-chrome-gloss",
-      },
-      {
-        value: "matt-white-4m",
-        label: "Matt White 4m",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-4m.jpg",
-        href: "/panels/classic-8mm/matt-white-4m",
-      },
-      {
-        value: "matt-white",
-        label: "Matt White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Matt-White-1.jpg",
-        href: "/panels/classic-8mm/matt-white",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 8mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-9mm/black-sparkle-chrome-gloss": {
@@ -14695,67 +11163,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Chrome-Gloss.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-chrome-gloss",
-        label: "Black Sparkle Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/black-sparkle-chrome-gloss",
-      },
-      {
-        value: "flat-white-gloss",
-        label: "Flat White (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Flat-White-Gloss-available-in-4-metres.jpg",
-        href: "/panels/classic-9mm/flat-white-gloss",
-      },
-      {
-        value: "grey-marble-gloss",
-        label: "Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble-Gloss.jpg",
-        href: "/panels/classic-9mm/grey-marble-gloss",
-      },
-      {
-        value: "grey-marble-chrome-gloss",
-        label: "Grey Marble Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/grey-marble-chrome-gloss",
-      },
-      {
-        value: "white-ash-gloss",
-        label: "White Ash (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Ash-Gloss.jpg",
-        href: "/panels/classic-9mm/white-ash-gloss",
-      },
-      {
-        value: "white-ash-chrome-gloss",
-        label: "White Ash & Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Ash-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/white-ash-chrome-gloss",
-      },
-      {
-        value: "white-chrome-gloss",
-        label: "White Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Chrome-Gloss-1.jpg",
-        href: "/panels/classic-9mm/white-chrome-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss.jpg",
-        href: "/panels/classic-9mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-sparkle-chrome-gloss",
-        label: "White Sparkle Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/white-sparkle-chrome-gloss",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 9.5mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-9mm/flat-white-gloss": {
@@ -14770,67 +11179,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Flat-White-Gloss-available-in-4-metres.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-chrome-gloss",
-        label: "Black Sparkle Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/black-sparkle-chrome-gloss",
-      },
-      {
-        value: "flat-white-gloss",
-        label: "Flat White (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Flat-White-Gloss-available-in-4-metres.jpg",
-        href: "/panels/classic-9mm/flat-white-gloss",
-      },
-      {
-        value: "grey-marble-gloss",
-        label: "Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble-Gloss.jpg",
-        href: "/panels/classic-9mm/grey-marble-gloss",
-      },
-      {
-        value: "grey-marble-chrome-gloss",
-        label: "Grey Marble Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/grey-marble-chrome-gloss",
-      },
-      {
-        value: "white-ash-gloss",
-        label: "White Ash (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Ash-Gloss.jpg",
-        href: "/panels/classic-9mm/white-ash-gloss",
-      },
-      {
-        value: "white-ash-chrome-gloss",
-        label: "White Ash & Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Ash-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/white-ash-chrome-gloss",
-      },
-      {
-        value: "white-chrome-gloss",
-        label: "White Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Chrome-Gloss-1.jpg",
-        href: "/panels/classic-9mm/white-chrome-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss.jpg",
-        href: "/panels/classic-9mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-sparkle-chrome-gloss",
-        label: "White Sparkle Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/white-sparkle-chrome-gloss",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 9.5mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-9mm/grey-marble-gloss": {
@@ -14845,67 +11195,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble-Gloss.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-chrome-gloss",
-        label: "Black Sparkle Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/black-sparkle-chrome-gloss",
-      },
-      {
-        value: "flat-white-gloss",
-        label: "Flat White (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Flat-White-Gloss-available-in-4-metres.jpg",
-        href: "/panels/classic-9mm/flat-white-gloss",
-      },
-      {
-        value: "grey-marble-gloss",
-        label: "Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble-Gloss.jpg",
-        href: "/panels/classic-9mm/grey-marble-gloss",
-      },
-      {
-        value: "grey-marble-chrome-gloss",
-        label: "Grey Marble Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/grey-marble-chrome-gloss",
-      },
-      {
-        value: "white-ash-gloss",
-        label: "White Ash (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Ash-Gloss.jpg",
-        href: "/panels/classic-9mm/white-ash-gloss",
-      },
-      {
-        value: "white-ash-chrome-gloss",
-        label: "White Ash & Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Ash-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/white-ash-chrome-gloss",
-      },
-      {
-        value: "white-chrome-gloss",
-        label: "White Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Chrome-Gloss-1.jpg",
-        href: "/panels/classic-9mm/white-chrome-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss.jpg",
-        href: "/panels/classic-9mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-sparkle-chrome-gloss",
-        label: "White Sparkle Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/white-sparkle-chrome-gloss",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 9.5mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-9mm/grey-marble-chrome-gloss": {
@@ -14920,67 +11211,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble-Chrome-Gloss.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-chrome-gloss",
-        label: "Black Sparkle Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/black-sparkle-chrome-gloss",
-      },
-      {
-        value: "flat-white-gloss",
-        label: "Flat White (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Flat-White-Gloss-available-in-4-metres.jpg",
-        href: "/panels/classic-9mm/flat-white-gloss",
-      },
-      {
-        value: "grey-marble-gloss",
-        label: "Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble-Gloss.jpg",
-        href: "/panels/classic-9mm/grey-marble-gloss",
-      },
-      {
-        value: "grey-marble-chrome-gloss",
-        label: "Grey Marble Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/grey-marble-chrome-gloss",
-      },
-      {
-        value: "white-ash-gloss",
-        label: "White Ash (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Ash-Gloss.jpg",
-        href: "/panels/classic-9mm/white-ash-gloss",
-      },
-      {
-        value: "white-ash-chrome-gloss",
-        label: "White Ash & Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Ash-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/white-ash-chrome-gloss",
-      },
-      {
-        value: "white-chrome-gloss",
-        label: "White Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Chrome-Gloss-1.jpg",
-        href: "/panels/classic-9mm/white-chrome-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss.jpg",
-        href: "/panels/classic-9mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-sparkle-chrome-gloss",
-        label: "White Sparkle Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/white-sparkle-chrome-gloss",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 9.5mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-9mm/white-ash-gloss": {
@@ -14995,67 +11227,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Ash-Gloss.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-chrome-gloss",
-        label: "Black Sparkle Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/black-sparkle-chrome-gloss",
-      },
-      {
-        value: "flat-white-gloss",
-        label: "Flat White (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Flat-White-Gloss-available-in-4-metres.jpg",
-        href: "/panels/classic-9mm/flat-white-gloss",
-      },
-      {
-        value: "grey-marble-gloss",
-        label: "Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble-Gloss.jpg",
-        href: "/panels/classic-9mm/grey-marble-gloss",
-      },
-      {
-        value: "grey-marble-chrome-gloss",
-        label: "Grey Marble Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/grey-marble-chrome-gloss",
-      },
-      {
-        value: "white-ash-gloss",
-        label: "White Ash (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Ash-Gloss.jpg",
-        href: "/panels/classic-9mm/white-ash-gloss",
-      },
-      {
-        value: "white-ash-chrome-gloss",
-        label: "White Ash & Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Ash-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/white-ash-chrome-gloss",
-      },
-      {
-        value: "white-chrome-gloss",
-        label: "White Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Chrome-Gloss-1.jpg",
-        href: "/panels/classic-9mm/white-chrome-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss.jpg",
-        href: "/panels/classic-9mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-sparkle-chrome-gloss",
-        label: "White Sparkle Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/white-sparkle-chrome-gloss",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 9.5mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-9mm/white-ash-chrome-gloss": {
@@ -15070,67 +11243,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Ash-Chrome-Gloss.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-chrome-gloss",
-        label: "Black Sparkle Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/black-sparkle-chrome-gloss",
-      },
-      {
-        value: "flat-white-gloss",
-        label: "Flat White (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Flat-White-Gloss-available-in-4-metres.jpg",
-        href: "/panels/classic-9mm/flat-white-gloss",
-      },
-      {
-        value: "grey-marble-gloss",
-        label: "Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble-Gloss.jpg",
-        href: "/panels/classic-9mm/grey-marble-gloss",
-      },
-      {
-        value: "grey-marble-chrome-gloss",
-        label: "Grey Marble Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/grey-marble-chrome-gloss",
-      },
-      {
-        value: "white-ash-gloss",
-        label: "White Ash (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Ash-Gloss.jpg",
-        href: "/panels/classic-9mm/white-ash-gloss",
-      },
-      {
-        value: "white-ash-chrome-gloss",
-        label: "White Ash & Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Ash-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/white-ash-chrome-gloss",
-      },
-      {
-        value: "white-chrome-gloss",
-        label: "White Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Chrome-Gloss-1.jpg",
-        href: "/panels/classic-9mm/white-chrome-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss.jpg",
-        href: "/panels/classic-9mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-sparkle-chrome-gloss",
-        label: "White Sparkle Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/white-sparkle-chrome-gloss",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 9.5mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-9mm/white-chrome-gloss": {
@@ -15145,67 +11259,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Chrome-Gloss-1.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-chrome-gloss",
-        label: "Black Sparkle Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/black-sparkle-chrome-gloss",
-      },
-      {
-        value: "flat-white-gloss",
-        label: "Flat White (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Flat-White-Gloss-available-in-4-metres.jpg",
-        href: "/panels/classic-9mm/flat-white-gloss",
-      },
-      {
-        value: "grey-marble-gloss",
-        label: "Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble-Gloss.jpg",
-        href: "/panels/classic-9mm/grey-marble-gloss",
-      },
-      {
-        value: "grey-marble-chrome-gloss",
-        label: "Grey Marble Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/grey-marble-chrome-gloss",
-      },
-      {
-        value: "white-ash-gloss",
-        label: "White Ash (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Ash-Gloss.jpg",
-        href: "/panels/classic-9mm/white-ash-gloss",
-      },
-      {
-        value: "white-ash-chrome-gloss",
-        label: "White Ash & Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Ash-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/white-ash-chrome-gloss",
-      },
-      {
-        value: "white-chrome-gloss",
-        label: "White Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Chrome-Gloss-1.jpg",
-        href: "/panels/classic-9mm/white-chrome-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss.jpg",
-        href: "/panels/classic-9mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-sparkle-chrome-gloss",
-        label: "White Sparkle Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/white-sparkle-chrome-gloss",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 9.5mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-9mm/white-sparkle-gloss": {
@@ -15220,67 +11275,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-chrome-gloss",
-        label: "Black Sparkle Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/black-sparkle-chrome-gloss",
-      },
-      {
-        value: "flat-white-gloss",
-        label: "Flat White (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Flat-White-Gloss-available-in-4-metres.jpg",
-        href: "/panels/classic-9mm/flat-white-gloss",
-      },
-      {
-        value: "grey-marble-gloss",
-        label: "Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble-Gloss.jpg",
-        href: "/panels/classic-9mm/grey-marble-gloss",
-      },
-      {
-        value: "grey-marble-chrome-gloss",
-        label: "Grey Marble Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/grey-marble-chrome-gloss",
-      },
-      {
-        value: "white-ash-gloss",
-        label: "White Ash (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Ash-Gloss.jpg",
-        href: "/panels/classic-9mm/white-ash-gloss",
-      },
-      {
-        value: "white-ash-chrome-gloss",
-        label: "White Ash & Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Ash-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/white-ash-chrome-gloss",
-      },
-      {
-        value: "white-chrome-gloss",
-        label: "White Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Chrome-Gloss-1.jpg",
-        href: "/panels/classic-9mm/white-chrome-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss.jpg",
-        href: "/panels/classic-9mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-sparkle-chrome-gloss",
-        label: "White Sparkle Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/white-sparkle-chrome-gloss",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 9.5mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-9mm/white-sparkle-chrome-gloss": {
@@ -15295,67 +11291,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Chrome-Gloss.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-chrome-gloss",
-        label: "Black Sparkle Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/black-sparkle-chrome-gloss",
-      },
-      {
-        value: "flat-white-gloss",
-        label: "Flat White (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Flat-White-Gloss-available-in-4-metres.jpg",
-        href: "/panels/classic-9mm/flat-white-gloss",
-      },
-      {
-        value: "grey-marble-gloss",
-        label: "Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble-Gloss.jpg",
-        href: "/panels/classic-9mm/grey-marble-gloss",
-      },
-      {
-        value: "grey-marble-chrome-gloss",
-        label: "Grey Marble Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Marble-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/grey-marble-chrome-gloss",
-      },
-      {
-        value: "white-ash-gloss",
-        label: "White Ash (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Ash-Gloss.jpg",
-        href: "/panels/classic-9mm/white-ash-gloss",
-      },
-      {
-        value: "white-ash-chrome-gloss",
-        label: "White Ash & Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Ash-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/white-ash-chrome-gloss",
-      },
-      {
-        value: "white-chrome-gloss",
-        label: "White Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Chrome-Gloss-1.jpg",
-        href: "/panels/classic-9mm/white-chrome-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss.jpg",
-        href: "/panels/classic-9mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-sparkle-chrome-gloss",
-        label: "White Sparkle Chrome (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Chrome-Gloss.jpg",
-        href: "/panels/classic-9mm/white-sparkle-chrome-gloss",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 9.5mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-10mm/black-sparkle-gloss": {
@@ -15370,139 +11307,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Gloss.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-gloss",
-        label: "Black Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/black-sparkle-gloss",
-      },
-      {
-        value: "blue-gloss-onyx",
-        label: "Blue Gloss Onyx",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Blue-Gloss-Onyx.jpg",
-        href: "/panels/classic-10mm/blue-gloss-onyx",
-      },
-      {
-        value: "calcutta-gloss",
-        label: "Calcutta (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-Gloss.jpg",
-        href: "/panels/classic-10mm/calcutta-gloss",
-      },
-      {
-        value: "carrera-marble-gloss",
-        label: "Carrera Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/carrera-marble-gloss",
-      },
-      {
-        value: "carrera-marble-matt",
-        label: "Carrera Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/carrera-marble-matt",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Beige-1.jpg",
-        href: "/panels/classic-10mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Grey-2.jpg",
-        href: "/panels/classic-10mm/concrete-grey",
-      },
-      {
-        value: "eclipse-marble",
-        label: "Eclipse Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Eclipse-Marble.jpg",
-        href: "/panels/classic-10mm/eclipse-marble",
-      },
-      {
-        value: "emperor-marble",
-        label: "Emperor Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Emperor-Marble.jpg",
-        href: "/panels/classic-10mm/emperor-marble",
-      },
-      {
-        value: "gloss-white",
-        label: "Gloss White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Gloss-White.jpg",
-        href: "/panels/classic-10mm/gloss-white",
-      },
-      {
-        value: "grey-onyx-matt",
-        label: "Grey Onyx (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Onyx-Matt.jpg",
-        href: "/panels/classic-10mm/grey-onyx-matt",
-      },
-      {
-        value: "grey-sparkle-gloss",
-        label: "Grey Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-sparkle-gloss",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-1.jpg",
-        href: "/panels/classic-10mm/grey-stone",
-      },
-      {
-        value: "grey-stone-gloss",
-        label: "Grey Stone (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-stone-gloss",
-      },
-      {
-        value: "light-grey-marble-matt",
-        label: "Light Grey Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-matt",
-      },
-      {
-        value: "light-grey-marble-gloss",
-        label: "Light Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Gloss-1.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-gloss",
-      },
-      {
-        value: "orion-marble",
-        label: "Orion Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Orion-Marble.jpg",
-        href: "/panels/classic-10mm/orion-marble",
-      },
-      {
-        value: "pergamon-marble-gloss",
-        label: "Pergamon Marble Gloss",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Pergamon-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/pergamon-marble-gloss",
-      },
-      {
-        value: "travertine-marble-gloss",
-        label: "Travertine Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Travertine-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/travertine-marble-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss-1.jpg",
-        href: "/panels/classic-10mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-stone",
-        label: "White Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Stone.jpg",
-        href: "/panels/classic-10mm/white-stone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 10mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-10mm/blue-gloss-onyx": {
@@ -15517,139 +11323,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Blue-Gloss-Onyx.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-gloss",
-        label: "Black Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/black-sparkle-gloss",
-      },
-      {
-        value: "blue-gloss-onyx",
-        label: "Blue Gloss Onyx",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Blue-Gloss-Onyx.jpg",
-        href: "/panels/classic-10mm/blue-gloss-onyx",
-      },
-      {
-        value: "calcutta-gloss",
-        label: "Calcutta (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-Gloss.jpg",
-        href: "/panels/classic-10mm/calcutta-gloss",
-      },
-      {
-        value: "carrera-marble-gloss",
-        label: "Carrera Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/carrera-marble-gloss",
-      },
-      {
-        value: "carrera-marble-matt",
-        label: "Carrera Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/carrera-marble-matt",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Beige-1.jpg",
-        href: "/panels/classic-10mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Grey-2.jpg",
-        href: "/panels/classic-10mm/concrete-grey",
-      },
-      {
-        value: "eclipse-marble",
-        label: "Eclipse Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Eclipse-Marble.jpg",
-        href: "/panels/classic-10mm/eclipse-marble",
-      },
-      {
-        value: "emperor-marble",
-        label: "Emperor Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Emperor-Marble.jpg",
-        href: "/panels/classic-10mm/emperor-marble",
-      },
-      {
-        value: "gloss-white",
-        label: "Gloss White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Gloss-White.jpg",
-        href: "/panels/classic-10mm/gloss-white",
-      },
-      {
-        value: "grey-onyx-matt",
-        label: "Grey Onyx (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Onyx-Matt.jpg",
-        href: "/panels/classic-10mm/grey-onyx-matt",
-      },
-      {
-        value: "grey-sparkle-gloss",
-        label: "Grey Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-sparkle-gloss",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-1.jpg",
-        href: "/panels/classic-10mm/grey-stone",
-      },
-      {
-        value: "grey-stone-gloss",
-        label: "Grey Stone (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-stone-gloss",
-      },
-      {
-        value: "light-grey-marble-matt",
-        label: "Light Grey Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-matt",
-      },
-      {
-        value: "light-grey-marble-gloss",
-        label: "Light Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Gloss-1.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-gloss",
-      },
-      {
-        value: "orion-marble",
-        label: "Orion Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Orion-Marble.jpg",
-        href: "/panels/classic-10mm/orion-marble",
-      },
-      {
-        value: "pergamon-marble-gloss",
-        label: "Pergamon Marble Gloss",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Pergamon-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/pergamon-marble-gloss",
-      },
-      {
-        value: "travertine-marble-gloss",
-        label: "Travertine Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Travertine-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/travertine-marble-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss-1.jpg",
-        href: "/panels/classic-10mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-stone",
-        label: "White Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Stone.jpg",
-        href: "/panels/classic-10mm/white-stone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 10mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-10mm/calcutta-gloss": {
@@ -15664,139 +11339,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-Gloss.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-gloss",
-        label: "Black Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/black-sparkle-gloss",
-      },
-      {
-        value: "blue-gloss-onyx",
-        label: "Blue Gloss Onyx",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Blue-Gloss-Onyx.jpg",
-        href: "/panels/classic-10mm/blue-gloss-onyx",
-      },
-      {
-        value: "calcutta-gloss",
-        label: "Calcutta (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-Gloss.jpg",
-        href: "/panels/classic-10mm/calcutta-gloss",
-      },
-      {
-        value: "carrera-marble-gloss",
-        label: "Carrera Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/carrera-marble-gloss",
-      },
-      {
-        value: "carrera-marble-matt",
-        label: "Carrera Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/carrera-marble-matt",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Beige-1.jpg",
-        href: "/panels/classic-10mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Grey-2.jpg",
-        href: "/panels/classic-10mm/concrete-grey",
-      },
-      {
-        value: "eclipse-marble",
-        label: "Eclipse Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Eclipse-Marble.jpg",
-        href: "/panels/classic-10mm/eclipse-marble",
-      },
-      {
-        value: "emperor-marble",
-        label: "Emperor Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Emperor-Marble.jpg",
-        href: "/panels/classic-10mm/emperor-marble",
-      },
-      {
-        value: "gloss-white",
-        label: "Gloss White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Gloss-White.jpg",
-        href: "/panels/classic-10mm/gloss-white",
-      },
-      {
-        value: "grey-onyx-matt",
-        label: "Grey Onyx (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Onyx-Matt.jpg",
-        href: "/panels/classic-10mm/grey-onyx-matt",
-      },
-      {
-        value: "grey-sparkle-gloss",
-        label: "Grey Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-sparkle-gloss",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-1.jpg",
-        href: "/panels/classic-10mm/grey-stone",
-      },
-      {
-        value: "grey-stone-gloss",
-        label: "Grey Stone (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-stone-gloss",
-      },
-      {
-        value: "light-grey-marble-matt",
-        label: "Light Grey Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-matt",
-      },
-      {
-        value: "light-grey-marble-gloss",
-        label: "Light Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Gloss-1.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-gloss",
-      },
-      {
-        value: "orion-marble",
-        label: "Orion Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Orion-Marble.jpg",
-        href: "/panels/classic-10mm/orion-marble",
-      },
-      {
-        value: "pergamon-marble-gloss",
-        label: "Pergamon Marble Gloss",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Pergamon-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/pergamon-marble-gloss",
-      },
-      {
-        value: "travertine-marble-gloss",
-        label: "Travertine Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Travertine-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/travertine-marble-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss-1.jpg",
-        href: "/panels/classic-10mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-stone",
-        label: "White Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Stone.jpg",
-        href: "/panels/classic-10mm/white-stone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 10mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-10mm/carrera-marble-gloss": {
@@ -15811,139 +11355,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Gloss.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-gloss",
-        label: "Black Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/black-sparkle-gloss",
-      },
-      {
-        value: "blue-gloss-onyx",
-        label: "Blue Gloss Onyx",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Blue-Gloss-Onyx.jpg",
-        href: "/panels/classic-10mm/blue-gloss-onyx",
-      },
-      {
-        value: "calcutta-gloss",
-        label: "Calcutta (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-Gloss.jpg",
-        href: "/panels/classic-10mm/calcutta-gloss",
-      },
-      {
-        value: "carrera-marble-gloss",
-        label: "Carrera Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/carrera-marble-gloss",
-      },
-      {
-        value: "carrera-marble-matt",
-        label: "Carrera Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/carrera-marble-matt",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Beige-1.jpg",
-        href: "/panels/classic-10mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Grey-2.jpg",
-        href: "/panels/classic-10mm/concrete-grey",
-      },
-      {
-        value: "eclipse-marble",
-        label: "Eclipse Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Eclipse-Marble.jpg",
-        href: "/panels/classic-10mm/eclipse-marble",
-      },
-      {
-        value: "emperor-marble",
-        label: "Emperor Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Emperor-Marble.jpg",
-        href: "/panels/classic-10mm/emperor-marble",
-      },
-      {
-        value: "gloss-white",
-        label: "Gloss White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Gloss-White.jpg",
-        href: "/panels/classic-10mm/gloss-white",
-      },
-      {
-        value: "grey-onyx-matt",
-        label: "Grey Onyx (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Onyx-Matt.jpg",
-        href: "/panels/classic-10mm/grey-onyx-matt",
-      },
-      {
-        value: "grey-sparkle-gloss",
-        label: "Grey Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-sparkle-gloss",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-1.jpg",
-        href: "/panels/classic-10mm/grey-stone",
-      },
-      {
-        value: "grey-stone-gloss",
-        label: "Grey Stone (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-stone-gloss",
-      },
-      {
-        value: "light-grey-marble-matt",
-        label: "Light Grey Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-matt",
-      },
-      {
-        value: "light-grey-marble-gloss",
-        label: "Light Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Gloss-1.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-gloss",
-      },
-      {
-        value: "orion-marble",
-        label: "Orion Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Orion-Marble.jpg",
-        href: "/panels/classic-10mm/orion-marble",
-      },
-      {
-        value: "pergamon-marble-gloss",
-        label: "Pergamon Marble Gloss",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Pergamon-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/pergamon-marble-gloss",
-      },
-      {
-        value: "travertine-marble-gloss",
-        label: "Travertine Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Travertine-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/travertine-marble-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss-1.jpg",
-        href: "/panels/classic-10mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-stone",
-        label: "White Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Stone.jpg",
-        href: "/panels/classic-10mm/white-stone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 10mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-10mm/carrera-marble-matt": {
@@ -15958,139 +11371,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Matt.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-gloss",
-        label: "Black Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/black-sparkle-gloss",
-      },
-      {
-        value: "blue-gloss-onyx",
-        label: "Blue Gloss Onyx",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Blue-Gloss-Onyx.jpg",
-        href: "/panels/classic-10mm/blue-gloss-onyx",
-      },
-      {
-        value: "calcutta-gloss",
-        label: "Calcutta (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-Gloss.jpg",
-        href: "/panels/classic-10mm/calcutta-gloss",
-      },
-      {
-        value: "carrera-marble-gloss",
-        label: "Carrera Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/carrera-marble-gloss",
-      },
-      {
-        value: "carrera-marble-matt",
-        label: "Carrera Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/carrera-marble-matt",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Beige-1.jpg",
-        href: "/panels/classic-10mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Grey-2.jpg",
-        href: "/panels/classic-10mm/concrete-grey",
-      },
-      {
-        value: "eclipse-marble",
-        label: "Eclipse Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Eclipse-Marble.jpg",
-        href: "/panels/classic-10mm/eclipse-marble",
-      },
-      {
-        value: "emperor-marble",
-        label: "Emperor Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Emperor-Marble.jpg",
-        href: "/panels/classic-10mm/emperor-marble",
-      },
-      {
-        value: "gloss-white",
-        label: "Gloss White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Gloss-White.jpg",
-        href: "/panels/classic-10mm/gloss-white",
-      },
-      {
-        value: "grey-onyx-matt",
-        label: "Grey Onyx (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Onyx-Matt.jpg",
-        href: "/panels/classic-10mm/grey-onyx-matt",
-      },
-      {
-        value: "grey-sparkle-gloss",
-        label: "Grey Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-sparkle-gloss",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-1.jpg",
-        href: "/panels/classic-10mm/grey-stone",
-      },
-      {
-        value: "grey-stone-gloss",
-        label: "Grey Stone (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-stone-gloss",
-      },
-      {
-        value: "light-grey-marble-matt",
-        label: "Light Grey Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-matt",
-      },
-      {
-        value: "light-grey-marble-gloss",
-        label: "Light Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Gloss-1.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-gloss",
-      },
-      {
-        value: "orion-marble",
-        label: "Orion Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Orion-Marble.jpg",
-        href: "/panels/classic-10mm/orion-marble",
-      },
-      {
-        value: "pergamon-marble-gloss",
-        label: "Pergamon Marble Gloss",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Pergamon-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/pergamon-marble-gloss",
-      },
-      {
-        value: "travertine-marble-gloss",
-        label: "Travertine Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Travertine-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/travertine-marble-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss-1.jpg",
-        href: "/panels/classic-10mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-stone",
-        label: "White Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Stone.jpg",
-        href: "/panels/classic-10mm/white-stone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 10mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-10mm/concrete-beige": {
@@ -16105,139 +11387,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Beige-1.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-gloss",
-        label: "Black Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/black-sparkle-gloss",
-      },
-      {
-        value: "blue-gloss-onyx",
-        label: "Blue Gloss Onyx",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Blue-Gloss-Onyx.jpg",
-        href: "/panels/classic-10mm/blue-gloss-onyx",
-      },
-      {
-        value: "calcutta-gloss",
-        label: "Calcutta (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-Gloss.jpg",
-        href: "/panels/classic-10mm/calcutta-gloss",
-      },
-      {
-        value: "carrera-marble-gloss",
-        label: "Carrera Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/carrera-marble-gloss",
-      },
-      {
-        value: "carrera-marble-matt",
-        label: "Carrera Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/carrera-marble-matt",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Beige-1.jpg",
-        href: "/panels/classic-10mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Grey-2.jpg",
-        href: "/panels/classic-10mm/concrete-grey",
-      },
-      {
-        value: "eclipse-marble",
-        label: "Eclipse Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Eclipse-Marble.jpg",
-        href: "/panels/classic-10mm/eclipse-marble",
-      },
-      {
-        value: "emperor-marble",
-        label: "Emperor Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Emperor-Marble.jpg",
-        href: "/panels/classic-10mm/emperor-marble",
-      },
-      {
-        value: "gloss-white",
-        label: "Gloss White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Gloss-White.jpg",
-        href: "/panels/classic-10mm/gloss-white",
-      },
-      {
-        value: "grey-onyx-matt",
-        label: "Grey Onyx (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Onyx-Matt.jpg",
-        href: "/panels/classic-10mm/grey-onyx-matt",
-      },
-      {
-        value: "grey-sparkle-gloss",
-        label: "Grey Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-sparkle-gloss",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-1.jpg",
-        href: "/panels/classic-10mm/grey-stone",
-      },
-      {
-        value: "grey-stone-gloss",
-        label: "Grey Stone (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-stone-gloss",
-      },
-      {
-        value: "light-grey-marble-matt",
-        label: "Light Grey Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-matt",
-      },
-      {
-        value: "light-grey-marble-gloss",
-        label: "Light Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Gloss-1.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-gloss",
-      },
-      {
-        value: "orion-marble",
-        label: "Orion Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Orion-Marble.jpg",
-        href: "/panels/classic-10mm/orion-marble",
-      },
-      {
-        value: "pergamon-marble-gloss",
-        label: "Pergamon Marble Gloss",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Pergamon-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/pergamon-marble-gloss",
-      },
-      {
-        value: "travertine-marble-gloss",
-        label: "Travertine Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Travertine-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/travertine-marble-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss-1.jpg",
-        href: "/panels/classic-10mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-stone",
-        label: "White Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Stone.jpg",
-        href: "/panels/classic-10mm/white-stone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 10mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-10mm/concrete-grey": {
@@ -16252,139 +11403,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Grey-2.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-gloss",
-        label: "Black Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/black-sparkle-gloss",
-      },
-      {
-        value: "blue-gloss-onyx",
-        label: "Blue Gloss Onyx",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Blue-Gloss-Onyx.jpg",
-        href: "/panels/classic-10mm/blue-gloss-onyx",
-      },
-      {
-        value: "calcutta-gloss",
-        label: "Calcutta (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-Gloss.jpg",
-        href: "/panels/classic-10mm/calcutta-gloss",
-      },
-      {
-        value: "carrera-marble-gloss",
-        label: "Carrera Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/carrera-marble-gloss",
-      },
-      {
-        value: "carrera-marble-matt",
-        label: "Carrera Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/carrera-marble-matt",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Beige-1.jpg",
-        href: "/panels/classic-10mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Grey-2.jpg",
-        href: "/panels/classic-10mm/concrete-grey",
-      },
-      {
-        value: "eclipse-marble",
-        label: "Eclipse Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Eclipse-Marble.jpg",
-        href: "/panels/classic-10mm/eclipse-marble",
-      },
-      {
-        value: "emperor-marble",
-        label: "Emperor Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Emperor-Marble.jpg",
-        href: "/panels/classic-10mm/emperor-marble",
-      },
-      {
-        value: "gloss-white",
-        label: "Gloss White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Gloss-White.jpg",
-        href: "/panels/classic-10mm/gloss-white",
-      },
-      {
-        value: "grey-onyx-matt",
-        label: "Grey Onyx (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Onyx-Matt.jpg",
-        href: "/panels/classic-10mm/grey-onyx-matt",
-      },
-      {
-        value: "grey-sparkle-gloss",
-        label: "Grey Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-sparkle-gloss",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-1.jpg",
-        href: "/panels/classic-10mm/grey-stone",
-      },
-      {
-        value: "grey-stone-gloss",
-        label: "Grey Stone (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-stone-gloss",
-      },
-      {
-        value: "light-grey-marble-matt",
-        label: "Light Grey Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-matt",
-      },
-      {
-        value: "light-grey-marble-gloss",
-        label: "Light Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Gloss-1.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-gloss",
-      },
-      {
-        value: "orion-marble",
-        label: "Orion Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Orion-Marble.jpg",
-        href: "/panels/classic-10mm/orion-marble",
-      },
-      {
-        value: "pergamon-marble-gloss",
-        label: "Pergamon Marble Gloss",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Pergamon-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/pergamon-marble-gloss",
-      },
-      {
-        value: "travertine-marble-gloss",
-        label: "Travertine Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Travertine-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/travertine-marble-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss-1.jpg",
-        href: "/panels/classic-10mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-stone",
-        label: "White Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Stone.jpg",
-        href: "/panels/classic-10mm/white-stone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 10mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-10mm/eclipse-marble": {
@@ -16399,139 +11419,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Eclipse-Marble.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-gloss",
-        label: "Black Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/black-sparkle-gloss",
-      },
-      {
-        value: "blue-gloss-onyx",
-        label: "Blue Gloss Onyx",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Blue-Gloss-Onyx.jpg",
-        href: "/panels/classic-10mm/blue-gloss-onyx",
-      },
-      {
-        value: "calcutta-gloss",
-        label: "Calcutta (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-Gloss.jpg",
-        href: "/panels/classic-10mm/calcutta-gloss",
-      },
-      {
-        value: "carrera-marble-gloss",
-        label: "Carrera Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/carrera-marble-gloss",
-      },
-      {
-        value: "carrera-marble-matt",
-        label: "Carrera Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/carrera-marble-matt",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Beige-1.jpg",
-        href: "/panels/classic-10mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Grey-2.jpg",
-        href: "/panels/classic-10mm/concrete-grey",
-      },
-      {
-        value: "eclipse-marble",
-        label: "Eclipse Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Eclipse-Marble.jpg",
-        href: "/panels/classic-10mm/eclipse-marble",
-      },
-      {
-        value: "emperor-marble",
-        label: "Emperor Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Emperor-Marble.jpg",
-        href: "/panels/classic-10mm/emperor-marble",
-      },
-      {
-        value: "gloss-white",
-        label: "Gloss White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Gloss-White.jpg",
-        href: "/panels/classic-10mm/gloss-white",
-      },
-      {
-        value: "grey-onyx-matt",
-        label: "Grey Onyx (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Onyx-Matt.jpg",
-        href: "/panels/classic-10mm/grey-onyx-matt",
-      },
-      {
-        value: "grey-sparkle-gloss",
-        label: "Grey Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-sparkle-gloss",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-1.jpg",
-        href: "/panels/classic-10mm/grey-stone",
-      },
-      {
-        value: "grey-stone-gloss",
-        label: "Grey Stone (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-stone-gloss",
-      },
-      {
-        value: "light-grey-marble-matt",
-        label: "Light Grey Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-matt",
-      },
-      {
-        value: "light-grey-marble-gloss",
-        label: "Light Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Gloss-1.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-gloss",
-      },
-      {
-        value: "orion-marble",
-        label: "Orion Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Orion-Marble.jpg",
-        href: "/panels/classic-10mm/orion-marble",
-      },
-      {
-        value: "pergamon-marble-gloss",
-        label: "Pergamon Marble Gloss",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Pergamon-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/pergamon-marble-gloss",
-      },
-      {
-        value: "travertine-marble-gloss",
-        label: "Travertine Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Travertine-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/travertine-marble-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss-1.jpg",
-        href: "/panels/classic-10mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-stone",
-        label: "White Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Stone.jpg",
-        href: "/panels/classic-10mm/white-stone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 10mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-10mm/emperor-marble": {
@@ -16546,139 +11435,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Emperor-Marble.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-gloss",
-        label: "Black Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/black-sparkle-gloss",
-      },
-      {
-        value: "blue-gloss-onyx",
-        label: "Blue Gloss Onyx",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Blue-Gloss-Onyx.jpg",
-        href: "/panels/classic-10mm/blue-gloss-onyx",
-      },
-      {
-        value: "calcutta-gloss",
-        label: "Calcutta (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-Gloss.jpg",
-        href: "/panels/classic-10mm/calcutta-gloss",
-      },
-      {
-        value: "carrera-marble-gloss",
-        label: "Carrera Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/carrera-marble-gloss",
-      },
-      {
-        value: "carrera-marble-matt",
-        label: "Carrera Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/carrera-marble-matt",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Beige-1.jpg",
-        href: "/panels/classic-10mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Grey-2.jpg",
-        href: "/panels/classic-10mm/concrete-grey",
-      },
-      {
-        value: "eclipse-marble",
-        label: "Eclipse Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Eclipse-Marble.jpg",
-        href: "/panels/classic-10mm/eclipse-marble",
-      },
-      {
-        value: "emperor-marble",
-        label: "Emperor Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Emperor-Marble.jpg",
-        href: "/panels/classic-10mm/emperor-marble",
-      },
-      {
-        value: "gloss-white",
-        label: "Gloss White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Gloss-White.jpg",
-        href: "/panels/classic-10mm/gloss-white",
-      },
-      {
-        value: "grey-onyx-matt",
-        label: "Grey Onyx (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Onyx-Matt.jpg",
-        href: "/panels/classic-10mm/grey-onyx-matt",
-      },
-      {
-        value: "grey-sparkle-gloss",
-        label: "Grey Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-sparkle-gloss",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-1.jpg",
-        href: "/panels/classic-10mm/grey-stone",
-      },
-      {
-        value: "grey-stone-gloss",
-        label: "Grey Stone (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-stone-gloss",
-      },
-      {
-        value: "light-grey-marble-matt",
-        label: "Light Grey Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-matt",
-      },
-      {
-        value: "light-grey-marble-gloss",
-        label: "Light Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Gloss-1.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-gloss",
-      },
-      {
-        value: "orion-marble",
-        label: "Orion Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Orion-Marble.jpg",
-        href: "/panels/classic-10mm/orion-marble",
-      },
-      {
-        value: "pergamon-marble-gloss",
-        label: "Pergamon Marble Gloss",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Pergamon-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/pergamon-marble-gloss",
-      },
-      {
-        value: "travertine-marble-gloss",
-        label: "Travertine Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Travertine-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/travertine-marble-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss-1.jpg",
-        href: "/panels/classic-10mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-stone",
-        label: "White Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Stone.jpg",
-        href: "/panels/classic-10mm/white-stone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 10mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-10mm/gloss-white": {
@@ -16693,139 +11451,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Gloss-White.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-gloss",
-        label: "Black Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/black-sparkle-gloss",
-      },
-      {
-        value: "blue-gloss-onyx",
-        label: "Blue Gloss Onyx",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Blue-Gloss-Onyx.jpg",
-        href: "/panels/classic-10mm/blue-gloss-onyx",
-      },
-      {
-        value: "calcutta-gloss",
-        label: "Calcutta (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-Gloss.jpg",
-        href: "/panels/classic-10mm/calcutta-gloss",
-      },
-      {
-        value: "carrera-marble-gloss",
-        label: "Carrera Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/carrera-marble-gloss",
-      },
-      {
-        value: "carrera-marble-matt",
-        label: "Carrera Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/carrera-marble-matt",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Beige-1.jpg",
-        href: "/panels/classic-10mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Grey-2.jpg",
-        href: "/panels/classic-10mm/concrete-grey",
-      },
-      {
-        value: "eclipse-marble",
-        label: "Eclipse Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Eclipse-Marble.jpg",
-        href: "/panels/classic-10mm/eclipse-marble",
-      },
-      {
-        value: "emperor-marble",
-        label: "Emperor Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Emperor-Marble.jpg",
-        href: "/panels/classic-10mm/emperor-marble",
-      },
-      {
-        value: "gloss-white",
-        label: "Gloss White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Gloss-White.jpg",
-        href: "/panels/classic-10mm/gloss-white",
-      },
-      {
-        value: "grey-onyx-matt",
-        label: "Grey Onyx (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Onyx-Matt.jpg",
-        href: "/panels/classic-10mm/grey-onyx-matt",
-      },
-      {
-        value: "grey-sparkle-gloss",
-        label: "Grey Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-sparkle-gloss",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-1.jpg",
-        href: "/panels/classic-10mm/grey-stone",
-      },
-      {
-        value: "grey-stone-gloss",
-        label: "Grey Stone (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-stone-gloss",
-      },
-      {
-        value: "light-grey-marble-matt",
-        label: "Light Grey Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-matt",
-      },
-      {
-        value: "light-grey-marble-gloss",
-        label: "Light Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Gloss-1.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-gloss",
-      },
-      {
-        value: "orion-marble",
-        label: "Orion Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Orion-Marble.jpg",
-        href: "/panels/classic-10mm/orion-marble",
-      },
-      {
-        value: "pergamon-marble-gloss",
-        label: "Pergamon Marble Gloss",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Pergamon-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/pergamon-marble-gloss",
-      },
-      {
-        value: "travertine-marble-gloss",
-        label: "Travertine Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Travertine-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/travertine-marble-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss-1.jpg",
-        href: "/panels/classic-10mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-stone",
-        label: "White Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Stone.jpg",
-        href: "/panels/classic-10mm/white-stone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 10mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-10mm/grey-onyx-matt": {
@@ -16840,139 +11467,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Onyx-Matt.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-gloss",
-        label: "Black Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/black-sparkle-gloss",
-      },
-      {
-        value: "blue-gloss-onyx",
-        label: "Blue Gloss Onyx",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Blue-Gloss-Onyx.jpg",
-        href: "/panels/classic-10mm/blue-gloss-onyx",
-      },
-      {
-        value: "calcutta-gloss",
-        label: "Calcutta (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-Gloss.jpg",
-        href: "/panels/classic-10mm/calcutta-gloss",
-      },
-      {
-        value: "carrera-marble-gloss",
-        label: "Carrera Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/carrera-marble-gloss",
-      },
-      {
-        value: "carrera-marble-matt",
-        label: "Carrera Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/carrera-marble-matt",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Beige-1.jpg",
-        href: "/panels/classic-10mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Grey-2.jpg",
-        href: "/panels/classic-10mm/concrete-grey",
-      },
-      {
-        value: "eclipse-marble",
-        label: "Eclipse Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Eclipse-Marble.jpg",
-        href: "/panels/classic-10mm/eclipse-marble",
-      },
-      {
-        value: "emperor-marble",
-        label: "Emperor Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Emperor-Marble.jpg",
-        href: "/panels/classic-10mm/emperor-marble",
-      },
-      {
-        value: "gloss-white",
-        label: "Gloss White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Gloss-White.jpg",
-        href: "/panels/classic-10mm/gloss-white",
-      },
-      {
-        value: "grey-onyx-matt",
-        label: "Grey Onyx (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Onyx-Matt.jpg",
-        href: "/panels/classic-10mm/grey-onyx-matt",
-      },
-      {
-        value: "grey-sparkle-gloss",
-        label: "Grey Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-sparkle-gloss",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-1.jpg",
-        href: "/panels/classic-10mm/grey-stone",
-      },
-      {
-        value: "grey-stone-gloss",
-        label: "Grey Stone (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-stone-gloss",
-      },
-      {
-        value: "light-grey-marble-matt",
-        label: "Light Grey Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-matt",
-      },
-      {
-        value: "light-grey-marble-gloss",
-        label: "Light Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Gloss-1.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-gloss",
-      },
-      {
-        value: "orion-marble",
-        label: "Orion Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Orion-Marble.jpg",
-        href: "/panels/classic-10mm/orion-marble",
-      },
-      {
-        value: "pergamon-marble-gloss",
-        label: "Pergamon Marble Gloss",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Pergamon-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/pergamon-marble-gloss",
-      },
-      {
-        value: "travertine-marble-gloss",
-        label: "Travertine Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Travertine-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/travertine-marble-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss-1.jpg",
-        href: "/panels/classic-10mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-stone",
-        label: "White Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Stone.jpg",
-        href: "/panels/classic-10mm/white-stone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 10mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-10mm/grey-sparkle-gloss": {
@@ -16987,139 +11483,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Sparkle-Gloss.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-gloss",
-        label: "Black Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/black-sparkle-gloss",
-      },
-      {
-        value: "blue-gloss-onyx",
-        label: "Blue Gloss Onyx",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Blue-Gloss-Onyx.jpg",
-        href: "/panels/classic-10mm/blue-gloss-onyx",
-      },
-      {
-        value: "calcutta-gloss",
-        label: "Calcutta (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-Gloss.jpg",
-        href: "/panels/classic-10mm/calcutta-gloss",
-      },
-      {
-        value: "carrera-marble-gloss",
-        label: "Carrera Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/carrera-marble-gloss",
-      },
-      {
-        value: "carrera-marble-matt",
-        label: "Carrera Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/carrera-marble-matt",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Beige-1.jpg",
-        href: "/panels/classic-10mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Grey-2.jpg",
-        href: "/panels/classic-10mm/concrete-grey",
-      },
-      {
-        value: "eclipse-marble",
-        label: "Eclipse Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Eclipse-Marble.jpg",
-        href: "/panels/classic-10mm/eclipse-marble",
-      },
-      {
-        value: "emperor-marble",
-        label: "Emperor Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Emperor-Marble.jpg",
-        href: "/panels/classic-10mm/emperor-marble",
-      },
-      {
-        value: "gloss-white",
-        label: "Gloss White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Gloss-White.jpg",
-        href: "/panels/classic-10mm/gloss-white",
-      },
-      {
-        value: "grey-onyx-matt",
-        label: "Grey Onyx (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Onyx-Matt.jpg",
-        href: "/panels/classic-10mm/grey-onyx-matt",
-      },
-      {
-        value: "grey-sparkle-gloss",
-        label: "Grey Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-sparkle-gloss",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-1.jpg",
-        href: "/panels/classic-10mm/grey-stone",
-      },
-      {
-        value: "grey-stone-gloss",
-        label: "Grey Stone (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-stone-gloss",
-      },
-      {
-        value: "light-grey-marble-matt",
-        label: "Light Grey Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-matt",
-      },
-      {
-        value: "light-grey-marble-gloss",
-        label: "Light Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Gloss-1.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-gloss",
-      },
-      {
-        value: "orion-marble",
-        label: "Orion Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Orion-Marble.jpg",
-        href: "/panels/classic-10mm/orion-marble",
-      },
-      {
-        value: "pergamon-marble-gloss",
-        label: "Pergamon Marble Gloss",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Pergamon-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/pergamon-marble-gloss",
-      },
-      {
-        value: "travertine-marble-gloss",
-        label: "Travertine Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Travertine-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/travertine-marble-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss-1.jpg",
-        href: "/panels/classic-10mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-stone",
-        label: "White Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Stone.jpg",
-        href: "/panels/classic-10mm/white-stone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 10mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-10mm/grey-stone": {
@@ -17134,139 +11499,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-1.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-gloss",
-        label: "Black Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/black-sparkle-gloss",
-      },
-      {
-        value: "blue-gloss-onyx",
-        label: "Blue Gloss Onyx",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Blue-Gloss-Onyx.jpg",
-        href: "/panels/classic-10mm/blue-gloss-onyx",
-      },
-      {
-        value: "calcutta-gloss",
-        label: "Calcutta (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-Gloss.jpg",
-        href: "/panels/classic-10mm/calcutta-gloss",
-      },
-      {
-        value: "carrera-marble-gloss",
-        label: "Carrera Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/carrera-marble-gloss",
-      },
-      {
-        value: "carrera-marble-matt",
-        label: "Carrera Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/carrera-marble-matt",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Beige-1.jpg",
-        href: "/panels/classic-10mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Grey-2.jpg",
-        href: "/panels/classic-10mm/concrete-grey",
-      },
-      {
-        value: "eclipse-marble",
-        label: "Eclipse Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Eclipse-Marble.jpg",
-        href: "/panels/classic-10mm/eclipse-marble",
-      },
-      {
-        value: "emperor-marble",
-        label: "Emperor Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Emperor-Marble.jpg",
-        href: "/panels/classic-10mm/emperor-marble",
-      },
-      {
-        value: "gloss-white",
-        label: "Gloss White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Gloss-White.jpg",
-        href: "/panels/classic-10mm/gloss-white",
-      },
-      {
-        value: "grey-onyx-matt",
-        label: "Grey Onyx (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Onyx-Matt.jpg",
-        href: "/panels/classic-10mm/grey-onyx-matt",
-      },
-      {
-        value: "grey-sparkle-gloss",
-        label: "Grey Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-sparkle-gloss",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-1.jpg",
-        href: "/panels/classic-10mm/grey-stone",
-      },
-      {
-        value: "grey-stone-gloss",
-        label: "Grey Stone (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-stone-gloss",
-      },
-      {
-        value: "light-grey-marble-matt",
-        label: "Light Grey Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-matt",
-      },
-      {
-        value: "light-grey-marble-gloss",
-        label: "Light Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Gloss-1.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-gloss",
-      },
-      {
-        value: "orion-marble",
-        label: "Orion Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Orion-Marble.jpg",
-        href: "/panels/classic-10mm/orion-marble",
-      },
-      {
-        value: "pergamon-marble-gloss",
-        label: "Pergamon Marble Gloss",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Pergamon-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/pergamon-marble-gloss",
-      },
-      {
-        value: "travertine-marble-gloss",
-        label: "Travertine Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Travertine-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/travertine-marble-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss-1.jpg",
-        href: "/panels/classic-10mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-stone",
-        label: "White Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Stone.jpg",
-        href: "/panels/classic-10mm/white-stone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 10mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-10mm/grey-stone-gloss": {
@@ -17281,139 +11515,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-Gloss.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-gloss",
-        label: "Black Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/black-sparkle-gloss",
-      },
-      {
-        value: "blue-gloss-onyx",
-        label: "Blue Gloss Onyx",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Blue-Gloss-Onyx.jpg",
-        href: "/panels/classic-10mm/blue-gloss-onyx",
-      },
-      {
-        value: "calcutta-gloss",
-        label: "Calcutta (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-Gloss.jpg",
-        href: "/panels/classic-10mm/calcutta-gloss",
-      },
-      {
-        value: "carrera-marble-gloss",
-        label: "Carrera Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/carrera-marble-gloss",
-      },
-      {
-        value: "carrera-marble-matt",
-        label: "Carrera Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/carrera-marble-matt",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Beige-1.jpg",
-        href: "/panels/classic-10mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Grey-2.jpg",
-        href: "/panels/classic-10mm/concrete-grey",
-      },
-      {
-        value: "eclipse-marble",
-        label: "Eclipse Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Eclipse-Marble.jpg",
-        href: "/panels/classic-10mm/eclipse-marble",
-      },
-      {
-        value: "emperor-marble",
-        label: "Emperor Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Emperor-Marble.jpg",
-        href: "/panels/classic-10mm/emperor-marble",
-      },
-      {
-        value: "gloss-white",
-        label: "Gloss White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Gloss-White.jpg",
-        href: "/panels/classic-10mm/gloss-white",
-      },
-      {
-        value: "grey-onyx-matt",
-        label: "Grey Onyx (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Onyx-Matt.jpg",
-        href: "/panels/classic-10mm/grey-onyx-matt",
-      },
-      {
-        value: "grey-sparkle-gloss",
-        label: "Grey Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-sparkle-gloss",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-1.jpg",
-        href: "/panels/classic-10mm/grey-stone",
-      },
-      {
-        value: "grey-stone-gloss",
-        label: "Grey Stone (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-stone-gloss",
-      },
-      {
-        value: "light-grey-marble-matt",
-        label: "Light Grey Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-matt",
-      },
-      {
-        value: "light-grey-marble-gloss",
-        label: "Light Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Gloss-1.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-gloss",
-      },
-      {
-        value: "orion-marble",
-        label: "Orion Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Orion-Marble.jpg",
-        href: "/panels/classic-10mm/orion-marble",
-      },
-      {
-        value: "pergamon-marble-gloss",
-        label: "Pergamon Marble Gloss",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Pergamon-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/pergamon-marble-gloss",
-      },
-      {
-        value: "travertine-marble-gloss",
-        label: "Travertine Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Travertine-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/travertine-marble-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss-1.jpg",
-        href: "/panels/classic-10mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-stone",
-        label: "White Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Stone.jpg",
-        href: "/panels/classic-10mm/white-stone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 10mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-10mm/light-grey-marble-matt": {
@@ -17428,139 +11531,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Matt.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-gloss",
-        label: "Black Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/black-sparkle-gloss",
-      },
-      {
-        value: "blue-gloss-onyx",
-        label: "Blue Gloss Onyx",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Blue-Gloss-Onyx.jpg",
-        href: "/panels/classic-10mm/blue-gloss-onyx",
-      },
-      {
-        value: "calcutta-gloss",
-        label: "Calcutta (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-Gloss.jpg",
-        href: "/panels/classic-10mm/calcutta-gloss",
-      },
-      {
-        value: "carrera-marble-gloss",
-        label: "Carrera Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/carrera-marble-gloss",
-      },
-      {
-        value: "carrera-marble-matt",
-        label: "Carrera Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/carrera-marble-matt",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Beige-1.jpg",
-        href: "/panels/classic-10mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Grey-2.jpg",
-        href: "/panels/classic-10mm/concrete-grey",
-      },
-      {
-        value: "eclipse-marble",
-        label: "Eclipse Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Eclipse-Marble.jpg",
-        href: "/panels/classic-10mm/eclipse-marble",
-      },
-      {
-        value: "emperor-marble",
-        label: "Emperor Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Emperor-Marble.jpg",
-        href: "/panels/classic-10mm/emperor-marble",
-      },
-      {
-        value: "gloss-white",
-        label: "Gloss White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Gloss-White.jpg",
-        href: "/panels/classic-10mm/gloss-white",
-      },
-      {
-        value: "grey-onyx-matt",
-        label: "Grey Onyx (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Onyx-Matt.jpg",
-        href: "/panels/classic-10mm/grey-onyx-matt",
-      },
-      {
-        value: "grey-sparkle-gloss",
-        label: "Grey Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-sparkle-gloss",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-1.jpg",
-        href: "/panels/classic-10mm/grey-stone",
-      },
-      {
-        value: "grey-stone-gloss",
-        label: "Grey Stone (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-stone-gloss",
-      },
-      {
-        value: "light-grey-marble-matt",
-        label: "Light Grey Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-matt",
-      },
-      {
-        value: "light-grey-marble-gloss",
-        label: "Light Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Gloss-1.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-gloss",
-      },
-      {
-        value: "orion-marble",
-        label: "Orion Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Orion-Marble.jpg",
-        href: "/panels/classic-10mm/orion-marble",
-      },
-      {
-        value: "pergamon-marble-gloss",
-        label: "Pergamon Marble Gloss",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Pergamon-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/pergamon-marble-gloss",
-      },
-      {
-        value: "travertine-marble-gloss",
-        label: "Travertine Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Travertine-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/travertine-marble-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss-1.jpg",
-        href: "/panels/classic-10mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-stone",
-        label: "White Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Stone.jpg",
-        href: "/panels/classic-10mm/white-stone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 10mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-10mm/light-grey-marble-gloss": {
@@ -17575,139 +11547,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Gloss-1.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-gloss",
-        label: "Black Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/black-sparkle-gloss",
-      },
-      {
-        value: "blue-gloss-onyx",
-        label: "Blue Gloss Onyx",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Blue-Gloss-Onyx.jpg",
-        href: "/panels/classic-10mm/blue-gloss-onyx",
-      },
-      {
-        value: "calcutta-gloss",
-        label: "Calcutta (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-Gloss.jpg",
-        href: "/panels/classic-10mm/calcutta-gloss",
-      },
-      {
-        value: "carrera-marble-gloss",
-        label: "Carrera Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/carrera-marble-gloss",
-      },
-      {
-        value: "carrera-marble-matt",
-        label: "Carrera Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/carrera-marble-matt",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Beige-1.jpg",
-        href: "/panels/classic-10mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Grey-2.jpg",
-        href: "/panels/classic-10mm/concrete-grey",
-      },
-      {
-        value: "eclipse-marble",
-        label: "Eclipse Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Eclipse-Marble.jpg",
-        href: "/panels/classic-10mm/eclipse-marble",
-      },
-      {
-        value: "emperor-marble",
-        label: "Emperor Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Emperor-Marble.jpg",
-        href: "/panels/classic-10mm/emperor-marble",
-      },
-      {
-        value: "gloss-white",
-        label: "Gloss White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Gloss-White.jpg",
-        href: "/panels/classic-10mm/gloss-white",
-      },
-      {
-        value: "grey-onyx-matt",
-        label: "Grey Onyx (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Onyx-Matt.jpg",
-        href: "/panels/classic-10mm/grey-onyx-matt",
-      },
-      {
-        value: "grey-sparkle-gloss",
-        label: "Grey Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-sparkle-gloss",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-1.jpg",
-        href: "/panels/classic-10mm/grey-stone",
-      },
-      {
-        value: "grey-stone-gloss",
-        label: "Grey Stone (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-stone-gloss",
-      },
-      {
-        value: "light-grey-marble-matt",
-        label: "Light Grey Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-matt",
-      },
-      {
-        value: "light-grey-marble-gloss",
-        label: "Light Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Gloss-1.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-gloss",
-      },
-      {
-        value: "orion-marble",
-        label: "Orion Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Orion-Marble.jpg",
-        href: "/panels/classic-10mm/orion-marble",
-      },
-      {
-        value: "pergamon-marble-gloss",
-        label: "Pergamon Marble Gloss",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Pergamon-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/pergamon-marble-gloss",
-      },
-      {
-        value: "travertine-marble-gloss",
-        label: "Travertine Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Travertine-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/travertine-marble-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss-1.jpg",
-        href: "/panels/classic-10mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-stone",
-        label: "White Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Stone.jpg",
-        href: "/panels/classic-10mm/white-stone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 10mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-10mm/orion-marble": {
@@ -17722,139 +11563,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Orion-Marble.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-gloss",
-        label: "Black Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/black-sparkle-gloss",
-      },
-      {
-        value: "blue-gloss-onyx",
-        label: "Blue Gloss Onyx",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Blue-Gloss-Onyx.jpg",
-        href: "/panels/classic-10mm/blue-gloss-onyx",
-      },
-      {
-        value: "calcutta-gloss",
-        label: "Calcutta (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-Gloss.jpg",
-        href: "/panels/classic-10mm/calcutta-gloss",
-      },
-      {
-        value: "carrera-marble-gloss",
-        label: "Carrera Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/carrera-marble-gloss",
-      },
-      {
-        value: "carrera-marble-matt",
-        label: "Carrera Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/carrera-marble-matt",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Beige-1.jpg",
-        href: "/panels/classic-10mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Grey-2.jpg",
-        href: "/panels/classic-10mm/concrete-grey",
-      },
-      {
-        value: "eclipse-marble",
-        label: "Eclipse Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Eclipse-Marble.jpg",
-        href: "/panels/classic-10mm/eclipse-marble",
-      },
-      {
-        value: "emperor-marble",
-        label: "Emperor Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Emperor-Marble.jpg",
-        href: "/panels/classic-10mm/emperor-marble",
-      },
-      {
-        value: "gloss-white",
-        label: "Gloss White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Gloss-White.jpg",
-        href: "/panels/classic-10mm/gloss-white",
-      },
-      {
-        value: "grey-onyx-matt",
-        label: "Grey Onyx (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Onyx-Matt.jpg",
-        href: "/panels/classic-10mm/grey-onyx-matt",
-      },
-      {
-        value: "grey-sparkle-gloss",
-        label: "Grey Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-sparkle-gloss",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-1.jpg",
-        href: "/panels/classic-10mm/grey-stone",
-      },
-      {
-        value: "grey-stone-gloss",
-        label: "Grey Stone (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-stone-gloss",
-      },
-      {
-        value: "light-grey-marble-matt",
-        label: "Light Grey Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-matt",
-      },
-      {
-        value: "light-grey-marble-gloss",
-        label: "Light Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Gloss-1.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-gloss",
-      },
-      {
-        value: "orion-marble",
-        label: "Orion Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Orion-Marble.jpg",
-        href: "/panels/classic-10mm/orion-marble",
-      },
-      {
-        value: "pergamon-marble-gloss",
-        label: "Pergamon Marble Gloss",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Pergamon-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/pergamon-marble-gloss",
-      },
-      {
-        value: "travertine-marble-gloss",
-        label: "Travertine Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Travertine-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/travertine-marble-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss-1.jpg",
-        href: "/panels/classic-10mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-stone",
-        label: "White Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Stone.jpg",
-        href: "/panels/classic-10mm/white-stone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 10mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-10mm/pergamon-marble-gloss": {
@@ -17869,139 +11579,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Pergamon-Marble-Gloss.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-gloss",
-        label: "Black Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/black-sparkle-gloss",
-      },
-      {
-        value: "blue-gloss-onyx",
-        label: "Blue Gloss Onyx",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Blue-Gloss-Onyx.jpg",
-        href: "/panels/classic-10mm/blue-gloss-onyx",
-      },
-      {
-        value: "calcutta-gloss",
-        label: "Calcutta (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-Gloss.jpg",
-        href: "/panels/classic-10mm/calcutta-gloss",
-      },
-      {
-        value: "carrera-marble-gloss",
-        label: "Carrera Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/carrera-marble-gloss",
-      },
-      {
-        value: "carrera-marble-matt",
-        label: "Carrera Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/carrera-marble-matt",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Beige-1.jpg",
-        href: "/panels/classic-10mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Grey-2.jpg",
-        href: "/panels/classic-10mm/concrete-grey",
-      },
-      {
-        value: "eclipse-marble",
-        label: "Eclipse Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Eclipse-Marble.jpg",
-        href: "/panels/classic-10mm/eclipse-marble",
-      },
-      {
-        value: "emperor-marble",
-        label: "Emperor Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Emperor-Marble.jpg",
-        href: "/panels/classic-10mm/emperor-marble",
-      },
-      {
-        value: "gloss-white",
-        label: "Gloss White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Gloss-White.jpg",
-        href: "/panels/classic-10mm/gloss-white",
-      },
-      {
-        value: "grey-onyx-matt",
-        label: "Grey Onyx (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Onyx-Matt.jpg",
-        href: "/panels/classic-10mm/grey-onyx-matt",
-      },
-      {
-        value: "grey-sparkle-gloss",
-        label: "Grey Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-sparkle-gloss",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-1.jpg",
-        href: "/panels/classic-10mm/grey-stone",
-      },
-      {
-        value: "grey-stone-gloss",
-        label: "Grey Stone (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-stone-gloss",
-      },
-      {
-        value: "light-grey-marble-matt",
-        label: "Light Grey Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-matt",
-      },
-      {
-        value: "light-grey-marble-gloss",
-        label: "Light Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Gloss-1.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-gloss",
-      },
-      {
-        value: "orion-marble",
-        label: "Orion Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Orion-Marble.jpg",
-        href: "/panels/classic-10mm/orion-marble",
-      },
-      {
-        value: "pergamon-marble-gloss",
-        label: "Pergamon Marble Gloss",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Pergamon-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/pergamon-marble-gloss",
-      },
-      {
-        value: "travertine-marble-gloss",
-        label: "Travertine Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Travertine-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/travertine-marble-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss-1.jpg",
-        href: "/panels/classic-10mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-stone",
-        label: "White Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Stone.jpg",
-        href: "/panels/classic-10mm/white-stone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 10mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-10mm/travertine-marble-gloss": {
@@ -18016,139 +11595,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Travertine-Marble-Gloss.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-gloss",
-        label: "Black Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/black-sparkle-gloss",
-      },
-      {
-        value: "blue-gloss-onyx",
-        label: "Blue Gloss Onyx",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Blue-Gloss-Onyx.jpg",
-        href: "/panels/classic-10mm/blue-gloss-onyx",
-      },
-      {
-        value: "calcutta-gloss",
-        label: "Calcutta (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-Gloss.jpg",
-        href: "/panels/classic-10mm/calcutta-gloss",
-      },
-      {
-        value: "carrera-marble-gloss",
-        label: "Carrera Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/carrera-marble-gloss",
-      },
-      {
-        value: "carrera-marble-matt",
-        label: "Carrera Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/carrera-marble-matt",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Beige-1.jpg",
-        href: "/panels/classic-10mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Grey-2.jpg",
-        href: "/panels/classic-10mm/concrete-grey",
-      },
-      {
-        value: "eclipse-marble",
-        label: "Eclipse Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Eclipse-Marble.jpg",
-        href: "/panels/classic-10mm/eclipse-marble",
-      },
-      {
-        value: "emperor-marble",
-        label: "Emperor Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Emperor-Marble.jpg",
-        href: "/panels/classic-10mm/emperor-marble",
-      },
-      {
-        value: "gloss-white",
-        label: "Gloss White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Gloss-White.jpg",
-        href: "/panels/classic-10mm/gloss-white",
-      },
-      {
-        value: "grey-onyx-matt",
-        label: "Grey Onyx (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Onyx-Matt.jpg",
-        href: "/panels/classic-10mm/grey-onyx-matt",
-      },
-      {
-        value: "grey-sparkle-gloss",
-        label: "Grey Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-sparkle-gloss",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-1.jpg",
-        href: "/panels/classic-10mm/grey-stone",
-      },
-      {
-        value: "grey-stone-gloss",
-        label: "Grey Stone (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-stone-gloss",
-      },
-      {
-        value: "light-grey-marble-matt",
-        label: "Light Grey Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-matt",
-      },
-      {
-        value: "light-grey-marble-gloss",
-        label: "Light Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Gloss-1.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-gloss",
-      },
-      {
-        value: "orion-marble",
-        label: "Orion Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Orion-Marble.jpg",
-        href: "/panels/classic-10mm/orion-marble",
-      },
-      {
-        value: "pergamon-marble-gloss",
-        label: "Pergamon Marble Gloss",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Pergamon-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/pergamon-marble-gloss",
-      },
-      {
-        value: "travertine-marble-gloss",
-        label: "Travertine Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Travertine-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/travertine-marble-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss-1.jpg",
-        href: "/panels/classic-10mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-stone",
-        label: "White Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Stone.jpg",
-        href: "/panels/classic-10mm/white-stone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 10mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-10mm/white-sparkle-gloss": {
@@ -18163,139 +11611,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss-1.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-gloss",
-        label: "Black Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/black-sparkle-gloss",
-      },
-      {
-        value: "blue-gloss-onyx",
-        label: "Blue Gloss Onyx",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Blue-Gloss-Onyx.jpg",
-        href: "/panels/classic-10mm/blue-gloss-onyx",
-      },
-      {
-        value: "calcutta-gloss",
-        label: "Calcutta (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-Gloss.jpg",
-        href: "/panels/classic-10mm/calcutta-gloss",
-      },
-      {
-        value: "carrera-marble-gloss",
-        label: "Carrera Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/carrera-marble-gloss",
-      },
-      {
-        value: "carrera-marble-matt",
-        label: "Carrera Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/carrera-marble-matt",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Beige-1.jpg",
-        href: "/panels/classic-10mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Grey-2.jpg",
-        href: "/panels/classic-10mm/concrete-grey",
-      },
-      {
-        value: "eclipse-marble",
-        label: "Eclipse Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Eclipse-Marble.jpg",
-        href: "/panels/classic-10mm/eclipse-marble",
-      },
-      {
-        value: "emperor-marble",
-        label: "Emperor Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Emperor-Marble.jpg",
-        href: "/panels/classic-10mm/emperor-marble",
-      },
-      {
-        value: "gloss-white",
-        label: "Gloss White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Gloss-White.jpg",
-        href: "/panels/classic-10mm/gloss-white",
-      },
-      {
-        value: "grey-onyx-matt",
-        label: "Grey Onyx (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Onyx-Matt.jpg",
-        href: "/panels/classic-10mm/grey-onyx-matt",
-      },
-      {
-        value: "grey-sparkle-gloss",
-        label: "Grey Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-sparkle-gloss",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-1.jpg",
-        href: "/panels/classic-10mm/grey-stone",
-      },
-      {
-        value: "grey-stone-gloss",
-        label: "Grey Stone (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-stone-gloss",
-      },
-      {
-        value: "light-grey-marble-matt",
-        label: "Light Grey Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-matt",
-      },
-      {
-        value: "light-grey-marble-gloss",
-        label: "Light Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Gloss-1.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-gloss",
-      },
-      {
-        value: "orion-marble",
-        label: "Orion Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Orion-Marble.jpg",
-        href: "/panels/classic-10mm/orion-marble",
-      },
-      {
-        value: "pergamon-marble-gloss",
-        label: "Pergamon Marble Gloss",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Pergamon-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/pergamon-marble-gloss",
-      },
-      {
-        value: "travertine-marble-gloss",
-        label: "Travertine Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Travertine-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/travertine-marble-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss-1.jpg",
-        href: "/panels/classic-10mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-stone",
-        label: "White Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Stone.jpg",
-        href: "/panels/classic-10mm/white-stone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 10mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/classic-10mm/white-stone": {
@@ -18310,139 +11627,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Stone.jpg",
     ],
     colours: [
-      {
-        value: "black-sparkle-gloss",
-        label: "Black Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/black-sparkle-gloss",
-      },
-      {
-        value: "blue-gloss-onyx",
-        label: "Blue Gloss Onyx",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Blue-Gloss-Onyx.jpg",
-        href: "/panels/classic-10mm/blue-gloss-onyx",
-      },
-      {
-        value: "calcutta-gloss",
-        label: "Calcutta (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Calcutta-Gloss.jpg",
-        href: "/panels/classic-10mm/calcutta-gloss",
-      },
-      {
-        value: "carrera-marble-gloss",
-        label: "Carrera Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/carrera-marble-gloss",
-      },
-      {
-        value: "carrera-marble-matt",
-        label: "Carrera Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Carrera-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/carrera-marble-matt",
-      },
-      {
-        value: "concrete-beige",
-        label: "Concrete Beige",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Beige-1.jpg",
-        href: "/panels/classic-10mm/concrete-beige",
-      },
-      {
-        value: "concrete-grey",
-        label: "Concrete Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Concrete-Grey-2.jpg",
-        href: "/panels/classic-10mm/concrete-grey",
-      },
-      {
-        value: "eclipse-marble",
-        label: "Eclipse Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Eclipse-Marble.jpg",
-        href: "/panels/classic-10mm/eclipse-marble",
-      },
-      {
-        value: "emperor-marble",
-        label: "Emperor Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Emperor-Marble.jpg",
-        href: "/panels/classic-10mm/emperor-marble",
-      },
-      {
-        value: "gloss-white",
-        label: "Gloss White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Gloss-White.jpg",
-        href: "/panels/classic-10mm/gloss-white",
-      },
-      {
-        value: "grey-onyx-matt",
-        label: "Grey Onyx (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Onyx-Matt.jpg",
-        href: "/panels/classic-10mm/grey-onyx-matt",
-      },
-      {
-        value: "grey-sparkle-gloss",
-        label: "Grey Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Sparkle-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-sparkle-gloss",
-      },
-      {
-        value: "grey-stone",
-        label: "Grey Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-1.jpg",
-        href: "/panels/classic-10mm/grey-stone",
-      },
-      {
-        value: "grey-stone-gloss",
-        label: "Grey Stone (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Stone-Gloss.jpg",
-        href: "/panels/classic-10mm/grey-stone-gloss",
-      },
-      {
-        value: "light-grey-marble-matt",
-        label: "Light Grey Marble (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Matt.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-matt",
-      },
-      {
-        value: "light-grey-marble-gloss",
-        label: "Light Grey Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Light-Grey-Marble-Gloss-1.jpg",
-        href: "/panels/classic-10mm/light-grey-marble-gloss",
-      },
-      {
-        value: "orion-marble",
-        label: "Orion Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Orion-Marble.jpg",
-        href: "/panels/classic-10mm/orion-marble",
-      },
-      {
-        value: "pergamon-marble-gloss",
-        label: "Pergamon Marble Gloss",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Pergamon-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/pergamon-marble-gloss",
-      },
-      {
-        value: "travertine-marble-gloss",
-        label: "Travertine Marble (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Travertine-Marble-Gloss.jpg",
-        href: "/panels/classic-10mm/travertine-marble-gloss",
-      },
-      {
-        value: "white-sparkle-gloss",
-        label: "White Sparkle (Gloss)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Sparkle-Gloss-1.jpg",
-        href: "/panels/classic-10mm/white-sparkle-gloss",
-      },
-      {
-        value: "white-stone",
-        label: "White Stone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/White-Stone.jpg",
-        href: "/panels/classic-10mm/white-stone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Classic 10mm collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/deluxe-panels/1m-x-2-4m-chevron-grey-matt-deluxe-panel": {
@@ -18460,55 +11646,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-che.jpg",
     ],
     colours: [
-      {
-        value: "1m-x-2-4m-chevron-grey-matt-deluxe-panel",
-        label: "Chevron Grey (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-che.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-chevron-grey-matt-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-hoeycomb-grey-deluxe-panel",
-        label: "HoneyCombe Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500honey.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-hoeycomb-grey-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-chevron-white-deluxe-panel",
-        label: "Chevron White (White)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/400-ch-whi.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-chevron-white-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-milano-matt-deluxe-panel",
-        label: "Milano (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-milano.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-milano-matt-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-moccaccino-matt-deluxe-panel",
-        label: "Moccaccino (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500mocc.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-moccaccino-matt-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-london-tile-deluxe-panel",
-        label: "London Tile",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-2.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-london-tile-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-chevron-marble-deluxe-panel",
-        label: "Chevron Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500cm.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-chevron-marble-deluxe-panel",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Deluxe Panels collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/deluxe-panels/1m-x-2-4m-hoeycomb-grey-deluxe-panel": {
@@ -18526,55 +11665,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/500honey.jpg",
     ],
     colours: [
-      {
-        value: "1m-x-2-4m-chevron-grey-matt-deluxe-panel",
-        label: "Chevron Grey (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-che.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-chevron-grey-matt-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-hoeycomb-grey-deluxe-panel",
-        label: "HoneyCombe Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500honey.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-hoeycomb-grey-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-chevron-white-deluxe-panel",
-        label: "Chevron White (White)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/400-ch-whi.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-chevron-white-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-milano-matt-deluxe-panel",
-        label: "Milano (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-milano.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-milano-matt-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-moccaccino-matt-deluxe-panel",
-        label: "Moccaccino (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500mocc.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-moccaccino-matt-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-london-tile-deluxe-panel",
-        label: "London Tile",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-2.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-london-tile-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-chevron-marble-deluxe-panel",
-        label: "Chevron Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500cm.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-chevron-marble-deluxe-panel",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Deluxe Panels collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/deluxe-panels/1m-x-2-4m-chevron-white-deluxe-panel": {
@@ -18592,55 +11684,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/400-ch-whi.jpg",
     ],
     colours: [
-      {
-        value: "1m-x-2-4m-chevron-grey-matt-deluxe-panel",
-        label: "Chevron Grey (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-che.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-chevron-grey-matt-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-hoeycomb-grey-deluxe-panel",
-        label: "HoneyCombe Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500honey.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-hoeycomb-grey-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-chevron-white-deluxe-panel",
-        label: "Chevron White (White)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/400-ch-whi.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-chevron-white-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-milano-matt-deluxe-panel",
-        label: "Milano (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-milano.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-milano-matt-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-moccaccino-matt-deluxe-panel",
-        label: "Moccaccino (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500mocc.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-moccaccino-matt-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-london-tile-deluxe-panel",
-        label: "London Tile",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-2.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-london-tile-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-chevron-marble-deluxe-panel",
-        label: "Chevron Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500cm.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-chevron-marble-deluxe-panel",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Deluxe Panels collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/deluxe-panels/1m-x-2-4m-milano-matt-deluxe-panel": {
@@ -18657,55 +11702,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-milano.jpg",
     ],
     colours: [
-      {
-        value: "1m-x-2-4m-chevron-grey-matt-deluxe-panel",
-        label: "Chevron Grey (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-che.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-chevron-grey-matt-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-hoeycomb-grey-deluxe-panel",
-        label: "HoneyCombe Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500honey.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-hoeycomb-grey-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-chevron-white-deluxe-panel",
-        label: "Chevron White (White)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/400-ch-whi.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-chevron-white-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-milano-matt-deluxe-panel",
-        label: "Milano (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-milano.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-milano-matt-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-moccaccino-matt-deluxe-panel",
-        label: "Moccaccino (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500mocc.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-moccaccino-matt-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-london-tile-deluxe-panel",
-        label: "London Tile",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-2.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-london-tile-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-chevron-marble-deluxe-panel",
-        label: "Chevron Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500cm.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-chevron-marble-deluxe-panel",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Deluxe Panels collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/deluxe-panels/1m-x-2-4m-moccaccino-matt-deluxe-panel": {
@@ -18723,55 +11721,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/500mocc.jpg",
     ],
     colours: [
-      {
-        value: "1m-x-2-4m-chevron-grey-matt-deluxe-panel",
-        label: "Chevron Grey (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-che.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-chevron-grey-matt-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-hoeycomb-grey-deluxe-panel",
-        label: "HoneyCombe Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500honey.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-hoeycomb-grey-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-chevron-white-deluxe-panel",
-        label: "Chevron White (White)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/400-ch-whi.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-chevron-white-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-milano-matt-deluxe-panel",
-        label: "Milano (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-milano.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-milano-matt-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-moccaccino-matt-deluxe-panel",
-        label: "Moccaccino (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500mocc.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-moccaccino-matt-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-london-tile-deluxe-panel",
-        label: "London Tile",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-2.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-london-tile-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-chevron-marble-deluxe-panel",
-        label: "Chevron Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500cm.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-chevron-marble-deluxe-panel",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Deluxe Panels collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/deluxe-panels/1m-x-2-4m-london-tile-deluxe-panel": {
@@ -18789,55 +11740,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-2.jpg",
     ],
     colours: [
-      {
-        value: "1m-x-2-4m-chevron-grey-matt-deluxe-panel",
-        label: "Chevron Grey (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-che.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-chevron-grey-matt-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-hoeycomb-grey-deluxe-panel",
-        label: "HoneyCombe Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500honey.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-hoeycomb-grey-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-chevron-white-deluxe-panel",
-        label: "Chevron White (White)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/400-ch-whi.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-chevron-white-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-milano-matt-deluxe-panel",
-        label: "Milano (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-milano.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-milano-matt-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-moccaccino-matt-deluxe-panel",
-        label: "Moccaccino (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500mocc.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-moccaccino-matt-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-london-tile-deluxe-panel",
-        label: "London Tile",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-2.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-london-tile-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-chevron-marble-deluxe-panel",
-        label: "Chevron Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500cm.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-chevron-marble-deluxe-panel",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Deluxe Panels collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/deluxe-panels/1m-x-2-4m-chevron-marble-deluxe-panel": {
@@ -18855,55 +11759,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/500cm.jpg",
     ],
     colours: [
-      {
-        value: "1m-x-2-4m-chevron-grey-matt-deluxe-panel",
-        label: "Chevron Grey (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-che.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-chevron-grey-matt-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-hoeycomb-grey-deluxe-panel",
-        label: "HoneyCombe Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500honey.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-hoeycomb-grey-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-chevron-white-deluxe-panel",
-        label: "Chevron White (White)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/400-ch-whi.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-chevron-white-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-milano-matt-deluxe-panel",
-        label: "Milano (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-milano.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-milano-matt-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-moccaccino-matt-deluxe-panel",
-        label: "Moccaccino (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500mocc.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-moccaccino-matt-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-london-tile-deluxe-panel",
-        label: "London Tile",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-2.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-london-tile-deluxe-panel",
-      },
-      {
-        value: "1m-x-2-4m-chevron-marble-deluxe-panel",
-        label: "Chevron Marble",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500cm.jpg",
-        href: "/panels/deluxe-panels/1m-x-2-4m-chevron-marble-deluxe-panel",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Deluxe Panels collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/decorative-panel/8mm-london-white-matt-decorative-panel": {
@@ -18921,49 +11778,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-2.jpg",
     ],
     colours: [
-      {
-        value: "8mm-london-white-matt-decorative-panel",
-        label: "8mm London White (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-2.jpg",
-        href: "/panels/decorative-panel/8mm-london-white-matt-decorative-panel",
-      },
-      {
-        value: "8mm-chevron-white-decorative-panel",
-        label: "8mm Chevron White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/400-ch-whi.jpg",
-        href: "/panels/decorative-panel/8mm-chevron-white-decorative-panel",
-      },
-      {
-        value: "8mm-chevron-grey-decorative-panel",
-        label: "8mm Chevron Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-che.jpg",
-        href: "/panels/decorative-panel/8mm-chevron-grey-decorative-panel",
-      },
-      {
-        value: "natural-stone-graphite-natural-panel",
-        label: "Natural Stone Graphite",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500gr.jpg",
-        href: "/panels/decorative-panel/natural-stone-graphite-natural-panel",
-      },
-      {
-        value: "natural-stone-anthracite-natural-panel",
-        label: "Natural Stone Anthracite",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500hgh.jpg",
-        href: "/panels/decorative-panel/natural-stone-anthracite-natural-panel",
-      },
-      {
-        value: "8mm-natural-stone-light-grey-decorative-panel",
-        label: "8mm Natural Stone Light Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-naj.jpg",
-        href: "/panels/decorative-panel/8mm-natural-stone-light-grey-decorative-panel",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Decorative Panel collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/decorative-panel/8mm-chevron-white-decorative-panel": {
@@ -18981,49 +11797,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/400-ch-whi.jpg",
     ],
     colours: [
-      {
-        value: "8mm-london-white-matt-decorative-panel",
-        label: "8mm London White (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-2.jpg",
-        href: "/panels/decorative-panel/8mm-london-white-matt-decorative-panel",
-      },
-      {
-        value: "8mm-chevron-white-decorative-panel",
-        label: "8mm Chevron White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/400-ch-whi.jpg",
-        href: "/panels/decorative-panel/8mm-chevron-white-decorative-panel",
-      },
-      {
-        value: "8mm-chevron-grey-decorative-panel",
-        label: "8mm Chevron Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-che.jpg",
-        href: "/panels/decorative-panel/8mm-chevron-grey-decorative-panel",
-      },
-      {
-        value: "natural-stone-graphite-natural-panel",
-        label: "Natural Stone Graphite",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500gr.jpg",
-        href: "/panels/decorative-panel/natural-stone-graphite-natural-panel",
-      },
-      {
-        value: "natural-stone-anthracite-natural-panel",
-        label: "Natural Stone Anthracite",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500hgh.jpg",
-        href: "/panels/decorative-panel/natural-stone-anthracite-natural-panel",
-      },
-      {
-        value: "8mm-natural-stone-light-grey-decorative-panel",
-        label: "8mm Natural Stone Light Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-naj.jpg",
-        href: "/panels/decorative-panel/8mm-natural-stone-light-grey-decorative-panel",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Decorative Panel collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/decorative-panel/8mm-chevron-grey-decorative-panel": {
@@ -19041,49 +11816,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-che.jpg",
     ],
     colours: [
-      {
-        value: "8mm-london-white-matt-decorative-panel",
-        label: "8mm London White (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-2.jpg",
-        href: "/panels/decorative-panel/8mm-london-white-matt-decorative-panel",
-      },
-      {
-        value: "8mm-chevron-white-decorative-panel",
-        label: "8mm Chevron White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/400-ch-whi.jpg",
-        href: "/panels/decorative-panel/8mm-chevron-white-decorative-panel",
-      },
-      {
-        value: "8mm-chevron-grey-decorative-panel",
-        label: "8mm Chevron Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-che.jpg",
-        href: "/panels/decorative-panel/8mm-chevron-grey-decorative-panel",
-      },
-      {
-        value: "natural-stone-graphite-natural-panel",
-        label: "Natural Stone Graphite",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500gr.jpg",
-        href: "/panels/decorative-panel/natural-stone-graphite-natural-panel",
-      },
-      {
-        value: "natural-stone-anthracite-natural-panel",
-        label: "Natural Stone Anthracite",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500hgh.jpg",
-        href: "/panels/decorative-panel/natural-stone-anthracite-natural-panel",
-      },
-      {
-        value: "8mm-natural-stone-light-grey-decorative-panel",
-        label: "8mm Natural Stone Light Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-naj.jpg",
-        href: "/panels/decorative-panel/8mm-natural-stone-light-grey-decorative-panel",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Decorative Panel collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/decorative-panel/natural-stone-graphite-natural-panel": {
@@ -19101,49 +11835,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/500gr.jpg",
     ],
     colours: [
-      {
-        value: "8mm-london-white-matt-decorative-panel",
-        label: "8mm London White (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-2.jpg",
-        href: "/panels/decorative-panel/8mm-london-white-matt-decorative-panel",
-      },
-      {
-        value: "8mm-chevron-white-decorative-panel",
-        label: "8mm Chevron White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/400-ch-whi.jpg",
-        href: "/panels/decorative-panel/8mm-chevron-white-decorative-panel",
-      },
-      {
-        value: "8mm-chevron-grey-decorative-panel",
-        label: "8mm Chevron Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-che.jpg",
-        href: "/panels/decorative-panel/8mm-chevron-grey-decorative-panel",
-      },
-      {
-        value: "natural-stone-graphite-natural-panel",
-        label: "Natural Stone Graphite",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500gr.jpg",
-        href: "/panels/decorative-panel/natural-stone-graphite-natural-panel",
-      },
-      {
-        value: "natural-stone-anthracite-natural-panel",
-        label: "Natural Stone Anthracite",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500hgh.jpg",
-        href: "/panels/decorative-panel/natural-stone-anthracite-natural-panel",
-      },
-      {
-        value: "8mm-natural-stone-light-grey-decorative-panel",
-        label: "8mm Natural Stone Light Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-naj.jpg",
-        href: "/panels/decorative-panel/8mm-natural-stone-light-grey-decorative-panel",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Decorative Panel collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/decorative-panel/natural-stone-anthracite-natural-panel": {
@@ -19161,49 +11854,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/500hgh.jpg",
     ],
     colours: [
-      {
-        value: "8mm-london-white-matt-decorative-panel",
-        label: "8mm London White (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-2.jpg",
-        href: "/panels/decorative-panel/8mm-london-white-matt-decorative-panel",
-      },
-      {
-        value: "8mm-chevron-white-decorative-panel",
-        label: "8mm Chevron White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/400-ch-whi.jpg",
-        href: "/panels/decorative-panel/8mm-chevron-white-decorative-panel",
-      },
-      {
-        value: "8mm-chevron-grey-decorative-panel",
-        label: "8mm Chevron Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-che.jpg",
-        href: "/panels/decorative-panel/8mm-chevron-grey-decorative-panel",
-      },
-      {
-        value: "natural-stone-graphite-natural-panel",
-        label: "Natural Stone Graphite",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500gr.jpg",
-        href: "/panels/decorative-panel/natural-stone-graphite-natural-panel",
-      },
-      {
-        value: "natural-stone-anthracite-natural-panel",
-        label: "Natural Stone Anthracite",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500hgh.jpg",
-        href: "/panels/decorative-panel/natural-stone-anthracite-natural-panel",
-      },
-      {
-        value: "8mm-natural-stone-light-grey-decorative-panel",
-        label: "8mm Natural Stone Light Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-naj.jpg",
-        href: "/panels/decorative-panel/8mm-natural-stone-light-grey-decorative-panel",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Decorative Panel collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/decorative-panel/8mm-natural-stone-light-grey-decorative-panel": {
@@ -19221,49 +11873,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-naj.jpg",
     ],
     colours: [
-      {
-        value: "8mm-london-white-matt-decorative-panel",
-        label: "8mm London White (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-2.jpg",
-        href: "/panels/decorative-panel/8mm-london-white-matt-decorative-panel",
-      },
-      {
-        value: "8mm-chevron-white-decorative-panel",
-        label: "8mm Chevron White",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/400-ch-whi.jpg",
-        href: "/panels/decorative-panel/8mm-chevron-white-decorative-panel",
-      },
-      {
-        value: "8mm-chevron-grey-decorative-panel",
-        label: "8mm Chevron Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-che.jpg",
-        href: "/panels/decorative-panel/8mm-chevron-grey-decorative-panel",
-      },
-      {
-        value: "natural-stone-graphite-natural-panel",
-        label: "Natural Stone Graphite",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500gr.jpg",
-        href: "/panels/decorative-panel/natural-stone-graphite-natural-panel",
-      },
-      {
-        value: "natural-stone-anthracite-natural-panel",
-        label: "Natural Stone Anthracite",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500hgh.jpg",
-        href: "/panels/decorative-panel/natural-stone-anthracite-natural-panel",
-      },
-      {
-        value: "8mm-natural-stone-light-grey-decorative-panel",
-        label: "8mm Natural Stone Light Grey",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/500-naj.jpg",
-        href: "/panels/decorative-panel/8mm-natural-stone-light-grey-decorative-panel",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Decorative Panel collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/odyssey-collection/autumn-ice-matt": {
@@ -19278,37 +11889,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Autumn-Ice-Matt.jpg",
     ],
     colours: [
-      {
-        value: "autumn-ice-matt",
-        label: "Autumn Ice (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Autumn-Ice-Matt.jpg",
-        href: "/panels/odyssey-collection/autumn-ice-matt",
-      },
-      {
-        value: "dark-grey-ice-matt",
-        label: "Dark Grey Ice (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Dark-Grey-Ice-Matt.jpg",
-        href: "/panels/odyssey-collection/dark-grey-ice-matt",
-      },
-      {
-        value: "grey-ice-matt",
-        label: "Grey Ice (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Ice-Matt.jpg",
-        href: "/panels/odyssey-collection/grey-ice-matt",
-      },
-      {
-        value: "sandstorm-ice-matt",
-        label: "Sandstorm Ice (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Sandstorm-Ice-Matt.jpg",
-        href: "/panels/odyssey-collection/sandstorm-ice-matt",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Odyssey Collection collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/odyssey-collection/dark-grey-ice-matt": {
@@ -19323,37 +11905,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Dark-Grey-Ice-Matt.jpg",
     ],
     colours: [
-      {
-        value: "autumn-ice-matt",
-        label: "Autumn Ice (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Autumn-Ice-Matt.jpg",
-        href: "/panels/odyssey-collection/autumn-ice-matt",
-      },
-      {
-        value: "dark-grey-ice-matt",
-        label: "Dark Grey Ice (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Dark-Grey-Ice-Matt.jpg",
-        href: "/panels/odyssey-collection/dark-grey-ice-matt",
-      },
-      {
-        value: "grey-ice-matt",
-        label: "Grey Ice (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Ice-Matt.jpg",
-        href: "/panels/odyssey-collection/grey-ice-matt",
-      },
-      {
-        value: "sandstorm-ice-matt",
-        label: "Sandstorm Ice (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Sandstorm-Ice-Matt.jpg",
-        href: "/panels/odyssey-collection/sandstorm-ice-matt",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Odyssey Collection collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/odyssey-collection/grey-ice-matt": {
@@ -19368,37 +11921,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Ice-Matt.jpg",
     ],
     colours: [
-      {
-        value: "autumn-ice-matt",
-        label: "Autumn Ice (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Autumn-Ice-Matt.jpg",
-        href: "/panels/odyssey-collection/autumn-ice-matt",
-      },
-      {
-        value: "dark-grey-ice-matt",
-        label: "Dark Grey Ice (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Dark-Grey-Ice-Matt.jpg",
-        href: "/panels/odyssey-collection/dark-grey-ice-matt",
-      },
-      {
-        value: "grey-ice-matt",
-        label: "Grey Ice (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Ice-Matt.jpg",
-        href: "/panels/odyssey-collection/grey-ice-matt",
-      },
-      {
-        value: "sandstorm-ice-matt",
-        label: "Sandstorm Ice (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Sandstorm-Ice-Matt.jpg",
-        href: "/panels/odyssey-collection/sandstorm-ice-matt",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Odyssey Collection collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/odyssey-collection/sandstorm-ice-matt": {
@@ -19413,37 +11937,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Sandstorm-Ice-Matt.jpg",
     ],
     colours: [
-      {
-        value: "autumn-ice-matt",
-        label: "Autumn Ice (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Autumn-Ice-Matt.jpg",
-        href: "/panels/odyssey-collection/autumn-ice-matt",
-      },
-      {
-        value: "dark-grey-ice-matt",
-        label: "Dark Grey Ice (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Dark-Grey-Ice-Matt.jpg",
-        href: "/panels/odyssey-collection/dark-grey-ice-matt",
-      },
-      {
-        value: "grey-ice-matt",
-        label: "Grey Ice (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Grey-Ice-Matt.jpg",
-        href: "/panels/odyssey-collection/grey-ice-matt",
-      },
-      {
-        value: "sandstorm-ice-matt",
-        label: "Sandstorm Ice (Matt)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/Sandstorm-Ice-Matt.jpg",
-        href: "/panels/odyssey-collection/sandstorm-ice-matt",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Odyssey Collection collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/trims-sealant/black-trims": {
@@ -19458,55 +11953,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-b.jpg",
     ],
     colours: [
-      {
-        value: "black-trims",
-        label: "Black Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-b.jpg",
-        href: "/panels/trims-sealant/black-trims",
-      },
-      {
-        value: "chrome-trims",
-        label: "Chrome Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-c.jpg",
-        href: "/panels/trims-sealant/chrome-trims",
-      },
-      {
-        value: "white-trims",
-        label: "White Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-w-1.jpg",
-        href: "/panels/trims-sealant/white-trims",
-      },
-      {
-        value: "brushed-brass-trims",
-        label: "Brushed Brass Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-bb.jpg",
-        href: "/panels/trims-sealant/brushed-brass-trims",
-      },
-      {
-        value: "pvc-panel-adhesive-sealant",
-        label: "PVC Adhesive Sealant",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/panels/trims-sealant/pvc-panel-adhesive-sealant",
-      },
-      {
-        value: "grey-silicone",
-        label: "Grey Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/panels/trims-sealant/grey-silicone",
-      },
-      {
-        value: "white-silicone",
-        label: "White Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/10/333.png",
-        href: "/panels/trims-sealant/white-silicone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Trims & Sealant collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/trims-sealant/chrome-trims": {
@@ -19521,55 +11969,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-c.jpg",
     ],
     colours: [
-      {
-        value: "black-trims",
-        label: "Black Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-b.jpg",
-        href: "/panels/trims-sealant/black-trims",
-      },
-      {
-        value: "chrome-trims",
-        label: "Chrome Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-c.jpg",
-        href: "/panels/trims-sealant/chrome-trims",
-      },
-      {
-        value: "white-trims",
-        label: "White Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-w-1.jpg",
-        href: "/panels/trims-sealant/white-trims",
-      },
-      {
-        value: "brushed-brass-trims",
-        label: "Brushed Brass Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-bb.jpg",
-        href: "/panels/trims-sealant/brushed-brass-trims",
-      },
-      {
-        value: "pvc-panel-adhesive-sealant",
-        label: "PVC Adhesive Sealant",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/panels/trims-sealant/pvc-panel-adhesive-sealant",
-      },
-      {
-        value: "grey-silicone",
-        label: "Grey Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/panels/trims-sealant/grey-silicone",
-      },
-      {
-        value: "white-silicone",
-        label: "White Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/10/333.png",
-        href: "/panels/trims-sealant/white-silicone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Trims & Sealant collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/trims-sealant/white-trims": {
@@ -19584,55 +11985,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-w-1.jpg",
     ],
     colours: [
-      {
-        value: "black-trims",
-        label: "Black Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-b.jpg",
-        href: "/panels/trims-sealant/black-trims",
-      },
-      {
-        value: "chrome-trims",
-        label: "Chrome Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-c.jpg",
-        href: "/panels/trims-sealant/chrome-trims",
-      },
-      {
-        value: "white-trims",
-        label: "White Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-w-1.jpg",
-        href: "/panels/trims-sealant/white-trims",
-      },
-      {
-        value: "brushed-brass-trims",
-        label: "Brushed Brass Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-bb.jpg",
-        href: "/panels/trims-sealant/brushed-brass-trims",
-      },
-      {
-        value: "pvc-panel-adhesive-sealant",
-        label: "PVC Adhesive Sealant",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/panels/trims-sealant/pvc-panel-adhesive-sealant",
-      },
-      {
-        value: "grey-silicone",
-        label: "Grey Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/panels/trims-sealant/grey-silicone",
-      },
-      {
-        value: "white-silicone",
-        label: "White Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/10/333.png",
-        href: "/panels/trims-sealant/white-silicone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Trims & Sealant collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/trims-sealant/brushed-brass-trims": {
@@ -19647,55 +12001,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-bb.jpg",
     ],
     colours: [
-      {
-        value: "black-trims",
-        label: "Black Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-b.jpg",
-        href: "/panels/trims-sealant/black-trims",
-      },
-      {
-        value: "chrome-trims",
-        label: "Chrome Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-c.jpg",
-        href: "/panels/trims-sealant/chrome-trims",
-      },
-      {
-        value: "white-trims",
-        label: "White Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-w-1.jpg",
-        href: "/panels/trims-sealant/white-trims",
-      },
-      {
-        value: "brushed-brass-trims",
-        label: "Brushed Brass Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-bb.jpg",
-        href: "/panels/trims-sealant/brushed-brass-trims",
-      },
-      {
-        value: "pvc-panel-adhesive-sealant",
-        label: "PVC Adhesive Sealant",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/panels/trims-sealant/pvc-panel-adhesive-sealant",
-      },
-      {
-        value: "grey-silicone",
-        label: "Grey Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/panels/trims-sealant/grey-silicone",
-      },
-      {
-        value: "white-silicone",
-        label: "White Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/10/333.png",
-        href: "/panels/trims-sealant/white-silicone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Trims & Sealant collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/trims-sealant/pvc-panel-adhesive-sealant": {
@@ -19711,59 +12018,12 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
     ],
     colours: [
-      {
-        value: "black-trims",
-        label: "Black Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-b.jpg",
-        href: "/panels/trims-sealant/black-trims",
-      },
-      {
-        value: "chrome-trims",
-        label: "Chrome Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-c.jpg",
-        href: "/panels/trims-sealant/chrome-trims",
-      },
-      {
-        value: "white-trims",
-        label: "White Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-w-1.jpg",
-        href: "/panels/trims-sealant/white-trims",
-      },
-      {
-        value: "brushed-brass-trims",
-        label: "Brushed Brass Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-bb.jpg",
-        href: "/panels/trims-sealant/brushed-brass-trims",
-      },
-      {
-        value: "pvc-panel-adhesive-sealant",
-        label: "PVC Adhesive Sealant",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/panels/trims-sealant/pvc-panel-adhesive-sealant",
-      },
-      {
-        value: "grey-silicone",
-        label: "Grey Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/panels/trims-sealant/grey-silicone",
-      },
-      {
-        value: "white-silicone",
-        label: "White Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/10/333.png",
-        href: "/panels/trims-sealant/white-silicone",
-      },
     ],
     sizes: [
       {
         value: "310ml",
         label: "310ml",
       },
-    ],
-    features: [
-      "Part of the Trims & Sealant collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/trims-sealant/grey-silicone": {
@@ -19779,59 +12039,12 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
     ],
     colours: [
-      {
-        value: "black-trims",
-        label: "Black Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-b.jpg",
-        href: "/panels/trims-sealant/black-trims",
-      },
-      {
-        value: "chrome-trims",
-        label: "Chrome Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-c.jpg",
-        href: "/panels/trims-sealant/chrome-trims",
-      },
-      {
-        value: "white-trims",
-        label: "White Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-w-1.jpg",
-        href: "/panels/trims-sealant/white-trims",
-      },
-      {
-        value: "brushed-brass-trims",
-        label: "Brushed Brass Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-bb.jpg",
-        href: "/panels/trims-sealant/brushed-brass-trims",
-      },
-      {
-        value: "pvc-panel-adhesive-sealant",
-        label: "PVC Adhesive Sealant",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/panels/trims-sealant/pvc-panel-adhesive-sealant",
-      },
-      {
-        value: "grey-silicone",
-        label: "Grey Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/panels/trims-sealant/grey-silicone",
-      },
-      {
-        value: "white-silicone",
-        label: "White Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/10/333.png",
-        href: "/panels/trims-sealant/white-silicone",
-      },
     ],
     sizes: [
       {
         value: "310ml",
         label: "310ml",
       },
-    ],
-    features: [
-      "Part of the Trims & Sealant collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "panels/trims-sealant/white-silicone": {
@@ -19847,59 +12060,12 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/10/333.png",
     ],
     colours: [
-      {
-        value: "black-trims",
-        label: "Black Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-b.jpg",
-        href: "/panels/trims-sealant/black-trims",
-      },
-      {
-        value: "chrome-trims",
-        label: "Chrome Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-c.jpg",
-        href: "/panels/trims-sealant/chrome-trims",
-      },
-      {
-        value: "white-trims",
-        label: "White Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-w-1.jpg",
-        href: "/panels/trims-sealant/white-trims",
-      },
-      {
-        value: "brushed-brass-trims",
-        label: "Brushed Brass Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-bb.jpg",
-        href: "/panels/trims-sealant/brushed-brass-trims",
-      },
-      {
-        value: "pvc-panel-adhesive-sealant",
-        label: "PVC Adhesive Sealant",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/panels/trims-sealant/pvc-panel-adhesive-sealant",
-      },
-      {
-        value: "grey-silicone",
-        label: "Grey Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/panels/trims-sealant/grey-silicone",
-      },
-      {
-        value: "white-silicone",
-        label: "White Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/10/333.png",
-        href: "/panels/trims-sealant/white-silicone",
-      },
     ],
     sizes: [
       {
         value: "310ml",
         label: "310ml",
       },
-    ],
-    features: [
-      "Part of the Trims & Sealant collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "flooring/7524/7524": {
@@ -19922,11 +12088,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         label: "1220 x 315 x 6mm - 5 tiles per box",
       },
     ],
-    features: [
-      "Part of the Cairo Oak SPC Flooring collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "flooring/clawson-oak-spc-flooring/clawson-oak-spc-flooring": {
     key: "flooring/clawson-oak-spc-flooring/clawson-oak-spc-flooring",
@@ -19947,11 +12108,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         value: "1220-x-315mm-5-tiles-per-box",
         label: "1220 x 315mm - 5 tiles per box",
       },
-    ],
-    features: [
-      "Part of the Clawson Oak SPC Flooring collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "flooring/dynasty-black-spc-flooring/dynasty-black-spc-flooring": {
@@ -19974,11 +12130,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         label: "615 x 315 x 6mm - 9 tiles per box",
       },
     ],
-    features: [
-      "Part of the Dynasty Black SPC Flooring collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "flooring/olympus-beige-spc-flooring/olympus-beige-spc-flooring": {
     key: "flooring/olympus-beige-spc-flooring/olympus-beige-spc-flooring",
@@ -20000,11 +12151,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         label: "615 x 315 x 6mm - 9 tiles per box",
       },
     ],
-    features: [
-      "Part of the Olympus Beige SPC Flooring collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "flooring/juno-grey-spc-flooring/juno-grey-spc-flooring": {
     key: "flooring/juno-grey-spc-flooring/juno-grey-spc-flooring",
@@ -20021,11 +12167,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     colours: [
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Juno Grey SPC Flooring collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "flooring/athena-noir-spc-flooring/athena-noir-spc-flooring": {
@@ -20044,11 +12185,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Athena Noir SPC Flooring collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "flooring/hera-marble-spc-flooring/hera-marble-spc-flooring": {
     key: "flooring/hera-marble-spc-flooring/hera-marble-spc-flooring",
@@ -20065,11 +12201,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     colours: [
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Hera Marble SPC Flooring collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "flooring/ares-carrera-spc-flooring/ares-carrera-spc-flooring": {
@@ -20088,11 +12219,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Ares Carrera SPC Flooring collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "flooring/reve-pearl-spc-flooring/reve-pearl-spc-flooring": {
     key: "flooring/reve-pearl-spc-flooring/reve-pearl-spc-flooring",
@@ -20110,11 +12236,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Reve Pearl SPC Flooring collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "flooring/reve-dark-grey-spc-flooring/reve-dark-grey-spc-flooring": {
     key: "flooring/reve-dark-grey-spc-flooring/reve-dark-grey-spc-flooring",
@@ -20131,11 +12252,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     colours: [
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Reve Dark Grey SPC Flooring collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "flooring/tiles-trims-accessories/brushed-grey-trim": {
@@ -20158,11 +12274,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the SPC Tile Trims collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "flooring/tiles-trims-accessories/carrera-trim": {
     key: "flooring/tiles-trims-accessories/carrera-trim",
@@ -20183,11 +12294,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the SPC Tile Trims collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "flooring/tiles-trims-accessories/juno-grey-trim": {
@@ -20210,11 +12316,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the SPC Tile Trims collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "flooring/tiles-trims-accessories/dynasty-black": {
     key: "flooring/tiles-trims-accessories/dynasty-black",
@@ -20235,11 +12336,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the SPC Tile Trims collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "flooring/tiles-trims-accessories/olympus-beige": {
@@ -20262,11 +12358,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the SPC Tile Trims collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "flooring/tiles-trims-accessories/selene-white-trim": {
     key: "flooring/tiles-trims-accessories/selene-white-trim",
@@ -20288,11 +12379,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the SPC Tile Trims collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "wall-tiles/brushed-grey-spc-wall-tiles/brushed-grey-spc-wall-tiles": {
     key: "wall-tiles/brushed-grey-spc-wall-tiles/brushed-grey-spc-wall-tiles",
@@ -20310,11 +12396,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     colours: [
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Brushed Grey SPC Wall Tiles collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "wall-tiles/selene-spc-wall-tiles/selene-spc-wall-tiles": {
@@ -20337,11 +12418,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         label: "800 x 400mm - 5 tiles per box",
       },
     ],
-    features: [
-      "Part of the Selene SPC Wall Tiles collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "wall-tiles/carrera-spc-wall-tiles/carrera-spc-wall-tiles": {
     key: "wall-tiles/carrera-spc-wall-tiles/carrera-spc-wall-tiles",
@@ -20362,11 +12438,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         value: "800-x-400mm-5-tiles-per-box",
         label: "800 x 400mm - 5 tiles per box",
       },
-    ],
-    features: [
-      "Part of the Carrera SPC Wall Tiles collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "wall-tiles/juno-grey-spc-wall-tiles/juno-grey-spc-wall-tiles": {
@@ -20389,11 +12460,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         label: "800 x 400mm - 5 tiles per box",
       },
     ],
-    features: [
-      "Part of the Juno Grey SPC Wall Tiles collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "wall-tiles/dynasty-black-spc-wall-tiles/dynasty-black-spc-wall-tiles": {
     key: "wall-tiles/dynasty-black-spc-wall-tiles/dynasty-black-spc-wall-tiles",
@@ -20414,11 +12480,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         value: "800-x-400mm-5-tiles-per-box",
         label: "800 x 400mm - 5 tiles per box",
       },
-    ],
-    features: [
-      "Part of the Dynasty Black SPC Wall Tiles collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "wall-tiles/olympus-beige-spc-wall-tiles/olympus-beige-spc-wall-tiles": {
@@ -20441,11 +12502,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         label: "800 x 400mm - 5 tiles per box",
       },
     ],
-    features: [
-      "Part of the Olympus Beige SPC Wall Tiles collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "wall-tiles/tiles-trims-accessories/brushed-grey-trim": {
     key: "wall-tiles/tiles-trims-accessories/brushed-grey-trim",
@@ -20466,11 +12522,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the SPC Tile Trims collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "wall-tiles/tiles-trims-accessories/carrera-trim": {
@@ -20493,11 +12544,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the SPC Tile Trims collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "wall-tiles/tiles-trims-accessories/juno-grey-trim": {
     key: "wall-tiles/tiles-trims-accessories/juno-grey-trim",
@@ -20518,11 +12564,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the SPC Tile Trims collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "wall-tiles/tiles-trims-accessories/dynasty-black": {
@@ -20545,11 +12586,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the SPC Tile Trims collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "wall-tiles/tiles-trims-accessories/olympus-beige": {
     key: "wall-tiles/tiles-trims-accessories/olympus-beige",
@@ -20570,11 +12606,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the SPC Tile Trims collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "wall-tiles/tiles-trims-accessories/selene-white-trim": {
@@ -20597,11 +12628,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the SPC Tile Trims collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/sanitaryware-accessories/wc-frame-cistern-with-chrome-flush-plate": {
     key: "accessories/sanitaryware-accessories/wc-frame-cistern-with-chrome-flush-plate",
@@ -20623,11 +12649,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Sanitaryware Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/sanitaryware-accessories/black-flush-plate": {
@@ -20664,11 +12685,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Sanitaryware Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/sanitaryware-accessories/soft-close-d-shaped-wc-seat": {
     key: "accessories/sanitaryware-accessories/soft-close-d-shaped-wc-seat",
@@ -20683,49 +12699,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/gf-768x1024.jpg",
     ],
     colours: [
-      {
-        value: "wc-frame-cistern-with-chrome-flush-plate",
-        label: "WC Frame & Cistern With Chrome Flush Plate",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/wc-frame.jpg",
-        href: "/accessories/sanitaryware-accessories/wc-frame-cistern-with-chrome-flush-plate",
-      },
-      {
-        value: "black-flush-plate",
-        label: "Flush Plates",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Chrome-Square.jpg",
-        href: "/accessories/sanitaryware-accessories/black-flush-plate",
-      },
-      {
-        value: "soft-close-d-shaped-wc-seat",
-        label: "Soft Close D Shaped WC Seat",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/gf-768x1024.jpg",
-        href: "/accessories/sanitaryware-accessories/soft-close-d-shaped-wc-seat",
-      },
-      {
-        value: "concealed-cistern",
-        label: "Concealed Cistern",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/ci-768x1024.jpg",
-        href: "/accessories/sanitaryware-accessories/concealed-cistern",
-      },
-      {
-        value: "concealed-cistern-push-button",
-        label: "Concealed Cistern Push Buttons",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/black-13.jpg",
-        href: "/accessories/sanitaryware-accessories/concealed-cistern-push-button",
-      },
-      {
-        value: "white-bush-button-hinge-covers",
-        label: "Push Button and Hinge Covers",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Blank-product-image.jpg",
-        href: "/accessories/sanitaryware-accessories/white-bush-button-hinge-covers",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Sanitaryware Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/sanitaryware-accessories/concealed-cistern": {
@@ -20745,49 +12720,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/ci-768x1024.jpg",
     ],
     colours: [
-      {
-        value: "wc-frame-cistern-with-chrome-flush-plate",
-        label: "WC Frame & Cistern With Chrome Flush Plate",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/wc-frame.jpg",
-        href: "/accessories/sanitaryware-accessories/wc-frame-cistern-with-chrome-flush-plate",
-      },
-      {
-        value: "black-flush-plate",
-        label: "Flush Plates",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Chrome-Square.jpg",
-        href: "/accessories/sanitaryware-accessories/black-flush-plate",
-      },
-      {
-        value: "soft-close-d-shaped-wc-seat",
-        label: "Soft Close D Shaped WC Seat",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/gf-768x1024.jpg",
-        href: "/accessories/sanitaryware-accessories/soft-close-d-shaped-wc-seat",
-      },
-      {
-        value: "concealed-cistern",
-        label: "Concealed Cistern",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/ci-768x1024.jpg",
-        href: "/accessories/sanitaryware-accessories/concealed-cistern",
-      },
-      {
-        value: "concealed-cistern-push-button",
-        label: "Concealed Cistern Push Buttons",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/black-13.jpg",
-        href: "/accessories/sanitaryware-accessories/concealed-cistern-push-button",
-      },
-      {
-        value: "white-bush-button-hinge-covers",
-        label: "Push Button and Hinge Covers",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Blank-product-image.jpg",
-        href: "/accessories/sanitaryware-accessories/white-bush-button-hinge-covers",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Sanitaryware Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/sanitaryware-accessories/concealed-cistern-push-button": {
@@ -20816,11 +12750,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Sanitaryware Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/sanitaryware-accessories/white-bush-button-hinge-covers": {
     key: "accessories/sanitaryware-accessories/white-bush-button-hinge-covers",
@@ -20843,11 +12772,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Sanitaryware Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/taps-accessories/click-clack-chrome-basin-waste": {
     key: "accessories/taps-accessories/click-clack-chrome-basin-waste",
@@ -20862,61 +12786,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-18-768x1024.jpg",
     ],
     colours: [
-      {
-        value: "click-clack-chrome-basin-waste",
-        label: "Click Clack Chrome Basin Waste",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-18-768x1024.jpg",
-        href: "/accessories/taps-accessories/click-clack-chrome-basin-waste",
-      },
-      {
-        value: "universal-click-clack-basin-waste-black",
-        label: "Universal Click Clack Basin Waste Black",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-13-768x1024.jpg",
-        href: "/accessories/taps-accessories/universal-click-clack-basin-waste-black",
-      },
-      {
-        value: "universal-click-clack-basin-waste-chrome",
-        label: "Universal Click Clack Basin Waste Chrome",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-14-768x1024.jpg",
-        href: "/accessories/taps-accessories/universal-click-clack-basin-waste-chrome",
-      },
-      {
-        value: "concealed-cistern",
-        label: "Chrome Click Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-chrome-click-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/concealed-cistern",
-      },
-      {
-        value: "bath-black-click-waste-and-overflow",
-        label: "Black Click Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-blackclick-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/bath-black-click-waste-and-overflow",
-      },
-      {
-        value: "bath-brushed-brass-click-waste-and-overflow",
-        label: "Brushed Brass Click Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-12.jpg",
-        href: "/accessories/taps-accessories/bath-brushed-brass-click-waste-and-overflow",
-      },
-      {
-        value: "bath-chrome-pop-up-waste-and-overflow",
-        label: "Bath Chrome Pop-Up Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-chrome-pop-up-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/bath-chrome-pop-up-waste-and-overflow",
-      },
-      {
-        value: "bath-black-pop-up-waste-and-overflow",
-        label: "Bath Black Pop-Up Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-black-pop-up-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/bath-black-pop-up-waste-and-overflow",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Taps Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/taps-accessories/universal-click-clack-basin-waste-black": {
@@ -20932,61 +12803,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-13-768x1024.jpg",
     ],
     colours: [
-      {
-        value: "click-clack-chrome-basin-waste",
-        label: "Click Clack Chrome Basin Waste",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-18-768x1024.jpg",
-        href: "/accessories/taps-accessories/click-clack-chrome-basin-waste",
-      },
-      {
-        value: "universal-click-clack-basin-waste-black",
-        label: "Universal Click Clack Basin Waste Black",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-13-768x1024.jpg",
-        href: "/accessories/taps-accessories/universal-click-clack-basin-waste-black",
-      },
-      {
-        value: "universal-click-clack-basin-waste-chrome",
-        label: "Universal Click Clack Basin Waste Chrome",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-14-768x1024.jpg",
-        href: "/accessories/taps-accessories/universal-click-clack-basin-waste-chrome",
-      },
-      {
-        value: "concealed-cistern",
-        label: "Chrome Click Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-chrome-click-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/concealed-cistern",
-      },
-      {
-        value: "bath-black-click-waste-and-overflow",
-        label: "Black Click Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-blackclick-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/bath-black-click-waste-and-overflow",
-      },
-      {
-        value: "bath-brushed-brass-click-waste-and-overflow",
-        label: "Brushed Brass Click Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-12.jpg",
-        href: "/accessories/taps-accessories/bath-brushed-brass-click-waste-and-overflow",
-      },
-      {
-        value: "bath-chrome-pop-up-waste-and-overflow",
-        label: "Bath Chrome Pop-Up Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-chrome-pop-up-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/bath-chrome-pop-up-waste-and-overflow",
-      },
-      {
-        value: "bath-black-pop-up-waste-and-overflow",
-        label: "Bath Black Pop-Up Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-black-pop-up-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/bath-black-pop-up-waste-and-overflow",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Taps Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/taps-accessories/universal-click-clack-basin-waste-chrome": {
@@ -21002,61 +12820,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-14-768x1024.jpg",
     ],
     colours: [
-      {
-        value: "click-clack-chrome-basin-waste",
-        label: "Click Clack Chrome Basin Waste",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-18-768x1024.jpg",
-        href: "/accessories/taps-accessories/click-clack-chrome-basin-waste",
-      },
-      {
-        value: "universal-click-clack-basin-waste-black",
-        label: "Universal Click Clack Basin Waste Black",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-13-768x1024.jpg",
-        href: "/accessories/taps-accessories/universal-click-clack-basin-waste-black",
-      },
-      {
-        value: "universal-click-clack-basin-waste-chrome",
-        label: "Universal Click Clack Basin Waste Chrome",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-14-768x1024.jpg",
-        href: "/accessories/taps-accessories/universal-click-clack-basin-waste-chrome",
-      },
-      {
-        value: "concealed-cistern",
-        label: "Chrome Click Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-chrome-click-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/concealed-cistern",
-      },
-      {
-        value: "bath-black-click-waste-and-overflow",
-        label: "Black Click Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-blackclick-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/bath-black-click-waste-and-overflow",
-      },
-      {
-        value: "bath-brushed-brass-click-waste-and-overflow",
-        label: "Brushed Brass Click Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-12.jpg",
-        href: "/accessories/taps-accessories/bath-brushed-brass-click-waste-and-overflow",
-      },
-      {
-        value: "bath-chrome-pop-up-waste-and-overflow",
-        label: "Bath Chrome Pop-Up Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-chrome-pop-up-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/bath-chrome-pop-up-waste-and-overflow",
-      },
-      {
-        value: "bath-black-pop-up-waste-and-overflow",
-        label: "Bath Black Pop-Up Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-black-pop-up-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/bath-black-pop-up-waste-and-overflow",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Taps Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/taps-accessories/concealed-cistern": {
@@ -21076,61 +12841,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-chrome-click-waste-and-overflow-768x1024.jpg",
     ],
     colours: [
-      {
-        value: "click-clack-chrome-basin-waste",
-        label: "Click Clack Chrome Basin Waste",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-18-768x1024.jpg",
-        href: "/accessories/taps-accessories/click-clack-chrome-basin-waste",
-      },
-      {
-        value: "universal-click-clack-basin-waste-black",
-        label: "Universal Click Clack Basin Waste Black",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-13-768x1024.jpg",
-        href: "/accessories/taps-accessories/universal-click-clack-basin-waste-black",
-      },
-      {
-        value: "universal-click-clack-basin-waste-chrome",
-        label: "Universal Click Clack Basin Waste Chrome",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-14-768x1024.jpg",
-        href: "/accessories/taps-accessories/universal-click-clack-basin-waste-chrome",
-      },
-      {
-        value: "concealed-cistern",
-        label: "Chrome Click Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-chrome-click-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/concealed-cistern",
-      },
-      {
-        value: "bath-black-click-waste-and-overflow",
-        label: "Black Click Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-blackclick-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/bath-black-click-waste-and-overflow",
-      },
-      {
-        value: "bath-brushed-brass-click-waste-and-overflow",
-        label: "Brushed Brass Click Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-12.jpg",
-        href: "/accessories/taps-accessories/bath-brushed-brass-click-waste-and-overflow",
-      },
-      {
-        value: "bath-chrome-pop-up-waste-and-overflow",
-        label: "Bath Chrome Pop-Up Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-chrome-pop-up-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/bath-chrome-pop-up-waste-and-overflow",
-      },
-      {
-        value: "bath-black-pop-up-waste-and-overflow",
-        label: "Bath Black Pop-Up Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-black-pop-up-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/bath-black-pop-up-waste-and-overflow",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Taps Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/taps-accessories/bath-black-click-waste-and-overflow": {
@@ -21146,61 +12858,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-blackclick-waste-and-overflow-768x1024.jpg",
     ],
     colours: [
-      {
-        value: "click-clack-chrome-basin-waste",
-        label: "Click Clack Chrome Basin Waste",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-18-768x1024.jpg",
-        href: "/accessories/taps-accessories/click-clack-chrome-basin-waste",
-      },
-      {
-        value: "universal-click-clack-basin-waste-black",
-        label: "Universal Click Clack Basin Waste Black",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-13-768x1024.jpg",
-        href: "/accessories/taps-accessories/universal-click-clack-basin-waste-black",
-      },
-      {
-        value: "universal-click-clack-basin-waste-chrome",
-        label: "Universal Click Clack Basin Waste Chrome",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-14-768x1024.jpg",
-        href: "/accessories/taps-accessories/universal-click-clack-basin-waste-chrome",
-      },
-      {
-        value: "concealed-cistern",
-        label: "Chrome Click Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-chrome-click-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/concealed-cistern",
-      },
-      {
-        value: "bath-black-click-waste-and-overflow",
-        label: "Black Click Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-blackclick-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/bath-black-click-waste-and-overflow",
-      },
-      {
-        value: "bath-brushed-brass-click-waste-and-overflow",
-        label: "Brushed Brass Click Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-12.jpg",
-        href: "/accessories/taps-accessories/bath-brushed-brass-click-waste-and-overflow",
-      },
-      {
-        value: "bath-chrome-pop-up-waste-and-overflow",
-        label: "Bath Chrome Pop-Up Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-chrome-pop-up-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/bath-chrome-pop-up-waste-and-overflow",
-      },
-      {
-        value: "bath-black-pop-up-waste-and-overflow",
-        label: "Bath Black Pop-Up Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-black-pop-up-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/bath-black-pop-up-waste-and-overflow",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Taps Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/taps-accessories/bath-brushed-brass-click-waste-and-overflow": {
@@ -21216,61 +12875,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-12.jpg",
     ],
     colours: [
-      {
-        value: "click-clack-chrome-basin-waste",
-        label: "Click Clack Chrome Basin Waste",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-18-768x1024.jpg",
-        href: "/accessories/taps-accessories/click-clack-chrome-basin-waste",
-      },
-      {
-        value: "universal-click-clack-basin-waste-black",
-        label: "Universal Click Clack Basin Waste Black",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-13-768x1024.jpg",
-        href: "/accessories/taps-accessories/universal-click-clack-basin-waste-black",
-      },
-      {
-        value: "universal-click-clack-basin-waste-chrome",
-        label: "Universal Click Clack Basin Waste Chrome",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-14-768x1024.jpg",
-        href: "/accessories/taps-accessories/universal-click-clack-basin-waste-chrome",
-      },
-      {
-        value: "concealed-cistern",
-        label: "Chrome Click Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-chrome-click-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/concealed-cistern",
-      },
-      {
-        value: "bath-black-click-waste-and-overflow",
-        label: "Black Click Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-blackclick-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/bath-black-click-waste-and-overflow",
-      },
-      {
-        value: "bath-brushed-brass-click-waste-and-overflow",
-        label: "Brushed Brass Click Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-12.jpg",
-        href: "/accessories/taps-accessories/bath-brushed-brass-click-waste-and-overflow",
-      },
-      {
-        value: "bath-chrome-pop-up-waste-and-overflow",
-        label: "Bath Chrome Pop-Up Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-chrome-pop-up-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/bath-chrome-pop-up-waste-and-overflow",
-      },
-      {
-        value: "bath-black-pop-up-waste-and-overflow",
-        label: "Bath Black Pop-Up Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-black-pop-up-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/bath-black-pop-up-waste-and-overflow",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Taps Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/taps-accessories/bath-chrome-pop-up-waste-and-overflow": {
@@ -21286,61 +12892,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-chrome-pop-up-waste-and-overflow-768x1024.jpg",
     ],
     colours: [
-      {
-        value: "click-clack-chrome-basin-waste",
-        label: "Click Clack Chrome Basin Waste",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-18-768x1024.jpg",
-        href: "/accessories/taps-accessories/click-clack-chrome-basin-waste",
-      },
-      {
-        value: "universal-click-clack-basin-waste-black",
-        label: "Universal Click Clack Basin Waste Black",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-13-768x1024.jpg",
-        href: "/accessories/taps-accessories/universal-click-clack-basin-waste-black",
-      },
-      {
-        value: "universal-click-clack-basin-waste-chrome",
-        label: "Universal Click Clack Basin Waste Chrome",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-14-768x1024.jpg",
-        href: "/accessories/taps-accessories/universal-click-clack-basin-waste-chrome",
-      },
-      {
-        value: "concealed-cistern",
-        label: "Chrome Click Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-chrome-click-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/concealed-cistern",
-      },
-      {
-        value: "bath-black-click-waste-and-overflow",
-        label: "Black Click Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-blackclick-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/bath-black-click-waste-and-overflow",
-      },
-      {
-        value: "bath-brushed-brass-click-waste-and-overflow",
-        label: "Brushed Brass Click Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-12.jpg",
-        href: "/accessories/taps-accessories/bath-brushed-brass-click-waste-and-overflow",
-      },
-      {
-        value: "bath-chrome-pop-up-waste-and-overflow",
-        label: "Bath Chrome Pop-Up Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-chrome-pop-up-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/bath-chrome-pop-up-waste-and-overflow",
-      },
-      {
-        value: "bath-black-pop-up-waste-and-overflow",
-        label: "Bath Black Pop-Up Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-black-pop-up-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/bath-black-pop-up-waste-and-overflow",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Taps Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/taps-accessories/bath-black-pop-up-waste-and-overflow": {
@@ -21356,61 +12909,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-black-pop-up-waste-and-overflow-768x1024.jpg",
     ],
     colours: [
-      {
-        value: "click-clack-chrome-basin-waste",
-        label: "Click Clack Chrome Basin Waste",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-18-768x1024.jpg",
-        href: "/accessories/taps-accessories/click-clack-chrome-basin-waste",
-      },
-      {
-        value: "universal-click-clack-basin-waste-black",
-        label: "Universal Click Clack Basin Waste Black",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-13-768x1024.jpg",
-        href: "/accessories/taps-accessories/universal-click-clack-basin-waste-black",
-      },
-      {
-        value: "universal-click-clack-basin-waste-chrome",
-        label: "Universal Click Clack Basin Waste Chrome",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-14-768x1024.jpg",
-        href: "/accessories/taps-accessories/universal-click-clack-basin-waste-chrome",
-      },
-      {
-        value: "concealed-cistern",
-        label: "Chrome Click Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-chrome-click-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/concealed-cistern",
-      },
-      {
-        value: "bath-black-click-waste-and-overflow",
-        label: "Black Click Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-blackclick-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/bath-black-click-waste-and-overflow",
-      },
-      {
-        value: "bath-brushed-brass-click-waste-and-overflow",
-        label: "Brushed Brass Click Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-12.jpg",
-        href: "/accessories/taps-accessories/bath-brushed-brass-click-waste-and-overflow",
-      },
-      {
-        value: "bath-chrome-pop-up-waste-and-overflow",
-        label: "Bath Chrome Pop-Up Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-chrome-pop-up-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/bath-chrome-pop-up-waste-and-overflow",
-      },
-      {
-        value: "bath-black-pop-up-waste-and-overflow",
-        label: "Bath Black Pop-Up Waste and Overflow",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-black-pop-up-waste-and-overflow-768x1024.jpg",
-        href: "/accessories/taps-accessories/bath-black-pop-up-waste-and-overflow",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Taps Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/showers-accessories/identity-dual-control-shower-valve-1-outlet": {
@@ -21434,11 +12934,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/showers-accessories/identity-round-push-shower-valve-2-outlet": {
     key: "accessories/showers-accessories/identity-round-push-shower-valve-2-outlet",
@@ -21460,11 +12955,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/showers-accessories/block-push-shower-valve-square-1-outlet": {
@@ -21488,11 +12978,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/showers-accessories/block-push-shower-valve-square-2-outlet": {
     key: "accessories/showers-accessories/block-push-shower-valve-square-2-outlet",
@@ -21514,11 +12999,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/showers-accessories/black-dual-control-round-shower-valve-1-outlet": {
@@ -21542,11 +13022,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/showers-accessories/black-triple-control-round-shower-valve-2-outlet": {
     key: "accessories/showers-accessories/black-triple-control-round-shower-valve-2-outlet",
@@ -21568,11 +13043,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/showers-accessories/black-dual-control-square-shower-valve-1-outlet": {
@@ -21596,11 +13066,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/showers-accessories/black-triple-control-square-shower-valve-2-outlet": {
     key: "accessories/showers-accessories/black-triple-control-square-shower-valve-2-outlet",
@@ -21622,11 +13087,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/showers-accessories/300mm-round-fixed-head": {
@@ -21651,11 +13111,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/showers-accessories/300mm-square-fixed-head": {
     key: "accessories/showers-accessories/300mm-square-fixed-head",
@@ -21677,11 +13132,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/showers-accessories/identity-round-arm": {
@@ -21705,11 +13155,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/showers-accessories/block-ceiling-arm": {
     key: "accessories/showers-accessories/block-ceiling-arm",
@@ -21732,11 +13177,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/showers-accessories/ceiling-arm-round": {
     key: "accessories/showers-accessories/ceiling-arm-round",
@@ -21758,11 +13198,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/showers-accessories/ceiling-arm-square": {
     key: "accessories/showers-accessories/ceiling-arm-square",
@@ -21783,11 +13218,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/showers-accessories/identity-sliding-rail-kit": {
@@ -21811,11 +13241,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/showers-accessories/square-sliding-rail-kit": {
     key: "accessories/showers-accessories/square-sliding-rail-kit",
@@ -21837,11 +13262,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/showers-accessories/identity-wall-outlet-and-holder": {
@@ -21865,11 +13285,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/showers-accessories/block-wall-outlet-and-holder": {
     key: "accessories/showers-accessories/block-wall-outlet-and-holder",
@@ -21892,11 +13307,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/showers-accessories/chrome-round-elbow-outlet": {
     key: "accessories/showers-accessories/chrome-round-elbow-outlet",
@@ -21917,11 +13327,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/showers-accessories/chrome-block-elbow-outlet": {
@@ -21944,11 +13349,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/showers-accessories/easy-fix-kit": {
     key: "accessories/showers-accessories/easy-fix-kit",
@@ -21969,11 +13369,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/showers-accessories/round-fixed-head": {
@@ -21997,11 +13392,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/showers-accessories/fixed-square-head": {
     key: "accessories/showers-accessories/fixed-square-head",
@@ -22024,11 +13414,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/showers-accessories/black-round-arm": {
     key: "accessories/showers-accessories/black-round-arm",
@@ -22049,11 +13434,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/showers-accessories/black-square-arm": {
@@ -22076,11 +13456,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/showers-accessories/ceiling-arm-round-black": {
     key: "accessories/showers-accessories/ceiling-arm-round-black",
@@ -22101,11 +13476,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/showers-accessories/ceiling-arm-square-black": {
@@ -22128,11 +13498,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/showers-accessories/round-sliding-rail-kit-black": {
     key: "accessories/showers-accessories/round-sliding-rail-kit-black",
@@ -22153,11 +13518,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/showers-accessories/square-sliding-rail-kit-black": {
@@ -22181,11 +13541,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/showers-accessories/round-wall-outlet-black": {
     key: "accessories/showers-accessories/round-wall-outlet-black",
@@ -22206,11 +13561,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/showers-accessories/square-wall-outlet-black": {
@@ -22233,11 +13583,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/showers-accessories/black-round-elbow-outlet": {
     key: "accessories/showers-accessories/black-round-elbow-outlet",
@@ -22259,11 +13604,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/showers-accessories/black-square-elbow-outlet": {
     key: "accessories/showers-accessories/black-square-elbow-outlet",
@@ -22284,11 +13624,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Showers Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/enclosures-tray-accessories/90mm-fast-flow-waste-black": {
@@ -22312,11 +13647,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Enclosures Tray Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/enclosures-tray-accessories/90mm-fast-flow-waste-chrome": {
     key: "accessories/enclosures-tray-accessories/90mm-fast-flow-waste-chrome",
@@ -22339,11 +13669,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Enclosures Tray Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/enclosures-tray-accessories/90mm-fast-flow-waste-brushed-brass": {
     key: "accessories/enclosures-tray-accessories/90mm-fast-flow-waste-brushed-brass",
@@ -22359,37 +13684,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Blank-product-image-6.jpg",
     ],
     colours: [
-      {
-        value: "90mm-fast-flow-waste-black",
-        label: "90mm Fast Flow Waste Black",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/22-3-768x1024.jpg",
-        href: "/accessories/enclosures-tray-accessories/90mm-fast-flow-waste-black",
-      },
-      {
-        value: "90mm-fast-flow-waste-chrome",
-        label: "90mm Fast Flow Waste Chrome",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/222-768x1024.jpg",
-        href: "/accessories/enclosures-tray-accessories/90mm-fast-flow-waste-chrome",
-      },
-      {
-        value: "90mm-fast-flow-waste-brushed-brass",
-        label: "90mm Fast Flow Waste Brushed Brass",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Blank-product-image-6.jpg",
-        href: "/accessories/enclosures-tray-accessories/90mm-fast-flow-waste-brushed-brass",
-      },
-      {
-        value: "shower-waste-for-slate-trays",
-        label: "90mm Fast Flow Waste (For slate trays)",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/04/slate-waste-2.jpg",
-        href: "/accessories/enclosures-tray-accessories/shower-waste-for-slate-trays",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Enclosures Tray Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/enclosures-tray-accessories/shower-waste-for-slate-trays": {
@@ -22411,11 +13707,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Enclosures Tray Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/underfloor-heating/7-day-programmable-thermostat-wifi-control": {
@@ -22442,11 +13733,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Underfloor Heating collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/radiator-accessories/straight-radiator-valves": {
@@ -22484,11 +13770,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Radiator Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/radiator-accessories/angled-radiator-valves": {
     key: "accessories/radiator-accessories/angled-radiator-valves",
@@ -22524,11 +13805,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Radiator Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/radiator-accessories/corner-radiator-valves": {
@@ -22571,11 +13847,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Radiator Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/radiator-accessories/straight-square-radiator-valves": {
     key: "accessories/radiator-accessories/straight-square-radiator-valves",
@@ -22607,11 +13878,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Radiator Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/radiator-accessories/angled-square-radiator-valves": {
     key: "accessories/radiator-accessories/angled-square-radiator-valves",
@@ -22642,11 +13908,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Radiator Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/radiator-accessories/straight-thermostatic-radiator-valves": {
@@ -22689,11 +13950,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Radiator Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/radiator-accessories/angled-thermostatic-radiator-valves": {
     key: "accessories/radiator-accessories/angled-thermostatic-radiator-valves",
@@ -22734,11 +13990,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Radiator Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/radiator-accessories/corner-thermostatic-radiator-valves": {
@@ -22786,11 +14037,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Radiator Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/radiator-accessories/heating-element-chrome": {
     key: "accessories/radiator-accessories/heating-element-chrome",
@@ -22813,11 +14059,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Radiator Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/trims-sealant/black-trims": {
     key: "accessories/trims-sealant/black-trims",
@@ -22831,55 +14072,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-b.jpg",
     ],
     colours: [
-      {
-        value: "black-trims",
-        label: "Black Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-b.jpg",
-        href: "/accessories/trims-sealant/black-trims",
-      },
-      {
-        value: "chrome-trims",
-        label: "Chrome Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-c.jpg",
-        href: "/accessories/trims-sealant/chrome-trims",
-      },
-      {
-        value: "white-trims",
-        label: "White Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-w-1.jpg",
-        href: "/accessories/trims-sealant/white-trims",
-      },
-      {
-        value: "brushed-brass-trims",
-        label: "Brushed Brass Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-bb.jpg",
-        href: "/accessories/trims-sealant/brushed-brass-trims",
-      },
-      {
-        value: "pvc-panel-adhesive-sealant",
-        label: "PVC Adhesive Sealant",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/accessories/trims-sealant/pvc-panel-adhesive-sealant",
-      },
-      {
-        value: "grey-silicone",
-        label: "Grey Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/accessories/trims-sealant/grey-silicone",
-      },
-      {
-        value: "white-silicone",
-        label: "White Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/10/333.png",
-        href: "/accessories/trims-sealant/white-silicone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Trims & Sealant collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/trims-sealant/chrome-trims": {
@@ -22894,55 +14088,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-c.jpg",
     ],
     colours: [
-      {
-        value: "black-trims",
-        label: "Black Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-b.jpg",
-        href: "/accessories/trims-sealant/black-trims",
-      },
-      {
-        value: "chrome-trims",
-        label: "Chrome Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-c.jpg",
-        href: "/accessories/trims-sealant/chrome-trims",
-      },
-      {
-        value: "white-trims",
-        label: "White Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-w-1.jpg",
-        href: "/accessories/trims-sealant/white-trims",
-      },
-      {
-        value: "brushed-brass-trims",
-        label: "Brushed Brass Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-bb.jpg",
-        href: "/accessories/trims-sealant/brushed-brass-trims",
-      },
-      {
-        value: "pvc-panel-adhesive-sealant",
-        label: "PVC Adhesive Sealant",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/accessories/trims-sealant/pvc-panel-adhesive-sealant",
-      },
-      {
-        value: "grey-silicone",
-        label: "Grey Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/accessories/trims-sealant/grey-silicone",
-      },
-      {
-        value: "white-silicone",
-        label: "White Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/10/333.png",
-        href: "/accessories/trims-sealant/white-silicone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Trims & Sealant collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/trims-sealant/white-trims": {
@@ -22957,55 +14104,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-w-1.jpg",
     ],
     colours: [
-      {
-        value: "black-trims",
-        label: "Black Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-b.jpg",
-        href: "/accessories/trims-sealant/black-trims",
-      },
-      {
-        value: "chrome-trims",
-        label: "Chrome Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-c.jpg",
-        href: "/accessories/trims-sealant/chrome-trims",
-      },
-      {
-        value: "white-trims",
-        label: "White Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-w-1.jpg",
-        href: "/accessories/trims-sealant/white-trims",
-      },
-      {
-        value: "brushed-brass-trims",
-        label: "Brushed Brass Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-bb.jpg",
-        href: "/accessories/trims-sealant/brushed-brass-trims",
-      },
-      {
-        value: "pvc-panel-adhesive-sealant",
-        label: "PVC Adhesive Sealant",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/accessories/trims-sealant/pvc-panel-adhesive-sealant",
-      },
-      {
-        value: "grey-silicone",
-        label: "Grey Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/accessories/trims-sealant/grey-silicone",
-      },
-      {
-        value: "white-silicone",
-        label: "White Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/10/333.png",
-        href: "/accessories/trims-sealant/white-silicone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Trims & Sealant collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/trims-sealant/brushed-brass-trims": {
@@ -23020,55 +14120,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-bb.jpg",
     ],
     colours: [
-      {
-        value: "black-trims",
-        label: "Black Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-b.jpg",
-        href: "/accessories/trims-sealant/black-trims",
-      },
-      {
-        value: "chrome-trims",
-        label: "Chrome Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-c.jpg",
-        href: "/accessories/trims-sealant/chrome-trims",
-      },
-      {
-        value: "white-trims",
-        label: "White Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-w-1.jpg",
-        href: "/accessories/trims-sealant/white-trims",
-      },
-      {
-        value: "brushed-brass-trims",
-        label: "Brushed Brass Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-bb.jpg",
-        href: "/accessories/trims-sealant/brushed-brass-trims",
-      },
-      {
-        value: "pvc-panel-adhesive-sealant",
-        label: "PVC Adhesive Sealant",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/accessories/trims-sealant/pvc-panel-adhesive-sealant",
-      },
-      {
-        value: "grey-silicone",
-        label: "Grey Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/accessories/trims-sealant/grey-silicone",
-      },
-      {
-        value: "white-silicone",
-        label: "White Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/10/333.png",
-        href: "/accessories/trims-sealant/white-silicone",
-      },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Trims & Sealant collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/trims-sealant/pvc-panel-adhesive-sealant": {
@@ -23084,59 +14137,12 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
     ],
     colours: [
-      {
-        value: "black-trims",
-        label: "Black Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-b.jpg",
-        href: "/accessories/trims-sealant/black-trims",
-      },
-      {
-        value: "chrome-trims",
-        label: "Chrome Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-c.jpg",
-        href: "/accessories/trims-sealant/chrome-trims",
-      },
-      {
-        value: "white-trims",
-        label: "White Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-w-1.jpg",
-        href: "/accessories/trims-sealant/white-trims",
-      },
-      {
-        value: "brushed-brass-trims",
-        label: "Brushed Brass Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-bb.jpg",
-        href: "/accessories/trims-sealant/brushed-brass-trims",
-      },
-      {
-        value: "pvc-panel-adhesive-sealant",
-        label: "PVC Adhesive Sealant",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/accessories/trims-sealant/pvc-panel-adhesive-sealant",
-      },
-      {
-        value: "grey-silicone",
-        label: "Grey Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/accessories/trims-sealant/grey-silicone",
-      },
-      {
-        value: "white-silicone",
-        label: "White Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/10/333.png",
-        href: "/accessories/trims-sealant/white-silicone",
-      },
     ],
     sizes: [
       {
         value: "310ml",
         label: "310ml",
       },
-    ],
-    features: [
-      "Part of the Trims & Sealant collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/trims-sealant/grey-silicone": {
@@ -23152,59 +14158,12 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
     ],
     colours: [
-      {
-        value: "black-trims",
-        label: "Black Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-b.jpg",
-        href: "/accessories/trims-sealant/black-trims",
-      },
-      {
-        value: "chrome-trims",
-        label: "Chrome Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-c.jpg",
-        href: "/accessories/trims-sealant/chrome-trims",
-      },
-      {
-        value: "white-trims",
-        label: "White Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-w-1.jpg",
-        href: "/accessories/trims-sealant/white-trims",
-      },
-      {
-        value: "brushed-brass-trims",
-        label: "Brushed Brass Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-bb.jpg",
-        href: "/accessories/trims-sealant/brushed-brass-trims",
-      },
-      {
-        value: "pvc-panel-adhesive-sealant",
-        label: "PVC Adhesive Sealant",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/accessories/trims-sealant/pvc-panel-adhesive-sealant",
-      },
-      {
-        value: "grey-silicone",
-        label: "Grey Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/accessories/trims-sealant/grey-silicone",
-      },
-      {
-        value: "white-silicone",
-        label: "White Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/10/333.png",
-        href: "/accessories/trims-sealant/white-silicone",
-      },
     ],
     sizes: [
       {
         value: "310ml",
         label: "310ml",
       },
-    ],
-    features: [
-      "Part of the Trims & Sealant collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/trims-sealant/white-silicone": {
@@ -23220,59 +14179,12 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/10/333.png",
     ],
     colours: [
-      {
-        value: "black-trims",
-        label: "Black Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-b.jpg",
-        href: "/accessories/trims-sealant/black-trims",
-      },
-      {
-        value: "chrome-trims",
-        label: "Chrome Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-c.jpg",
-        href: "/accessories/trims-sealant/chrome-trims",
-      },
-      {
-        value: "white-trims",
-        label: "White Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-w-1.jpg",
-        href: "/accessories/trims-sealant/white-trims",
-      },
-      {
-        value: "brushed-brass-trims",
-        label: "Brushed Brass Trims",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/thumbnail-bb.jpg",
-        href: "/accessories/trims-sealant/brushed-brass-trims",
-      },
-      {
-        value: "pvc-panel-adhesive-sealant",
-        label: "PVC Adhesive Sealant",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/accessories/trims-sealant/pvc-panel-adhesive-sealant",
-      },
-      {
-        value: "grey-silicone",
-        label: "Grey Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
-        href: "/accessories/trims-sealant/grey-silicone",
-      },
-      {
-        value: "white-silicone",
-        label: "White Silicone",
-        image: "https://giavanibathrooms.com/wp-content/uploads/2023/10/333.png",
-        href: "/accessories/trims-sealant/white-silicone",
-      },
     ],
     sizes: [
       {
         value: "310ml",
         label: "310ml",
       },
-    ],
-    features: [
-      "Part of the Trims & Sealant collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/extractor-fan/concealed-extractor-fan": {
@@ -23297,11 +14209,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Extractor Fan collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/extractor-fan/extractor-fan-fascia": {
@@ -23339,11 +14246,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Extractor Fan collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/tiles-trims-accessories/brushed-grey-trim": {
     key: "accessories/tiles-trims-accessories/brushed-grey-trim",
@@ -23364,11 +14266,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the SPC Tile Trims collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/tiles-trims-accessories/carrera-trim": {
@@ -23391,11 +14288,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the SPC Tile Trims collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/tiles-trims-accessories/juno-grey-trim": {
     key: "accessories/tiles-trims-accessories/juno-grey-trim",
@@ -23416,11 +14308,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the SPC Tile Trims collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/tiles-trims-accessories/dynasty-black": {
@@ -23443,11 +14330,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the SPC Tile Trims collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/tiles-trims-accessories/olympus-beige": {
     key: "accessories/tiles-trims-accessories/olympus-beige",
@@ -23469,11 +14351,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the SPC Tile Trims collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/tiles-trims-accessories/selene-white-trim": {
     key: "accessories/tiles-trims-accessories/selene-white-trim",
@@ -23494,11 +14371,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the SPC Tile Trims collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/ip65-lighting/spotlight-including-white-bezel": {
@@ -23522,11 +14394,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the IP65 Lighting collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/ip65-lighting/chrome-bezel-only": {
     key: "accessories/ip65-lighting/chrome-bezel-only",
@@ -23548,11 +14415,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the IP65 Lighting collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/ip65-lighting/black-bezel-only": {
@@ -23576,11 +14438,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the IP65 Lighting collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/ip65-lighting/brushed-brass-bezel-only": {
     key: "accessories/ip65-lighting/brushed-brass-bezel-only",
@@ -23603,11 +14460,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the IP65 Lighting collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/furniture-accessories/edge-handles-320mm-chrome": {
     key: "accessories/furniture-accessories/edge-handles-320mm-chrome",
@@ -23628,11 +14480,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Furniture Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/furniture-accessories/edge-handles-320mm-black": {
@@ -23655,11 +14502,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Furniture Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/furniture-accessories/edge-handles-320mm-brushed-brass": {
     key: "accessories/furniture-accessories/edge-handles-320mm-brushed-brass",
@@ -23680,11 +14522,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Furniture Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/furniture-accessories/black-basin-overflow-cover": {
@@ -23707,11 +14544,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
     sizes: [
     ],
-    features: [
-      "Part of the Furniture Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
-    ],
   },
   "accessories/furniture-accessories/brushed-brass-basin-overflow-cover": {
     key: "accessories/furniture-accessories/brushed-brass-basin-overflow-cover",
@@ -23732,11 +14564,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Furniture Accessories collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/niche/niche-with-shelf": {
@@ -23775,11 +14602,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       },
     ],
     sizes: [
-    ],
-    features: [
-      "Part of the Niche collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
   "accessories/niche/niche-with-led": {
@@ -23830,11 +14652,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
         value: "300x600mm",
         label: "300x600mm",
       },
-    ],
-    features: [
-      "Part of the Niche collection",
-      "Available for trade and retail enquiry",
-      "Contact us for current stock and lead times",
     ],
   },
 };
