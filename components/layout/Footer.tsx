@@ -48,6 +48,15 @@ export default function Footer() {
             </p>
             <p className="mt-2">
               <a
+                href={CONTACT_INFO.phone2Href}
+                className="transition-colors hover:text-white"
+              >
+                {CONTACT_INFO.phone2}
+              </a>
+            </p>
+            
+            <p className="mt-2">
+              <a
                 href={CONTACT_INFO.emailHref}
                 className="transition-colors hover:text-white"
               >
