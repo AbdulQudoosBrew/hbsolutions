@@ -17,10 +17,15 @@ export default function ProductCategoryCard({
   return (
     <Link
       href={href}
-      className="group relative flex flex-col items-center overflow-hidden bg-[#f5f5f5] transition-transform duration-300 hover:scale-[1.02]"
+      className="group relative flex flex-col items-center overflow-hidden bg-[#f5f5f5]"
     >
       <div className="relative aspect-square w-full overflow-hidden">
-        <CategoryImage src={image} alt={label} />
+        <CategoryImage
+          src={image}
+          alt={label}
+          variant="card"
+          className="transition-transform duration-500 group-hover:scale-[1.03]"
+        />
         <div className="absolute inset-0 bg-[#000000]/0 transition-colors duration-300 group-hover:bg-[#000000]/10" />
       </div>
       <span className="w-full py-4 text-center text-xs font-medium uppercase tracking-[0.2em] text-[#333333] transition-colors group-hover:text-[#000000]">

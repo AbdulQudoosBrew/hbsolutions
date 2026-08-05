@@ -2,14 +2,41 @@
 
 import RemoteImage from "./RemoteImage";
 import { useState } from "react";
+import { toFullSizeImageUrl } from "@/lib/utils/imageUrl";
+
+type ImageVariant = "card" | "hero" | "banner" | "product";
 
 interface CategoryImageProps {
   src: string;
   alt: string;
+  variant?: ImageVariant;
+  priority?: boolean;
+  className?: string;
 }
 
-export default function CategoryImage({ src, alt }: CategoryImageProps) {
+const VARIANT_SIZES: Record<ImageVariant, string> = {
+  card: "(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 25vw",
+  hero: "100vw",
+  banner: "100vw",
+  product: "(max-width: 1024px) 100vw, 50vw",
+};
+
+const VARIANT_FIT: Record<ImageVariant, string> = {
+  card: "object-cover",
+  hero: "object-cover object-center",
+  banner: "object-cover object-center",
+  product: "object-contain object-center",
+};
+
+export default function CategoryImage({
+  src,
+  alt,
+  variant = "card",
+  priority = false,
+  className = "",
+}: CategoryImageProps) {
   const [hasError, setHasError] = useState(false);
+  const fullSrc = toFullSizeImageUrl(src);
 
   if (hasError) {
     return (
@@ -21,11 +48,13 @@ export default function CategoryImage({ src, alt }: CategoryImageProps) {
 
   return (
     <RemoteImage
-      src={src}
+      src={fullSrc}
       alt={alt}
       fill
-      sizes="(max-width: 640px) 50vw, (max-width: 1024px) 25vw, 16vw"
-      className="object-cover transition-transform duration-500 group-hover:scale-110"
+      priority={priority}
+      sizes={VARIANT_SIZES[variant]}
+      quality={90}
+      className={`${VARIANT_FIT[variant]} ${className}`.trim()}
       onError={() => setHasError(true)}
     />
   );

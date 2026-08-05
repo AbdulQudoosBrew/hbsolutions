@@ -39,7 +39,12 @@ export default function CategoryPageView({ category }: CategoryPageViewProps) {
 
       {category.heroImage ? (
         <div className="relative mt-4 aspect-[16/9] w-full overflow-hidden md:aspect-[21/9] lg:aspect-[1754/1063]">
-          <CategoryImage src={category.heroImage} alt={category.title} />
+          <CategoryImage
+            src={category.heroImage}
+            alt={category.title}
+            variant="hero"
+            priority
+          />
         </div>
       ) : null}
 
@@ -49,6 +54,7 @@ export default function CategoryPageView({ category }: CategoryPageViewProps) {
             <CategoryImage
               src={category.bannerImage}
               alt={`${category.title} banner`}
+              variant="banner"
             />
           </div>
         </div>
@@ -83,7 +89,12 @@ export default function CategoryPageView({ category }: CategoryPageViewProps) {
                   isPortrait ? "aspect-[3/4]" : "aspect-square"
                 }`}
               >
-                <CategoryImage src={collection.image} alt={collection.label} />
+                <CategoryImage
+                  src={collection.image}
+                  alt={collection.label}
+                  variant="card"
+                  className="transition-transform duration-500 group-hover:scale-[1.03]"
+                />
                 <div className="absolute inset-0 bg-black/0 transition-colors duration-300 group-hover:bg-black/5" />
               </div>
               <span className="mt-4 inline-flex min-h-10 items-center justify-center px-2 text-xs font-medium uppercase tracking-[0.2em] text-[#333333] transition-colors duration-300 group-hover:text-[#000000] md:text-[13px]">
