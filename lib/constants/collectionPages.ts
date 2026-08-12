@@ -4899,7 +4899,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Select-600-Open-Back-Close-Coupled-WC-Cistern-Seat-1-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/600-drawing.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Select-600-Open-Back-Close-Coupled-WC-Cistern-Seat-.jpg",
+      // "https://giavanibathrooms.com/wp-content/uploads/2026/03/Select-600-Open-Back-Close-Coupled-WC-Cistern-Seat-.jpg",
     ],
     colours: [
     ],
