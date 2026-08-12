@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import CollectionPageView from "@/components/category/CollectionPageView";
 import Footer from "@/components/layout/Footer";
 import Header from "@/components/layout/Header";
-import ScrollToTop from "@/components/ui/ScrollToTop";
+import WhatsAppButton from "@/components/ui/WhatsAppButton";
 import {
   getAllCollectionParams,
   getCollectionPage,
@@ -58,7 +58,7 @@ export default async function CollectionRoutePage({
         />
       </main>
       <Footer />
-      <ScrollToTop />
+      <WhatsAppButton />
     </>
   );
 }

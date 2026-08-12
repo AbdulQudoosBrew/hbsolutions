@@ -177,6 +177,10 @@ export const CONTACT_INFO = {
   phone2: "07957 100647",
   phoneHref: "tel:07770116177",
   phone2Href: "tel:07957100647",
+  /** UK mobile without leading 0, for wa.me links */
+  whatsappNumber: "447770116177",
+  whatsappHref:
+    "https://wa.me/447770116177?text=Hi%20Haris%20Building%20Solutions%2C%20I%20would%20like%20to%20enquire%20about%20your%20products.",
   email: COMPANY.email,
   emailHref: COMPANY.emailHref,
   address: {

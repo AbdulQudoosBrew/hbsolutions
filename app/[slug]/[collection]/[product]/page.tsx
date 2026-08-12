@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import ProductPageView from "@/components/category/ProductPageView";
 import Footer from "@/components/layout/Footer";
 import Header from "@/components/layout/Header";
-import ScrollToTop from "@/components/ui/ScrollToTop";
+import WhatsAppButton from "@/components/ui/WhatsAppButton";
 import {
   getAllProductParams,
   getCollectionPage,
@@ -46,6 +46,10 @@ export default async function ProductRoutePage({ params }: ProductRouteProps) {
     notFound();
   }
 
+  const relatedProducts = collectionPage.items.filter(
+    (item) => item.id !== page.slug
+  );
+
   return (
     <>
       <Header />
@@ -56,10 +60,11 @@ export default async function ProductRoutePage({ params }: ProductRouteProps) {
           categoryHref={`/${category.slug}`}
           collectionTitle={collectionPage.title}
           collectionHref={`/${category.slug}/${collectionPage.slug}`}
+          relatedProducts={relatedProducts}
         />
       </main>
       <Footer />
-      <ScrollToTop />
+      <WhatsAppButton />
     </>
   );
 }

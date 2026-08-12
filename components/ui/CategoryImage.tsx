@@ -22,9 +22,10 @@ const VARIANT_SIZES: Record<ImageVariant, string> = {
 };
 
 const VARIANT_FIT: Record<ImageVariant, string> = {
-  card: "object-cover",
+  card: "object-cover object-center",
+  // Show the full reference frame — avoid aggressive crop on category headers
   hero: "object-cover object-center",
-  banner: "object-cover object-center",
+  banner: "object-cover object-[center_40%]",
   product: "object-contain object-center",
 };
 
@@ -40,8 +41,12 @@ export default function CategoryImage({
 
   if (hasError) {
     return (
-      <div className="flex h-full w-full items-center justify-center bg-[#e8e8e8]">
-        <span className="text-4xl text-[#cccccc]">◆</span>
+      <div
+        className={`flex h-full w-full items-center justify-center ${
+          variant === "product" ? "bg-white" : "bg-[#e8e8e8]"
+        }`}
+      >
+        <span className="text-4xl text-[#dddddd]">◆</span>
       </div>
     );
   }
@@ -54,7 +59,9 @@ export default function CategoryImage({
       priority={priority}
       sizes={VARIANT_SIZES[variant]}
       quality={90}
-      className={`${VARIANT_FIT[variant]} ${className}`.trim()}
+      className={`${VARIANT_FIT[variant]} ${
+        variant === "product" ? "bg-white" : ""
+      } ${className}`.trim()}
       onError={() => setHasError(true)}
     />
   );

@@ -21,3 +21,40 @@ export function toFullSizeImageUrl(src: string): string {
     return src.replace(/-\d+x\d+(?=\.(?:jpe?g|png|webp|gif)$)/i, "");
   }
 }
+
+/**
+ * Group key for near-identical gallery shots.
+ * e.g. chrome-8.jpg / chrome-9.jpg → "chrome"
+ *      black-14.jpg / black-15.jpg → "black"
+ */
+export function imageFamilyKey(src: string): string {
+  const full = toFullSizeImageUrl(src);
+  const file = (full.split("/").pop() || full).toLowerCase();
+
+  return file
+    .replace(/\.(jpe?g|png|webp|gif)$/i, "")
+    .replace(/-(?:scaled|large|medium|thumbnail)$/i, "")
+    .replace(/-\d+x\d+$/i, "")
+    .replace(/[-_]\d+$/i, "");
+}
+
+/**
+ * Deduplicate gallery URLs:
+ * - same full-size URL
+ * - same family (chrome-8 / chrome-9)
+ */
+export function uniqueImages(images: string[]): string[] {
+  const seen = new Set<string>();
+  const unique: string[] = [];
+
+  for (const src of images) {
+    if (!src) continue;
+    const full = toFullSizeImageUrl(src);
+    const key = imageFamilyKey(full);
+    if (!key || seen.has(key)) continue;
+    seen.add(key);
+    unique.push(full);
+  }
+
+  return unique;
+}

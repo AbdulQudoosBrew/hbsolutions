@@ -1157,8 +1157,8 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
     title: "Bathrooms",
     description:
       "Explore our full bathrooms range — sanitaryware, taps, showers, baths, bath screens, shower enclosures, wetroom screens, shower trays, bath furniture, heating and mirrors — selected for performance, style and lasting value.",
-    heroImage: "https://giavanibathrooms.com/wp-content/uploads/2026/03/category-header4.jpg",
-    bannerImage: "https://giavanibathrooms.com/wp-content/uploads/2026/03/baths-1.jpg",
+    heroImage:
+      "https://giavanibathrooms.com/wp-content/uploads/2026/05/web-header-scaled.jpg",
     collectionHeading: "Bathroom Categories",
     collections: [
       {

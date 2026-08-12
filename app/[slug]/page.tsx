@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import CategoryPageView from "@/components/category/CategoryPageView";
 import Footer from "@/components/layout/Footer";
 import Header from "@/components/layout/Header";
-import ScrollToTop from "@/components/ui/ScrollToTop";
+import WhatsAppButton from "@/components/ui/WhatsAppButton";
 import {
   getAllCategorySlugs,
   getCategoryPage,
@@ -49,7 +49,7 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
         <CategoryPageView category={category} />
       </main>
       <Footer />
-      <ScrollToTop />
+      <WhatsAppButton />
     </>
   );
 }
