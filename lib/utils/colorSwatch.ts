@@ -21,6 +21,12 @@ const COLOUR_SWATCHES: Record<string, string> = {
   nickel: "#c5c5c5",
   copper: "#b87333",
   "rose-gold": "#b76e79",
+  "ral-9016": "#f1f0ea",
+  "ral-9001": "#f0ead6",
+  "ral-7024": "#474a51",
+  "ral-9005": "#0a0a0a",
+  "cream-white": "#f0ead6",
+  "traffic-white": "#f1f0ea",
 };
 
 function normalizeKey(value: string, label: string) {

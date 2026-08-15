@@ -65,6 +65,17 @@ export const NAV_CATEGORIES: NavCategory[] = [
   { id: "silicone", label: "Silicone", href: "/silicone" },
   { id: "accessories", label: "Accessories", href: "/accessories" },
   {
+    id: "verandas",
+    label: "Verandas",
+    href: "/verandas",
+    children: [
+      { id: "aluminium-verandas", label: "Aluminium Verandas", href: "/verandas/aluminium-verandas" },
+      { id: "glass-sliding-doors", label: "Glass Sliding Doors", href: "/verandas/glass-sliding-doors" },
+      { id: "louvered-roofs", label: "Louvered Roofs", href: "/verandas/louvered-roofs" },
+      { id: "folding-roofs", label: "Folding Roofs", href: "/verandas/folding-roofs" },
+    ],
+  },
+  {
     id: "corners",
     label: "Corners",
     href: "/corners",
@@ -154,6 +165,7 @@ export const PRODUCT_CATEGORIES = [
   { id: "artificial-grass", label: "Artificial Grass", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/flooring-1.jpg" },
   { id: "silicone", label: "Silicone", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/accessories.jpg" },
   { id: "accessories", label: "Accessories", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/accessories.jpg" },
+  { id: "verandas", label: "Verandas", image: "https://www.deponti.com/storage/app/resources/resize/510_320_0_0_crop/img_a68a9b7552a23cd079464b3a4202f79a.jpg" },
   { id: "corners", label: "Corners", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/accessories.jpg" },
 ] as const;
 

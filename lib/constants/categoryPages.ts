@@ -2145,6 +2145,45 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
       },
     ],
   },
+  verandas: {
+    slug: "verandas",
+    title: "Verandas",
+    description:
+      "Enjoy the outdoors throughout the year with indoor-style comfort. Our verandas range includes aluminium verandas, glass sliding doors, louvered roofs and folding roofs — durable, low-maintenance outdoor living products selected for performance, style and lasting value.",
+    heroImage:
+      "https://www.deponti.com/storage/app/resources/resize/1500_400_0_0_crop/img_2361753701d7d87df6507e24a69cc134.jpg",
+    collectionHeading: "View Our Collection",
+    collections: [
+      {
+        id: "aluminium-verandas",
+        label: "Aluminium Verandas",
+        image:
+          "https://www.deponti.com/storage/app/resources/resize/510_320_0_0_crop/img_a68a9b7552a23cd079464b3a4202f79a.jpg",
+        href: "/verandas/aluminium-verandas",
+      },
+      {
+        id: "glass-sliding-doors",
+        label: "Glass Sliding Doors",
+        image:
+          "https://www.deponti.com/storage/app/resources/resize/510_320_0_0_crop/img_4df8ea1c1fa9f2953c938eb624bd5649.jpg",
+        href: "/verandas/glass-sliding-doors",
+      },
+      {
+        id: "louvered-roofs",
+        label: "Louvered Roofs",
+        image:
+          "https://www.deponti.com/storage/app/resources/resize/510_320_0_0_crop/img_7214b6eacf4515ebb616634d44936c5b.png",
+        href: "/verandas/louvered-roofs",
+      },
+      {
+        id: "folding-roofs",
+        label: "Folding Roofs",
+        image:
+          "https://www.deponti.com/storage/app/resources/resize/510_320_0_0_crop/img_9b6f1b0dd07cf2206144f447a5f54c7c.png",
+        href: "/verandas/folding-roofs",
+      },
+    ],
+  },
 };
 
 export function getCategoryPage(slug: string): CategoryPageData | null {

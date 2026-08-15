@@ -130,6 +130,17 @@ export default function ProductPageView({
           </span>
         </nav>
 
+        {product.heroImage ? (
+          <div className="relative mt-4 aspect-[16/9] w-full overflow-hidden bg-[#f0f0f0] sm:mt-6 sm:aspect-[21/9] lg:aspect-[1500/400]">
+            <CategoryImage
+              src={product.heroImage}
+              alt={product.title}
+              variant="banner"
+              priority
+            />
+          </div>
+        ) : null}
+
         <div className="mt-6 grid items-start gap-6 sm:mt-8 sm:gap-8 md:mt-10 lg:mt-12 lg:grid-cols-12 lg:gap-12 xl:gap-16">
           {/* Gallery */}
           <div className="w-full lg:col-span-5">
@@ -209,6 +220,40 @@ export default function ProductPageView({
             <p className="mt-4 max-w-xl text-sm leading-6 text-[#666666] sm:mt-6 sm:text-[15px] sm:leading-7">
               {product.description}
             </p>
+
+            {product.features && product.features.length > 0 ? (
+              <ul className="mt-5 max-w-xl space-y-2 text-sm leading-6 text-[#555555] sm:mt-6 sm:text-[15px] sm:leading-7">
+                {product.features.map((feature) => (
+                  <li key={feature} className="flex gap-2.5">
+                    <span className="mt-[0.55em] h-1.5 w-1.5 shrink-0 bg-[#111111]" />
+                    <span>{feature}</span>
+                  </li>
+                ))}
+              </ul>
+            ) : null}
+
+            {product.specs && product.specs.length > 0 ? (
+              <div className="mt-7 max-w-xl sm:mt-9">
+                <p className="text-[10px] uppercase tracking-[0.22em] text-[#111111] sm:text-[11px] sm:tracking-[0.25em]">
+                  Specifications
+                </p>
+                <dl className="mt-3 border-t border-[#eeeeee] sm:mt-4">
+                  {product.specs.map((spec) => (
+                    <div
+                      key={spec.label}
+                      className="grid gap-1 border-b border-[#eeeeee] py-3 sm:grid-cols-[minmax(120px,34%)_1fr] sm:gap-4 sm:py-3.5"
+                    >
+                      <dt className="text-[11px] uppercase tracking-[0.12em] text-[#888888] sm:text-xs">
+                        {spec.label}
+                      </dt>
+                      <dd className="text-sm leading-6 text-[#444444] sm:text-[15px] sm:leading-7">
+                        {spec.value}
+                      </dd>
+                    </div>
+                  ))}
+                </dl>
+              </div>
+            ) : null}
 
             {colours.length > 0 ? (
               <div className="mt-6 sm:mt-8">

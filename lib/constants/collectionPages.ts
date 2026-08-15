@@ -1,3 +1,5 @@
+import { VERANDA_COLLECTIONS, VERANDA_PRODUCTS } from "./verandaPages";
+
 export type CollectionItem = {
   id: string;
   label: string;
@@ -24,6 +26,11 @@ export type CollectionPageData = {
   items: CollectionItem[];
 };
 
+export type ProductSpec = {
+  label: string;
+  value: string;
+};
+
 export type ProductPageData = {
   key: string;
   categorySlug: string;
@@ -31,11 +38,13 @@ export type ProductPageData = {
   slug: string;
   title: string;
   description: string;
+  heroImage?: string;
   image: string;
   images: string[];
   colours: ProductOption[];
   sizes: ProductOption[];
   features?: string[];
+  specs?: ProductSpec[];
 };
 
 export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
@@ -4384,7 +4393,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/FLOOR-STANDING-3.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/floor-1-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/06/FLOOR-STANDING.jpg",
     ],
     colours: [
       {
@@ -4406,7 +4414,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/WALL-HUNG-3.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/wall-hung-4.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/06/WALL-HUNG.jpg",
     ],
     colours: [
       {
@@ -4430,7 +4437,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/10/w.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/10/kW29mj_i.jpeg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/10/LT-2125A-R-650.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/10/p-3-768x1024.jpg",
     ],
     colours: [
     ],
@@ -4450,7 +4456,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/10/w.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2024/02/n.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/10/fully-back-to-wall.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/10/Branch-fully-back-to-wall-1-768x1024.jpg",
     ],
     colours: [
       {
@@ -4474,7 +4479,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/10/w.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2024/02/wegu.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/10/back-to-wall.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/10/branch-back-to-wall-1-768x1024.jpg",
     ],
     colours: [
       {
@@ -4497,7 +4501,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/10/fully-back-to-wall-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/10/fully-back-to-wall-copy.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/10/1062.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/04/fully-back-to-wall.jpg",
     ],
     colours: [
       {
@@ -4520,7 +4523,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/10/back-to-wall-2.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/10/back-to-wall-copy.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/10/1064.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/04/back-to-wall.jpg",
     ],
     colours: [
       {
@@ -4542,7 +4544,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Open-Back-Close-Coupled-WC-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-open-back-Toilet-Drawing.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Open-Back-Close-Coupled-WC.jpg",
     ],
     colours: [
     ],
@@ -4560,7 +4561,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Fully-Back-To-Wall-Close-Coupled-WC-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Fully-back-to-wall-Toilet-Drawing.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
     ],
     colours: [
     ],
@@ -4578,7 +4578,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Comfort-Height-Open-Back-Close-Coupled-WC-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Toilet-Comfort-Height-Drawing.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Comfort-Height-Open-Back-Close-Coupled-WC.jpg",
     ],
     colours: [
     ],
@@ -4596,7 +4595,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Comfort-Height-Fully-Enclosed-Close-Coupled-WC-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Toilet-FBW-Comfort-Height-Drawing-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Comfort-Height-Fully-Enclosed-Close-Coupled-WC.jpg",
     ],
     colours: [
     ],
@@ -4613,7 +4611,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Back-To-Wall-WC-and-Slimline-Seat.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Back-To-Wall-WC-and-Slimline-Seat-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Back-To-Wall-WC-and-Slimline-Seat.jpg",
     ],
     colours: [
     ],
@@ -4630,7 +4627,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Wall-Hung-WC.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Wall-Hung-WC-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Wall-Hung-WC.jpg",
     ],
     colours: [
     ],
@@ -4649,7 +4645,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Open-Back-Close-Coupled-WC-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/THUMBNAIL-18.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/azzura-short-projection.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Open-Back-Close-Coupled-WC.jpg",
     ],
     colours: [
     ],
@@ -4666,7 +4661,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Fully-Back-To-Wall-Close-Coupled-WC-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
     ],
     colours: [
     ],
@@ -4684,7 +4678,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Comfort-Height-Open-Back-Close-Coupled-WC-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-short-projection-comfort-toilet-Drawing.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Comfort-Height-Open-Back-Close-Coupled-WC.jpg",
     ],
     colours: [
     ],
@@ -4701,7 +4694,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Comfort-Height-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Comfort-Height-Fully-Back-To-Wall-Close-Coupled-WC-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Comfort-Height-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
     ],
     colours: [
     ],
@@ -4719,7 +4711,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Back-To-Wall-WC-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurrra-Back-to-Wall-Pan-Drawing.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Back-To-Wall-WC.jpg",
     ],
     colours: [
     ],
@@ -4737,7 +4728,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Wall-Hung-WC-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/azzura-wall-hung.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Wall-Hung-WC.jpg",
     ],
     colours: [
     ],
@@ -4755,7 +4745,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Comet-Open-Back-Close-Coupled-WC-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/open-back.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Comet-Open-Back-Close-Coupled-WC.jpg",
     ],
     colours: [
     ],
@@ -4773,7 +4762,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Comet-Comfort-Height-Open-Back-Close-Coupled-WC-2.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/comfort-height.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Comet-Comfort-Height-Open-Back-Close-Coupled-WC-1.jpg",
     ],
     colours: [
     ],
@@ -4791,7 +4779,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Comet-Comfort-Height-Back-to-Wall-WC-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/back-to-wall.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Comet-Comfort-Height-Back-to-Wall-WC.jpg",
     ],
     colours: [
     ],
@@ -4809,7 +4796,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juniper-Open-Back-Close-Coupled-WC-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/open-back-1-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juniper-Open-Back-Close-Coupled-WC.jpg",
     ],
     colours: [
     ],
@@ -4827,7 +4813,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juniper-Comfort-Height-Open-Back-Close-Coupled-WC-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/comfort-height-1-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juniper-Comfort-Height-Open-Back-Close-Coupled-WC.jpg",
     ],
     colours: [
     ],
@@ -4845,7 +4830,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juniper-Back-To-Wall-WC-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/back-to-wall-1-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juniper-Back-To-Wall-WC.jpg",
     ],
     colours: [
     ],
@@ -4863,7 +4847,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Project-550-Open-Back-Close-Coupled-WC-Cistern-Seat-1-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Project-Drawing.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Project-550-Open-Back-Close-Coupled-WC-Cistern-Seat-.jpg",
     ],
     colours: [
     ],
@@ -4881,7 +4864,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Blank-product-image-2.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/550-drawing.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Blank-product-image-1.jpg",
     ],
     colours: [
     ],
@@ -4917,7 +4899,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/SQUARE-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/58165818-Spec.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/SQUARE.jpg",
     ],
     colours: [
       {
@@ -4939,7 +4920,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/ROUND-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/6502-Spec.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/ROUND.jpg",
     ],
     colours: [
       {
@@ -4982,7 +4962,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Black-17.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Screenshot-2026-07-06-at-14.45.36-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Black-16.jpg",
     ],
     colours: [
       {
@@ -5005,7 +4984,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/branch-back-to-wall-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/b-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/nova-mono-basin-mixer-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/branch-back-to-wall-1-768x1024.jpg",
     ],
     colours: [
     ],
@@ -5023,7 +5001,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/2l.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/nova-bath-filler-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/2l-768x1024.jpg",
     ],
     colours: [
       {
@@ -5111,7 +5088,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/wr.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Edge-bath-shower-mixer-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/wr-768x1024.jpg",
     ],
     colours: [
       {
@@ -5133,7 +5109,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/12.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/slope-mono-bsn-mxr-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/12-768x1024.jpg",
     ],
     colours: [
       {
@@ -5155,7 +5130,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/ew.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/slope-bath-filler-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/ew-768x1024.jpg",
     ],
     colours: [
       {
@@ -5177,7 +5151,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/23.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/slope-bth-shwr-mxr-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/23-768x1024.jpg",
     ],
     colours: [
       {
@@ -5199,8 +5172,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Blank-product-image-8.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Mini-slope-mono-basin-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Blank-product-image-10.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Blank-product-image-9.jpg",
     ],
     colours: [
       {
@@ -5222,7 +5193,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/m-2.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/storm-mono-basin-mxr-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/m-2-768x1024.jpg",
     ],
     colours: [
       {
@@ -5244,7 +5214,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-5.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/storm-bath-filler-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-5-768x1024.jpg",
     ],
     colours: [
       {
@@ -5266,7 +5235,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/storm-bath-shower-mxr-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-1-768x1024.jpg",
     ],
     colours: [
       {
@@ -5288,7 +5256,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/mini.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/storm-mini-mono-basin-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/mini-768x1024.jpg",
     ],
     colours: [
       {
@@ -5310,7 +5277,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-2.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Rico-mono-basin-mixer-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-2-768x1024.jpg",
     ],
     colours: [
       {
@@ -5332,7 +5298,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-6.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Rico-bath-filler-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-6-768x1024.jpg",
     ],
     colours: [
       {
@@ -5354,7 +5319,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-2.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Rico-bath-shower-mixer-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-2-768x1024.jpg",
     ],
     colours: [
       {
@@ -5376,7 +5340,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-3.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Amoura-Mono-Basin-Mixer-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-3-768x1024.jpg",
     ],
     colours: [
       {
@@ -5398,7 +5361,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-7.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Amoura-Bath-Filler-1-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-7-768x1024.jpg",
     ],
     colours: [
       {
@@ -5420,7 +5382,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-3.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Amoura-Bath-Shower-Mixer.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-3-768x1024.jpg",
     ],
     colours: [
       {
@@ -5442,7 +5403,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/amoura-mini.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Amoura-mini-mono-basin-mixer.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/amoura-mini.jpg",
     ],
     colours: [
       {
@@ -5464,7 +5424,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/33.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/California-mono-basin-mixer.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/33-768x1024.jpg",
     ],
     colours: [
       {
@@ -5486,7 +5445,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-8.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/bat-h-fillwre-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-8-768x1024.jpg",
     ],
     colours: [
       {
@@ -5508,7 +5466,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-4.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/California-bath-shower-mixer-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-4-768x1024.jpg",
     ],
     colours: [
       {
@@ -5530,7 +5487,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-9.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/new-york-mono-basin-mxr-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-9-768x1024.jpg",
     ],
     colours: [
       {
@@ -5552,7 +5508,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-5.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/New-york-bath-filler-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-5-768x1024.jpg",
     ],
     colours: [
       {
@@ -5574,7 +5529,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-5.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/new-york-bath-shower-mxr-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-5-768x1024.jpg",
     ],
     colours: [
       {
@@ -5598,10 +5552,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/black-14.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/brushed-brass-8.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/MS-T-HAL-01.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/chrome-9.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/black-15.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/brushed-brass-9.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/chrome-4.jpg",
     ],
     colours: [
       {
@@ -5633,10 +5583,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/black-16.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/brushed-brass-10.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/MS-T-HAL-02-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/black-17.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/brushed-brass-11.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/chrome-11.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/chrome-5.jpg",
     ],
     colours: [
       {
@@ -5668,10 +5614,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/black-18.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/brushed-brass-12.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/MS-T-HAL-03-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/black-19.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/brushed-brass-13.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/chrome-13.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/chrome-6.jpg",
     ],
     colours: [
       {
@@ -5701,7 +5643,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-11.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/boston-mono-basin-mxr-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-11-768x1024.jpg",
     ],
     colours: [
       {
@@ -5723,7 +5664,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-7.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/boston-bath-filler-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-7-768x1024.jpg",
     ],
     colours: [
       {
@@ -5766,7 +5706,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-12.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Amethyst-Mono-Basin-Mixer-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-12-768x1024.jpg",
     ],
     colours: [
       {
@@ -5788,7 +5727,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-8.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Amethyst-Bath-Filler-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-8-768x1024.jpg",
     ],
     colours: [
       {
@@ -5832,7 +5770,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-13.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/nicolo-bsn-mxr-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-13-768x1024.jpg",
     ],
     colours: [
       {
@@ -5854,7 +5791,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-9.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/nicolo-bth-fllr-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-9-768x1024.jpg",
     ],
     colours: [
       {
@@ -5876,7 +5812,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-9-768x1024-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/nicolo-bth-shwr-mxr-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/2-9-768x1024-1.jpg",
     ],
     colours: [
       {
@@ -5898,7 +5833,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-10.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Block-Mono-Basin-Mixer.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-10-768x1024.jpg",
     ],
     colours: [
       {
@@ -5920,7 +5854,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-14.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Block-Bath-Filler-1-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-14-768x1024.jpg",
     ],
     colours: [
       {
@@ -5964,7 +5897,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/block-mini.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/mini-basin-mono-mixer.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/block-mini.jpg",
     ],
     colours: [
       {
@@ -5986,7 +5918,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-15.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/mono-basin-mixer.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-15-768x1024.jpg",
     ],
     colours: [
       {
@@ -6008,7 +5939,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-11.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/bath-filler-2.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-11-768x1024.jpg",
     ],
     colours: [
       {
@@ -6107,7 +6037,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-12.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Kyoto-black-basin-monobloc-mixer-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-12-768x1024.jpg",
     ],
     colours: [
       {
@@ -6129,7 +6058,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/4-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Kyoto-black-bath-filler-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/4-1-768x1024.jpg",
     ],
     colours: [
       {
@@ -6151,7 +6079,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/5-3.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Kyoto-black-bath-shower-mixer-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/5-3-768x1024.jpg",
     ],
     colours: [
       {
@@ -6173,7 +6100,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-17.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Kyoto-chrome-square-black-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-17-768x1024.jpg",
     ],
     colours: [
       {
@@ -6195,7 +6121,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-13.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Kyoto-chrome-square-black-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-13-768x1024.jpg",
     ],
     colours: [
       {
@@ -6217,7 +6142,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Laton-Mono-Basin-Mixer-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Laton-basin-mixer-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Laton-Mono-Basin-Mixer.jpg",
     ],
     colours: [
       {
@@ -6239,7 +6163,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Laton-Bath-Filler-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Laton-bath-filler-2-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Laton-Bath-Filler.jpg",
     ],
     colours: [
       {
@@ -6261,7 +6184,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Laton-Bath-Shower-Mixer-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Laton-bath-shower-mixer-2-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Laton-Bath-Shower-Mixer.jpg",
     ],
     colours: [
       {
@@ -6283,7 +6205,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Oro-Mono-Basin-Mixer-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Oro-basin-mixer--scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Oro-Mono-Basin-Mixer.jpg",
     ],
     colours: [
       {
@@ -6305,7 +6226,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Oro-Bath-Filler-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Oro-bath-filler--scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Oro-Bath-Filler.jpg",
     ],
     colours: [
       {
@@ -6327,7 +6247,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Oro-Bath-Shower-Mixer-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Oro-bath-shower-mixer--scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Oro-Bath-Shower-Mixer.jpg",
     ],
     colours: [
       {
@@ -6381,7 +6300,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-20.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Soho-Twin-Round-Shower-Head.jpeg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-20-300x300.jpg",
     ],
     colours: [
       {
@@ -6403,7 +6321,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/chrome.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Soho-Twin-Shower-Head-Black.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/chrome-300x300.jpg",
     ],
     colours: [
       {
@@ -6425,7 +6342,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-20.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Soho-Twin-Round-Shower-Head.jpeg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-20-300x300.jpg",
     ],
     colours: [
       {
@@ -6447,7 +6363,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/chrome.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Soho-Twin-Shower-Head-Black.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/chrome-300x300.jpg",
     ],
     colours: [
       {
@@ -6469,7 +6384,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/m2.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Matrix-Twin-Shower-Head-Black.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/m2-768x1024.jpg",
     ],
     colours: [
       {
@@ -6493,8 +6407,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Brushed-Brass-6.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/chrome-22.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/GIA-TP-SV001-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-12.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/Brushed-Brass-7.jpg",
     ],
     colours: [
       {
@@ -6526,9 +6438,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-10.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Brushed-Brass-2.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Screenshot-2026-03-26-at-13.21.03.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-11.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/Brushed-Brass-3.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/Chrome-3.jpg",
     ],
     colours: [
       {
@@ -6560,9 +6469,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-8.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Brushed-Brass.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/GIA-SV005-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-9.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/Brushed-Brass-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/Chrome-1.jpg",
     ],
     colours: [
       {
@@ -6592,7 +6498,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-20.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Soho-Twin-Round-Shower-Head.jpeg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-20-300x300.jpg",
     ],
     colours: [
       {
@@ -6635,7 +6540,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-21.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Identity-dual-control-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-21-768x1024.jpg",
     ],
     colours: [
       {
@@ -6657,7 +6561,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/8.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Identity-round-push-valve-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/8-768x1024.jpg",
     ],
     colours: [
       {
@@ -6679,7 +6582,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/4-3.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Block-push-valve-1-outlet-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/4-3-768x1024.jpg",
     ],
     colours: [
       {
@@ -6701,7 +6603,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/7-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Block-push-valve-2-outlets-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/7-1-768x1024.jpg",
     ],
     colours: [
       {
@@ -6723,7 +6624,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Black-Dual-Control-Round.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Identity-dual-control-scaled-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Black-Dual-Control-Round.jpg",
     ],
     colours: [
       {
@@ -6745,7 +6645,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Black-Triple-Control-Round.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Identity-round-push-valve-scaled-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Black-Triple-Control-Round.jpg",
     ],
     colours: [
       {
@@ -6767,7 +6666,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Black-Dual-Control-Square.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Block-push-valve-1-outlet-scaled-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Black-Dual-Control-Square.jpg",
     ],
     colours: [
       {
@@ -6789,7 +6687,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Black-Triple-Control-Square.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Block-push-valve-2-outlets-scaled-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Black-Triple-Control-Square.jpg",
     ],
     colours: [
       {
@@ -6812,7 +6709,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/r-2.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/gql2_1-3.jpeg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/OjLYegbl.jpeg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/r-2-768x1024.jpg",
     ],
     colours: [
       {
@@ -6834,7 +6730,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/ee.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/gql2_1-3.jpeg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/ee-768x1024.jpg",
     ],
     colours: [
       {
@@ -6856,7 +6751,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/round-shower-arm.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Identity-round-arm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/round-shower-arm-768x1024.jpg",
     ],
     colours: [
       {
@@ -6878,7 +6772,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/yj.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Block-ceilling-arm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/yj-768x1024.jpg",
     ],
     colours: [
       {
@@ -6899,7 +6792,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/vi-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/vi.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/vi-768x1024.jpg",
     ],
     colours: [
       {
@@ -6920,7 +6812,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/g-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/g.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/g-768x1024.jpg",
     ],
     colours: [
       {
@@ -6942,7 +6833,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/jp.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Identity-sliding-rail-kit-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/jp-768x1024.jpg",
     ],
     colours: [
       {
@@ -6964,7 +6854,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/syeh.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Square-sliding-rail-kit-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/syeh-768x1024.jpg",
     ],
     colours: [
       {
@@ -6986,7 +6875,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/thr.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Identity-wall-outlet-and-holder-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/thr-768x1024.jpg",
     ],
     colours: [
       {
@@ -7008,7 +6896,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/j.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Block-wall-outlet-and-holder-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/j-768x1024.jpg",
     ],
     colours: [
       {
@@ -7029,7 +6916,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/cu-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/cu.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/cu-768x1024.jpg",
     ],
     colours: [
       {
@@ -7050,7 +6936,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/tt-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/tt.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/tt-768x1024.jpg",
     ],
     colours: [
       {
@@ -7071,7 +6956,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/d-3-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/d-3.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/d-3-768x1024.jpg",
     ],
     colours: [
       {
@@ -7093,7 +6977,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/rt-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/300mm-round-fixed-head-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/rt-1-768x1024.jpg",
     ],
     colours: [
       {
@@ -7115,7 +6998,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/fw.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/300mm-square-fixed-head-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/fw-768x1024.jpg",
     ],
     colours: [
       {
@@ -7136,7 +7018,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/ewf-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/ewf.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/ewf-768x1024.jpg",
     ],
     colours: [
       {
@@ -7157,7 +7038,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/t-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/t.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/t-768x1024.jpg",
     ],
     colours: [
       {
@@ -7178,7 +7058,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/ee-1-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/ee-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/ee-1-768x1024.jpg",
     ],
     colours: [
       {
@@ -7199,7 +7078,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/ewq-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/ewq.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/ewq-768x1024.jpg",
     ],
     colours: [
       {
@@ -7220,7 +7098,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/rg-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/rg.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/rg-768x1024.jpg",
     ],
     colours: [
       {
@@ -7242,7 +7119,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/44.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/0ELq3THL-scaled.jpeg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/44-768x1024.jpg",
     ],
     colours: [
       {
@@ -7263,7 +7139,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/ey-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/ey.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/ey-768x1024.jpg",
     ],
     colours: [
       {
@@ -7284,7 +7159,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/erw-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/erw.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/erw-768x1024.jpg",
     ],
     colours: [
       {
@@ -7305,7 +7179,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/55-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/55.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/55-768x1024.jpg",
     ],
     colours: [
       {
@@ -7326,7 +7199,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/e-1-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/e-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/e-1-768x1024.jpg",
     ],
     colours: [
       {
@@ -7348,7 +7220,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/11.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Edge-Single-Ended-Bath-1700x750mm.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/11-768x1024.jpg",
     ],
     colours: [
     ],
@@ -7366,7 +7237,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/double-end.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Edge-Double-Ended-Bath.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/double-end-768x1024.jpg",
     ],
     colours: [
     ],
@@ -7592,7 +7462,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/22-2-scaled.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Nova-Double-Ended-Bath-1700-x-700mm-scaled.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Nova-Double-Ended-Bath-1700-x-750mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-24-300x300.jpg",
     ],
     colours: [
     ],
@@ -7610,7 +7479,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/KEY-HOLE.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/key-hole-bath.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/KEY-HOLE-1.jpg",
     ],
     colours: [
     ],
@@ -7632,7 +7500,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/TWIN-GRIP.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Barrow-1500x700-mm-Twin-Grip-Single-Ended-Bath.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/TWIN-GRIP-1.jpg",
     ],
     colours: [
     ],
@@ -7783,11 +7650,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/BLACK-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/BRASS.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/CHROME-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/All-bath-screens--scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/CHROME-11.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/BRASS-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/BLACK-19.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/BLACK-1-300x300.jpg",
     ],
     colours: [
@@ -7820,9 +7683,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/BRASS-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/CHROME-2.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/All-bath-screens--scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/CHROME-12.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/BRASS-2.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/BLACK-20.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/BLACK-2-300x300.jpg",
     ],
     colours: [
@@ -8078,7 +7938,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Brushed-Bronze-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Stainless-Steel.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/300-600T-DEEP-100MM-1-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Black-22.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Stainless-Steel-copy.jpg",
     ],
     colours: [
@@ -8119,13 +7978,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/300x600-6.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/300-300-DEEP-100MM-1-scaled.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/300-600T-DEEP-100MM-2-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/300x600-3.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/300x300-3.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/300x600-2.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/300x300-2.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/300x600-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/300x300-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/300x600.jpg",
     ],
     colours: [
       {
@@ -8225,10 +8077,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Chrome-14.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-20.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/arched-screen-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/Chrome-15.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-21.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/Black-22.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/Chrome-16.jpg",
     ],
     colours: [
       {
@@ -8264,9 +8112,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/brushed-brass-14.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/chrome-17.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/dimensions.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/black-24.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/brushed-brass-15.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/chrome-18.jpg",
     ],
     colours: [
       {
@@ -8340,14 +8185,10 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Installation-Instructions-1-scaled.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Installation-Instructions-2-scaled.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/1000x1000-quadrant-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/900x900-quadrant-scaled.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/800x800-quadrant-scaled.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/1200x900-offset-RH-scaled.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/1200x900-offset-LH-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1200x800-offset-RH-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1200x800-offset-LH-scaled.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/1000x800-offset-RH-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1000x800-offset-LH-scaled.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/900x760-offset-LH-scaled.jpg",
     ],
     colours: [
@@ -8370,34 +8211,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Installation-Instructions-2-scaled.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Installation-Instructions-1-scaled.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/1700x900mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1700x800mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1700x760mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1700x700mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1600x900mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1600x800mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1600x760mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1600x700mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1500x900mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1500x800mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1500x760mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1500x700mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1400x900mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1400x800mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1400x700mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1200x900mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1200x800mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1200x760mm-scaled.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/1200x700mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1100x900mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1100x800mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1100x760mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1000x900mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1000x800mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1000x760mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1000x700mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/900x800mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/900x760mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/900x700mm-scaled.jpg",
     ],
     colours: [
     ],
@@ -8419,10 +8233,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Installation-Instructions-2-scaled.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Installation-Instructions-1-scaled.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/1000x1000mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/900x900mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/800x800mm-scaled.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/760x760mm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/700x700mm-scaled.jpg",
     ],
     colours: [
     ],
@@ -8633,23 +8444,14 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/70×90-CM.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/70×100-CM.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/70×120-CM.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/70×140-CM.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/70×160-CM.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/70×170-CM.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/70×180-CM.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/80×80-CM.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/80×100-CM.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/80×120-CM.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/80×140-CM.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/80×160-CM.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/80×170-CM.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/80×180-CM.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/90×90-CM.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/90×100-CM.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/90×120-CM.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/90×140-CM.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/90×160-CM.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/90×170-CM.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/90×180-CM.jpg",
     ],
     colours: [
@@ -8680,7 +8482,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/22-3.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/wastes.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/22-3-768x1024.jpg",
     ],
     colours: [
       {
@@ -8702,7 +8503,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/222.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/wastes-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/222-768x1024.jpg",
     ],
     colours: [
       {
@@ -8724,7 +8524,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Blank-product-image-7.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/wastes.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Blank-product-image-6.jpg",
     ],
     colours: [
     ],
@@ -8741,7 +8540,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/04/slate-waste-2.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/04/slate-waste.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/04/slate-waste-2.jpg",
     ],
     colours: [
       {
@@ -8802,10 +8600,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/jhh.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/fc6.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Luna-500mm-floor-vanity-unit-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/dwe-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/fc6.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/jhh.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/dwe-1-768x1024.jpg",
     ],
     colours: [
       {
@@ -8837,10 +8631,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/tj.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/yv.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Luna-600mm-floor-vanity-unit-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/tj.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/tr-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/yv.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/tr-768x1024.jpg",
     ],
     colours: [
       {
@@ -8872,10 +8662,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/hh-3.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/hop.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Luna-600mm-wall-hung-vanity-unit-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/hop.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/hh-3.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/g0.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/g0-768x1024.jpg",
     ],
     colours: [
       {
@@ -8907,10 +8693,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/n0i.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/gh.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Luna-500mm-WC-unit-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/xri.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/gh.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/n0i.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/xri-768x1024.jpg",
     ],
     colours: [
       {
@@ -8942,10 +8724,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/hjh.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/jjh.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Luna-tall-unit-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/hjh.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/h0kyh.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/jjh.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/h0kyh-768x1024.jpg",
     ],
     colours: [
       {
@@ -8977,10 +8755,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/jjj.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/h0k.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/L-Shape-Basin-1100MM-RH-and-LH.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/jjj.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/h0k.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/jjo.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/jjo-768x1024.jpg",
     ],
     colours: [
       {
@@ -9012,10 +8786,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/h0k.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/jjo.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/L-Shape-900MM-Basin-LH-and-RH-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/jjj-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/h0k-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/jjo-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/jjj-768x1024.jpg",
     ],
     colours: [
       {
@@ -9047,10 +8817,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/anthracite.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/dove-grey-2.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Luna-Line-Drawing-1-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/anthracite-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/dove-grey-3.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/white-9.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/dove-grey-1.jpg",
     ],
     colours: [
       {
@@ -9082,10 +8848,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/ww.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/mf.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Edge-500-Floor-Vanity-Unit-Data-Sheet-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/FA.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/mf.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/ww.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/FA-768x1024.jpg",
     ],
     colours: [
       {
@@ -9117,10 +8879,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/600b-2.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/600we.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Edge-600-Floor-Vanity-Unit-Data-Sheet-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/600b-2.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/600-gr.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/600we.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/600-gr-768x1024.jpg",
     ],
     colours: [
       {
@@ -9152,10 +8910,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/wed.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/wrr.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Edge-600m-wall-hung-vanity-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/wed.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/wrr.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/fw-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/fw-1-768x1024.jpg",
     ],
     colours: [
       {
@@ -9187,10 +8941,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/wcc.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/wwc.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Edge-WC-Unit-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/wc.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/wcc.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/wwc.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/wc-768x1024.jpg",
     ],
     colours: [
       {
@@ -9222,10 +8972,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/ere.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/rf.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Edge-tall-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/rf.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/efe.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/ere.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/efe-768x1024.jpg",
     ],
     colours: [
       {
@@ -9257,10 +9003,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/wfww.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/wrw.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/L-Shape-Basin-1100MM-RH-and-LH-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/wrw.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2024/02/wfww.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/efr.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/efr-768x1024.jpg",
     ],
     colours: [
       {
@@ -9293,10 +9036,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/efr.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/L-Shape-900MM-Basin-LH-and-RH-2.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/L-Shape-900mm-Vanity-Data-Sheet-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/wrw-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2024/02/wfww-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/02/efr-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/wrw-768x1024.jpg",
     ],
     colours: [
       {
@@ -9328,10 +9068,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/anthracite-3.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/dove-grey-4.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Edge-Line-Drawing-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/anthracite-4.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/dove-grey-5.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/white-11.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/anthracite-2.jpg",
     ],
     colours: [
       {
@@ -9360,7 +9096,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/wf-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/wf.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/wf-768x1024.jpg",
     ],
     colours: [
       {
@@ -9381,7 +9116,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/wfwf-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/wfwf.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/wfwf-768x1024.jpg",
     ],
     colours: [
       {
@@ -9402,7 +9136,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/bb-handles-1.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/bb-handles.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/bb-handles-1.jpg",
     ],
     colours: [
       {
@@ -9423,7 +9156,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/et-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/et.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/et-768x1024.jpg",
     ],
     colours: [
       {
@@ -9444,7 +9176,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/bb-overflow-2.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/bb-overflow-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/bb-overflow-2.jpg",
     ],
     colours: [
       {
@@ -9473,8 +9204,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Como-Unit_02-High-Res-cgi-2x.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/como-600-2.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/como-600.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/Como-600mm-natural-oak-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/Como-600mm-black.jpg",
     ],
     colours: [
       {
@@ -9509,10 +9238,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/C308K-D790-Top-view.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/como-800-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/como-800-2.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/Como-800mm-black-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Como-800mm-grey.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Como-800mm-natural-oak.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/Como-800mm.jpg",
     ],
     colours: [
       {
@@ -9549,10 +9276,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/M309K-L730-Side-view.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/como-cloakroom-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/como-cloakroom-2.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/Como450-black-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/Como450-grey-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/Como450-natural-oak-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/Como450.jpg",
     ],
     colours: [
       {
@@ -9586,10 +9309,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/sienna-unit_600_wall-hung_black_close-up_01.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/sienna-unit_600_wll_cream_full-lifestyle_01-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Sienna-600mm-Line-drawing-wall-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/black-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/cashmere.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/white-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/600-wall-hung.jpg",
     ],
     colours: [
       {
@@ -9623,10 +9342,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Interior-Lifestyle-.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/sienna-unit_800_black_close-up_side_01-High-Res-cgi-2x-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/800mm-siena-wall-hun-line-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/black-3.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/cashmere-2.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/white-3.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/800-wall-hung.jpg",
     ],
     colours: [
       {
@@ -9660,10 +9375,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/sienna-unit_600_floor_black_full-lifestyle_01.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/sienna-unit_600_floor_cream_close-up_01.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/sienna-line-drawing-600mm-floor-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/black-5.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/cashmere-4.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/white-5.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/600-floor-standing-1.jpg",
     ],
     colours: [
       {
@@ -9696,10 +9407,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/cashmere-5.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/sienna-unit_800_floor_cream_full-lifestyle.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/Sienna-Floor-800mm-line-drawing-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/black-7.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/cashmere-6.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/white-7.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/800-floor-standing-1.jpg",
     ],
     colours: [
       {
@@ -9732,7 +9439,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Brushed-Bronze-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Stainless-Steel.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/300-600T-DEEP-100MM-1-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Black-22.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Stainless-Steel-copy.jpg",
     ],
     colours: [
@@ -9773,13 +9479,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/300x600-6.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/300-300-DEEP-100MM-1-scaled.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/300-600T-DEEP-100MM-2-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/300x600-3.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/300x300-3.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/300x600-2.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/300x300-2.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/300x600-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/300x300-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/300x600.jpg",
     ],
     colours: [
       {
@@ -9989,10 +9688,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/nova-brushed-brass.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/nova-chrome.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/D2-1200x500mm.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/nova-black.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/nop11.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/nova-brushed-brass.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/nova-chrome.jpg",
     ],
     colours: [
       {
@@ -10174,7 +9869,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Blank-product-image-4.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Blank-product-image-5.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Blank-product-image-3.jpg",
     ],
     colours: [
       {
@@ -10202,7 +9896,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/black-2.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/chrome.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/anthracite.jpg",
     ],
     colours: [
       {
@@ -10238,7 +9931,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/black-3.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/chrome-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/anthracite-1.jpg",
     ],
     colours: [
       {
@@ -10275,7 +9967,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-2.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/chrome-2.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/white.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/anthracite-2.jpg",
     ],
     colours: [
       {
@@ -10314,7 +10005,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/black-5.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-3.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/chrome-3.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/black.jpg",
     ],
     colours: [
       {
@@ -10345,7 +10035,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/black-6.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-4.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/chrome-4.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/black-1.jpg",
     ],
     colours: [
       {
@@ -10378,7 +10067,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-5.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/chrome-5.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/white-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/anthracite-3.jpg",
     ],
     colours: [
       {
@@ -10419,7 +10107,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-6.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/chrome-6.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/white-2.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/anthracite-4.jpg",
     ],
     colours: [
       {
@@ -10460,12 +10147,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-8.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/chrome-7.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/white-3.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/white-4.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/chrome-8.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-10.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/black-12.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/anthracite-12.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/anthracite-5.jpg",
     ],
     colours: [
       {
@@ -10503,7 +10184,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/rr-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Heating-Elements-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/rr-1-768x1024.jpg",
     ],
     colours: [
       {
@@ -10567,8 +10247,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/800mm.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/3050-L-6060-scaled.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/3050-L-8080-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/800mm-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/600mm-1.jpg",
     ],
     colours: [
     ],
@@ -10596,9 +10274,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/brushed-brass-18.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/chrome-20.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/3009T-LC-5080-BR-BK-SL-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/chrome-21.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/brushed-brass-19.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/black-29.jpg",
     ],
     colours: [
       {
@@ -10869,7 +10544,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/Charcoal-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/Charcoal.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/12/Charcoal-768x1024.jpg",
     ],
     colours: [
     ],
@@ -12015,7 +11689,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
     ],
     colours: [
     ],
@@ -12264,7 +11937,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Brushed-Grey-Trim.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Brushed-Grey-Trim-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Brushed-Grey-Trim.jpg",
     ],
     colours: [
       {
@@ -12285,7 +11957,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Carrera-Trim.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Carrera-Trim-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Carrera-Trim.jpg",
     ],
     colours: [
       {
@@ -12306,7 +11977,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juno-Grey-Trim.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juno-Grey-Trim-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juno-Grey-Trim.jpg",
     ],
     colours: [
       {
@@ -12327,7 +11997,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Dynasty-Black.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Dynasty-Black-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Dynasty-Black.jpg",
     ],
     colours: [
       {
@@ -12348,7 +12017,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Olympus-Beige.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Olympus-Beige-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Olympus-Beige.jpg",
     ],
     colours: [
       {
@@ -12369,7 +12037,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Selene-White-Trim.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Selene-White-Trim-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Selene-White-Trim.jpg",
     ],
     colours: [
       {
@@ -12513,7 +12180,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Brushed-Grey-Trim.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Brushed-Grey-Trim-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Brushed-Grey-Trim.jpg",
     ],
     colours: [
       {
@@ -12534,7 +12200,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Carrera-Trim.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Carrera-Trim-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Carrera-Trim.jpg",
     ],
     colours: [
       {
@@ -12555,7 +12220,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juno-Grey-Trim.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juno-Grey-Trim-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juno-Grey-Trim.jpg",
     ],
     colours: [
       {
@@ -12576,7 +12240,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Dynasty-Black.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Dynasty-Black-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Dynasty-Black.jpg",
     ],
     colours: [
       {
@@ -12597,7 +12260,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Olympus-Beige.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Olympus-Beige-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Olympus-Beige.jpg",
     ],
     colours: [
       {
@@ -12618,7 +12280,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Selene-White-Trim.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Selene-White-Trim-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Selene-White-Trim.jpg",
     ],
     colours: [
       {
@@ -12640,7 +12301,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/wc-frame.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/WC-Frame-1-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/wc-frame.jpg",
     ],
     colours: [
       {
@@ -12696,7 +12356,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/gf-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/gf.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/gf-768x1024.jpg",
     ],
     colours: [
     ],
@@ -12717,7 +12376,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/bottom-inlet.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/bottom-inlet.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2024/02/side-inlet.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/ci-768x1024.jpg",
     ],
     colours: [
     ],
@@ -12736,7 +12394,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/black-14.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/brass-2-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/A46-00.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/black-13.jpg",
     ],
     colours: [
       {
@@ -12762,7 +12419,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/push-button-and-hinge-covers.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/A46-01-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Blank-product-image.jpg",
     ],
     colours: [
       {
@@ -12800,7 +12456,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-13-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-13.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/3-13-768x1024.jpg",
     ],
     colours: [
     ],
@@ -12817,7 +12472,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-14-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-14.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/2-14-768x1024.jpg",
     ],
     colours: [
     ],
@@ -12855,7 +12509,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-blackclick-waste-and-overflow-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-blackclick-waste-and-overflow.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-blackclick-waste-and-overflow-768x1024.jpg",
     ],
     colours: [
     ],
@@ -12872,7 +12525,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-12.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-13.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-12.jpg",
     ],
     colours: [
     ],
@@ -12889,7 +12541,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-chrome-pop-up-waste-and-overflow-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-chrome-pop-up-waste-and-overflow.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-chrome-pop-up-waste-and-overflow-768x1024.jpg",
     ],
     colours: [
     ],
@@ -12906,7 +12557,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-black-pop-up-waste-and-overflow-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-black-pop-up-waste-and-overflow.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/Bath-black-pop-up-waste-and-overflow-768x1024.jpg",
     ],
     colours: [
     ],
@@ -12924,7 +12574,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-21.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Identity-dual-control-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/1-21-768x1024.jpg",
     ],
     colours: [
       {
@@ -12946,7 +12595,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/8.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Identity-round-push-valve-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/8-768x1024.jpg",
     ],
     colours: [
       {
@@ -12968,7 +12616,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/4-3.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Block-push-valve-1-outlet-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/4-3-768x1024.jpg",
     ],
     colours: [
       {
@@ -12990,7 +12637,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/7-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Block-push-valve-2-outlets-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/7-1-768x1024.jpg",
     ],
     colours: [
       {
@@ -13012,7 +12658,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Black-Dual-Control-Round.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Identity-dual-control-scaled-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Black-Dual-Control-Round.jpg",
     ],
     colours: [
       {
@@ -13034,7 +12679,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Black-Triple-Control-Round.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Identity-round-push-valve-scaled-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Black-Triple-Control-Round.jpg",
     ],
     colours: [
       {
@@ -13056,7 +12700,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Black-Dual-Control-Square.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Block-push-valve-1-outlet-scaled-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Black-Dual-Control-Square.jpg",
     ],
     colours: [
       {
@@ -13078,7 +12721,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Black-Triple-Control-Square.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Block-push-valve-2-outlets-scaled-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Black-Triple-Control-Square.jpg",
     ],
     colours: [
       {
@@ -13101,7 +12743,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/r-2.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/gql2_1-3.jpeg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/OjLYegbl.jpeg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/r-2-768x1024.jpg",
     ],
     colours: [
       {
@@ -13123,7 +12764,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/ee.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/gql2_1-3.jpeg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/ee-768x1024.jpg",
     ],
     colours: [
       {
@@ -13145,7 +12785,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/round-shower-arm.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Identity-round-arm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/round-shower-arm-768x1024.jpg",
     ],
     colours: [
       {
@@ -13167,7 +12806,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/yj.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Block-ceilling-arm-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/yj-768x1024.jpg",
     ],
     colours: [
       {
@@ -13188,7 +12826,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/vi-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/vi.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/vi-768x1024.jpg",
     ],
     colours: [
       {
@@ -13209,7 +12846,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/g-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/g.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/g-768x1024.jpg",
     ],
     colours: [
       {
@@ -13231,7 +12867,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/jp.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Identity-sliding-rail-kit-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/jp-768x1024.jpg",
     ],
     colours: [
       {
@@ -13253,7 +12888,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/syeh.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Square-sliding-rail-kit-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/syeh-768x1024.jpg",
     ],
     colours: [
       {
@@ -13275,7 +12909,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/thr.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Identity-wall-outlet-and-holder-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/thr-768x1024.jpg",
     ],
     colours: [
       {
@@ -13297,7 +12930,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/j.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Block-wall-outlet-and-holder-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/j-768x1024.jpg",
     ],
     colours: [
       {
@@ -13318,7 +12950,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/cu-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/cu.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/cu-768x1024.jpg",
     ],
     colours: [
       {
@@ -13339,7 +12970,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/tt-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/tt.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/tt-768x1024.jpg",
     ],
     colours: [
       {
@@ -13360,7 +12990,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/d-3-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/d-3.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/d-3-768x1024.jpg",
     ],
     colours: [
       {
@@ -13382,7 +13011,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/rt-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/300mm-round-fixed-head-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/rt-1-768x1024.jpg",
     ],
     colours: [
       {
@@ -13404,7 +13032,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/fw.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/300mm-square-fixed-head-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/fw-768x1024.jpg",
     ],
     colours: [
       {
@@ -13425,7 +13052,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/ewf-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/ewf.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/ewf-768x1024.jpg",
     ],
     colours: [
       {
@@ -13446,7 +13072,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/t-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/t.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/t-768x1024.jpg",
     ],
     colours: [
       {
@@ -13467,7 +13092,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/ee-1-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/ee-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/ee-1-768x1024.jpg",
     ],
     colours: [
       {
@@ -13488,7 +13112,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/ewq-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/ewq.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/ewq-768x1024.jpg",
     ],
     colours: [
       {
@@ -13509,7 +13132,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/rg-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/rg.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/rg-768x1024.jpg",
     ],
     colours: [
       {
@@ -13531,7 +13153,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/44.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/0ELq3THL-scaled.jpeg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/44-768x1024.jpg",
     ],
     colours: [
       {
@@ -13552,7 +13173,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/ey-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/ey.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/ey-768x1024.jpg",
     ],
     colours: [
       {
@@ -13573,7 +13193,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/erw-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/erw.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/erw-768x1024.jpg",
     ],
     colours: [
       {
@@ -13594,7 +13213,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/55-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/55.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/55-768x1024.jpg",
     ],
     colours: [
       {
@@ -13615,7 +13233,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/11/e-1-768x1024.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/e-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/e-1-768x1024.jpg",
     ],
     colours: [
       {
@@ -13637,7 +13254,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/22-3.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/wastes.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/22-3-768x1024.jpg",
     ],
     colours: [
       {
@@ -13659,7 +13275,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/222.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/wastes-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/222-768x1024.jpg",
     ],
     colours: [
       {
@@ -13681,7 +13296,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Blank-product-image-7.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/wastes.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Blank-product-image-6.jpg",
     ],
     colours: [
     ],
@@ -13698,7 +13312,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/04/slate-waste-2.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/04/slate-waste.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/04/slate-waste-2.jpg",
     ],
     colours: [
       {
@@ -13720,7 +13333,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Blank-product-image-4.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Blank-product-image-5.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Blank-product-image-3.jpg",
     ],
     colours: [
       {
@@ -13748,7 +13360,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/black-2.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/chrome.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/anthracite.jpg",
     ],
     colours: [
       {
@@ -13784,7 +13395,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/black-3.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/chrome-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/anthracite-1.jpg",
     ],
     colours: [
       {
@@ -13821,7 +13431,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-2.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/chrome-2.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/white.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/anthracite-2.jpg",
     ],
     colours: [
       {
@@ -13860,7 +13469,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/black-5.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-3.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/chrome-3.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/black.jpg",
     ],
     colours: [
       {
@@ -13891,7 +13499,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/black-6.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-4.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/chrome-4.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/black-1.jpg",
     ],
     colours: [
       {
@@ -13924,7 +13531,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-5.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/chrome-5.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/white-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/anthracite-3.jpg",
     ],
     colours: [
       {
@@ -13965,7 +13571,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-6.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/chrome-6.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/white-2.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/anthracite-4.jpg",
     ],
     colours: [
       {
@@ -14006,12 +13611,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-8.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/chrome-7.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/white-3.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/white-4.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/chrome-8.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/brushed-brass-10.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/black-12.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/anthracite-12.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/anthracite-5.jpg",
     ],
     colours: [
       {
@@ -14049,7 +13648,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/rr-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/Heating-Elements-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/11/rr-1-768x1024.jpg",
     ],
     colours: [
       {
@@ -14134,7 +13732,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/PVC-Panel-Adhesive-Sealant.jpg",
     ],
     colours: [
     ],
@@ -14200,7 +13797,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/Turbo-Extractor-Fan-with-Timer.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/Extractor-fan-technical-drawings.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/Extractor-fan-technical-specification.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2023/12/sfd-768x1024.jpg",
     ],
     colours: [
       {
@@ -14224,7 +13820,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Black-Extractor-Fascia.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Chrome-Extractor-Fascia.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/White-Extractor-Fascia.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Brushed-Brass-Extractor-Fascia.jpg",
     ],
     colours: [
       {
@@ -14257,7 +13852,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Brushed-Grey-Trim.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Brushed-Grey-Trim-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Brushed-Grey-Trim.jpg",
     ],
     colours: [
       {
@@ -14278,7 +13872,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Carrera-Trim.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Carrera-Trim-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Carrera-Trim.jpg",
     ],
     colours: [
       {
@@ -14299,7 +13892,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juno-Grey-Trim.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juno-Grey-Trim-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juno-Grey-Trim.jpg",
     ],
     colours: [
       {
@@ -14320,7 +13912,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Dynasty-Black.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Dynasty-Black-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Dynasty-Black.jpg",
     ],
     colours: [
       {
@@ -14341,7 +13932,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Olympus-Beige.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Olympus-Beige-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Olympus-Beige.jpg",
     ],
     colours: [
       {
@@ -14362,7 +13952,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/Selene-White-Trim.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Selene-White-Trim-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Selene-White-Trim.jpg",
     ],
     colours: [
       {
@@ -14384,7 +13973,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Spotlight-including-White-Bezel-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Spotlight-Specifications-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Spotlight-including-White-Bezel.jpg",
     ],
     colours: [
       {
@@ -14406,7 +13994,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Chrome-Bezel-only-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Spotlight-Specifications-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Chrome-Bezel-only.jpg",
     ],
     colours: [
       {
@@ -14428,7 +14015,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Black-Bezel-only-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Spotlight-Specifications-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Black-Bezel-only.jpg",
     ],
     colours: [
       {
@@ -14450,7 +14036,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Brushed-Brass-Bezel-only-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Spotlight-Specifications-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Brushed-Brass-Bezel-only.jpg",
     ],
     colours: [
       {
@@ -14471,7 +14056,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2024/01/wfwf-768x10241-1.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/wfwf.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/01/wfwf-768x10241-1.jpg",
     ],
     colours: [
       {
@@ -14492,7 +14076,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2024/01/wff-768x1024-1.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/wf.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/01/wff-768x1024-1.jpg",
     ],
     colours: [
       {
@@ -14513,7 +14096,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/bb-handles-1.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/bb-handles.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/bb-handles-1.jpg",
     ],
     colours: [
       {
@@ -14534,7 +14116,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2024/01/det-768x1024-1.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/et.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2024/01/det-768x1024-1.jpg",
     ],
     colours: [
       {
@@ -14555,7 +14136,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/02/bb-overflow-2.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/bb-overflow-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/bb-overflow-2.jpg",
     ],
     colours: [
       {
@@ -14580,7 +14160,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Brushed-Bronze-1.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Stainless-Steel.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/300-600T-DEEP-100MM-1-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/Black-22.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Stainless-Steel-copy.jpg",
     ],
     colours: [
@@ -14621,13 +14200,6 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/300x600-6.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/300-300-DEEP-100MM-1-scaled.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/300-600T-DEEP-100MM-2-scaled.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/300x600-3.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/300x300-3.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/300x600-2.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/300x300-2.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/300x600-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/300x300-1.jpg",
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/300x600.jpg",
     ],
     colours: [
       {
@@ -14655,6 +14227,9 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     ],
   },
 };
+
+Object.assign(COLLECTION_PAGES, VERANDA_COLLECTIONS);
+Object.assign(PRODUCT_PAGES, VERANDA_PRODUCTS);
 
 export function getProductPage(
   categorySlug: string,
