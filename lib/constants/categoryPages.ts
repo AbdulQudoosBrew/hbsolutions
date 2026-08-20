@@ -1,3 +1,5 @@
+import { AWS_CATEGORY_PAGES } from "./awsPages";
+
 export type CategoryCollection = {
   id: string;
   label: string;
@@ -2185,6 +2187,8 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
     ],
   },
 };
+
+Object.assign(CATEGORY_PAGES, AWS_CATEGORY_PAGES as Record<string, CategoryPageData>);
 
 export function getCategoryPage(slug: string): CategoryPageData | null {
   return CATEGORY_PAGES[slug] ?? null;

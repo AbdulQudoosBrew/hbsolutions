@@ -12,8 +12,8 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: "https",
-        hostname: "www.deponti.com",
-        pathname: "/storage/**",
+        hostname: "cdn.shopify.com",
+        pathname: "/s/files/**",
       },
     ],
   },

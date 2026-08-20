@@ -76,6 +76,43 @@ export const NAV_CATEGORIES: NavCategory[] = [
     ],
   },
   {
+    id: "home-furniture",
+    label: "Furniture",
+    href: "/home-furniture",
+    children: [
+      { id: "dining-tables", label: "Dining Tables", href: "/home-furniture/dining-tables" },
+      { id: "chairs", label: "Chairs", href: "/home-furniture/chairs" },
+      { id: "sofas", label: "Sofas", href: "/home-furniture/sofas" },
+      { id: "oak", label: "Oak", href: "/home-furniture/oak" },
+      { id: "beds", label: "Beds / Mattresses", href: "/home-furniture/beds" },
+      { id: "decorative-mirrors", label: "Mirrors", href: "/decorative-mirrors" },
+      { id: "clocks", label: "Clocks", href: "/clocks" },
+      { id: "home-lighting", label: "Lighting", href: "/home-lighting" },
+    ],
+  },
+  {
+    id: "wall-panelling",
+    label: "Wall Panelling",
+    href: "/wall-panelling",
+    children: [
+      { id: "acoustic-wall-panels", label: "Acoustic Panels", href: "/wall-panelling/acoustic-panels" },
+      { id: "aqua-panels", label: "Aqua Panels", href: "/wall-panelling/aqua-panels" },
+      { id: "wall-panels", label: "Wall Panels", href: "/wall-panelling/wall-panels" },
+      { id: "ceilings", label: "Ceilings", href: "/wall-panelling/ceilings" },
+    ],
+  },
+  {
+    id: "outdoor",
+    label: "Outdoor",
+    href: "/outdoor",
+    children: [
+      { id: "outdoor-panels", label: "Outdoor Panels", href: "/outdoor/outdoor-panels" },
+      { id: "cladding", label: "Cladding", href: "/outdoor/cladding" },
+      { id: "decking", label: "Decking", href: "/outdoor/decking" },
+      { id: "fencing", label: "Fencing", href: "/outdoor/fencing" },
+    ],
+  },
+  {
     id: "corners",
     label: "Corners",
     href: "/corners",
@@ -166,6 +203,9 @@ export const PRODUCT_CATEGORIES = [
   { id: "silicone", label: "Silicone", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/accessories.jpg" },
   { id: "accessories", label: "Accessories", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/accessories.jpg" },
   { id: "verandas", label: "Verandas", image: "https://www.deponti.com/storage/app/resources/resize/510_320_0_0_crop/img_a68a9b7552a23cd079464b3a4202f79a.jpg" },
+  { id: "home-furniture", label: "Furniture", image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/4066109F-C183-4DB5-B7A0-0EBC2F096574.png" },
+  { id: "wall-panelling", label: "Wall Panelling", image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP010G-GREY_03fd921c-186b-41f7-835a-401aabc29ae0.png" },
+  { id: "outdoor", label: "Outdoor", image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/87AOak03.png" },
   { id: "corners", label: "Corners", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/accessories.jpg" },
 ] as const;
 

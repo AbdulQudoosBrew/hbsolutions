@@ -1,4 +1,5 @@
 import { VERANDA_COLLECTIONS, VERANDA_PRODUCTS } from "./verandaPages";
+import { AWS_COLLECTIONS, AWS_PRODUCTS } from "./awsPages";
 
 export type CollectionItem = {
   id: string;
@@ -14230,6 +14231,8 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
 
 Object.assign(COLLECTION_PAGES, VERANDA_COLLECTIONS);
 Object.assign(PRODUCT_PAGES, VERANDA_PRODUCTS);
+Object.assign(COLLECTION_PAGES, AWS_COLLECTIONS);
+Object.assign(PRODUCT_PAGES, AWS_PRODUCTS);
 
 export function getProductPage(
   categorySlug: string,
