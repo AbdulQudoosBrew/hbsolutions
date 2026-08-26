@@ -73,9 +73,9 @@ function fetchHtml(url) {
         let data = "";
         res.on("data", (c) => (data += c));
         res.on("end", () =>
-          resolve({ status: res.statusCode || 0, html: data, url })
+          resolve({ status: res.statusCode || 0, html: data, url }),
         );
-      }
+      },
     );
     req.on("error", reject);
     req.setTimeout(25000, () => {
@@ -87,7 +87,7 @@ function fetchHtml(url) {
 function descriptionFromHtml(html) {
   const blocks = [
     ...html.matchAll(
-      /elementor-widget-text-editor[\s\S]*?<div class="elementor-widget-container">([\s\S]*?)<\/div>/gi
+      /elementor-widget-text-editor[\s\S]*?<div class="elementor-widget-container">([\s\S]*?)<\/div>/gi,
     ),
   ];
   for (const block of blocks) {
@@ -114,7 +114,7 @@ function nearestImage(html, index) {
   const window = html.slice(Math.max(0, index - 3000), index);
   const imgs = [
     ...window.matchAll(
-      /src="(https:\/\/giavanibathrooms\.com\/wp-content\/uploads\/[^"]+\.(?:jpg|jpeg|png|webp))"/gi
+      /src="(https:\/\/giavanibathrooms\.com\/wp-content\/uploads\/[^"]+\.(?:jpg|jpeg|png|webp))"/gi,
     ),
   ].filter((m) => !/logo|333\.png|icon/i.test(m[1]));
   return imgs.length ? imgs[imgs.length - 1][1] : "";
@@ -124,10 +124,10 @@ function extractItems(html) {
   const items = [];
   const seen = new Set();
 
-  // Buttons may be plain labels with no href (e.g. Classic 10mm panel finishes)
+  // Buttons may be plain labels with no href (e.g. PVC Wall Panels 1000mm * 2400mm * 10mm panel finishes)
   const btns = [
     ...html.matchAll(
-      /<a class="elementor-button[^"]*"(?:[^>]*href="([^"]*)")?[^>]*>[\s\S]*?<span class="elementor-button-text">([^<]+)<\/span>/gi
+      /<a class="elementor-button[^"]*"(?:[^>]*href="([^"]*)")?[^>]*>[\s\S]*?<span class="elementor-button-text">([^<]+)<\/span>/gi,
     ),
   ];
 
@@ -138,7 +138,7 @@ function extractItems(html) {
       !label ||
       label.length < 2 ||
       /view our|discover|download|send|menu|search|enquire now|view more|reviews|add to cart|select options|brochure/i.test(
-        label
+        label,
       )
     ) {
       continue;
@@ -165,17 +165,15 @@ function extractItems(html) {
 
   // WooCommerce product cards
   const products = [
-    ...html.matchAll(
-      /<li[^>]*class="[^"]*product[^"]*"[\s\S]*?<\/li>/gi
-    ),
+    ...html.matchAll(/<li[^>]*class="[^"]*product[^"]*"[\s\S]*?<\/li>/gi),
   ];
   for (const p of products) {
     const chunk = p[0];
     const hrefM = chunk.match(
-      /href="(https:\/\/giavanibathrooms\.com\/product\/[^"]+)"/i
+      /href="(https:\/\/giavanibathrooms\.com\/product\/[^"]+)"/i,
     );
     const imgM = chunk.match(
-      /src="(https:\/\/giavanibathrooms\.com\/wp-content\/uploads\/[^"]+)"/i
+      /src="(https:\/\/giavanibathrooms\.com\/wp-content\/uploads\/[^"]+)"/i,
     );
     const titleM =
       chunk.match(/woocommerce-loop-product__title[^>]*>([^<]+)/i) ||
@@ -203,7 +201,7 @@ function extractItems(html) {
   if (items.length === 0) {
     const pairs = [
       ...html.matchAll(
-        /<a href="(https:\/\/giavanibathrooms\.com\/(?:product\/)?[^"]+)">\s*<img[^>]+src="(https:\/\/giavanibathrooms\.com\/wp-content\/uploads\/[^"]+)"[^>]*>/gi
+        /<a href="(https:\/\/giavanibathrooms\.com\/(?:product\/)?[^"]+)">\s*<img[^>]+src="(https:\/\/giavanibathrooms\.com\/wp-content\/uploads\/[^"]+)"[^>]*>/gi,
       ),
     ];
     for (const pair of pairs) {
@@ -230,7 +228,7 @@ function extractItems(html) {
 
 function heroFromHtml(html, fallback) {
   const og = html.match(
-    /property="og:image"\s+content="(https:\/\/giavanibathrooms\.com\/wp-content\/uploads\/[^"]+)"/i
+    /property="og:image"\s+content="(https:\/\/giavanibathrooms\.com\/wp-content\/uploads\/[^"]+)"/i,
   );
   if (og && !/333\.png|logo/i.test(og[1])) return og[1];
   return fallback || "";
@@ -239,19 +237,19 @@ function heroFromHtml(html, fallback) {
 function parseCategoryCollections() {
   const src = fs.readFileSync(
     path.join(ROOT, "lib/constants/categoryPages.ts"),
-    "utf8"
+    "utf8",
   );
   const result = [];
   for (const cat of MAIN) {
     const re = new RegExp(
-      `"${cat}": \\{[\\s\\S]*?collections: \\[([\\s\\S]*?)\\],\\n  \\},`
+      `"${cat}": \\{[\\s\\S]*?collections: \\[([\\s\\S]*?)\\],\\n  \\},`,
     );
     const m = src.match(re);
     if (!m) continue;
     const chunk = m[1];
     const blocks = [
       ...chunk.matchAll(
-        /\{\s*id: "([^"]+)",\s*label: "([^"]+)",\s*image: "([^"]+)",\s*href: "([^"]+)",\s*\}/g
+        /\{\s*id: "([^"]+)",\s*label: "([^"]+)",\s*image: "([^"]+)",\s*href: "([^"]+)",\s*\}/g,
       ),
     ];
     for (const b of blocks) {
@@ -292,7 +290,7 @@ async function scrapeOne(col) {
         continue;
       const titleMatch = html.match(/<title>([^|<]+)/i);
       const title = brandify(
-        (titleMatch && titleMatch[1]) || col.label
+        (titleMatch && titleMatch[1]) || col.label,
       ).replace(/\s*-\s*$/, "");
       const description = descriptionFromHtml(html);
       let items = extractItems(html);
@@ -301,7 +299,7 @@ async function scrapeOne(col) {
       items = items.filter(
         (it) =>
           !/view our|discover|download|brochure|contact/i.test(it.label) &&
-          slugifyId(it.label) !== col.collectionSlug
+          slugifyId(it.label) !== col.collectionSlug,
       );
 
       // If this is a product page with no sub-items, treat page itself as the item
@@ -369,19 +367,21 @@ function sleep(ms) {
   let i = 0;
   for (const col of cols) {
     i += 1;
-    process.stdout.write(`[${i}/${cols.length}] ${col.categorySlug}/${col.collectionSlug} ... `);
+    process.stdout.write(
+      `[${i}/${cols.length}] ${col.categorySlug}/${col.collectionSlug} ... `,
+    );
     const data = await scrapeOne(col);
     console.log(
       data.sourceUrl
         ? `OK (${data.items.length} items) ${data.sourceUrl.replace("https://giavanibathrooms.com/", "/")}`
-        : `FALLBACK (${data.items.length} items)`
+        : `FALLBACK (${data.items.length} items)`,
     );
     results.push(data);
     await sleep(120);
   }
   fs.writeFileSync(
     path.join(OUT_DIR, "collections.json"),
-    JSON.stringify(results, null, 2)
+    JSON.stringify(results, null, 2),
   );
   console.log("Wrote", path.join(OUT_DIR, "collections.json"));
 })();

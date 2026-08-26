@@ -17,9 +17,10 @@ Total products: 542
 
 The MD25 Wall Clock combines minimalist design with functional elegance. Its mirrored surface reflects light throughout your space, creating visual depth while serving as a practical timepiece. The contemporary styling complements modern interiors seamlessly, offering a sophisticated alternative to traditional wall clocks. Perfect for living rooms, bedrooms, or offices where you want to merge utility with aesthetic appeal.
 
- Size available: 33.6 x 9.5 x 100cm
+Size available: 33.6 x 9.5 x 100cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/MD25.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/MD251.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/MD252.jpg
@@ -33,9 +34,10 @@ Images:
 
 This exquisite timepiece combines horological precision with refined artistry. Crafted in gold, the clock features meticulous detailing and a delicate bird motif that adds an element of natural elegance. The sophisticated design makes it an ideal statement piece for discerning collectors who appreciate both functional craftsmanship and aesthetic excellence. Perfect for elevating any interior space with understated luxury and timeless appeal.
 
- Size available: ∅50cm
+Size available: ∅50cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SG011.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SG01.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SG01.jpg
@@ -49,9 +51,10 @@ Images:
 
 Precision timepiece housed in a fine gold frame with an elegant sunburst effect design. The radiant dial pattern creates a captivating focal point while maintaining functional clarity for accurate timekeeping. Crafted with meticulous attention to detail, this clock merges horological excellence with refined aesthetics. The lustrous gold finish ensures enduring sophistication, making it an authoritative statement piece for discerning collectors and design enthusiasts alike.
 
- Size available: ∅60cm
+Size available: ∅60cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SG02.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SG02.jpg
 
@@ -63,9 +66,10 @@ Images:
 
 The SG03 is a sophisticated timepiece that seamlessly blends functional precision with refined aesthetics. Crafted in gleaming gold, this decorative clock serves as both a reliable instrument and an elegant accent piece for discerning interiors. Its polished finish and timeless design make it an ideal choice for those seeking to elevate their space with understated luxury. Whether displayed on a mantelpiece, desk, or shelf, the SG03 commands attention through its classic proportions and warm metallic appeal, offering the perfect marriage of horological craftsmanship and decorative sophistication.
 
- Size available: ∅68cm
+Size available: ∅68cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SG031.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SG03.jpg
 
@@ -77,9 +81,10 @@ Images:
 
 Elevate your interior with this sophisticated timepiece, featuring a striking gold frame that commands attention. The meticulously crafted sunburst effect radiates outward from the centre, creating dynamic visual depth and movement. Each ray catches light beautifully, adding dimension and warmth to any room. The expert finish demonstrates superior craftsmanship, making this clock both a functional timekeeper and an architectural statement piece. Perfect for those who appreciate refined design and quality materials.
 
- Size available: ∅70cm
+Size available: ∅70cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SG041_7e8193d1-f98c-4e4f-a13d-778c30152074.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SG04.jpg
 
@@ -92,17 +97,18 @@ Images:
 
 This striking square mirrored clock combines contemporary design with luxurious detailing. The reflective mirrored face creates an elegant focal point, while the crushed diamond border adds sophisticated sparkle and dimension. Perfect for modern interiors seeking a touch of glamour, this timepiece serves as both a functional accessory and a statement piece. The mirrored surface amplifies light throughout your space, making it ideal for brightening darker corners or complementing minimalist décor schemes.
 
- Size available:
+Size available:
 
- 40 x 40cm (SY901 - Square)
+40 x 40cm (SY901 - Square)
 
- ∅40cm (SY902 - Round)
+∅40cm (SY902 - Round)
 
- ∅50cm (SY905 - Round)
+∅50cm (SY905 - Round)
 
- 50 x 50cm (SY906 - Square)
+50 x 50cm (SY906 - Square)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY9011.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY9011.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY9012.jpg
@@ -116,17 +122,18 @@ Images:
 
 This striking round mirrored clock combines contemporary elegance with luxurious detailing. The reflective mirrored face creates a sophisticated focal point, while the crushed diamond border adds a touch of glamour and visual depth. Perfect for modern interiors seeking both functionality and refined aesthetics, this timepiece serves as a statement piece that catches light beautifully throughout the day. An ideal choice for those who appreciate quality craftsmanship and distinctive design elements.
 
- Size available:
+Size available:
 
- 40 x 40cm (SY901 - Square)
+40 x 40cm (SY901 - Square)
 
- ∅40cm (SY902 - Round)
+∅40cm (SY902 - Round)
 
- ∅50cm (SY905 - Round)
+∅50cm (SY905 - Round)
 
- 50 x 50cm (SY906 - Square)
+50 x 50cm (SY906 - Square)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY902.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY9021.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY9022.jpg
@@ -140,13 +147,14 @@ Images:
 
 The SY903 combines precision timekeeping with contemporary design through its round clock face and distinctive staggered mirrored frame. The mirrored elements create visual depth and reflect light throughout your space, while the expert craftsmanship ensures reliable performance. This timepiece serves as both a functional accessory and a striking decorative statement, ideal for modern interiors that demand sophistication and style.
 
- Sizes available:
+Sizes available:
 
- ∅50cm (SY903 - Round)
+∅50cm (SY903 - Round)
 
- 50 x 50cm (SY904 - Square)
+50 x 50cm (SY904 - Square)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_12_34_40PM_4d3742bd-52b1-4c7e-859f-70213c023a01.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY9031.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY9032.jpg
@@ -160,13 +168,14 @@ Images:
 
 The SY904 presents a striking geometric design with its square silhouette and innovative staggered mirrored frame. This contemporary timepiece combines functional timekeeping with architectural aesthetics, featuring reflective surfaces that create dynamic visual interest from multiple angles. The mirrored frame elements catch and disperse light, making it an eye-catching addition to modern interiors. Ideal for those seeking a statement clock that transcends traditional design conventions whilst maintaining practical utility.
 
- Sizes available:
+Sizes available:
 
- ∅50cm (SY903 - Round)
+∅50cm (SY903 - Round)
 
- 50 x 50cm (SY904 - Square)
+50 x 50cm (SY904 - Square)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_12_36_27PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY9041.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY9042.jpg
@@ -179,17 +188,18 @@ Images:
 
 This striking round mirrored clock combines contemporary elegance with luxurious detailing. The reflective mirrored face creates a sophisticated focal point, while the crushed diamond border adds a touch of glamour and visual depth. Perfect for modern interiors seeking both functionality and refined aesthetics, this timepiece serves as a statement piece that catches light beautifully throughout the day. An ideal choice for those who appreciate quality craftsmanship and distinctive design elements.
 
- Size available:
+Size available:
 
- 40 x 40cm (SY901 - Square)
+40 x 40cm (SY901 - Square)
 
- ∅40cm (SY902 - Round)
+∅40cm (SY902 - Round)
 
- ∅50cm (SY905 - Round)
+∅50cm (SY905 - Round)
 
- 50 x 50cm (SY906 - Square)
+50 x 50cm (SY906 - Square)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY9051.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY9051_99148502-d3da-4c83-86da-efca02697b97.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY9052.jpg
@@ -202,17 +212,18 @@ Images:
 
 This striking square mirrored clock combines contemporary design with luxurious detailing. The reflective mirrored face creates an elegant focal point, while the crushed diamond border adds sophisticated sparkle and dimension. Perfect for modern interiors seeking a touch of glamour, this timepiece serves as both a functional accessory and a statement piece. The mirrored surface amplifies light throughout your space, making it ideal for brightening darker corners or complementing minimalist décor schemes.
 
- Size available:
+Size available:
 
- 40 x 40cm (SY901 - Square)
+40 x 40cm (SY901 - Square)
 
- ∅40cm (SY902 - Round)
+∅40cm (SY902 - Round)
 
- ∅50cm (SY905 - Round)
+∅50cm (SY905 - Round)
 
- 50 x 50cm (SY906 - Square)
+50 x 50cm (SY906 - Square)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_12_23_45PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY9061_f5f7854c-7851-4617-999f-e3c69a6593b3.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY9062.jpg
@@ -226,13 +237,14 @@ Images:
 
 The SY907 presents a contemporary round mirrored clock enhanced by an exquisite teardrop crystal framework. The reflective mirrored surface amplifies light throughout your space whilst maintaining exceptional clarity for time-reading. Precision-cut teardrop crystals form an ornamental border that catches and disperses light beautifully, creating dynamic visual interest. This expert-crafted timepiece merges functional accuracy with architectural elegance, making it an exceptional choice for discerning interiors that demand both performance and aesthetic sophistication.
 
- Size available:
+Size available:
 
- ∅50cm (SY907 Round)
+∅50cm (SY907 Round)
 
- 50 x 50cm (SY908 Square)
+50 x 50cm (SY908 Square)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_12_46_47PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY9071.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY9072.jpg
@@ -246,13 +258,14 @@ Images:
 
 This striking timepiece combines a square mirrored clock face with an exquisite teardrop crystal framework, creating a luminous focal point for any space. The mirrored surface amplifies light and reflects surroundings, adding depth and dimension to your décor. Crafted with precision engineering, the crystal framework provides both aesthetic elegance and structural integrity. The interplay between the geometric mirrored dial and the organic teardrop silhouette delivers sophisticated visual interest. Perfect for those who appreciate refined craftsmanship and contemporary design that transcends ordinary timekeeping.
 
- Size available:
+Size available:
 
- ∅50cm (SY907 Round)
+∅50cm (SY907 Round)
 
- 50 x 50cm (SY908 Square)
+50 x 50cm (SY908 Square)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_12_48_17PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY9081.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY9082.jpg
@@ -266,9 +279,10 @@ Images:
 
 The SY909 features a striking mirrored clock face that reflects light beautifully, creating dynamic visual interest from every angle. Its geometric framework combines clean lines with contemporary design, offering a modern aesthetic that complements any interior. Crushed diamond accents catch and scatter light throughout the piece, adding sophisticated sparkle and depth. This timepiece merges functional timekeeping with decorative elegance, making it an ideal statement piece for those seeking both style and substance in their home décor.
 
- Size available: ∅50cm
+Size available: ∅50cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY909.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY9091.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY9092.jpg
@@ -282,9 +296,10 @@ Images:
 
 This striking round mirrored clock features an innovative design with two mirrored wings extending from its face, each adorned with crushed diamond centres that catch and reflect light beautifully. The mirrored surfaces create a contemporary aesthetic while the diamond embellishments add luxury and visual interest. Perfect for making a sophisticated statement in modern interiors, this piece combines functional timekeeping with decorative elegance. The reflective elements enhance any room's brightness and sense of space, making it both a practical timepiece and an eye-catching focal point.
 
- Size available: 110 x 30cm
+Size available: 110 x 30cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/a.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY9101.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY9102.jpg
@@ -297,9 +312,10 @@ Images:
 
 The SY919 combines precision timekeeping with captivating mechanical artistry. Its black face is accented with polished silver details that catch the light, whilst the internal cog decoration serves as both visual interest and functional mechanism—these gears move independently, powered by their own mechanical system. A sophisticated timepiece that merges engineering excellence with aesthetic appeal, ideal for those who appreciate the marriage of form and function.
 
- Size available: ∅59cm
+Size available: ∅59cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY919_4032efe2-84fd-444f-a394-50773d9339b5.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Blackclock1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY919.png
@@ -312,9 +328,10 @@ Images:
 
 The SY920 combines industrial aesthetics with functional timekeeping through its distinctive design. Featuring a hollowed-out clock face positioned behind the numerals, this round timepiece creates striking visual depth and shadow play. The industrial styling appeals to contemporary interiors seeking bold, architectural elements. Precision-engineered construction ensures reliable performance whilst the minimalist approach to design makes it a versatile accent piece for modern spaces, offices, or industrial-themed environments.
 
- Size available: ∅54cm
+Size available: ∅54cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY920_713c13cd-d0cb-48d3-9719-9cf6369b14db.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY9201.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY920_d3dfb2f3-aaa8-4086-b418-4d8d1d201b84.png
@@ -327,9 +344,10 @@ Images:
 
 The SY921 combines industrial aesthetics with functional timekeeping through its distinctive design. Roman numerals frame a hollowed-out clock face, creating striking visual depth and shadow play as time passes. The round silhouette and robust construction reflect contemporary industrial styling, making it an ideal statement piece for modern interiors, offices, or commercial spaces. Precision engineering ensures reliable performance while the minimalist approach to ornamentation allows the architectural design to command attention.
 
- Size available: ∅54cm
+Size available: ∅54cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY921_5d12ba74-f16e-4f4f-ad7b-a90b9ee1b6a4.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY9211.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY921.png
@@ -342,9 +360,10 @@ Images:
 
 This striking wall clock combines functional timekeeping with mechanical artistry. The black face features an intricately printed map adorned with silver accents, creating a sophisticated aesthetic suitable for any interior. The standout feature is the internal cog decoration system—visible through the face, these gears move independently, powered by their own mechanism, adding mesmerizing kinetic interest. The self-operating cogs transform the clock into a dynamic sculptural piece that captivates viewers long after they've checked the time. Ideal for those who appreciate engineering precision and design innovation.
 
- Size available: ∅46cm
+Size available: ∅46cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb6_2026_01_22_15PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Blackatlasclock1.jpg
 
@@ -356,9 +375,10 @@ Images:
 
 This versatile mirrored table clock combines luxury with practicality, featuring two crushed diamond sides that catch and reflect light for maximum visual impact. Designed for dual functionality, it works equally well as a standalone desk piece or mounted on your wall, adapting seamlessly to your space. The premium mirrored finish paired with sparkling diamond accents creates an understated yet sophisticated aesthetic suitable for modern and traditional settings. A refined timepiece that serves as both functional accessory and decorative investment.
 
- Size available: 36.5 x 7.5 x 25cm
+Size available: 36.5 x 7.5 x 25cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/TABLE_CLOCK.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/TableClock1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/TableClock2.jpg
@@ -376,9 +396,10 @@ Images:
 
 The Chelsea 01 Dark Grey Bar Stool merges contemporary design with timeless appeal. Built on a sturdy chrome base that resists corrosion and maintains its lustre, this stool suits modern and traditional interiors alike. The streamlined backrest ensures comfortable support for prolonged use at counters and islands. The simple back design offers clean lines and uncluttered aesthetics, while the distinctive lion knocker detail adds a touch of classical character. Upholstered in sumptuous velvet, this stool combines functional seating with refined style—ideal for kitchen islands, bars, or statement-making interiors.
 
- Size available: 54 x 48 x 102cm
+Size available: 54 x 48 x 102cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Chelsea01DGStool.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Chelsea01BarStoolDarkGrey1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Chelsea01BarStoolDarkGrey2.jpg
@@ -395,9 +416,10 @@ Images:
 
 The Chelsea Dark Grey Bar Stool merges contemporary design with timeless appeal. Built on a sturdy chrome base that resists corrosion and maintains its lustre, this stool suits modern and traditional interiors alike. The streamlined backrest ensures comfortable support for prolonged use at counters and islands. A refined ring knocker detail provides visual interest without compromising the clean aesthetic. Upholstered in sumptuous velvet, this stool combines functional seating with refined style—ideal for kitchen islands, bars, or statement-making interiors.
 
- Size available: 54 x 48 x 102cm
+Size available: 54 x 48 x 102cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChelseaDGStool.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/ChelseaBarStoolDarkGrey1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/ChelseaBarStoolDarkGrey2.jpg
@@ -414,11 +436,12 @@ Images:
 
 The G-Milan Stool combines contemporary design with refined craftsmanship. Upholstered in sumptuous velvet with subtle ribbed detailing, this piece delivers both visual interest and tactile appeal. Elegant gold legs provide a striking contrast, elevating its aesthetic presence in any interior. The integrated handle ensures practical portability, making it equally suited as a functional footrest, additional seating, or a distinctive accent piece. A sophisticated choice for discerning interiors.
 
- Available in Ivory, Dark Grey & Black
+Available in Ivory, Dark Grey & Black
 
- Size available: 49 x 55 x 97cm
+Size available: 49 x 55 x 97cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb4_2026_12_20_03PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Photoroom_20260326_103607.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G-Milan_stool_Black_2.jpg
@@ -446,11 +469,12 @@ Images:
 
 Elevate your bar seating with this sophisticated Lewis 01 Dark Grey Bar Stool, featuring a luxurious shimmer velvet upholstery that catches the light beautifully. The sturdy chrome base provides contemporary contrast, while the distinctive Chesterfield back with deep button detailing adds timeless elegance. Finished with an ornamental lion knocker accent, this piece combines classic design heritage with modern refinement—ideal for creating a statement-making bar or kitchen island setup.
 
- Note: The Lewis 01 Bar Stool has a Different Material to the Lewis Bar Stool
+Note: The Lewis 01 Bar Stool has a Different Material to the Lewis Bar Stool
 
- Size available: 58 x 50 x 98cm
+Size available: 58 x 50 x 98cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_11_42_18AM_1ddccd28-631e-42a7-8d7c-d71caedbd411.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Lewis01BarStoolDarkGrey1_70e89a59-3619-4fe1-9735-de8f0a8c6f0f.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Lewis01BarStoolDarkGrey2.jpg
@@ -467,13 +491,14 @@ Images:
 
 Elevate your bar seating with the sophisticated Lewis Bar Stool, featuring a luxurious shimmer velvet upholstery that catches the light beautifully. The sturdy chrome base provides contemporary contrast, while the distinctive Chesterfield back with deep button detailing adds timeless elegance. Finished with an ornamental lion knocker accent, this piece combines classic design heritage with modern refinement—ideal for creating a statement-making bar or kitchen island setup.
 
- Available in Light Grey, Mink
+Available in Light Grey, Mink
 
- Not to be Confused with the Lewis 01 Stool
+Not to be Confused with the Lewis 01 Stool
 
- Size available: 58 x 50 x 98cm
+Size available: 58 x 50 x 98cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_11_37_05AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/LewisBarStoolLightGrey4.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/LewisBarStoolLightGrey1.jpg
@@ -496,11 +521,12 @@ Images:
 
 The Mayfair Bar Stool combines sophisticated design with practical durability. Upholstered in sumptuous velvet, it delivers a luxurious tactile experience while maintaining easy care. The sturdy chrome base provides contemporary elegance and reliable support, whilst the reinforced stitched back ensures lasting structural integrity. A distinctive lion knocker detail adds a touch of classical character, elevating this piece beyond standard seating. Ideal for kitchens, bars, or contemporary interiors seeking refined comfort and timeless style.
 
- Available in Dark Grey, Silver Grey, Mink
+Available in Dark Grey, Silver Grey, Mink
 
- Size available: 64 x 60 x 100cm
+Size available: 64 x 60 x 100cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb4_2026_11_12_14AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/MayfairBarStoolDarkGrey1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/MayfairBarStoolDarkGrey2.jpg
@@ -527,11 +553,12 @@ Images:
 
 The Mayfair Bar Stool combines sophisticated design with practical durability. Upholstered in sumptuous velvet, it delivers a luxurious tactile experience while maintaining easy care. The sturdy chrome base provides contemporary elegance and reliable support, whilst the reinforced stitched back ensures lasting structural integrity. A refined ring knocker detail provides visual interest without compromising the clean aesthetic. Ideal for kitchens, bars, or contemporary interiors seeking refined comfort and timeless style.
 
- Available in Dark Grey
+Available in Dark Grey
 
- Size available: 64 x 60 x 100cm
+Size available: 64 x 60 x 100cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/MayfairDarkGreyStoolRing.png
 
 ### Beds / Mattresses (8)
@@ -546,6 +573,7 @@ Images:
 Size available: 145 x 203 x 105cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_01_15_57PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/WXF_P39.jpg
 
@@ -560,33 +588,32 @@ What you need to know about our Mattress in a box:
 
 - 2000 Pocket Springs
 
--
- 23cm Depth
+- 23cm Depth
 
 - Ultra Soft Tencel Fabric Cover
 
 - Orthopaedic Support
 
--
- Firmness: Medium Firm
+- Firmness: Medium Firm
 
- Available in Single, Double, King Size and Super King Size.
+  Available in Single, Double, King Size and Super King Size.
 
- Mattress is made with 2000 individually pocketed springs to provide first class comfort and support while you sleep. Specifically supporting your back and joints, and ensuring a more restful night’s sleep.
+  Mattress is made with 2000 individually pocketed springs to provide first class comfort and support while you sleep. Specifically supporting your back and joints, and ensuring a more restful night’s sleep.
 
- At 23cm deep, this mattress represents real quality and performance, with a firm rating for extra support where you need it. This mattress is considered medium firm, which is particularly best for back and side sleepers, while the sumptuous soft pillow cradles your night of ultimate comfort.
+  At 23cm deep, this mattress represents real quality and performance, with a firm rating for extra support where you need it. This mattress is considered medium firm, which is particularly best for back and side sleepers, while the sumptuous soft pillow cradles your night of ultimate comfort.
 
- Vacuum packed and rolled into a box, the mattress has the advantage of being easy to transport, whether up stairs, around corners and even in the back of some cars. Simply unbox, unroll and allow them to expand fully into it’s shape - usually within 48 hours.
+  Vacuum packed and rolled into a box, the mattress has the advantage of being easy to transport, whether up stairs, around corners and even in the back of some cars. Simply unbox, unroll and allow them to expand fully into it’s shape - usually within 48 hours.
 
- Sizes available:
+  Sizes available:
 
- A23 Double: 1350mm x 1900mm
+  A23 Double: 1350mm x 1900mm
 
- A23 Small Double: 1200mm x 1900mm
+  A23 Small Double: 1200mm x 1900mm
 
- A23 Single: 900mm x 1900mm
+  A23 Single: 900mm x 1900mm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WhatsAppImage2024-12-09at17.04.55_45aa4964.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/A23Spec.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG-20250123-WA0007.jpg
@@ -607,33 +634,32 @@ What you need to know about our Mattress in a box:
 
 - 2000 Pocket Springs
 
--
- 28cm Depth
+- 28cm Depth
 
 - Ultra Soft Tencel Fabric Cover
 
 - Orthopaedic Support
 
--
- Firmness: Medium Firm
+- Firmness: Medium Firm
 
- Available in Double, King Size and Super King Size.
+  Available in Double, King Size and Super King Size.
 
- Mattress is made with 2000 individually pocketed springs to provide first class comfort and support while you sleep. Specifically supporting your back and joints, and ensuring a more restful night’s sleep.
+  Mattress is made with 2000 individually pocketed springs to provide first class comfort and support while you sleep. Specifically supporting your back and joints, and ensuring a more restful night’s sleep.
 
- At 28cm deep, this mattress represents real quality and performance, with a firm rating for extra support where you need it. This mattress is considered medium firm, which is particularly best for back and side sleepers, while the sumptuous soft pillow cradles your night of ultimate comfort.
+  At 28cm deep, this mattress represents real quality and performance, with a firm rating for extra support where you need it. This mattress is considered medium firm, which is particularly best for back and side sleepers, while the sumptuous soft pillow cradles your night of ultimate comfort.
 
- Vacuum packed and rolled into a box, the mattress has the advantage of being easy to transport, whether up stairs, around corners and even in the back of some cars. Simply unbox, unroll and allow them to expand fully into it’s shape - usually within 48 hours.
+  Vacuum packed and rolled into a box, the mattress has the advantage of being easy to transport, whether up stairs, around corners and even in the back of some cars. Simply unbox, unroll and allow them to expand fully into it’s shape - usually within 48 hours.
 
- Sizes available:
+  Sizes available:
 
- C28 Super King: 1800mm x 2000mm
+  C28 Super King: 1800mm x 2000mm
 
- C28 King: 1500mm x 2000mm
+  C28 King: 1500mm x 2000mm
 
- C28 Double: 1350mm x 1900mm
+  C28 Double: 1350mm x 1900mm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WhatsAppImage2024-12-09at17.04.54_6a55088e.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/C28Spec.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG-20250123-WA0008.jpg
@@ -651,12 +677,11 @@ Images:
 - Tags: Double, King Size, Single, Small Double, Super King Size
 
 This mattress box has built-in wheels, so it’s easier to move around
- What you need to know about our Mattress in a box:
+What you need to know about our Mattress in a box:
 
 - 2000 Pocket Springs
 
--
- 35cm Depth
+- 35cm Depth
 
 - Gel Memory Foam Mattress
 
@@ -664,30 +689,30 @@ This mattress box has built-in wheels, so it’s easier to move around
 
 - Orthopaedic Support
 
--
- Firmness: Medium Firm
+- Firmness: Medium Firm
 
- Available in Single, Small Double, Double, King Size and Super King Size.
+  Available in Single, Small Double, Double, King Size and Super King Size.
 
- Mattress is made with 2000 individually pocketed springs to provide first class comfort and support while you sleep. Specifically supporting your back and joints, and ensuring a more restful night’s sleep.
+  Mattress is made with 2000 individually pocketed springs to provide first class comfort and support while you sleep. Specifically supporting your back and joints, and ensuring a more restful night’s sleep.
 
- At 35cm deep, this mattress represents real quality and performance, with a firm rating for extra support where you need it. This mattress is considered medium firm, which is particularly best for back and side sleepers, while the sumptuous soft pillow cradles your night of ultimate comfort.
+  At 35cm deep, this mattress represents real quality and performance, with a firm rating for extra support where you need it. This mattress is considered medium firm, which is particularly best for back and side sleepers, while the sumptuous soft pillow cradles your night of ultimate comfort.
 
- Vacuum packed and rolled into a box with wheels , the mattress has the advantage of being easy to transport, whether up stairs, around corners and even in the back of some cars. Simply unbox, unroll and allow them to expand fully into it’s shape - usually within 48 hours.
+  Vacuum packed and rolled into a box with wheels , the mattress has the advantage of being easy to transport, whether up stairs, around corners and even in the back of some cars. Simply unbox, unroll and allow them to expand fully into it’s shape - usually within 48 hours.
 
- Sizes available:
+  Sizes available:
 
- D35 Super King: 1800mm x 2000mm
+  D35 Super King: 1800mm x 2000mm
 
- D35 King: 1500mm x 2000mm
+  D35 King: 1500mm x 2000mm
 
- D35 Double: 1350mm x 1900mm
+  D35 Double: 1350mm x 1900mm
 
- D35 Small Double: 1200mm x 1900mm
+  D35 Small Double: 1200mm x 1900mm
 
- D35 Single: 900mm x 1900mm
+  D35 Single: 900mm x 1900mm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/D35.01.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/D35-details_bfa2d4fb-bae1-48b7-a712-494ae17d1ac9.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/D35.06.png
@@ -708,17 +733,18 @@ Images:
 
 Transform your bedroom with the Roma bed frame, featuring a sophisticated textured grey velvet upholstery that adds contemporary elegance to any space. This versatile frame accommodates single, double, or king-size mattresses, allowing you to select the perfect fit for your needs. The included headboard provides both comfort and style, creating an inviting focal point. Mattresses are sold separately, giving you complete flexibility to choose the support system that suits your preferences. Crafted for durability and aesthetic appeal, the Roma delivers refined comfort without compromise.
 
- Sizes available:
+Sizes available:
 
- King Size: 213 x 164cm
+King Size: 213 x 164cm
 
- Double: 203 x 149cm
+Double: 203 x 149cm
 
- Single: 203 x 104cm
+Single: 203 x 104cm
 
- Headboard: 120cm H | Frame: 32cm H | Base: 28cm H
+Headboard: 120cm H | Frame: 32cm H | Base: 28cm H
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG-20250122-WA0023.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/singlebed_2_3c6c4e58-5422-4e26-91a2-b74bb656976e.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG-20250122-WA0025.jpg
@@ -735,15 +761,16 @@ Images:
 
 The Siena gas lift bed combines sophisticated grey velvet upholstery with practical storage functionality. This statement piece features a luxurious headboard and an ottoman base equipped with a smooth gas lift mechanism for effortless access to under-bed storage. The responsive hydraulic system ensures reliable, one-handed operation. Available in double and king sizes to suit your bedroom dimensions. Please note: mattresses are sold separately, allowing you to select the perfect support system for your needs. An ideal choice for those seeking both elegance and intelligent space-saving design.
 
- Sizes available:
+Sizes available:
 
- King Size: 216 x 160cm
+King Size: 216 x 160cm
 
- Double: 206 x 145cm
+Double: 206 x 145cm
 
- Headboard: 130cm H | Frame: 35cm H | Base: 30cm H
+Headboard: 130cm H | Frame: 35cm H | Base: 30cm H
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG-20250122-WA0017.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG-20250122-WA0019.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG-20250122-WA0015.jpg
@@ -760,6 +787,7 @@ Images:
 Size available: 145 x 203 x 105cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_01_15_27PM_cf7fcf58-68f8-4db6-81af-e8eec37e920c.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/bed.jpg
 
@@ -773,6 +801,7 @@ Images:
 Size available: 160 x 203 x 105cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_01_15_27PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/bed_569f771d-a42b-4fa7-90f0-ffc1a23787d6.jpg
 
@@ -787,13 +816,14 @@ Images:
 
 The Chelsea Dark Grey Bench combines contemporary design with robust construction. Its chrome frame features circular legs at both ends, connected by a reinforced supporting bar that ensures exceptional stability and longevity. Upholstered in soft grey velvet, this bench delivers both visual sophistication and tactile comfort. Available in 130cm and 180cm lengths, it adapts seamlessly to various interior spaces—from entryways to dining areas. The neutral grey tone complements diverse décor schemes whilst the premium velvet finish elevates any room's aesthetic appeal.
 
- Sizes available:
+Sizes available:
 
- 180 x 48 x 50cm
+180 x 48 x 50cm
 
- 130 x 48 x 50cm
+130 x 48 x 50cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/chelsea_dark_grey_bench.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5541.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5540.jpg
@@ -810,15 +840,16 @@ Images:
 
 This contemporary bench combines refined Italian design with practical versatility. Featuring sleek chrome legs that provide a modern contrast to the sumptuous dark grey velvet upholstery, it brings sophisticated elegance to any interior. Available in three sizes—110cm, 130cm, and 160cm—the Lewis adapts seamlessly to hallways, bedrooms, or living spaces. The plush velvet surface offers comfort and tactile appeal, while the polished chrome framework ensures durability and easy maintenance. An understated yet striking piece that elevates your home with contemporary style.
 
- Sizes available:
+Sizes available:
 
- 160 x 48 x 50cm
+160 x 48 x 50cm
 
- 130 x 48 x 50cm
+130 x 48 x 50cm
 
- 110 x 48 x 50cm
+110 x 48 x 50cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Lewis_Dark_Grey_Bench_110-130-160cm.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5519_8e4d06fa-beaf-47f9-bddc-d95c7b72d355.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5520_86efa979-08ea-40ed-b151-e1416deef543.jpg
@@ -836,11 +867,12 @@ Images:
 
 The Lewis bench combines understated elegance with refined comfort. Its generous 110cm width accommodates multiple seating positions, whilst the sumptuous mink velvet upholstery delivers a luxurious tactile experience. Four sleek chrome legs in contemporary Italian design elevate the piece both literally and aesthetically, creating a striking contrast against the soft fabric. An ideal accent for modern interiors seeking sophistication without compromise.
 
- Available in Plush Mink, Shiny Mink
+Available in Plush Mink, Shiny Mink
 
- Size available: 110 x 48 x 50cm
+Size available: 110 x 48 x 50cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb4_2026_03_05_34PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5529.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5530.jpg
@@ -862,13 +894,14 @@ Images:
 
 This contemporary bench combines refined Italian design with luxurious materials. The shimmer silver grey velvet upholstery delivers a sophisticated aesthetic, while the sleek chrome legs provide a modern architectural edge. Available in three lengths—110cm, 130cm, and 160cm—it adapts seamlessly to various spaces. The polished chrome finish complements the fabric's subtle luminosity, creating an elegant focal point that works equally well in minimalist or eclectic interiors. A versatile seating solution for discerning design enthusiasts.
 
- Sizes available:
+Sizes available:
 
- 160 x 48 x 50cm
+160 x 48 x 50cm
 
- 130 x 48 x 50cm
+130 x 48 x 50cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb4_2026_03_13_52PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6144.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6143.jpg
@@ -890,9 +923,10 @@ Elevate your seating with the sophisticated Alice Chair, featuring sumptuous cru
 
 Comes in Black and Dark Grey colours, both fitted with chrome legs.
 
- Size available: 59 x 46 x 105cm
+Size available: 59 x 46 x 105cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Alice_crush_28445f53-71a9-4dea-bf01-36f45ef482bf.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5601.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5602.jpg
@@ -923,9 +957,10 @@ Images:
 
 The Angel Grey Chair combines contemporary design with exceptional comfort, making it an ideal accent piece for any modern interior. Upholstered in a soft fabric, this sleek chair invites you to sink in and unwind. Its refined silhouette and neutral grey tone complement diverse décor styles while providing a welcoming spot for relaxation. Perfect for living rooms, bedrooms, or reading nooks, this chair delivers both aesthetic appeal and everyday comfort without compromise.
 
- Size available: 82 x 75 x 74cm
+Size available: 82 x 75 x 74cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPT_Image_Jul_18_2025_03_52_20_PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/AngelGreyChair.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/AngelGreyChair2.jpg
@@ -941,9 +976,10 @@ Images:
 
 The Bentley Beige Chair combines understated elegance with practical design. Upholstered in neutral fabric, this piece features sturdy oak legs and a plain back that adapts seamlessly to any interior scheme. Without a decorative knocker, the silhouette remains clean and contemporary. Its versatile aesthetic makes it equally at home in traditional lounges, modern living spaces, or professional settings. A reliable choice for those seeking timeless comfort and refined simplicity.
 
- Size available: 48 x 60 x 93cm
+Size available: 48 x 60 x 93cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/bentley_beige.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WhatsAppImage2024-07-31at12.46.28_a2acd1ab.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/BentleyOakBeige5.jpg
@@ -961,9 +997,10 @@ Images:
 
 The Bentley Dark Grey Chair combines understated elegance with practical durability. Upholstered in soft velvet across the backrest and seat, it delivers a luxurious tactile experience whilst maintaining a sophisticated aesthetic. The black legs provide a contemporary contrast, elevating the design with a modern industrial edge. This chair suits both residential and commercial interiors, offering comfort without unnecessary embellishment. The clean lines and neutral grey tone integrate seamlessly into diverse décor schemes, making it a versatile seating solution for discerning spaces.
 
- Size available: 48 x 60 x 93cm
+Size available: 48 x 60 x 93cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_10_23_16AM.png
 
 #### Bentley Dark Grey Chair (Chrome Legs)
@@ -975,9 +1012,10 @@ Images:
 
 The Bentley Dark Grey Chair combines understated elegance with practical durability. Upholstered in soft velvet across the backrest and seat, it delivers a luxurious tactile experience whilst maintaining a sophisticated aesthetic. The polished chrome legs provide a contemporary contrast, elevating the design with a modern industrial edge. This chair suits both residential and commercial interiors, offering comfort without unnecessary embellishment. The clean lines and neutral grey tone integrate seamlessly into diverse décor schemes, making it a versatile seating solution for discerning spaces.
 
- Size available: 48 x 60 x 93cm
+Size available: 48 x 60 x 93cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPT_Image_Aug_18_2025_12_34_38_PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/BentleyDarkGrey5.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/BentleyDarkGrey4.jpg
@@ -994,11 +1032,12 @@ Images:
 
 This elegant dining chair combines timeless design with practical comfort. Featuring a tall backrest that provides excellent support, it's upholstered in quality fabric for durability and easy maintenance. The sturdy oak legs deliver authentic character and stability, while the clean lines and colour complement both traditional and contemporary interiors. A versatile addition to any dining space, this chair balances form and function with understated sophistication.
 
- Available in Mix Brown, Grey
+Available in Mix Brown, Grey
 
- Size available: 47 x 65 x 106cm
+Size available: 47 x 65 x 106cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Berry_Grey_Fabric_Chair.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/BerryGrey1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/BerryGrey2.jpg
@@ -1021,11 +1060,12 @@ Images:
 
 The Chelsea 01 combines refined aesthetics with functional elegance. Its velvet back provides luxurious comfort and visual sophistication, while the distinctive lion knocker detail adds a striking decorative accent. Polished chrome legs deliver a contemporary contrast, creating a piece that bridges classic design with modern sensibilities. Ideal for those seeking statement seating that balances comfort with curated style.
 
- Available in Dark Grey, Black & Mink
+Available in Dark Grey, Black & Mink
 
- Size available: 62 x 60 x 96cm
+Size available: 62 x 60 x 96cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Chelsea_01_Dark_Grey_Chair_Lion_KnockerChrome_Legs.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5637.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5638.jpg
@@ -1058,11 +1098,12 @@ Images:
 
 The Chelsea Chair combines sophisticated design with practical elegance. Featuring a plush velvet back that offers comfort and visual warmth, this piece is finished with a distinctive ring knocker detail that adds contemporary character. The chrome legs provide a sleek, modern contrast whilst delivering robust support. Ideal for dining spaces or accent seating, this chair merges style with durability for discerning interiors.
 
- Available in Dark Grey, Black & Cream
+Available in Dark Grey, Black & Cream
 
- Size available: 62 x 60 x 96cm
+Size available: 62 x 60 x 96cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Chelsea_grey.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5629.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/12.jpg
@@ -1093,11 +1134,12 @@ Images:
 
 Sophisticated seating with understated elegance. This chair features a plush velvet back paired with sturdy black legs for a striking contrast. The distinctive black ring knocker detail adds a touch of refined character, making it an ideal choice for contemporary interiors seeking both comfort and visual interest. A versatile piece that complements modern and transitional spaces alike.
 
- Available in Dark Grey
+Available in Dark Grey
 
- Size available: 55 x 55 x 95cm
+Size available: 55 x 55 x 95cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Jessica_bk.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5557.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5554.jpg
@@ -1118,13 +1160,14 @@ Images:
 
 See our reduced prices on clearance product lines
 
- Prices are plus VAT
+Prices are plus VAT
 
- All collections will still receive 8% discount on top of the reduced prices
+All collections will still receive 8% discount on top of the reduced prices
 
- Buy the remaining stock of an item to receive an additional 10% discount (total 18% on collections)
+Buy the remaining stock of an item to receive an additional 10% discount (total 18% on collections)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Chairs.png
 
 #### Florence Berry Mixed Chair (Oak Legs)
@@ -1136,9 +1179,10 @@ Images:
 
 This elegant dining chair combines timeless design with practical comfort. Featuring a tall backrest that provides excellent support, it's upholstered in quality fabric for durability and easy maintenance. The sturdy oak legs deliver authentic character and stability, while the clean lines and mixed brown tones complement both traditional and contemporary interiors. A versatile addition to any dining space, this chair balances form and function with understated sophistication.
 
- Size available: 47 x 65 x 106cm
+Size available: 47 x 65 x 106cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPT_Image_Aug_26_2025_12_40_35_PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/oak-florence.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/oak-florence-1.jpg
@@ -1152,11 +1196,12 @@ Images:
 
 The G-Lewis Chair combines timeless elegance with refined craftsmanship. Upholstered in luxurious shimmer velvet, this statement piece features a distinguished Chesterfield back with deep button detailing that anchors its sophisticated silhouette. The diagonally stitched front panel adds architectural interest and visual depth, while polished gold legs elevate the design with contemporary glamour. Crowned with an ornate lion knocker, this chair exudes grandeur and makes a commanding presence in any interior. Perfect for those seeking furniture that merges classic comfort with bold, distinctive style.
 
- Available in Light Grey, Mink
+Available in Light Grey, Mink
 
- Size available: 65 x 52 x 94cm
+Size available: 65 x 52 x 94cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G-Lewis_Light_Grey_Chair_Lion_KnockerGold_Legs.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G-LewisLightGrey1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G-LewisLightGrey.jpg
@@ -1179,11 +1224,12 @@ Images:
 
 Elevate your seating with this sophisticated chair, featuring a commanding tall back and smooth scroll top for refined comfort. The velvet upholstery provides tactile luxury, while the stitched back adds architectural interest. Polished gold legs and matching studs deliver contemporary glamour, complemented by an ornate gold ring knocker detail. A statement piece that merges classic elegance with modern design sensibilities.
 
- Available in Black, Cream and Dark Grey
+Available in Black, Cream and Dark Grey
 
- Size available: 67 x 50 x 103cm
+Size available: 67 x 50 x 103cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G-Lucy_Black_Chair_Ring_KnockerGold_Legs_d3dd6607-8206-4fa0-96f4-a6fa18376b9f.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G-LucyBlack1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G-LucyBlack5.jpg
@@ -1211,11 +1257,12 @@ Images:
 
 The G-Milan Chair combines contemporary design with refined craftsmanship. Its ribbed back provides ergonomic support and visual texture, while the luxurious velvet upholstery delivers a soft, sophisticated finish. Anchored by striking gold legs, this piece makes a bold statement in any interior. Perfect for dining rooms, home offices, or accent seating, the G-Milan seamlessly blends comfort with modern elegance.
 
- Available in Black, Dark Grey & Ivory
+Available in Black, Dark Grey & Ivory
 
- Size available: 64 x 56 x 86cm
+Size available: 64 x 56 x 86cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPT_Image_Jul_18_2025_12_09_31_PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Photoroom_20260326_100017.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G-Milan_Black_2.jpg
@@ -1247,11 +1294,12 @@ Images:
 
 The G-Roma Chair combines luxurious materials with distinctive design elements. Its shimmer velvet upholstery delivers a refined aesthetic, while hexagonal stitching on the back adds architectural interest and structural integrity. Supported by elegant gold legs, this statement piece is further distinguished by an ornate lion knocker detail. Ideal for those seeking furniture that merges comfort with sophisticated craftsmanship and bold character.
 
- Available in Silver Grey, Shiny Mink
+Available in Silver Grey, Shiny Mink
 
- Size available: 64 x 56 x 97cm
+Size available: 64 x 56 x 97cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/GRomaSilverGrey.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/g-roma_silver_grey_chair1.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/RomaSilverGreyGold5.jpg
@@ -1277,11 +1325,12 @@ Images:
 
 The Jessica Chair combines contemporary design with practical elegance. Upholstered in sumptuous velvet, the seat and backrest offer comfort and visual warmth. Chrome legs provide a striking contrast, delivering both durability and a modern aesthetic that complements various interior schemes. The distinctive ring knocker detail adds a refined architectural element, elevating this piece beyond standard seating. Ideal for dining rooms, studies, or accent spaces where quality craftsmanship meets sophisticated style.
 
- Available in Dark Grey, Silver Grey, Mink
+Available in Dark Grey, Silver Grey, Mink
 
- Size available: 55 x 55 x 95cm
+Size available: 55 x 55 x 95cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_10_54_21AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/JessicaDarkGrey5.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/JessicaDarkGrey4.jpg
@@ -1305,11 +1354,12 @@ Images:
 
 The Lewis 01 combines timeless elegance with contemporary comfort. Crafted in sumptuous velvet with a diagonally stitched front panel, this statement piece features a structured Chesterfield back that anchors any interior. Polished chrome legs provide a refined contrast, whilst the distinctive lion knocker detail adds architectural grandeur. A sophisticated choice for those seeking luxury seating with character.
 
- Available in Dark Grey
+Available in Dark Grey
 
- Size available: 65 x 52 x 94cm
+Size available: 65 x 52 x 94cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_10_57_53AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Lewis01DarkGrey2.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Lewis01DarkGrey5.jpg
@@ -1326,11 +1376,12 @@ Images:
 
 The Lewis Chair combines timeless elegance with contemporary craftsmanship. Upholstered in luxurious shimmer velvet, the seat features distinctive diagonal stitching that adds visual depth and sophistication. The chesterfield-style back provides classic support and refinement, while polished chrome legs deliver a modern edge. Finished with an ornate lion knocker detail, this statement piece exudes grandeur and architectural presence—ideal for those seeking furniture that commands attention without compromising comfort.
 
- Available in Light Grey, Mink
+Available in Light Grey, Mink
 
- Size available: 65 x 52 x 94cm
+Size available: 65 x 52 x 94cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_10_59_21AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/LewisLG4.webp
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/LewisLG1.webp
@@ -1353,11 +1404,12 @@ Images:
 
 Elevate your seating with this sophisticated London PU Chair, engineered for both style and durability. The polyurethane upholstery delivers a sleek, modern aesthetic while resisting wear and staining—ideal for high-traffic environments. Chrome legs provide a polished, contemporary foundation that complements any décor. The tall back with decorative scroll top offers superior lumbar support and visual elegance, whilst the stitched front panel adds refined detailing. A discreet zipped back ensures easy maintenance and upholstery replacement when needed. This expertly crafted chair combines practical functionality with understated luxury, making it a versatile choice for dining rooms, offices, or hospitality settings.
 
- Available in Dark Grey & Light Grey
+Available in Dark Grey & Light Grey
 
- Size available: 60 x 50 x 100cm
+Size available: 60 x 50 x 100cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb4_2026_12_49_00PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb4_2026_12_53_34PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5721_fad7dedc-243b-4ce3-b80e-79e172ba2193.jpg
@@ -1388,11 +1440,12 @@ Images:
 
 Size available: 46 x 49 x 105cm
 
- Built chairs have wooden seats
+Built chairs have wooden seats
 
- KD chairs have fabric seats
+KD chairs have fabric seats
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_04_48_22PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5730.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5731.jpg
@@ -1413,11 +1466,12 @@ Images:
 
 The Lucy 01 exemplifies timeless design with contemporary refinement. Crafted from luxurious crushed black or dark grey velvet, this striking chair commands attention with its elevated silhouette featuring a tall back and elegant scroll detailing at the crown. The ornamental lion knocker serves as a focal point, introducing classical character to any interior scheme. Precision hand-stitching reinforces the back structure for lasting quality, whilst polished chrome legs deliver a sleek, modern foundation. An investment piece that balances traditional aesthetics with enduring sophistication.
 
- Available in Crushed Black & Dark Grey
+Available in Crushed Black & Dark Grey
 
- Size available: 67 x 50 x 103cm
+Size available: 67 x 50 x 103cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_11_13_24AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5588.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5585.jpg
@@ -1442,11 +1496,12 @@ Images:
 
 The Marbella Chair combines contemporary comfort with rustic charm. Upholstered in durable polyurethane, this versatile seating piece resists stains and wear, making it ideal for high-traffic living spaces. The finish pairs seamlessly with modern interiors, while sturdy black legs ground the design with understated sophistication. A practical choice for those seeking quality furniture that balances style with everyday functionality.
 
- Available in Grey, Light Grey, Camel & Black
+Available in Grey, Light Grey, Camel & Black
 
- Size available: 54 x 60 x 84cm
+Size available: 54 x 60 x 84cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Photo26-01-2026_130534.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Photo26-01-2026_125459_1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Photo26-01-2026_125459.jpg
@@ -1473,11 +1528,12 @@ Images:
 
 The Mayfair Chair combines timeless elegance with distinctive design details. Upholstered in sumptuous velvet, this statement piece features a striking lion knocker accent and polished chrome legs that deliver contemporary sophistication. The stitched back provides structural integrity and refined visual interest, ensuring both comfort and durability. Perfect for those seeking a chair that balances classic charm with modern styling, this versatile piece elevates any interior space with understated luxury.
 
- Available in Dark Grey, Ivory
+Available in Dark Grey, Ivory
 
- Size available: 55 x 55 x 97cm
+Size available: 55 x 55 x 97cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb4_2026_12_46_02PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5664.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5662.jpg
@@ -1504,13 +1560,14 @@ Images:
 
 The Oslo Chair combines Scandinavian minimalism with contemporary comfort. Crafted from premium boucle fabric, this piece delivers a soft, textured surface that invites relaxation whilst maintaining a refined aesthetic. The neutral color-selections seamlessly integrate into any interior scheme, from modern apartments to traditional homes. Boucle's inherent durability and subtle visual interest elevate the chair beyond basic seating, making it both a functional accent and a design statement. Perfect for living rooms, bedrooms, or creative spaces where quality craftsmanship meets everyday comfort.
 
- Size available: 63 x 56 x 77cm
+Size available: 63 x 56 x 77cm
 
- Available in Off-White, Light Grey, Dark Green
+Available in Off-White, Light Grey, Dark Green
 
- Available ready-built or as a knock-down (KD) option
+Available ready-built or as a knock-down (KD) option
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageMar3_2026_03_50_09PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/9373f71a-67be-42ea-a96e-1346b5032872.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WhatsApp_Image_2025-12-16_at_15.56.21.jpg
@@ -1537,11 +1594,12 @@ Images:
 
 The Roco 360º Chair combines functionality with contemporary design, featuring a smooth 360-degree rotating mechanism that maximises flexibility in any seating arrangement. Upholstered in soft velvet with striking black legs, this chair delivers understated elegance whilst maintaining a compact footprint—ideal for compact living spaces, home offices, or boutique commercial settings. The seamless rotation enhances usability without compromising on aesthetic appeal, making it a sophisticated choice for those seeking both form and practicality.
 
- Available in PU Grey & Dark Grey
+Available in PU Grey & Dark Grey
 
- Size available: 54 x 58 x 86cm
+Size available: 54 x 58 x 86cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Roco360LightGreyPU.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb4_2026_04_26_43PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG-2978.png
@@ -1559,11 +1617,12 @@ Images:
 
 Elevate your interior with this sophisticated Roma chair, featuring a luxurious shimmer velvet upholstery that catches the light beautifully. The hexagonal stitched back provides both visual interest and structural support, while polished chrome legs deliver a contemporary edge. Finished with an ornate lion knocker detail, this piece seamlessly blends classic elegance with modern design sensibilities, making it an exceptional choice for discerning homeowners seeking statement seating.
 
- Available in Silver Grey, Dark Grey, Shiny Mink
+Available in Silver Grey, Dark Grey, Shiny Mink
 
- Size available: 64 x 56 x 97cm
+Size available: 64 x 56 x 97cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5714.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5715.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5716.jpg
@@ -1597,11 +1656,12 @@ Images:
 
 The NK-Roma Chair combines contemporary design with refined comfort. Upholstered in sumptuous velvet, this statement piece features a distinctive hexagonal stitched back that adds visual depth and textural interest. Supported by sleek chrome legs, it delivers a modern aesthetic suitable for dining rooms, lounges, or home offices. The absence of a knocker creates a clean, uninterrupted silhouette. An excellent choice for those seeking sophisticated seating with architectural detailing.
 
- Available in Dark Grey
+Available in Dark Grey
 
- Size available: 64 x 56 x 97cm
+Size available: 64 x 56 x 97cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/RomaDGNK.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5674_51890b25-b58f-4de7-aa1b-3ad7faa39ea3.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5675_27b2b1ba-a559-4c47-be78-dae9cea3cfde.jpg
@@ -1622,9 +1682,10 @@ Images:
 
 The Roma PU Chair combines contemporary design with distinctive detailing. Upholstered in durable polyurethane, it offers easy maintenance and a sophisticated matte finish. The hexagonal stitched back provides visual interest and structural support, while polished chrome legs deliver a modern aesthetic. An ornamental lion knocker adds a striking focal point, elevating this piece from functional seating to a statement furniture investment. Ideal for dining rooms, offices, or contemporary interiors seeking character and practicality.
 
- Size available: 64 x 56 x 97cm
+Size available: 64 x 56 x 97cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_09_48_48AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5700_3c6f8da1-75b4-4244-8144-15fce4078185.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/06.jpg
@@ -1652,11 +1713,12 @@ Images:
 
 The Roma PU Chair combines contemporary design with practical durability. Upholstered in polyurethane for easy maintenance and longevity, this piece features distinctive hexagonal stitching across the backrest that adds visual interest and structural support. Chrome legs deliver a sleek, modern aesthetic whilst providing robust stability. The integrated ring knocker detail offers both functional appeal and refined styling. Ideal for dining spaces, offices, or contemporary interiors seeking a chair that balances form with everyday performance.
 
- Available in Light Grey, Dark Grey
+Available in Light Grey, Dark Grey
 
- Size available: 64 x 56 x 97cm
+Size available: 64 x 56 x 97cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_09_48_07AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5700_3d402d8b-4665-4cb8-b314-c24fa09c6ca6.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05.jpg
@@ -1685,6 +1747,7 @@ Images:
 Size available: 70x47x106cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb6_2026_01_17_05PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Lucy_RX_Red4.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Lucy_RX_Red1.jpg
@@ -1701,11 +1764,12 @@ Images:
 
 Size available: 46 x 49 x 105cm
 
- Built chairs have lighter seats
+Built chairs have lighter seats
 
- KD chairs have darker seats
+KD chairs have darker seats
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_04_39_46PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5726.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5727.jpg
@@ -1722,11 +1786,12 @@ Images:
 
 Size available: 46 x 49 x 105cm
 
- Built chairs have lighter seats
+Built chairs have lighter seats
 
- KD chairs have darker seats
+KD chairs have darker seats
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_04_47_41PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5734.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5735.jpg
@@ -1747,11 +1812,12 @@ Images:
 
 The Venice 01 chair combines contemporary aesthetics with practical durability. Its polyurethane seat offers easy maintenance and a modern finish, while the sturdy black legs provide a striking contrast that anchors the design. The sleek silhouette suits minimalist interiors and professional spaces alike, delivering both visual refinement and reliable everyday performance.
 
- Available in Light Grey, Tan
+Available in Light Grey, Tan
 
- Size available: 48 x 62 x 86cm
+Size available: 48 x 62 x 86cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/HC_16_VENICE_light_grey_3.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/HC_16_VENICE_5.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/HC_16_VENICE_light_grey.png
@@ -1772,9 +1838,10 @@ Images:
 
 The BK-Milan Coffee Table combines contemporary design with functional elegance. Its distinctive cross-shaped pedestal base, crafted from four sleek black legs, provides exceptional stability while maintaining a refined aesthetic. The ceramic tabletop offers durability and easy maintenance, resisting stains and scratches for long-lasting appeal. This versatile piece complements modern and transitional interiors, serving as both a practical surface and a striking focal point in any living space.
 
- Size available: 120 x 60 x 45cm
+Size available: 120 x 60 x 45cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/MilanBKCoffee2_474x234_620977fd-c0ab-4c9d-8b30-11dcef87ae1a.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5799.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5796.jpg
@@ -1791,9 +1858,10 @@ Images:
 
 The BK-Roma Coffee Table combines architectural sophistication with functional design. Featuring two substantial contemporary legs that provide a striking visual foundation, this piece showcases a ceramic tabletop that delivers both durability and refined aesthetics. The ceramic surface resists staining and wear, making it practical for everyday use whilst maintaining its elegant appearance. Ideal for modern interiors seeking statement furniture with substance.
 
- Size available: 120 x 60 x 45cm
+Size available: 120 x 60 x 45cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb6_2026_09_28_47AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6167.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6168.jpg
@@ -1810,9 +1878,10 @@ Images:
 
 The Chelsea Coffee Table combines industrial elegance with refined materials. Its chrome frame features circular legs at both ends, connected by a robust supporting bar that ensures lasting stability. Choose between luxurious marble or sophisticated ceramic surfaces to complement your interior aesthetic. At 1.2m x 0.6m, this piece delivers both functional workspace and visual impact for contemporary living areas.
 
- Size available: 120 x 60 x 45cm
+Size available: 120 x 60 x 45cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Chelsea_coffee_table.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5772.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5771.jpg
@@ -1831,9 +1900,10 @@ Images:
 
 The G-Jessica Coffee Table combines contemporary design with functional elegance. Its striking angular base in gold provides a modern architectural element, while the ceramic tabletop delivers durability and sophisticated style. The robust construction ensures stability, making this piece both a visual statement and a reliable addition to any living space. Perfect for those seeking furniture that balances form with substance.
 
- Size available: 120 x 60 x 45cm
+Size available: 120 x 60 x 45cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G-Jessica_coffee_table.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G-JessicaCoffee2.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G_jessica_coffee_table_cda38b63-e5cc-43e9-bb4b-2d1da2781710.png
@@ -1851,9 +1921,10 @@ Images:
 
 The GS-Lucy Coffee Table combines contemporary design with timeless elegance. Its distinctive cross base features a sophisticated blend of silver and gold finishes, creating visual interest from every angle. Topped with unique marble surfaces, this striking combination of metallic framework and luxurious marble delivers both aesthetic appeal and functional durability, making it an exceptional centrepiece for discerning interiors.
 
- Size available: 120 x 60 x 45cm
+Size available: 120 x 60 x 45cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/GSLucyCoffeeTable.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/GSLucyCoffeeTable1.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/gs-lucy.jpg
@@ -1872,9 +1943,10 @@ Images:
 
 The GS-Madrid Coffee Table combines contemporary design with timeless elegance. Featuring a striking block base that seamlessly blends silver and gold finishes, this piece creates visual interest from every angle. Each table showcases a unique marble top. The contrasting metallic elements complement the natural veining of the marble, resulting in a sophisticated centrepiece that elevates any living space. Perfect for those seeking a statement furniture piece that balances modern aesthetics with classic luxury.
 
- Size available: 120 x 60 x 45cm
+Size available: 120 x 60 x 45cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb6_2026_12_05_09PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/GSMadridCoffeeTable1_14463fe8-ff2f-4ff8-b37f-0e7252932652.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SG-MadridCoffee1.jpg
@@ -1891,9 +1963,10 @@ Images:
 
 The Lewis Coffee Table combines refined Italian design with practical elegance. Featuring four sleek contemporary-style legs and a polished chrome frame, this piece delivers sophisticated minimalism to any living space. Choose between luxurious marble or durable ceramic for the tabletop, each option offering distinct aesthetic appeal and performance characteristics. The chrome framework ensures lasting durability whilst maintaining a modern aesthetic that complements both traditional and contemporary interiors. An investment in timeless design that balances form with function.
 
- Size available: 120 x 60 x 45cm
+Size available: 120 x 60 x 45cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/lewis_coffee_table.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5751.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5750.jpg
@@ -1923,9 +1996,10 @@ Images:
 
 The London Coffee Table combines contemporary design with practical versatility. Choose between elegant marble or durable ceramic for your tabletop, each offering distinct aesthetic appeal and performance characteristics. The U-shaped pedestal base provides exceptional stability while maintaining a refined silhouette that complements modern and transitional interiors. Chrome framing adds a polished, professional finish that enhances the overall composition. An ideal centrepiece for living spaces where quality craftsmanship meets functional design.
 
- Size available: 120 x 60 x 45cm
+Size available: 120 x 60 x 45cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/London_coffee_table.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5767.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5766.jpg
@@ -1946,9 +2020,10 @@ Images:
 
 The SG-Chelsea Coffee Table combines refined aesthetics with structural integrity. Its distinctive gold frame features two circular legs positioned at each end, connected by a robust supporting bar that ensures lasting stability. Choose between elegant marble or sophisticated ceramic surfaces to suit your interior design preferences. A versatile centrepiece that elevates any living space with contemporary style and dependable craftsmanship.
 
- Size available: 120 x 60 x 45cm
+Size available: 120 x 60 x 45cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/GChelseaCoffeeTable.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5786.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5785.jpg
@@ -1975,9 +2050,10 @@ Images:
 
 The SG-Lewis Coffee Table exemplifies refined contemporary Italian design with its distinctive four-leg frame finished in lustrous gold. This statement piece offers versatility through dual top options—select from elegant marble for timeless sophistication or durable ceramic for practical elegance. The slender gold framework provides visual lightness whilst maintaining structural integrity, making it an ideal focal point for modern living spaces that demand both aesthetic refinement and functional performance.
 
- Size available: 120 x 60 x 45cm
+Size available: 120 x 60 x 45cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_01_04_04PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5779.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5778.jpg
@@ -2002,9 +2078,10 @@ Images:
 
 The SG-London Coffee Table combines refined aesthetics with functional design. Choose between elegant marble or durable ceramic for the tabletop, each offering distinct visual appeal and practical benefits. The striking gold frame provides a contemporary contrast, while the U-shaped pedestal base delivers stability and visual lightness. This sophisticated piece works seamlessly in modern and transitional interiors, making it an investment in both style and longevity.
 
- Size available: 120 x 60 x 45cm
+Size available: 120 x 60 x 45cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_11_52_27AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Dining_Coffee_Lamp.png
 
@@ -2017,9 +2094,10 @@ Images:
 
 The Venice Coffee Table combines understated elegance with practical design. Its sleek black legs provide a contemporary foundation, while the stylish ceramic tabletop delivers both visual appeal and durability. The ceramic surface resists stains and scratches, making it ideal for everyday use without compromising on sophistication. Perfect for modern living spaces seeking a refined centrepiece that balances form and function.
 
- Size available: 120 x 60 x 45cm
+Size available: 120 x 60 x 45cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/VeniceCoffeeTable.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG-1804.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Chanel.png
@@ -2035,9 +2113,10 @@ Images:
 
 The Chelsea Console Table combines refined elegance with practical design. Featuring a sleek chrome frame and sturdy circular pedestal base, this 1.2m x 0.4m piece delivers contemporary sophistication for any interior. Choose between luxurious marble or durable ceramic surfaces to suit your aesthetic and lifestyle needs. The pedestal design maximises legroom whilst maintaining visual lightness, making it ideal for entryways, living rooms, or hallways where both style and functionality matter.
 
- Size available: 120 x 40 x 75cm
+Size available: 120 x 40 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Chelsea_1.2mX0.4m_Console_Table.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5844.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5842.jpg
@@ -2055,9 +2134,10 @@ Images:
 
 The GS-Lucy Console Table combines contemporary elegance with timeless appeal. Its striking cross base features a sophisticated blend of silver and gold finishes, creating visual depth and modern sophistication. The contrasting metallic framework provides sturdy support whilst the natural stone surface adds luxury and durability. Perfect for entryways, living spaces, or hallways, this console table serves as both a functional display surface and a statement piece that elevates any interior scheme.
 
- Size available: 120 x 40 x 75cm
+Size available: 120 x 40 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageMay11_2026_11_12_17AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageMay11_2026_11_13_57AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SG-LucyConsole1.jpg
@@ -2074,9 +2154,10 @@ Images:
 
 The Lewis 1.2m Console Table combines refined Italian design with practical elegance. Featuring four contemporary-styled legs and a robust chrome frame, this piece delivers both structural integrity and visual sophistication. Choose between luxurious marble or durable ceramic tops to suit your aesthetic preferences and lifestyle needs. At 1.2 metres, it offers versatile placement options for entryways, living spaces, or hallways whilst maintaining a streamlined silhouette that complements modern and transitional interiors.
 
- Size available: 120 x 40 x 75cm
+Size available: 120 x 40 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/lewis_table_console.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5835.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5832.jpg
@@ -2102,9 +2183,10 @@ Images:
 
 The SG-Lewis Console Table combines refined Italian design with practical functionality. Featuring four sleek contemporary-style legs and a robust chrome frame, this 1.2m piece delivers understated elegance for modern interiors. Choose between luxurious marble or durable ceramic tops to suit your aesthetic and lifestyle needs. The chrome finish ensures longevity whilst maintaining a sophisticated appearance, making this console an ideal accent for hallways, living spaces, or entryways seeking architectural interest and versatile surface space.
 
- Size available: 120 x 40 x 75cm
+Size available: 120 x 40 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_12_26_50PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G-Lewis_console_table.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5846.jpg
@@ -2127,11 +2209,12 @@ Images:
 
 The Bentley 0.9m Round Table delivers contemporary style with practical assembly. Its ceramic top resists staining and wear, whilst the flatpack pedestal base arrives ready for straightforward setup. Choose between a sleek chrome or matte black base to suit your interior scheme, then pair with either a crisp white or sophisticated grey ceramic surface. This modular approach lets you coordinate multiple tables effortlessly or adapt your aesthetic as your space evolves, making it an intelligent investment for discerning interiors.
 
- Available with Black or Chrome Bases
+Available with Black or Chrome Bases
 
- Size available: ∅90 x 75cm
+Size available: ∅90 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Bentley_0.9m_Round_Table_Black_KD.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Bentley_0.9m_Round_Table_Chrome.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Bentley.png
@@ -2155,9 +2238,10 @@ Images:
 
 The BK-Jessica 1.8m dining table exemplifies modern design through its bold architectural framework. A robust black frame with pronounced angular geometry creates a commanding presence whilst providing exceptional stability. The ceramic surface delivers superior performance—resistant to scratches, heat, and staining—making it ideal for households seeking both aesthetic refinement and practical durability. This 1.8m configuration accommodates six to eight diners comfortably, suiting larger dining spaces. The interplay between the geometric base and smooth ceramic top produces a sophisticated silhouette that enhances contemporary and transitional interiors alike.
 
- Size available: 180 x 90 x 75cm
+Size available: 180 x 90 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/BK_Jessica_dinning_table.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/BK-Jessica1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/BK-Jessica2.jpg
@@ -2175,13 +2259,14 @@ Images:
 
 The BK-Milan dining table combines contemporary design with practical functionality. Featuring a ceramic tabletop and distinctive cross-shaped pedestal base supported by four black legs, this table delivers both visual impact and structural stability. Available in 1.5m and 1.8m lengths, it accommodates flexible seating arrangements, making it ideal for intimate dinners or larger gatherings. The pedestal design maximises legroom and allows you to position chairs freely around the table, while the durable ceramic surface resists stains and scratches. A sophisticated choice for modern dining spaces.
 
- Sizes available:
+Sizes available:
 
- 180 x 90 x 75cm
+180 x 90 x 75cm
 
- 150 x 90 x 75cm
+150 x 90 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb6_2026_10_01_12AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5869.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5866.jpg
@@ -2200,13 +2285,14 @@ Images:
 
 The BK-Milan Round Dining Table combines contemporary design with practical functionality. Featuring a premium ceramic tabletop and distinctive cross-shaped pedestal base supported by four black legs, this piece delivers both visual impact and stability. Available in 1.1m and 1.3m sizes, it accommodates flexible seating arrangements, making it ideal for intimate dinners or larger gatherings. The pedestal design maximizes legroom and allows guests to position themselves comfortably around the full circumference of the table. Perfect for modern dining spaces seeking a statement piece that balances style with everyday usability.
 
- Sizes available:
+Sizes available:
 
- ∅130 x 75cm
+∅130 x 75cm
 
- ∅110 x 75cm
+∅110 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/BK-Milan_1.1m_1.3m_Round_Dining_Table.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/BK-Milan130Round1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/BK-Milan130Round2.jpg
@@ -2222,9 +2308,10 @@ Images:
 
 The BK-Roma 1.8m Dining Table combines modern design with practical functionality. Featuring two substantial contemporary legs that provide a striking visual statement, this table showcases a durable ceramic tabletop that resists staining and wear. At 1.8 metres, it accommodates multiple place settings whilst maintaining an elegant profile, making it ideal for both intimate gatherings and larger entertaining occasions. The streamlined leg design maximises legroom, allowing flexible seating arrangements that adapt to your dining needs.
 
- Size available: 180 x 90 x 75cm
+Size available: 180 x 90 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb6_2026_09_17_01AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6187.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6188.jpg
@@ -2244,15 +2331,16 @@ Images:
 
 The Chelsea dining table combines industrial elegance with refined materials. Its chrome frame features circular legs at both ends, connected by a robust supporting bar that ensures exceptional stability and longevity. Available in luxurious marble or sophisticated ceramic tops, this table adapts to any dining aesthetic. Offered in 1.5m, 1.8m and 2m lengths, it accommodates intimate gatherings or larger entertaining with equal grace. The minimalist frame design maximises legroom whilst the substantial top surface provides ample space for dining and display.
 
- Sizes available:
+Sizes available:
 
- 200 x 100 x 75cm
+200 x 100 x 75cm
 
- 180 x 90 x 75cm
+180 x 90 x 75cm
 
- 150 x 90 x 75cm
+150 x 90 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Chelsea_1.51.82m_Dining_Table.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5994.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5993.jpg
@@ -2274,9 +2362,10 @@ Images:
 
 The Chelsea round table combines refined aesthetics with practical design. Its 1.3m diameter marble top provides an elegant dining surface with natural veining and durability, while the polished chrome frame delivers contemporary sophistication. The circular cross pedestal base ensures stability and maximises legroom, making it ideal for intimate gatherings or smaller dining spaces. A versatile centrepiece that balances modern styling with timeless appeal.
 
- Size available: ∅130 x 75cm
+Size available: ∅130 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageMar3_2026_03_26_42PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6020.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6019.jpg
@@ -2292,13 +2381,14 @@ Images:
 
 This extending dining table combines industrial elegance with practical functionality. The sturdy metal pedestal base provides reliable support, while the distinctive matte Armani ceramic top offers a contemporary aesthetic that complements any interior scheme. The smooth extension mechanism allows you to adapt the table from 1.2 to 1.5m and 1.6 to 2m, accommodating intimate dinners or larger gatherings with ease. The expansive surface maximises seating flexibility, making it an intelligent choice for households that value both style and versatility. Engineered for durability and refined design.
 
- Sizes available:
+Sizes available:
 
- 160-200 x 90 x 75cm
+160-200 x 90 x 75cm
 
- 120-150 x 90 x 75cm
+120-150 x 90 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Cheshireextendingtable.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Armani.png
 
@@ -2311,13 +2401,14 @@ Images:
 
 See our reduced prices on clearance product lines
 
- Prices are plus VAT
+Prices are plus VAT
 
- All collections will still receive 8% discount on top of the reduced prices
+All collections will still receive 8% discount on top of the reduced prices
 
- Buy the remaining stock of an item to receive an additional 10% discount (total 18% on collections)
+Buy the remaining stock of an item to receive an additional 10% discount (total 18% on collections)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Dining.png
 
 #### G-Jessica Dining Table (1.6/1.8m)
@@ -2329,13 +2420,14 @@ Images:
 
 The G-Jessica dining table combines contemporary design with functional elegance. Its striking gold frame features a strong, angular base that delivers visual impact whilst providing exceptional stability. The ceramic tabletop offers superior durability and easy maintenance, resisting scratches and stains whilst maintaining a refined aesthetic. Available in 1.6m and 1.8m lengths, this table accommodates various dining spaces without compromising on style. The geometric framework creates clean lines that complement modern interiors, making it an ideal centrepiece for both everyday dining and entertaining.
 
- Sizes available:
+Sizes available:
 
- 180 x 90 x 75cm
+180 x 90 x 75cm
 
- 160 x 90 x 75cm
+160 x 90 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G_Jessica_dinning_table.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G-Jessica11.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G-Jessica22.jpg
@@ -2353,9 +2445,10 @@ Images:
 
 The G-Mayfair Gold 1.8m Dining Table combines timeless elegance with practical sophistication. Its striking gold frame is anchored by four sculptural Art Deco-inspired legs that command attention whilst maintaining refined proportions. Choose between a luxurious marble top for dramatic veining and natural variation, or a durable ceramic surface that offers contemporary versatility and easy maintenance. At 1.8 metres, this statement piece accommodates six to eight guests comfortably, making it ideal for both intimate gatherings and entertaining. A distinguished addition to any dining space seeking understated luxury with architectural presence.
 
- Size available: 180 x 90 x 75cm
+Size available: 180 x 90 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G-Mayfair_Gold_1.8m_Dining_Table.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5901.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5902.jpg
@@ -2375,13 +2468,14 @@ Images:
 
 The GS-Lucy dining table exemplifies modern design through its distinctive cross base, with a sophisticated blend of both silver and gold finishes. Each table showcases a unique marble top, a hallmark of quality craftsmanship that elevates any dining space. Offered in 1.5m and 1.8m configurations, the GS-Lucy adapts seamlessly to different room layouts without compromising on presence or functionality. The marble surface delivers both visual sophistication and practical resilience, resisting stains and wear whilst maintaining its lustrous appearance. The geometric base design creates visual interest whilst providing exceptional stability. A refined choice for those seeking enduring elegance and superior construction in their dining furniture.
 
- Sizes available:
+Sizes available:
 
- 180 x 90 x 75cm
+180 x 90 x 75cm
 
- 150 x 90 x 75cm
+150 x 90 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_03_44_22PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/GSLucyDiningTable1.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SG-LucyDining1.jpg
@@ -2400,13 +2494,14 @@ Images:
 
 The GS-Madrid dining table combines contemporary elegance with timeless appeal. Its striking block base features a sophisticated blend of silver and gold finishes, creating visual depth and modern sophistication. The table is crowned with a luxurious unique marble top that adds natural beauty and durability to your dining space. Available in 1.8m and 2m lengths, this piece seamlessly accommodates both intimate gatherings and larger entertaining occasions. The marble surface not only enhances aesthetic appeal but also provides a practical, easy-to-maintain dining surface that resists wear and staining. An investment in refined dining that elevates any interior.
 
- Sizes available:
+Sizes available:
 
- 200 x 100 x 75cm
+200 x 100 x 75cm
 
- 180 x 90 x 75cm
+180 x 90 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb6_2026_10_47_11AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/GSMadridDiningTable1.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SG-MadridDining1.jpg
@@ -2426,17 +2521,18 @@ Images:
 
 The Lewis dining table combines refined Italian design with practical versatility. Supported by four sleek contemporary-style legs and a polished chrome frame, this table delivers understated elegance for modern interiors. Choose between luxurious marble or durable ceramic tops to suit your aesthetic and lifestyle needs. Available in four sizes—1.2m, 1.5m, 1.8m and 2m—the Lewis accommodates everything from intimate dinners to larger gatherings. Its minimalist silhouette and quality materials ensure this piece remains a sophisticated centrepiece for years to come.
 
- Sizes available:
+Sizes available:
 
- 200 x 100 x 75cm
+200 x 100 x 75cm
 
- 180 x 90 x 75cm
+180 x 90 x 75cm
 
- 150 x 90 x 75cm
+150 x 90 x 75cm
 
- 120 x 80 x 75cm
+120 x 80 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Lewis_1.21.51.82m_Dining_Table.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5980.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5981.jpg
@@ -2456,13 +2552,14 @@ Images:
 
 The Lewis dining table combines minimalist design with functional elegance. Its expansive grey glass top sits atop a polished chrome frame, creating a striking contrast that suits contemporary interiors. Four tapered Italian-style legs provide stable support whilst maintaining the table's refined aesthetic. Available in 1.5m and 1.8m lengths, it accommodates various dining spaces without compromising on style. The glass surface is easy to maintain and reflects light beautifully, making your dining area feel more spacious and sophisticated.
 
- Sizes available:
+Sizes available:
 
- 180 x 90 x 75cm
+180 x 90 x 75cm
 
- 150 x 90 x 75cm
+150 x 90 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Lewis_1.21.51.8m_Glass_Dining_Table.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Lewisgreyglassdining.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Greyglass.jpg
@@ -2476,9 +2573,10 @@ Images:
 
 The Lewis 1.3m Round Table combines refined Italian design with practical elegance. Its marble top provides a sophisticated surface that resists wear whilst maintaining timeless appeal, whilst the polished chrome frame delivers contemporary styling with structural integrity. Four tapered legs in the Italian tradition create a distinctive silhouette that complements modern and transitional interiors alike. This substantial round format encourages intimate dining or conversation, making it an ideal centrepiece for residential or hospitality settings where quality craftsmanship is valued.
 
- Size available: ∅130 x 75cm
+Size available: ∅130 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_01_23_04PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6028.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6029.jpg
@@ -2494,9 +2592,10 @@ Images:
 
 The Lewis 1m Square Dining Table combines refined Italian design with practical elegance. Its marble top provides a sophisticated, durable surface that resists staining and heat, whilst the polished chrome frame delivers a contemporary aesthetic with exceptional structural integrity. Four tapered legs in the Italian style create visual lightness whilst maintaining stability. Ideal for modern dining spaces, this compact square format accommodates intimate gatherings without compromising on style or quality craftsmanship.
 
- Size available: 100 x 100 x 75cm
+Size available: 100 x 100 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/lewis_1m_squre_table.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6034.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6032.jpg
@@ -2514,15 +2613,16 @@ Images:
 
 The London Dining Table combines contemporary design with practical versatility, available in 1.5m, 1.8m, and 2m lengths to suit various dining spaces. Choose between elegant marble or durable ceramic for the tabletop, each offering distinct aesthetic and functional benefits. The distinctive U-shaped pedestal base provides exceptional legroom, allowing comfortable seating around the entire perimeter without obstruction. This thoughtful design maximises your entertaining capacity whilst maintaining a refined, modern silhouette that complements any interior scheme.
 
- Sizes available:
+Sizes available:
 
- 200 x 100 x 75cm
+200 x 100 x 75cm
 
- 180 x 90 x 75cm
+180 x 90 x 75cm
 
- 150 x 90 x 75cm
+150 x 90 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/London_1.51.82m_Dining_Table.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Londondining.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6005_c485ae26-73d7-49db-a6f1-828c934e0d8a.jpg
@@ -2544,13 +2644,14 @@ Images:
 
 The London extending dining table combines contemporary design with practical functionality. Featuring a sleek chrome frame and sophisticated grey ceramic top, this table adapts effortlessly to your entertaining needs. The sturdy U-shaped pedestal base provides excellent legroom and stability whilst maximising seating capacity. An intuitive extension mechanism allows you to expand from 1.2 to 1.5m and 1.6 to 2m, making it ideal for intimate dinners and larger gatherings alike. A versatile centrepiece that balances style with everyday usability.
 
- Sizes available:
+Sizes available:
 
- 160-200 x 90 x 75cm
+160-200 x 90 x 75cm
 
- 120-150 x 90 x 75cm
+120-150 x 90 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/London_Extend_Dining_Table-_1.2-1.51.6-2m_Grey_Ceramic.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5929.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5934.jpg
@@ -2574,9 +2675,10 @@ Images:
 
 The London Round Table combines contemporary design with practical functionality. Its inward-curved pedestal base provides exceptional stability while maximising legroom for comfortable seating around the table. The luxurious marble tabletop delivers timeless elegance and durability, making it an ideal centrepiece for dining spaces that demand both style and substance. The chrome frame accents enhance the modern aesthetic, creating a sophisticated focal point suitable for residential or commercial interiors.
 
- Size available: ∅130 x 75cm
+Size available: ∅130 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/London_1.3m_Round_Table.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6024_dba78da5-d910-46d6-8aab-462cd3b99b84.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6025_3fe3997d-a150-4098-ab84-74d16d05d94e.jpg
@@ -2594,9 +2696,10 @@ Images:
 
 Elevate your dining space with this stunning white marble dining table, featuring a sleek single pedestal base that maximizes legroom and creates an open, sophisticated aesthetic. The pristine white marble top showcases natural veining, adding timeless elegance to any interior. Measuring 150cm, it comfortably seats four to six guests, making it ideal for both intimate dinners and entertaining. The sturdy pedestal design provides excellent stability while maintaining a refined, contemporary look. A versatile centrepiece that combines luxury with practical functionality.
 
- Size available: 150 x 90 x 77cm
+Size available: 150 x 90 x 77cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/251B70A6-F6D9-4F8B-BBEC-CB567ABB6B84.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/DDFF27F5-70B0-4277-8FC9-812CEFE5F21C.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/BABF6407-5B73-4643-8030-639F67E44F4A.png
@@ -2611,9 +2714,10 @@ Images:
 
 The Paris 1m Round Table combines refined elegance with practical versatility. Its distinctive three-leg base features a sophisticated twisted design that anchors any interior scheme, whilst the compact circular top accommodates intimate dining or display purposes across varied room dimensions. Select from luxurious grey or crisp white marble surfaces, each offering distinct aesthetic appeal and the durability expected of natural stone furnishings. An understated yet striking addition to contemporary and classic interiors alike.
 
- Size available: ∅100 x 75cm
+Size available: ∅100 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Paris_1m_Round_Table.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5970.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5969.jpg
@@ -2634,13 +2738,14 @@ Images:
 
 The SG-Chelsea dining table combines refined aesthetics with structural integrity. Its elegant gold frame features circular legs positioned at both ends, connected by a reinforced supporting bar that ensures stability across the full 1.8 or 2-metre options. Choose between luxurious marble or durable ceramic surfaces to suit your interior design and practical requirements. This configuration delivers both visual sophistication and reliable performance for everyday dining.
 
- Sizes available:
+Sizes available:
 
- 200 x 100 x 75cm
+200 x 100 x 75cm
 
- 180 x 90 x 75cm
+180 x 90 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_12_26_10PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5884.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5885.jpg
@@ -2661,9 +2766,10 @@ Images:
 
 The SG-Chelsea round table combines refined aesthetics with practical design. Its 1.3m diameter marble top provides an elegant dining surface with natural veining and durability, while the polished gold frame delivers contemporary sophistication. The circular cross pedestal base ensures stability and maximises legroom, making it ideal for intimate gatherings or smaller dining spaces. A versatile centrepiece that balances modern styling with timeless appeal.
 
- Size available: ∅130 x 75cm
+Size available: ∅130 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_12_23_07PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChelseaGold130Round1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChelseaGold130Round2.jpg
@@ -2678,15 +2784,16 @@ Images:
 
 The SG-Lewis dining table exemplifies contemporary Italian design with its distinctive four-leg frame finished in elegant gold. Available in 1.5m, 1.8m, and 2m lengths, this versatile piece accommodates various dining spaces and group sizes. Choose between luxurious marble or refined ceramic for the tabletop—both materials offer durability and timeless aesthetic appeal. The gold framework provides a sophisticated contrast to either surface option, creating a statement piece that balances modern minimalism with refined craftsmanship. Ideal for those seeking European design excellence with practical functionality.
 
- Sizes available:
+Sizes available:
 
- 200 x 100 x 75cm
+200 x 100 x 75cm
 
- 180 x 90 x 75cm
+180 x 90 x 75cm
 
- 150 x 90 x 75cm
+150 x 90 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_12_29_48PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5892.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5893.jpg
@@ -2706,9 +2813,10 @@ Images:
 
 The SG-Lewis 1.3m Round Table combines refined elegance with practical design. Its pristine marble top provides a sophisticated surface that resists daily wear, while the contemporary Italian-style legs in gleaming gold create a striking visual statement. The round configuration encourages intimate gatherings and maximises space efficiency in modern interiors. Ideal for dining rooms or reception areas seeking a balance of luxury and functionality.
 
- Size available: ∅130 x 75cm
+Size available: ∅130 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G-LewisRoundTable.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/1.3m.png
 
@@ -2721,13 +2829,14 @@ Images:
 
 The SG-London dining table combines sophisticated design with practical versatility. Available in 1.8m and 2m lengths, it accommodates various dining spaces and guest counts. Choose between elegant marble or durable ceramic for the tabletop, both complementing the striking gold frame. The distinctive U-shaped pedestal base provides exceptional legroom, allowing comfortable seating around the entire perimeter without obstruction. This thoughtful engineering maximizes your entertaining capacity whilst maintaining refined aesthetics, making it an ideal centrepiece for modern dining rooms.
 
- Sizes available:
+Sizes available:
 
- 200 x 100 x 75cm
+200 x 100 x 75cm
 
- 180 x 90 x 75cm
+180 x 90 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_11_28_18AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Dining_Coffee_Lamp.png
 
@@ -2740,9 +2849,10 @@ Images:
 
 The SG-Monaco Table combines timeless elegance with functional design. Its 200cm marble top sits atop a striking gold frame supported by two Art Deco U-shaped pedestal legs, creating a sculptural silhouette that anchors any dining space. The generous dimensions accommodate multiple place settings, allowing you to maximise seating capacity without compromising on style. This statement piece merges luxury materials with architectural sophistication, ideal for those seeking a table that performs as beautifully as it looks.
 
- Size available: 200 x 100 x 75cm
+Size available: 200 x 100 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5912.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5914.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5911.jpg
@@ -2761,13 +2871,14 @@ Images:
 
 The Venice dining table combines minimalist design with practical elegance. Featuring sturdy black legs that anchor any dining space, this table offers flexibility with two ceramic tabletop options—choose the 1.2m or 1.5m size to suit your room dimensions and entertaining needs. The ceramic surface delivers durability and easy maintenance, resisting stains and heat while maintaining a refined aesthetic. Perfect for contemporary interiors seeking quality craftsmanship and understated sophistication.
 
- Sizes available:
+Sizes available:
 
- 150 x 90 x 75cm
+150 x 90 x 75cm
 
- 120 x 80 x 75cm
+120 x 80 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageApr21_2026_09_38_20AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/venice_table.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/venice_table_2.jpg
@@ -2784,6 +2895,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5859_126cd8e4-7e14-424e-892e-0eca4258ebbd.jpg
 
 #### set 02
@@ -2794,6 +2906,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5860_e0e1f3ed-be34-48f4-abb7-1c71070589fd.jpg
 
 #### set 03
@@ -2804,6 +2917,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5863_458859d3-f560-4f26-a674-76329508abc3.jpg
 
 #### set 04
@@ -2814,6 +2928,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5864_8a23fd0d-0e41-42a2-b833-13fbe9089805.jpg
 
 #### set 05
@@ -2824,6 +2939,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5881.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5882.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5883.jpg
@@ -2836,6 +2952,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5877.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5878.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5879.jpg
@@ -2849,6 +2966,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5874.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5875.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5876.jpg
@@ -2861,6 +2979,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5891.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5890.jpg
 
@@ -2872,6 +2991,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5898.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5899.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5900.jpg
@@ -2884,6 +3004,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5906.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5907.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5908.jpg
@@ -2896,6 +3017,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5909.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5910.jpg
 
@@ -2907,6 +3029,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5921.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5922.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5923.jpg
@@ -2921,6 +3044,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5926.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5927.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5928.jpg
@@ -2933,6 +3057,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5936.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5937.jpg
 
@@ -2944,6 +3069,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5937_ce61f415-9691-40ee-b361-9ab63dc1329f.jpg
 
 #### set 16
@@ -2954,6 +3080,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5948.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5949.jpg
 
@@ -2965,6 +3092,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5946.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5947.jpg
 
@@ -2976,6 +3104,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5966.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5967.jpg
 
@@ -2987,6 +3116,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5966_bb4ef261-1e5b-46e7-9db2-8a82d1386f41.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5963.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5964.jpg
@@ -2999,6 +3129,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5974.jpg
 
 #### set 21
@@ -3009,6 +3140,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5977.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5978.jpg
 
@@ -3020,6 +3152,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5979.jpg
 
 #### set 23
@@ -3030,6 +3163,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5987.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5985.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5986.jpg
@@ -3042,6 +3176,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5988.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5989.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5990.jpg
@@ -3054,6 +3189,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6000.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6001.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6002.jpg
@@ -3066,6 +3202,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6004.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6003.jpg
 
@@ -3077,6 +3214,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6012.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6013.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6014.jpg
@@ -3089,6 +3227,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6016.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6017.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6018.jpg
@@ -3101,6 +3240,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6021.jpg
 
 #### set 30
@@ -3111,6 +3251,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6022.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6023.jpg
 
@@ -3122,6 +3263,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6026.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6027.jpg
 
@@ -3133,6 +3275,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6030.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6031.jpg
 
@@ -3144,6 +3287,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6037.jpg
 
 #### set 35
@@ -3154,6 +3298,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6193.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6192.jpg
 
@@ -3165,6 +3310,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6191.jpg
 
 #### set 37
@@ -3175,6 +3321,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6200_cda6aef4-3a20-4c9b-bba8-8ca9250fe1c6.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6201_f06e14ec-b76c-4ec2-b26f-355b26da2b4a.jpg
 
@@ -3186,6 +3333,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6202_4bce6838-767d-4304-8c37-9b74016cf537.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6203_ef538051-c82c-4c97-9f8c-a22cd15a36cd.jpg
 
@@ -3197,6 +3345,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6209_c4bf3728-d51d-41f4-90a5-a521028c98ce.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6210_81cbceaa-acef-4611-8658-310f0b246072.jpg
 
@@ -3208,6 +3357,7 @@ Images:
 - Category assigned: inferred
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6036.jpg
 
 ### Lamp Tables (8)
@@ -3221,9 +3371,10 @@ Images:
 
 The BK-Milan Lamp Table combines functional design with understated elegance. Its ceramic tabletop provides a durable, easy-to-clean surface ideal for displaying decorative pieces or holding beverages and reading materials. The distinctive cross-shaped pedestal base, constructed from four sturdy black legs, delivers exceptional stability while maintaining a refined aesthetic. This versatile accent table complements both contemporary and traditional interiors, making it an excellent choice for living rooms, bedrooms, or entryways where reliable surface space and visual sophistication are valued.
 
- Size available: 50 x 50 x 55cm
+Size available: 50 x 50 x 55cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/BKMilanLampTable.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/BK-MilanLamp1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/BK-MilanLamp2.jpg
@@ -3239,9 +3390,10 @@ Images:
 
 The BK-Roma Lamp Table combines functional design with contemporary aesthetics. Featuring two substantial legs crafted for stability and visual impact, this piece supports a refined ceramic tabletop that brings warmth and texture to any interior. The clean lines and modern proportions make it an ideal accent table for living spaces, bedrooms, or studies. Its durable ceramic surface resists everyday wear while maintaining an elegant appearance. A versatile addition to contemporary home décor.
 
- Size available: 50 x 50 x 55cm
+Size available: 50 x 50 x 55cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/bk-roma_lamp_table.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/BK-RomaLamp2.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/BK-RomaLamp1.jpg
@@ -3256,9 +3408,10 @@ Images:
 
 The Chelsea Lamp Table combines refined craftsmanship with versatile design, featuring a chrome frame that delivers contemporary elegance. Choose between luxurious marble or sophisticated ceramic for the circular pedestal top, each option offering distinct aesthetic appeal and durability. The pedestal base provides stable support whilst maintaining a refined silhouette, making it an ideal accent piece for living rooms, bedrooms, or studies. Whether you prefer the timeless veining of marble or the refined finish of ceramic, this lamp table serves as both a functional surface and a striking design statement.
 
- Size available: 50 x 50 x 55cm
+Size available: 50 x 50 x 55cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_01_18_55PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5548.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5545.jpg
@@ -3277,9 +3430,10 @@ Images:
 
 The GS-Lucy Lamp Table combines contemporary design with timeless elegance. Its striking cross base features a sophisticated blend of silver and gold finishes, creating visual depth and modern appeal. The contrasting metallic framework provides sturdy support whilst the natural stone surface offers both durability and refined aesthetics. Perfect for adding a statement accent to living spaces, bedrooms, or hallways where distinctive craftsmanship meets functional design.
 
- Size available: 50 x 50 x 55cm
+Size available: 50 x 50 x 55cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/GSLucyLampTable.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/GSLucyLampTable1.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SG-LucyLamp1.jpg
@@ -3295,9 +3449,10 @@ Images:
 
 The Lewis Lamp Table combines refined Italian design with practical functionality. Standing at 55cm, this compact side table features four elegantly tapered legs in contemporary Italian style, supported by a sturdy chrome frame that adds modern sophistication. Choose between a luxurious marble top for timeless elegance or a durable ceramic surface for versatile styling. Perfect for displaying lamps, books, or decorative objects in living rooms, bedrooms, or hallways. A versatile accent piece that elevates any interior scheme.
 
- Size available: 50 x 50 x 55cm
+Size available: 50 x 50 x 55cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/lewis_lamp_table.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5512.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5511.jpg
@@ -3321,9 +3476,10 @@ Images:
 
 The SG-Chelsea Lamp Table combines refined elegance with functional design. Featuring a distinctive gold frame and circular pedestal base, this piece serves as both a practical surface and a striking accent. Choose between luxurious marble or sophisticated ceramic finishes to complement your interior aesthetic. The expert craftsmanship ensures durability whilst the timeless silhouette integrates seamlessly into contemporary and classic settings alike.
 
- Size available: 50 x 50 x 55cm
+Size available: 50 x 50 x 55cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/GChelseaLampTable_2a2f2dbf-3887-45ad-b7b4-d11b242ff8a9.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5493.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5494.jpg
@@ -3348,9 +3504,10 @@ Images:
 
 The SG-Lewis Lamp Table combines refined Italian design with practical functionality. Featuring four sleek contemporary legs and a polished chrome frame, this piece delivers understated elegance to any interior. Choose between luxurious marble or durable ceramic tops to suit your aesthetic and lifestyle needs. A versatile accent table that bridges modern minimalism with timeless sophistication.
 
- Size available: 50 x 50 x 55cm
+Size available: 50 x 50 x 55cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_12_28_44PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G-_Lewis_Lamp_Table_50x50_b1b042ca-705f-437e-a4ef-8062995e5995.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5506.jpg
@@ -3370,9 +3527,10 @@ Images:
 
 The Venice Lamp Table combines understated elegance with practical functionality. Its sleek black legs provide a contemporary foundation, while the stylish ceramic tabletop delivers both visual appeal and durability. This versatile piece works seamlessly in modern or transitional interiors, offering a refined surface for lamps, books, or decorative objects. The ceramic construction resists stains and wear, making it an intelligent choice for high-traffic living spaces.
 
- Size available: ∅50 x 55cm
+Size available: ∅50 x 55cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_11_48_26AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5955.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5956.jpg
@@ -3391,6 +3549,7 @@ Images:
 110x33x155cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/MILANBOOKCASE-2-0.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/MILANBOOKCASE1-0.jpg
 
@@ -3404,6 +3563,7 @@ Images:
 160x40x70cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/MILANSIDEBOARD-2-0.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/MILANSIDEBOARD-1-0.jpg
 
@@ -3417,6 +3577,7 @@ Images:
 50x50x45cm / 40x40x40cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/MILANNESTOF2TABLES-2-0.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/MILANNESTOF2TABLES-1-0.jpg
 
@@ -3430,6 +3591,7 @@ Images:
 110x40x70cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/MILANCOMPACTSIDEBOARD-2-0.jpg
 
 ### Oak (43)
@@ -3443,13 +3605,14 @@ Images:
 
 See our reduced prices on clearance product lines
 
- Prices are plus VAT
+Prices are plus VAT
 
- All collections will still receive 8% discount on top of the reduced prices
+All collections will still receive 8% discount on top of the reduced prices
 
- Buy the remaining stock of an item to receive an additional 10% discount (total 18% on collections)
+Buy the remaining stock of an item to receive an additional 10% discount (total 18% on collections)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Lucca.png
 
 #### Lucca 1.1m Round Extending Dining Table
@@ -3462,6 +3625,7 @@ Images:
 110/150x110x78cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/WXF_P31_1.jpg
 
 #### Lucca 1.2m Extending Dining Table
@@ -3475,6 +3639,7 @@ Images:
 140/180x90x78cm ( SOLD OUT )
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WXFP18_1.jpg
 
 #### Lucca Bedside 3 Drawer
@@ -3487,6 +3652,7 @@ Images:
 47x37x62cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/WXF_P03.jpg
 
 #### Lucca Coffee Table
@@ -3499,6 +3665,7 @@ Images:
 90x55x50cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/WXF_P07.jpg
 
 #### Lucca Console Table
@@ -3511,6 +3678,7 @@ Images:
 85x34x70cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/WXF_P14.jpg
 
 #### Lucca Corner TV Unit
@@ -3522,13 +3690,14 @@ Images:
 
 Size available:
 
- 120 x 40 x 50cm (Large TV Unit)
+120 x 40 x 50cm (Large TV Unit)
 
- 92 x 40 x 50cm (Small TV Unit)
+92 x 40 x 50cm (Small TV Unit)
 
- 80 x 40 x 65cm (Corner TV Unit)
+80 x 40 x 65cm (Corner TV Unit)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/WXF_P21.jpg
 
 #### Lucca Lamp Table
@@ -3541,6 +3710,7 @@ Images:
 55x55x50cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/WXF_P08.jpg
 
 #### Lucca Large Sideboard
@@ -3553,6 +3723,7 @@ Images:
 137x40x81cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/WXF_P05.jpg
 
 #### Lucca Low Bookcase
@@ -3565,6 +3736,7 @@ Images:
 80x32x90cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/WXF_P17_1.jpg
 
 #### Lucca Mini Sideboard
@@ -3577,6 +3749,7 @@ Images:
 70x35x80cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/WXF_P30.jpg
 
 #### Lucca Nest of 2 Tables
@@ -3589,6 +3762,7 @@ Images:
 54x37x50cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/WXF_P23_3.jpg
 
 #### Lucca Small Sideboard
@@ -3601,6 +3775,7 @@ Images:
 97x40x81cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/WXF_P06_6ecc005a-f78f-4c5b-989b-4a8e5eab15cf.jpg
 
 #### Lucca Small TV Unit
@@ -3612,13 +3787,14 @@ Images:
 
 Size available:
 
- 120 x 40 x 50cm (Large TV Unit)
+120 x 40 x 50cm (Large TV Unit)
 
- 92 x 40 x 50cm (Small TV Unit)
+92 x 40 x 50cm (Small TV Unit)
 
- 80 x 40 x 65cm (Corner TV Unit)
+80 x 40 x 65cm (Corner TV Unit)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/WXF_P22.jpg
 
 #### Lucca X-Large TV Unit
@@ -3630,13 +3806,14 @@ Images:
 
 Size available:
 
- 180 x 40 x 50cm (X-Large TV Unit)
+180 x 40 x 50cm (X-Large TV Unit)
 
- 92 x 40 x 50cm (Small TV Unit)
+92 x 40 x 50cm (Small TV Unit)
 
- 80 x 40 x 65cm (Corner TV Unit)
+80 x 40 x 65cm (Corner TV Unit)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/LuccaXLTVUnit.png
 
 #### Siena Coffee Table
@@ -3648,9 +3825,10 @@ Images:
 
 The Siena Coffee Table combines understated elegance with practical design. Its warm oak effect tabletop pairs seamlessly with sleek black legs, creating a contemporary aesthetic that complements modern and transitional interiors. Built to withstand daily use, this piece delivers exceptional quality at a price point that makes stylish furniture accessible. An ideal centrepiece for living spaces where form and function matter equally.
 
- Size available: 120 x 60 x 45cm
+Size available: 120 x 60 x 45cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb6_2026_08_46_15AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SienaCoffee2.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SienaCoffee3.jpg
@@ -3664,13 +3842,14 @@ Images:
 
 The Siena dining table brings understated elegance to your dining space with its striking contrast of warm oak effect top and sleek black legs. Designed with contemporary aesthetics in mind, this versatile piece accommodates diners comfortably in its 1.5m or 1.8m configuration, making it ideal for both intimate gatherings and larger entertaining. The durable oak-effect surface resists everyday wear whilst the sturdy black metal frame ensures lasting stability. Offering exceptional quality at a competitive price point, the Siena delivers sophisticated style without compromise.
 
- Sizes available:
+Sizes available:
 
- 180 x 90 x 75cm
+180 x 90 x 75cm
 
- 150 x 90 x 75cm
+150 x 90 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb6_2026_08_37_55AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Siena2.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Siena4.jpg
@@ -3685,6 +3864,7 @@ Images:
 Size available: 110-150 x 110 x 78cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_01_03_00PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/WXF31_3.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/WXF31_1.jpg
@@ -3699,11 +3879,12 @@ Images:
 
 Sizes available:
 
- 140-180 x 90 x 78cm
+140-180 x 90 x 78cm
 
- 120-150 x 85 x 78cm
+120-150 x 85 x 78cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_01_07_19PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/wxf19_1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/wxf19_2.jpg
@@ -3719,6 +3900,7 @@ Images:
 Size available: 85 x 40 x 96cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_02_14_42PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WXF11_4.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Torino_2_3_chest.jpg
@@ -3737,6 +3919,7 @@ Images:
 Size available: 55 x 40 x 116cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_02_24_17PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WXF16_3.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Torino_5_Drawer_chest.jpg
@@ -3755,6 +3938,7 @@ Images:
 Size available: 128 x 40 x 78cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_02_27_10PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WXF09_3.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Torino_6_Drawer_chest.jpg
@@ -3773,6 +3957,7 @@ Images:
 Size available: 44 x 47 x 62cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_04_34_11PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WXF01_3.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Torino_bedside_1_drawer.jpg
@@ -3791,6 +3976,7 @@ Images:
 Size available: 47 x 37 x 62cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_04_35_43PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WXF03_3.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Torino_Bedside_3_drawer.jpg
@@ -3809,6 +3995,7 @@ Images:
 Size available: 90 x 55 x 50cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_04_35_17PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WXF07_4.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Torino_coffee_table.jpg
@@ -3828,6 +4015,7 @@ Images:
 Size available: 85 x 34 x 70cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_04_34_48PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WXF14_3.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Torino_Hall_table.jpg
@@ -3845,15 +4033,16 @@ Images:
 
 Size available:
 
- 180 x 40 x 50cm (X-Large TV Unit)
+180 x 40 x 50cm (X-Large TV Unit)
 
- 120 x 40 x 50cm (Large TV Unit)
+120 x 40 x 50cm (Large TV Unit)
 
- 92 x 40 x 50cm (Small TV Unit)
+92 x 40 x 50cm (Small TV Unit)
 
- 80 x 40 x 65cm (Corner TV Unit)
+80 x 40 x 65cm (Corner TV Unit)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_04_19_17PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WXF21_3.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/corner_tv.jpg
@@ -3867,6 +4056,7 @@ Images:
 Size available: 36 x 85 x 180cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_04_18_41PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/displaycabinet.jpg
 
@@ -3879,6 +4069,7 @@ Images:
 Size available: 107 x 44 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_04_12_22PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/dressingtable.jpg
 
@@ -3891,6 +4082,7 @@ Images:
 Size available: 92 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_01_09_36PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Torinohalfmoon4.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Torinohalfmoon1.jpg
@@ -3906,6 +4098,7 @@ Images:
 Size available: 55 x 55 x 50cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_04_02_09PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WXF08_3.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Torino_Lamp_table.jpg
@@ -3924,11 +4117,12 @@ Images:
 
 Sizes available:
 
- 80 x 32 x 180cm (Large Bookcase)
+80 x 32 x 180cm (Large Bookcase)
 
- 80 x 32 x 90cm (Low Bookcase)
+80 x 32 x 90cm (Low Bookcase)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_03_48_37PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/WXF27_3.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/WXF27_1.jpg
@@ -3943,6 +4137,7 @@ Images:
 Size available: 137 x 40 x 81cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_03_48_49PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WXF05_3.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Torino_large_sideboard.jpg
@@ -3961,15 +4156,16 @@ Images:
 
 Size available:
 
- 180 x 40 x 50cm (X-Large TV Unit)
+180 x 40 x 50cm (X-Large TV Unit)
 
- 120 x 40 x 50cm (Large TV Unit)
+120 x 40 x 50cm (Large TV Unit)
 
- 92 x 40 x 50cm (Small TV Unit)
+92 x 40 x 50cm (Small TV Unit)
 
- 80 x 40 x 65cm (Corner TV Unit)
+80 x 40 x 65cm (Corner TV Unit)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_04_02_05PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WXF24_3.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Torino_large_tv.jpg
@@ -3987,11 +4183,12 @@ Images:
 
 Sizes available:
 
- 130.5 x 56 x 190cm (Large Wardrobe)
+130.5 x 56 x 190cm (Large Wardrobe)
 
- 90 x 56 x 190cm (Small Wardrobe)
+90 x 56 x 190cm (Small Wardrobe)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_04_12_28PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WXF25_2.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Torino_large_wardrobe.jpg
@@ -4010,11 +4207,12 @@ Images:
 
 Sizes available:
 
- 80 x 32 x 180cm (Large Bookcase)
+80 x 32 x 180cm (Large Bookcase)
 
- 80 x 32 x 90cm (Low Bookcase)
+80 x 32 x 90cm (Low Bookcase)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_03_43_16PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WXF17_3.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Torino_Low_bookcase.jpg
@@ -4031,6 +4229,7 @@ Images:
 Size available: 70 x 35 x 81cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_02_26_22PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Torino_mini_sideboard5_043b16bb-7250-4070-9d7c-6c193ef502ce.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Torino_mini_sideboard.jpg
@@ -4050,6 +4249,7 @@ Images:
 Size available: 54 x 37 x 50cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_04_01_18PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WXF23_3.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Torino_Nest_Table.jpg
@@ -4074,6 +4274,7 @@ Images:
 Size available: 54 x 37 x 50cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_04_08_31PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Nest_of_3_tables_2.jpg
 
@@ -4086,6 +4287,7 @@ Images:
 Size available: 97 x 40 x 81cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_03_47_33PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Torino_small_sideboard4_1664b56f-ce91-41ae-9571-9a6f109b1e5c.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Torino_small_sideboard7.jpg
@@ -4104,15 +4306,16 @@ Images:
 
 Size available:
 
- 180 x 40 x 50cm (X-Large TV Unit)
+180 x 40 x 50cm (X-Large TV Unit)
 
- 120 x 40 x 50cm (Large TV Unit)
+120 x 40 x 50cm (Large TV Unit)
 
- 92 x 40 x 50cm (Small TV Unit)
+92 x 40 x 50cm (Small TV Unit)
 
- 80 x 40 x 65cm (Corner TV Unit)
+80 x 40 x 65cm (Corner TV Unit)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_04_02_02PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WXF22_3.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Torino_small_tv.jpg
@@ -4130,11 +4333,12 @@ Images:
 
 Sizes available:
 
- 130.5 x 56 x 190cm (Large Wardrobe)
+130.5 x 56 x 190cm (Large Wardrobe)
 
- 90 x 56 x 190cm (Small Wardrobe)
+90 x 56 x 190cm (Small Wardrobe)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_04_12_36PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WXF12_3.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Torino_small_wardrobe5.jpg
@@ -4151,15 +4355,16 @@ Images:
 
 Size available:
 
- 180 x 40 x 50cm (X-Large TV Unit)
+180 x 40 x 50cm (X-Large TV Unit)
 
- 120 x 40 x 50cm (Large TV Unit)
+120 x 40 x 50cm (Large TV Unit)
 
- 92 x 40 x 50cm (Small TV Unit)
+92 x 40 x 50cm (Small TV Unit)
 
- 80 x 40 x 65cm (Corner TV Unit)
+80 x 40 x 65cm (Corner TV Unit)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb5_2026_04_01_22PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/180tvcabinet2_2.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/WXF32_3.jpg
@@ -4174,6 +4379,7 @@ Images:
 - Type: other marble
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/chelseaconceptphoto.jpg
 
 #### Lewis Range
@@ -4183,6 +4389,7 @@ Images:
 - Type: other marble
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Lewisconceptphoto.jpg
 
 #### London Sideboard
@@ -4193,13 +4400,14 @@ Images:
 
 The London Sideboard combines refined craftsmanship with practical storage, featuring clean lines and a sophisticated silhouette that complements contemporary and traditional interiors alike. Built to last, this piece offers generous cupboard space ideal for dining essentials, tableware, or living room display. With limited stock available, this is a rare opportunity to secure a quality sideboard before it's gone for good.
 
- Pictured: Large with Grey Marble
+Pictured: Large with Grey Marble
 
- Small 120x45x78
+Small 120x45x78
 
- Marble: Grey
+Marble: Grey
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/LondonLargeSideboardGreyMarble.jpg
 
 #### Marble Bookshelf
@@ -4211,9 +4419,10 @@ Images:
 
 Display your collection with architectural sophistication on this 4-tier marble bookshelf. Grey marble shelves offer timeless elegance and durability, while the polished chrome framework adds refined geometric detailing. Each tier accommodates substantial weight, making it ideal for books, art objects, and decorative pieces. The striking contrast between cool marble and gleaming chrome creates visual interest whilst maintaining a curated, gallery-like presentation. A versatile investment piece that enhances both traditional and contemporary interiors.
 
- Size available: 120 x 35 x 150cm
+Size available: 120 x 35 x 150cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_10_56_43AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Bookshelf.jpg
 
@@ -4227,15 +4436,16 @@ Images:
 
 The G-Paris Sofa brings timeless elegance to your living space with its sophisticated grey shimmer upholstery that catches light beautifully throughout the day. This three-piece modular set comprises a 3-seater, 2-seater, and 1-seater, offering flexible arrangement options to suit your room layout. The classic Chesterfield design features deep button detailing and rolled arms that evoke traditional craftsmanship, whilst polished gold accent legs provide a contemporary finishing touch. Ideal for those seeking a statement piece that balances heritage style with modern sensibility.
 
- Sizes available:
+Sizes available:
 
- 3 Seater: 216 x 82 x 72.5cm
+3 Seater: 216 x 82 x 72.5cm
 
- 2 Seater: 171 x 82 x 72.5cm
+2 Seater: 171 x 82 x 72.5cm
 
- 1 Seater: 104 x 82 x 72.5cm
+1 Seater: 104 x 82 x 72.5cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/4066109F-C183-4DB5-B7A0-0EBC2F096574.png
 
 #### Lucy Sofa (3+2)
@@ -4246,15 +4456,16 @@ Images:
 
 The Lucy Seater Sofa delivers sophisticated seating without compromising on space. This compact design fits seamlessly into apartments, offices, waiting rooms, and compact living areas where traditional sofas prove impractical. Upholstered in durable grey fabric, it complements contemporary and neutral interiors whilst maintaining a professional aesthetic. The sofa-in-a-box format ensures straightforward delivery and setup, eliminating the logistics challenges of oversized furniture. Ideal for those seeking quality comfort in a footprint-conscious package.
 
- Available in Grey fabric & PU Black
+Available in Grey fabric & PU Black
 
- Sizes available:
+Sizes available:
 
- 172 x 78 x 86cm
+172 x 78 x 86cm
 
- 132 x 78 x 86cm
+132 x 78 x 86cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/130_PU_Grey.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/130_PU_Black.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/130_sofa_grey.jpg
@@ -4270,29 +4481,30 @@ Images:
 
 The Milan sofa combines practical innovation with versatile seating through vacuum-sealed compression technology that condenses the entire four-seat configuration into three manageable boxes. Each component—structural sections, four cushions, and upholstery elements—detaches independently, enabling you to arrange and rearrange according to your spatial requirements. This modular design philosophy extends beyond initial setup; individual pieces can be maintained, cleaned, or replaced without affecting the whole, maximising durability and value. Ideal for those prioritising both adaptability and hassle-free delivery without compromising on seating capacity.
 
- Available in Dark Grey, Black, Blue & Ivory
+Available in Dark Grey, Black, Blue & Ivory
 
- Due to the modular design, each piece is connected via loops and snap clips
+Due to the modular design, each piece is connected via loops and snap clips
 
- Size available:
+Size available:
 
- 104 x 104 x 38cm per modular section
+104 x 104 x 38cm per modular section
 
- 30cm height per back cushion
+30cm height per back cushion
 
- 4 pieces plus cushions included in each purchase
+4 pieces plus cushions included in each purchase
 
- Packaging dimensions:
+Packaging dimensions:
 
- Box 1: 104 x 104 x 21cm (GW 36.5kg) CBM: 0.227
+Box 1: 104 x 104 x 21cm (GW 36.5kg) CBM: 0.227
 
- Box 2: 104 x 104 x 21cm (GW 36.5kg) CBM: 0.227
+Box 2: 104 x 104 x 21cm (GW 36.5kg) CBM: 0.227
 
- Box 3: 104 x 104 x 21cm (GW 22.5kg) CBM: 0.227
+Box 3: 104 x 104 x 21cm (GW 22.5kg) CBM: 0.227
 
- Total CBM: 0.681
+Total CBM: 0.681
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Photoroom_20260331_095617.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_0770.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_0769.jpg
@@ -4312,25 +4524,26 @@ Images:
 
 The Montana Black Recliner Sofa features premium leatheraire fabric, engineered to withstand daily wear without the brittleness of traditional leather. Its scratch and waterproof resistant surface makes it ideal for active households, while the supple material maintains comfort without cracking or peeling over time. Built for durability without compromise, this recliner delivers the aesthetic of leather with practical resilience.
 
- Also available in Brown, Grey & Ivory
+Also available in Brown, Grey & Ivory
 
- Sizes available:
+Sizes available:
 
- 3 Seater: 228 x 100 x 107cm
+3 Seater: 228 x 100 x 107cm
 
- 2 Seater: 175 x 100 x 107cm
+2 Seater: 175 x 100 x 107cm
 
- Chair: 115 x 100 x 107cm
+Chair: 115 x 100 x 107cm
 
- Packaging dimensions:
+Packaging dimensions:
 
- 3 Seater: 223 x 89 x 75cm (GW: XXkg) CBM: 1.489
+3 Seater: 223 x 89 x 75cm (GW: XXkg) CBM: 1.489
 
- 2 Seater: 172 x 89 x 75cm (GW: XXkg) CBM: 1.148
+2 Seater: 172 x 89 x 75cm (GW: XXkg) CBM: 1.148
 
- Chair: 112 x 85 x 74cm (GW: XXkg) CBM: 0.704
+Chair: 112 x 85 x 74cm (GW: XXkg) CBM: 0.704
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageJan30_2026_03_07_35PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/sofa_01-black.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageJan30_2026_03_07_37PM.png
@@ -4349,25 +4562,26 @@ Images:
 
 The Montana Brown Recliner Sofa features premium leatheraire fabric, engineered to withstand daily wear without the brittleness of traditional leather. Its scratch and waterproof resistant surface makes it ideal for active households, while the supple material maintains comfort without cracking or peeling over time. Built for durability without compromise, this recliner delivers the aesthetic of leather with practical resilience.
 
- Also available in Black, Grey & Ivory
+Also available in Black, Grey & Ivory
 
- Sizes available:
+Sizes available:
 
- 3 Seater: 228 x 100 x 107cm
+3 Seater: 228 x 100 x 107cm
 
- 2 Seater: 175 x 100 x 107cm
+2 Seater: 175 x 100 x 107cm
 
- Chair: 115 x 100 x 107cm
+Chair: 115 x 100 x 107cm
 
- Packaging dimensions:
+Packaging dimensions:
 
- 3 Seater: 223 x 89 x 75cm (GW: XXkg) CBM: 1.489
+3 Seater: 223 x 89 x 75cm (GW: XXkg) CBM: 1.489
 
- 2 Seater: 172 x 89 x 75cm (GW: XXkg) CBM: 1.148
+2 Seater: 172 x 89 x 75cm (GW: XXkg) CBM: 1.148
 
- Chair: 112 x 85 x 74cm (GW: XXkg) CBM: 0.704
+Chair: 112 x 85 x 74cm (GW: XXkg) CBM: 0.704
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageApr1_2026_11_21_27AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/5E2CD907-8453-421B-B0C0-858BCEC3C578.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageApr1_2026_11_18_59AM.png
@@ -4386,25 +4600,26 @@ Images:
 
 The Montana Grey Recliner Sofa features premium leatheraire fabric, engineered to withstand daily wear without the brittleness of traditional leather. Its scratch and waterproof resistant surface makes it ideal for active households, while the supple material maintains comfort without cracking or peeling over time. Built for durability without compromise, this recliner delivers the aesthetic of leather with practical resilience.
 
- Also available in Black, Brown & Ivory
+Also available in Black, Brown & Ivory
 
- Sizes available:
+Sizes available:
 
- 3 Seater: 228 x 100 x 107cm
+3 Seater: 228 x 100 x 107cm
 
- 2 Seater: 175 x 100 x 107cm
+2 Seater: 175 x 100 x 107cm
 
- Chair: 115 x 100 x 107cm
+Chair: 115 x 100 x 107cm
 
- Packaging dimensions:
+Packaging dimensions:
 
- 3 Seater: 223 x 89 x 75cm (GW: XXkg) CBM: 1.489
+3 Seater: 223 x 89 x 75cm (GW: XXkg) CBM: 1.489
 
- 2 Seater: 172 x 89 x 75cm (GW: XXkg) CBM: 1.148
+2 Seater: 172 x 89 x 75cm (GW: XXkg) CBM: 1.148
 
- Chair: 112 x 85 x 74cm (GW: XXkg) CBM: 0.704
+Chair: 112 x 85 x 74cm (GW: XXkg) CBM: 0.704
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageJan30_2026_03_02_36PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Sofa01-3Grey2.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Sofa01-34.jpg
@@ -4438,25 +4653,26 @@ Images:
 
 The Montana Ivory Recliner Sofa features premium leatheraire fabric, engineered to withstand daily wear without the brittleness of traditional leather. Its scratch and waterproof resistant surface makes it ideal for active households, while the supple material maintains comfort without cracking or peeling over time. Built for durability without compromise, this recliner delivers the aesthetic of leather with practical resilience.
 
- Also available in Black, Brown & Grey
+Also available in Black, Brown & Grey
 
- Sizes available:
+Sizes available:
 
- 3 Seater: 228 x 100 x 107cm
+3 Seater: 228 x 100 x 107cm
 
- 2 Seater: 175 x 100 x 107cm
+2 Seater: 175 x 100 x 107cm
 
- Chair: 115 x 100 x 107cm
+Chair: 115 x 100 x 107cm
 
- Packaging dimensions:
+Packaging dimensions:
 
- 3 Seater: 223 x 89 x 75cm (GW: XXkg) CBM: 1.489
+3 Seater: 223 x 89 x 75cm (GW: XXkg) CBM: 1.489
 
- 2 Seater: 172 x 89 x 75cm (GW: XXkg) CBM: 1.148
+2 Seater: 172 x 89 x 75cm (GW: XXkg) CBM: 1.148
 
- Chair: 112 x 85 x 74cm (GW: XXkg) CBM: 0.704
+Chair: 112 x 85 x 74cm (GW: XXkg) CBM: 0.704
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageApr1_2026_11_20_14AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/BE30B92D-8E37-4CCE-A83E-2B84E5BC010E.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/MontanaIvory2Seat.png
@@ -4473,15 +4689,16 @@ Images:
 
 The Paris Sofa brings timeless elegance to any living space with its sophisticated Chesterfield design. Upholstered in quality grey fabric, this collection offers flexible seating arrangements with 3-seater, 2-seater, and 1-seater options to suit your room layout. Distinctive deep button detailing and rolled arms define the classic silhouette, whilst polished chrome accent legs add a contemporary edge. Mix and match pieces to create your ideal configuration, or select individual units for versatile placement throughout your home. Durable construction ensures lasting comfort and style.
 
- Sizes available:
+Sizes available:
 
- 3 Seater: 216 x 82 x 72.5cm
+3 Seater: 216 x 82 x 72.5cm
 
- 2 Seater: 171 x 82 x 72.5cm
+2 Seater: 171 x 82 x 72.5cm
 
- 1 Seater: 104 x 82 x 72.5cm
+1 Seater: 104 x 82 x 72.5cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ParisGreySofas1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ParisGreySofas2.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ParisGreySofas3.jpg
@@ -4501,9 +4718,10 @@ Images:
 
 The Roma Grey & Cream Mix 2 Seater Sofa delivers sophisticated style without compromising on practicality. This compact seating solution features a contemporary mixed fabric design that blends grey and cream tones, complementing diverse interior schemes. Engineered for convenient delivery and setup, the sofa arrives flat-packed, eliminating assembly complications and simplifying transport through doorways and hallways. Ideal for apartments, studios, and modest living areas, it maximises seating capacity whilst respecting spatial constraints. The durable fabric construction ensures lasting comfort and everyday resilience, making this an astute choice for those seeking quality furnishings that adapt to modern living requirements.
 
- Size available: 132 x 80 x 85cm
+Size available: 132 x 80 x 85cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Serene_Living_Room_with_Angel_Wings.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/130sofagrey-Photoroom.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/sofa3-Photoroom.jpg
@@ -4518,15 +4736,16 @@ Images:
 
 Sink into ultimate relaxation with the Rose Brown E-Recliner Sofa, engineered for those who demand superior comfort. This electric recliner features premium soft cushioning that cradles your body, reducing pressure points and promoting proper spinal alignment. The motorised recline mechanism allows effortless adjustment to your ideal position, whether you're unwinding after a long day or settling in for extended lounging. The charcoal upholstery complements any interior whilst maintaining durability and easy maintenance. Perfect for living rooms, home offices, or bedrooms, this chair combines thoughtful design with functional comfort technology.
 
- Sizes available:
+Sizes available:
 
- 3 Seater: 220 x 95 x 107cm
+3 Seater: 220 x 95 x 107cm
 
- 2 Seater: 160 x 95 x 107cm
+2 Seater: 160 x 95 x 107cm
 
- 1 Seater: 106 x 95 x 107cm
+1 Seater: 106 x 95 x 107cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageJan30_2026_03_46_23PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageJan30_2026_03_38_52PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageJan30_2026_03_43_27PM.png
@@ -4543,13 +4762,14 @@ Images:
 
 The Rose Corner Sofa combines luxury comfort with intelligent design flexibility. This 2+1 configuration features electric recliners at both end seats, delivering effortless relaxation at the touch of a button. Customise your layout with additional seating and optional centre consoles equipped with integrated cup holders, USB charging ports, and plug sockets—perfect for modern living. Whether you're entertaining or unwinding, this sofa adapts to your lifestyle, offering premium comfort without compromise.
 
- Size available: L240 x L183 x D95 x H107cm
+Size available: L240 x L183 x D95 x H107cm
 
- Console size: 32 x 95 x 107 per console
+Console size: 32 x 95 x 107 per console
 
- Additional seating: 57 x 95 x 107 per seat
+Additional seating: 57 x 95 x 107 per seat
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG-4629.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG-4630.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_08_53_13AM.png
@@ -4567,15 +4787,16 @@ Images:
 
 Sink into ultimate relaxation with the Rose Charcoal E-Recliner Sofa, engineered for those who demand superior comfort. This electric recliner features premium soft cushioning that cradles your body, reducing pressure points and promoting proper spinal alignment. The motorised recline mechanism allows effortless adjustment to your ideal position, whether you're unwinding after a long day or settling in for extended lounging. The charcoal upholstery complements any interior whilst maintaining durability and easy maintenance. Perfect for living rooms, home offices, or bedrooms, this chair combines thoughtful design with functional comfort technology.
 
- Sizes available:
+Sizes available:
 
- 3 Seater: 220 x 95 x 107cm
+3 Seater: 220 x 95 x 107cm
 
- 2 Seater: 160 x 95 x 107cm
+2 Seater: 160 x 95 x 107cm
 
- 1 Seater: 106 x 95 x 107cm
+1 Seater: 106 x 95 x 107cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageJan30_2026_03_56_49PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Rose0535.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Rose0531.jpg
@@ -4606,13 +4827,14 @@ Images:
 
 The Siena 5 Seater Sofa combines generous seating capacity with refined aesthetics. Crafted from premium boucle fabric, this substantial piece delivers both comfort and visual interest through its textured weave. Available in left-hand or right-hand configurations to suit your space, it arrives in two boxes for convenient delivery and placement. The boucle construction offers durability whilst maintaining a sophisticated, contemporary appearance ideal for modern interiors.
 
- Size available: 325 x 95 x 78cm
+Size available: 325 x 95 x 78cm
 
- Available Colours: Grey and Ivory
+Available Colours: Grey and Ivory
 
- Left hand or right hand configurations available, please contact our sales team for more info
+Left hand or right hand configurations available, please contact our sales team for more info
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Siena08.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Siena08Grey.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Sofa08Ivory1.jpg
@@ -4631,9 +4853,10 @@ Images:
 
 The Siena Grey Tub Chair combines luxurious boucle upholstery with a sophisticated silhouette that commands attention in any interior. Its 360-degree swivel mechanism offers practical flexibility, allowing you to rotate effortlessly whilst maintaining comfort. The textured ivory fabric provides visual depth and tactile warmth, making this piece equally effective as a striking focal point or a refined accent to your existing décor. Perfect for contemporary and transitional spaces seeking both style and functionality.
 
- Size available: 80 x 80 x 69cm
+Size available: 80 x 80 x 69cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageJan30_2026_02_27_36PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageJan30_2026_02_26_56PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Grey_Chair_1.jpg
@@ -4654,13 +4877,14 @@ Images:
 
 The image provided is a representative example and your tabletop may vary depending on various factors
 
- Sizes available:
+Sizes available:
 
- Cheshire extending table - 160-200 x 90 x 75cm
+Cheshire extending table - 160-200 x 90 x 75cm
 
- Cheshire extending table - 120-150 x 90 x 75cm
+Cheshire extending table - 120-150 x 90 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_0239.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ArmaniCeramicBirdsEye_d62ced91-c3b9-438e-bf72-4a87147cad34.png
 
@@ -4672,27 +4896,28 @@ Images:
 
 The image provided is a representative example and your tabletop may vary depending on various factors
 
- Sizes available:
+Sizes available:
 
- 200cm - 200 x 100 x 75cm
+200cm - 200 x 100 x 75cm
 
- 180cm - 180 x 90 x 75cm
+180cm - 180 x 90 x 75cm
 
- 150cm - 150 x 90 x 75cm
+150cm - 150 x 90 x 75cm
 
- 120cm - 120 x 80 x 75cm
+120cm - 120 x 80 x 75cm
 
- 1x1m - 100 x 100 x75cm
+1x1m - 100 x 100 x75cm
 
- ∅ 130cm - ∅ 130 x 75cm
+∅ 130cm - ∅ 130 x 75cm
 
- Coffee - 120 x 60 x 45cm
+Coffee - 120 x 60 x 45cm
 
- Console - 120 x 40 x 75cm
+Console - 120 x 40 x 75cm
 
- Lamp - 50 x 50 x 55cm
+Lamp - 50 x 50 x 55cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Blackmarble.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/BlackMarbleBirdsEye_8af4812b-29c9-490d-94be-61ca0e41e831.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/BlackSet1.jpg
@@ -4706,23 +4931,24 @@ Images:
 
 The image provided is a representative example and your tabletop may vary depending on various factors
 
- Sizes available:
+Sizes available:
 
- 180cm - 180 x 90 x 75cm
+180cm - 180 x 90 x 75cm
 
- 150cm - 150 x 90 x 75cm
+150cm - 150 x 90 x 75cm
 
- ∅130cm - ∅130 x 75cm
+∅130cm - ∅130 x 75cm
 
- ∅110cm - ∅110 x 75cm
+∅110cm - ∅110 x 75cm
 
- Coffee - 120 x 60 x 45cm
+Coffee - 120 x 60 x 45cm
 
- Console - 120 x 40 x 75cm
+Console - 120 x 40 x 75cm
 
- Lamp - 50 x 50 x 55cm
+Lamp - 50 x 50 x 55cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChanelCeramic.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChanelCeramicBirdsEye_9801d451-79a1-4790-a393-85e98b92c52b.png
 
@@ -4734,23 +4960,24 @@ Images:
 
 The image provided is a representative example and your tabletop may vary depending on various factors
 
- Sizes available:
+Sizes available:
 
- 200cm - 200 x 100 x 75cm
+200cm - 200 x 100 x 75cm
 
- 180cm - 180 x 90 x 75cm
+180cm - 180 x 90 x 75cm
 
- 150cm - 150 x 90 x 75cm
+150cm - 150 x 90 x 75cm
 
- ∅130cm - ∅130 x 75cm
+∅130cm - ∅130 x 75cm
 
- Coffee - 120 x 60 x 45cm
+Coffee - 120 x 60 x 45cm
 
- Console - 120 x 40 x 75cm
+Console - 120 x 40 x 75cm
 
- Lamp - 50 x 50 x 55cm
+Lamp - 50 x 50 x 55cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/CreamMarble_2.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/CreamMarbleBirdsEye.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/CreamTableSetwJessicaChairs_351abfbe-40d3-4564-956a-e02c7d96c3a7.jpg
@@ -4763,23 +4990,24 @@ Images:
 
 The image provided is a representative example and your tabletop may vary depending on various factors
 
- Sizes available:
+Sizes available:
 
- 200cm - 200 x 100 x 75cm
+200cm - 200 x 100 x 75cm
 
- 180cm - 180 x 90 x 75cm
+180cm - 180 x 90 x 75cm
 
- 150cm - 150 x 90 x 75cm
+150cm - 150 x 90 x 75cm
 
- ∅130cm - ∅130 x 75cm
+∅130cm - ∅130 x 75cm
 
- Coffee - 120 x 60 x 45cm
+Coffee - 120 x 60 x 45cm
 
- Console - 120 x 40 x 75cm
+Console - 120 x 40 x 75cm
 
- Lamp - 50 x 50 x 55cm
+Lamp - 50 x 50 x 55cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_9415.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/GWhiteMarbleBirdsEye.png
 
@@ -4791,27 +5019,28 @@ Images:
 
 The image provided is a representative example and your tabletop may vary depending on various factors
 
- Sizes available:
+Sizes available:
 
- London extending table - 160-200 x 90 x 75cm
+London extending table - 160-200 x 90 x 75cm
 
- London extending table - 120-150cm x 90 x 75cm
+London extending table - 120-150cm x 90 x 75cm
 
- 180cm - 180 x 90 x 75cm
+180cm - 180 x 90 x 75cm
 
- 150cm - 150 x 90 x 75cm
+150cm - 150 x 90 x 75cm
 
- 120cm - 120 x 80 x 75cm
+120cm - 120 x 80 x 75cm
 
- ∅9 0cm - ∅9 0 x 75cm
+∅9 0cm - ∅9 0 x 75cm
 
- Coffee - 120 x 60 x 45cm
+Coffee - 120 x 60 x 45cm
 
- Console - 120 x 40 x 75cm
+Console - 120 x 40 x 75cm
 
- Lamp - 50 x 50 x 55cm
+Lamp - 50 x 50 x 55cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Greyceramic.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/GreyCeramicBirdsEye.png
 
@@ -4824,13 +5053,14 @@ Images:
 
 The image provided is a representative example and your tabletop may vary depending on various factors
 
- Sizes available:
+Sizes available:
 
- 180cm - 180 x 90 x 75cm
+180cm - 180 x 90 x 75cm
 
- 150cm - 150 x 90 x 75cm
+150cm - 150 x 90 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Greyglass.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/GreyGlassBirdsEyeView.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/BarcelonaGreyGlass.jpg
@@ -4843,27 +5073,28 @@ Images:
 
 The image provided is a representative example and your tabletop may vary depending on various factors
 
- Sizes available:
+Sizes available:
 
- 200cm - 200 x 100 x 75cm
+200cm - 200 x 100 x 75cm
 
- 180cm - 180 x 90 x 75cm
+180cm - 180 x 90 x 75cm
 
- 150cm - 150 x 90 x 75cm
+150cm - 150 x 90 x 75cm
 
- 120cm - 120 x 80 x 75cm
+120cm - 120 x 80 x 75cm
 
- 1x1m - 100 x 100 x 75cm
+1x1m - 100 x 100 x 75cm
 
- ∅ 130cm - ∅ 130 x 75cm
+∅ 130cm - ∅ 130 x 75cm
 
- Coffee - 120 x 60 x 45cm
+Coffee - 120 x 60 x 45cm
 
- Console - 120 x 40 x 75cm
+Console - 120 x 40 x 75cm
 
- Lamp - 50 x 50 x 55cm
+Lamp - 50 x 50 x 55cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Greymarble.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/GreyMarbleBirdsEye.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/GreySet.jpg
@@ -4876,21 +5107,22 @@ Images:
 
 The image provided is a representative example and your tabletop may vary depending on various factors
 
- Sizes available:
+Sizes available:
 
- 200cm - 200 x 100 x 75cm
+200cm - 200 x 100 x 75cm
 
- 180cm - 180 x 90 x 75cm
+180cm - 180 x 90 x 75cm
 
- 150cm - 150 x 90 x 75cm
+150cm - 150 x 90 x 75cm
 
- Coffee - 120 x 60 x 45cm
+Coffee - 120 x 60 x 45cm
 
- Console - 120 x 40 x 75cm
+Console - 120 x 40 x 75cm
 
- Lamp - 50 x 50 x 55cm
+Lamp - 50 x 50 x 55cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SG-Cream.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/GSCreamCeramicBirdsEye.png
 
@@ -4902,21 +5134,22 @@ Images:
 
 The image provided is a representative example and your tabletop may vary depending on various factors
 
- Sizes available:
+Sizes available:
 
- 200cm - 200 x 100 x 75cm
+200cm - 200 x 100 x 75cm
 
- 180cm - 180 x 90 x 75cm
+180cm - 180 x 90 x 75cm
 
- 150cm - 150 x 90 x 75cm
+150cm - 150 x 90 x 75cm
 
- Coffee - 120 x 60 x 45cm
+Coffee - 120 x 60 x 45cm
 
- Console - 120 x 40 x 75cm
+Console - 120 x 40 x 75cm
 
- Lamp - 50 x 50 x 55cm
+Lamp - 50 x 50 x 55cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SG-Grey.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/GSGreyMarbleBirdsEye_7174e9da-2585-4b20-8ee9-473a6f3d36a7.png
 
@@ -4928,21 +5161,22 @@ Images:
 
 The image provided is a representative example and your tabletop may vary depending on various factors
 
- Sizes available:
+Sizes available:
 
- 180cm - 180 x 90 x 75cm
+180cm - 180 x 90 x 75cm
 
- 150cm - 150 x 90 x 75cm
+150cm - 150 x 90 x 75cm
 
- ∅90cm - ∅90 x 75cm
+∅90cm - ∅90 x 75cm
 
- Coffee - 120 x 60 x 45cm
+Coffee - 120 x 60 x 45cm
 
- Console - 120 x 40 x 75cm
+Console - 120 x 40 x 75cm
 
- Lamp - 50 x 50 x 55cm
+Lamp - 50 x 50 x 55cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/KasiGoldCeramicTop.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/KasiGoldCeramicBirdsEye.png
 
@@ -4954,21 +5188,22 @@ Images:
 
 The image provided is a representative example and your tabletop may vary depending on various factors
 
- Sizes available:
+Sizes available:
 
- 180cm - 180 x 90 x 75cm
+180cm - 180 x 90 x 75cm
 
- G-Jessica 1.6m - 160 x 90 x 75cm
+G-Jessica 1.6m - 160 x 90 x 75cm
 
- 150cm - 150 x 90 x 75cm
+150cm - 150 x 90 x 75cm
 
- Coffee - 120 x 60 x 45cm
+Coffee - 120 x 60 x 45cm
 
- Console - 120 x 40 x 75cm
+Console - 120 x 40 x 75cm
 
- Lamp - 50 x 50 x 55cm
+Lamp - 50 x 50 x 55cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Photo07-07-2022_144658.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/KataGoldCeramicBirdsEye_f64d933a-4857-4c2e-8965-483145a89048.png
 
@@ -4980,11 +5215,12 @@ Images:
 
 The image provided is a representative example and your tabletop may vary depending on various factors
 
- Size available:
+Size available:
 
- Marble Table 150cm - 150 x 90 x 75cm
+Marble Table 150cm - 150 x 90 x 75cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_9877_74f1429a-dca0-4a45-8c4d-b72211d7a685.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/MBWhiteMarbleBirdsEye.png
 
@@ -4996,25 +5232,26 @@ Images:
 
 The image provided is a representative example and your tabletop may vary depending on various factors
 
- Sizes available:
+Sizes available:
 
- 180cm - 180 x 90 x 75cm
+180cm - 180 x 90 x 75cm
 
- 150cm - 150 x 90 x 75cm
+150cm - 150 x 90 x 75cm
 
- 120cm - 120 x 80 x 75cm
+120cm - 120 x 80 x 75cm
 
- 1x1m - 100 x 100 x75cm
+1x1m - 100 x 100 x75cm
 
- ∅ 130cm - ∅ 130 x 75cm
+∅ 130cm - ∅ 130 x 75cm
 
- Coffee - 120 x 60 x 45cm
+Coffee - 120 x 60 x 45cm
 
- Console - 120 x 40 x 75cm
+Console - 120 x 40 x 75cm
 
- Lamp - 50 x 50 x 55cm
+Lamp - 50 x 50 x 55cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Mixedbrownmarble.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/MixedBrownMarbleBirdsEye.png
 
@@ -5026,15 +5263,16 @@ Images:
 
 The image provided is a representative example and your tabletop may vary depending on various factors
 
- Sizes available:
+Sizes available:
 
- Siena 180cm - 180 x 90 x 75cm
+Siena 180cm - 180 x 90 x 75cm
 
- Siena 150cm - 150 x 90 x 75cm
+Siena 150cm - 150 x 90 x 75cm
 
- Siena Coffee - 120 x 60 x 45cm
+Siena Coffee - 120 x 60 x 45cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG-20250122-WA0037.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SienaOakBirdsEye.png
 
@@ -5046,27 +5284,28 @@ Images:
 
 The image provided is a representative example and your tabletop may vary depending on various factors
 
- Sizes available:
+Sizes available:
 
- 200cm - 200 x 100 x 75cm
+200cm - 200 x 100 x 75cm
 
- 180cm - 180 x 90 x 75cm
+180cm - 180 x 90 x 75cm
 
- 150cm - 150 x 90 x 75cm
+150cm - 150 x 90 x 75cm
 
- 120cm - 120 x 80 x 75cm
+120cm - 120 x 80 x 75cm
 
- 1x1m - 100 x 100 x75cm
+1x1m - 100 x 100 x75cm
 
- ∅ 130cm - ∅ 130 x 75cm
+∅ 130cm - ∅ 130 x 75cm
 
- Coffee - 120 x 60 x 45cm
+Coffee - 120 x 60 x 45cm
 
- Console - 120 x 40 x 75cm
+Console - 120 x 40 x 75cm
 
- Lamp - 50 x 50 x 55cm
+Lamp - 50 x 50 x 55cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/WhiteMarble.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WhiteMarbleBirdsEye.png
 
@@ -5081,9 +5320,10 @@ Images:
 
 The Chelsea TV Stand combines industrial elegance with functional design. Its chrome frame features circular legs at both ends, connected by a robust supporting bar that ensures exceptional stability and durability. The luxurious marble top provides a sophisticated surface that complements any interior whilst offering practical resistance to daily wear. At 1.4m wide and 0.4m deep, this stand accommodates most modern televisions whilst maintaining a refined aesthetic. An ideal choice for those seeking both style and structural integrity in their entertainment setup.
 
- Size available: 140 x 40 x 42cm
+Size available: 140 x 40 x 42cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageMar3_2026_03_23_15PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/FD85AA34-B170-4DB6-B3FF-A42D9388C13F.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageMar3_2026_03_23_03PM.png
@@ -5099,13 +5339,14 @@ Images:
 
 The Lewis TV Stand exemplifies contemporary Italian craftsmanship with its distinctive four tapered legs and polished chrome frame. The luxurious marble top provides both durability and aesthetic refinement, creating a striking focal point in any modern interior. Measuring 1.4 or 1.6 metres across, it offers generous space for televisions and media components whilst maintaining an elegant, minimalist silhouette. The marriage of premium materials and sophisticated design makes this stand an excellent investment for those who appreciate quality furnishings and timeless style.
 
- Sizes available:
+Sizes available:
 
- 160 x 40 x 42cm
+160 x 40 x 42cm
 
- 140 x 40 x 42cm
+140 x 40 x 42cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/lewis_tv_stand.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5828_543x543_ccf3fe00-5e2d-4f7a-bfe8-07edcc036b00.webp
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_5831_543x543_d03699e9-f80a-4ef4-909a-d0d0e2736701.webp
@@ -5134,13 +5375,14 @@ Images:
 
 Transform your space with this striking wall fixture featuring elegant mirrored wings adorned with crushed diamond centres. Available in versatile white or colour LED options, it delivers sophisticated ambient lighting with a touch of glamour. Choose between two size options to perfectly suit your room dimensions. The reflective wing design amplifies light distribution while the sparkling diamond detailing creates a luxurious focal point. Ideal for contemporary interiors seeking statement-making illumination that combines aesthetic appeal with functional brightness.
 
- Sizes available:
+Sizes available:
 
- 90 x 120cm (white or colour LED options)
+90 x 120cm (white or colour LED options)
 
- 60 x 80cm (white LED)
+60 x 80cm (white LED)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_10_51_45AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/AngelWings1.jpg
 
@@ -5152,9 +5394,10 @@ Images:
 
 Elevate your interior with this sophisticated floor lamp, featuring a striking crushed diamond finish that catches and refracts light beautifully throughout your space. The textured surface creates dynamic visual interest while providing ambient illumination ideal for reading, working, or creating atmosphere in any room. Engineered for durability and style, this lamp combines contemporary design with practical functionality, making it an essential addition to modern homes and professional environments alike.
 
- Size available: 47 x 47 x 158cm
+Size available: 47 x 47 x 158cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_10_34_25AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/DMD02_1.jpg
 
@@ -5166,9 +5409,10 @@ Images:
 
 Elevate your interior with the DMD12 Table Lamp, featuring a striking crushed diamond finish that catches and reflects light beautifully. This sophisticated lighting solution combines aesthetic appeal with practical illumination, making it an ideal accent piece for living rooms, bedrooms, or home offices. The textured diamond surface creates dynamic visual interest while the expert craftsmanship ensures durability and lasting elegance. Perfect for those who appreciate refined design details and quality lighting that performs as well as it looks.
 
- Size available: 33 x 33 x 71cm
+Size available: 33 x 33 x 71cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_10_31_24AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/DMD12.jpg
 
@@ -5181,9 +5425,10 @@ Images:
 
 The DMD13 Table Lamp combines contemporary design with luxurious materials, featuring a striking crushed diamond finish that catches and reflects light beautifully. The heart-shaped silhouette adds an elegant, distinctive touch to any interior space. Crafted with attention to detail, this table lamp delivers both ambient illumination and decorative appeal, making it an ideal accent piece for bedrooms, living rooms, or study areas. The crushed diamond surface creates a sophisticated sparkle effect that enhances the lamp's visual impact whilst providing functional task lighting.
 
- Size available: 33 x 33 x 58cm
+Size available: 33 x 33 x 58cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_10_31_38AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/DMD13.jpg
 
@@ -5196,9 +5441,10 @@ Images:
 
 The MD02 Floor Lamp combines sophisticated design with functional illumination. Featuring distinctive diamond-patterned strips that catch and refract light beautifully, this floor lamp creates visual interest whilst delivering reliable ambient lighting. The geometric detailing adds contemporary elegance to any interior space, making it an ideal choice for those seeking both aesthetic appeal and practical performance. Perfect for reading areas, living rooms, or accent lighting applications.
 
- Size available: 47 x 47 x 158cm
+Size available: 47 x 47 x 158cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_10_37_06AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/MD02_6d30814b-1488-43e8-b3a4-3a628f4b6ee5.jpg
 
@@ -5211,11 +5457,12 @@ Images:
 
 The MD41/42 Table Lamp combines refined aesthetics with functional illumination. Featuring distinctive diamond strip detailing across its structure, this lamp showcases a sophisticated silver or gold finish that complements contemporary and traditional interiors alike. The precision-engineered design reflects expert craftsmanship, while the polished metalwork creates subtle light reflections that enhance ambient appeal. Ideal for desks, bedside tables, or accent lighting, this piece delivers both visual elegance and reliable performance for discerning homeowners.
 
- Available in Silver & Rose Gold
+Available in Silver & Rose Gold
 
- Size available: ∅26 x 43cm
+Size available: ∅26 x 43cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_10_38_22AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_10_40_44AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6226.jpg
@@ -5233,9 +5480,10 @@ Images:
 
 Transform your space with the PU651 Feather Light, a sophisticated lighting solution that combines aesthetic elegance with intelligent functionality. This contemporary fixture features a delicate feather-inspired design available with either gold or silver stem finishes to complement your décor. The advanced LED technology seamlessly transitions between crisp white and warm tones, allowing you to establish the perfect ambiance for any occasion. Control your lighting environment effortlessly via remote, adjusting both colour temperature and brightness to suit your mood and activities. Whether you're creating an energising workspace or a relaxing retreat, this versatile fixture adapts to your needs with precision and style.
 
- Size available: 32 x 100cm
+Size available: 32 x 100cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WhatsAppImage2024-11-25at15.12.50_d380c886.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG-20241125-WA0006.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG-20241125-WA0007.jpg
@@ -5251,9 +5499,10 @@ Images:
 
 The PU655 LED Wings 01 combines sculptural elegance with sophisticated lighting technology. Its striking feather silhouette, anchored by a refined gold stem, becomes a focal point that elevates any interior scheme. Command complete control via remote to shift seamlessly between crisp white and warm colour temperatures, adapting your lighting to suit every moment. Dim for intimate evenings or brighten for clarity and focus—the intuitive dimming function responds to your needs. Lightweight yet impactful, this fixture delivers professional-grade illumination wrapped in contemporary design that transforms both ambiance and aesthetics.
 
- Size available: 140 x 55cm
+Size available: 140 x 55cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageJul16_2025_02_06_49PM.png
 
 #### PU656 - LED Wings 02 (White/Warm LED)
@@ -5265,9 +5514,10 @@ Images:
 
 Elevate your interior with the PU656 LED Wings 02, a refined lighting solution featuring a feather-light design and elegant gold stem. Command complete control over your ambiance using the included remote—shift effortlessly between crisp white and warm colour temperatures to suit any moment. Adjust intensity with precision dimming and brightening capabilities, allowing you to craft the perfect lighting environment for work, relaxation, or entertaining. This versatile fixture delivers both aesthetic sophistication and practical functionality for the discerning homeowner.
 
- Size available: 93 x 88cm
+Size available: 93 x 88cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPT_Image_Jul_16_2025_03_47_50_PM.png
 
 #### PU657 - LED Wings 03 (White/Warm LED)
@@ -5279,9 +5529,10 @@ Images:
 
 The PU657 LED Wings 03 combines contemporary design with intelligent lighting control. This feather-light fixture features a striking gold stem that anchors an elegant silhouette, perfect for modern interiors seeking sophistication. The dual-spectrum LED technology seamlessly transitions between crisp white and warm tones via remote control, allowing you to calibrate brightness and colour temperature to suit any occasion. Adjust illumination from energising daylight to relaxing ambient warmth with effortless precision, transforming your space's atmosphere instantly. An ideal choice for those who demand both aesthetic refinement and functional versatility in their lighting solutions.
 
- Size available: 83 x 83cm
+Size available: 83 x 83cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPT_Image_Jul_16_2025_03_50_25_PM.png
 
 ## Mirror Products (73)
@@ -5297,9 +5548,10 @@ Images:
 
 Size available:
 
- 120.5 x 33.5 x 98.5cm
+120.5 x 33.5 x 98.5cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb10_2026_04_10_08PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6111.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6110.jpg
@@ -5316,6 +5568,7 @@ Images:
 Size available: 120.5 x 33.5 x 98.5cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Romafireplacewhite1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Romafireplacewhite2.jpg
 
@@ -5328,9 +5581,10 @@ Images:
 
 Size available:
 
- 113.5 x 35 x 92cm
+113.5 x 35 x 92cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb10_2026_04_14_15PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6116.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6118.jpg
@@ -5348,6 +5602,7 @@ Images:
 Size available: 120 x 36 x 82cm (white LED)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb10_2026_01_22_39PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6073.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6074.jpg
@@ -5365,6 +5620,7 @@ Images:
 Size available: 35 x 35 x 60cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb10_2026_01_10_41PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6053.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6052.jpg
@@ -5381,6 +5637,7 @@ Images:
 Size available: 100 x 40 x 80cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb10_2026_01_07_15PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6103_308c52b0-416f-4a32-8242-7c341bc7b530.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6104_11e24754-a735-48d6-b253-8baf547194b9.jpg
@@ -5398,6 +5655,7 @@ Images:
 Size available: 120 x 40 x 80cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Roma_2_Door_3_Drawer_Large_Sideboard.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Roma2d3dwsideboard.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6119.jpg
@@ -5413,6 +5671,7 @@ Images:
 Size available: 90 x 45 x 85cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb10_2026_01_17_38PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6038.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6039.jpg
@@ -5429,6 +5688,7 @@ Images:
 Size available: 46 x 37 x 67cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb10_2026_01_31_41PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6078.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6077.jpg
@@ -5445,6 +5705,7 @@ Images:
 Size available: 80 x 30 x 120cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb10_2026_01_32_07PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6108.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6109.jpg
@@ -5461,6 +5722,7 @@ Images:
 Size available: 100 x 60 x 47cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb11_2026_09_17_27AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Romacoffee.jpg
 
@@ -5474,6 +5736,7 @@ Images:
 Size available: 100 x 60 x 47cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb10_2026_01_38_27PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6045.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Roma_coffee_table_KD.png
@@ -5491,6 +5754,7 @@ Images:
 Size available: 100 x 45 x 55cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb11_2026_09_37_48AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6080.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6081.jpg
@@ -5508,6 +5772,7 @@ Images:
 Size available: 110 x 45 x 85cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb10_2026_01_18_47PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb11_2026_09_24_57AM_61304e7b-87c7-4954-bca7-90d1d8e22181.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6099.jpg
@@ -5525,6 +5790,7 @@ Images:
 Size available: 76 x 50 x 188cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb10_2026_01_33_48PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/RomaTallBookcase1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6177.jpg
@@ -5545,6 +5811,7 @@ Images:
 Size available: 41 x 33 x 42cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb11_2026_09_24_57AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/RomaMirroredStool1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/RomaMirroredStool2.jpg
@@ -5560,6 +5827,7 @@ Images:
 Size available: 55 x 45 x 45cm / 43 x 45 x 39cm / 31 x 45 x 33cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb11_2026_09_41_43AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6047.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6051.jpg
@@ -5578,6 +5846,7 @@ Images:
 Size available: 49 x 49 x 69cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb10_2026_01_13_17PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6063.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6062.jpg
@@ -5595,6 +5864,7 @@ Images:
 Size available: 30.5 x 30.5 x 71cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb10_2026_01_14_25PM_1.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6054.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6055.jpg
@@ -5610,9 +5880,10 @@ Images:
 
 Size available:
 
- 120 x 45 x 55cm
+120 x 45 x 55cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb11_2026_09_38_28AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/RomaTVunit.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6122.jpg
@@ -5629,6 +5900,7 @@ Images:
 Size available: 150 x 44 x 56cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb11_2026_09_29_32AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6185.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6184.jpg
@@ -5647,6 +5919,7 @@ Images:
 Size available: 110 x 33.5 x 80cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb10_2026_01_28_24PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6089.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6088.jpg
@@ -5665,9 +5938,10 @@ Images:
 
 Elevate your home décor with this sophisticated tealight holder, featuring a luxurious mirrored surface that reflects ambient candlelight throughout your space. The crushed diamond body catches and disperses light beautifully, creating an elegant focal point on any shelf, mantelpiece, or table. Perfect for adding warmth and refinement to your interior styling whilst maintaining a contemporary aesthetic.
 
- Size available: 13 x 13 x 35cm
+Size available: 13 x 13 x 35cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_04_02_58PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WhatsAppImage2025-01-29at13.32.36_43bb796d.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/1HCandleHolder1.jpg
@@ -5683,6 +5957,7 @@ Images:
 37x10.5x10cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/3HDiamondCandleHolder4.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/3HDiamondCandleHolder2.jpg
 
@@ -5695,9 +5970,10 @@ Images:
 
 This elegant tealight holder features a mirrored surface that amplifies candlelight throughout your space, creating a sophisticated ambiance. The 'home' lettering adds a meaningful decorative touch, making it an ideal accent piece for living rooms, bedrooms, or entryways. With capacity for four tealights, it provides balanced illumination while the reflective design maximizes visual impact. Perfect for those seeking to elevate their interior décor with both style and functional warmth.
 
- Size available: 30 x 10 x 10cm
+Size available: 30 x 10 x 10cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_04_05_58PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/4HHomeCandleHolder1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/4HHomeCandleHolder2.jpg
@@ -5711,9 +5987,10 @@ Images:
 
 Display your affection with this elegant 4-head tealight holder, featuring a mirrored surface that amplifies candlelight throughout your space. The "love" lettering adds a meaningful touch, making it an ideal centrepiece for romantic occasions or everyday décor. Each of the four holders accommodates standard tealights, creating a warm, ambient glow. The reflective base enhances light distribution, transforming any room into an inviting sanctuary. Perfect for anniversaries, Valentine's Day, or as a thoughtful gift for someone special.
 
- Size available: 30 x 10 x 10cm
+Size available: 30 x 10 x 10cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_04_12_49PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/4HLoveCandleHolder1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/4HLoveCandleHolder2.jpg
@@ -5728,6 +6005,7 @@ Images:
 61x10.5x13cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/5HDiamondCandleHolder2.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/5HDiamondCandleHolder6.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/5HDiamondCandleHolder4.jpg
@@ -5741,9 +6019,10 @@ Images:
 
 Small - 12 x 12 x 20cm
 
- Large - 12 x 12 x 31cm
+Large - 12 x 12 x 31cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/CandleHolderLarge2.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/CandleHolderSmall4.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/CandleHolderSmall2.jpg
@@ -5758,11 +6037,12 @@ Images:
 
 Elevate your table setting with these sophisticated mirrored coasters, each surface adorned with crushed diamond embellishments that catch and reflect light beautifully. The reflective finish creates an elegant visual impact whilst the diamond detailing adds a touch of luxury to any décor. Available in sets of 6 or 12 pieces, these coasters combine practical protection for your surfaces with refined aesthetic appeal. Perfect for those who appreciate quality craftsmanship and distinctive home accessories.
 
- Size available: 10 x 10cm
+Size available: 10 x 10cm
 
- 6 or 12 pieces per pack
+6 or 12 pieces per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_04_17_27PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Coaster2.jpg
 
@@ -5774,9 +6054,10 @@ Images:
 
 Elevate your tabletop styling with this sophisticated square mirror tray, featuring a refined gold frame that catches and reflects light beautifully. The mirrored surface creates an illusion of depth and brightness, making it an ideal accent piece for vanities, dressers, or living room displays. Perfect for organizing jewellery, perfumes, or decorative objects while adding a touch of luxury to any room. Its timeless design complements both contemporary and traditional interiors, making it a versatile addition to your home décor collection.
 
- Size available: 35 x 27 x 6.5cm
+Size available: 35 x 27 x 6.5cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageJan26_2026_03_18_26PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/MirrorTrayGold_G-MT03_2.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/MirrorTrayGold_G-MT03_1.jpg
@@ -5791,9 +6072,10 @@ Images:
 
 Discover refined elegance with this mirrored jewellery box, a timeless essential for any collection. Its streamlined design offers generous storage space with a clean, uncluttered aesthetic that complements any interior. Crafted with quality construction, this piece serves as both a protective home for your jewellery and a stylish accent for your bedroom or dressing area.
 
- Size available: 25 x 20 x 10cm
+Size available: 25 x 20 x 10cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_04_32_35PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/JewelleryBox1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/JewelleryBox2.jpg
@@ -5810,9 +6092,10 @@ Images:
 
 A sophisticated jewellery box designed with mirrored panels and multiple drawers for organised storage. The reflective interior surfaces enhance visibility whilst keeping your precious pieces protected and easily accessible. Ideal for displaying and safeguarding rings, necklaces, bracelets, and earrings in one elegant piece. The drawer compartments provide dedicated spaces to prevent tangling and damage, making this an essential addition to any jewellery collection.
 
- Size available: 21 x 15 x 16cm
+Size available: 21 x 15 x 16cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_04_32_41PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/JewelleryBoxwDrawers1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/JewelleryBoxwDrawers2.jpg
@@ -5830,9 +6113,10 @@ Images:
 
 Elevate your décor with our versatile mirror tray, available in two sophisticated sizes. The reflective surface amplifies light and creates visual depth, making it ideal for styling nightstands, vanities, or shelving displays. Perfect for organising jewellery, candles, or decorative objects whilst adding a touch of contemporary elegance to any room. The mirrored finish complements both modern and classic interiors, offering practical storage with undeniable style.
 
- Size available: 45 x 32cm
+Size available: 45 x 32cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_04_49_16PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/MirrorTrays1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/MirrorTrays2.jpg
@@ -5848,9 +6132,10 @@ Images:
 
 Elevate your décor with this sophisticated round mirrored tray, available in two versatile sizes. The reflective mirrored surface creates an illusion of expanded space while adding contemporary elegance to any room. Perfect for displaying candles, jewellery, or decorative objects on a dresser, coffee table, or console, this piece combines functionality with refined style. The circular design offers a modern alternative to traditional trays, making it an ideal accent for minimalist and eclectic interiors alike. A practical yet decorative essential for the discerning home.
 
- Size available: ∅28cm
+Size available: ∅28cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_04_36_48PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/MirrorTraysRound1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/MirrorTraysRound2.jpg
@@ -5865,11 +6150,12 @@ Images:
 
 Elevate your table setting with these sophisticated mirrored coasters, each surface adorned with crushed diamond embellishments that catch and reflect light beautifully. The reflective finish creates an elegant visual impact whilst the diamond detailing adds a touch of luxury to any décor. Available in sets of 24 pieces, these coasters combine practical protection for your surfaces with refined aesthetic appeal. Perfect for those who appreciate quality craftsmanship and distinctive home accessories.
 
- Size available: ∅10cm
+Size available: ∅10cm
 
- 24 pieces per pack
+24 pieces per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageJan30_2026_12_21_58PM1.png
 
 #### MS086 Square Coaster (24pcs)
@@ -5881,11 +6167,12 @@ Images:
 
 Elevate your table setting with these sophisticated mirrored coasters, each surface adorned with crushed diamond embellishments that catch and reflect light beautifully. The reflective finish creates an elegant visual impact whilst the diamond detailing adds a touch of luxury to any décor. Available in sets of 24 pieces, these coasters combine practical protection for your surfaces with refined aesthetic appeal. Perfect for those who appreciate quality craftsmanship and distinctive home accessories.
 
- Size available: 10 x 10cm
+Size available: 10 x 10cm
 
- 24 pieces per pack
+24 pieces per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageJan30_2026_12_22_00PM1.png
 
 #### Placemat (4pcs)
@@ -5897,11 +6184,12 @@ Images:
 
 Elevate your table setting with this sophisticated four-piece placemat collection, featuring mirrored surfaces that reflect light and create an elegant visual impact. Each placemat is meticulously embellished with crushed diamonds, adding a luxurious sparkle and refined glamour to your dining experience. The reflective design complements both contemporary and classic interiors, whilst the diamond detailing catches the eye from every angle. Perfect for special occasions or everyday sophistication, this set transforms any table into a statement of refined taste and attention to detail.
 
- Size available: 30 x 30cm
+Size available: 30 x 30cm
 
- 4 pieces per pack
+4 pieces per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_04_17_59PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Placemat2.jpg
 
@@ -5915,6 +6203,7 @@ Images:
 Size available: 25x50cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Vase02Large1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Vase02Large1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/Vase02Large2.jpg
@@ -5932,21 +6221,22 @@ Images:
 
 The F8008 stands as a refined choice for discerning spaces. This free-standing unit combines classic proportions with contemporary sleekness, delivering timeless appeal without compromise. Its bevelled edge detailing adds sophisticated depth and visual interest, elevating the piece beyond standard designs. Built with expert craftsmanship, it integrates seamlessly into both traditional and modern interiors, offering versatile elegance that endures.
 
- Sizes available:
+Sizes available:
 
- 40 x 150cm (free-standing)
+40 x 150cm (free-standing)
 
- Sizes below are available on the 8008 Mirror Page:
+Sizes below are available on the 8008 Mirror Page:
 
- 80 x 120cm
+80 x 120cm
 
- 70 x 100cm
+70 x 100cm
 
- 60 x 90cm
+60 x 90cm
 
- 40 x 120cm
+40 x 120cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/F80081.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/F80081_101c566c-d304-45e1-a753-4bc2a788501b.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/F80081.jpg
@@ -5961,15 +6251,16 @@ Images:
 
 The 8008 mirror exemplifies refined craftsmanship with its sleek, elegant design and bevelled frame that catches light with understated sophistication. Available in four sizes, this classic piece adapts seamlessly to any space, whether displayed prominently or integrated into a curated collection. The precision-cut bevelled edges enhance its architectural appeal, creating subtle depth and visual interest. An expert choice for those who appreciate timeless design paired with meticulous attention to detail.
 
- Sizes available:
+Sizes available:
 
- 80 x 120cm
+80 x 120cm
 
- 60 x 90cm
+60 x 90cm
 
- 40 x 120cm
+40 x 120cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/8088.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/8008.jpg
 
@@ -5982,21 +6273,22 @@ Images:
 
 The SY1710 features a robust aluminium frame engineered for durability and lightweight performance. Available in multiple sizes to suit various applications, this model combines structural integrity with practical versatility. The aluminium construction resists corrosion and ensures long-lasting reliability, making it an excellent choice for demanding environments. Select your preferred size from the range to match your specific requirements.
 
- Sizes available:
+Sizes available:
 
- 50 x 160cm (F1710 - free-standing)
+50 x 160cm (F1710 - free-standing)
 
- 80 x 160cm (SY1710-1)
+80 x 160cm (SY1710-1)
 
- 80 x 120cm (SY1710-2)
+80 x 120cm (SY1710-2)
 
- 60 x 80cm (SY1710-3)
+60 x 80cm (SY1710-3)
 
- 40 x 60cm (SY1710-4)
+40 x 60cm (SY1710-4)
 
- 40 x 120cm (SY1710-5)
+40 x 120cm (SY1710-5)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/F1710_7db02476-3175-4c72-b936-61526b95c8d7.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/F17101.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/F17101.jpg
@@ -6011,17 +6303,18 @@ Images:
 
 This striking free-standing mirror features a tall frame adorned with a crushed diamond border that catches and reflects light beautifully. The integrated LED illumination runs along the perimeter, creating an ambient glow whilst remaining discreetly hidden within the frame design. Perfect for dressing rooms, bedrooms, or luxury bathrooms, the F1761 combines functional reflection with sophisticated decorative appeal. The luminous border enhances visibility for grooming whilst adding an elegant focal point to any interior space.
 
- Sizes available:
+Sizes available:
 
- 55 x 160cm (F1761 - free-standing)
+55 x 160cm (F1761 - free-standing)
 
- Located on other Pages:
+Located on other Pages:
 
- 70 x 90 (SY1760 - Heart shaped)
+70 x 90 (SY1760 - Heart shaped)
 
- 80 x 80 (SY1761 - Octagon shaped)
+80 x 80 (SY1761 - Octagon shaped)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/F1761.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/F17611.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/F17611.jpg
@@ -6038,9 +6331,10 @@ Images:
 
 Elevate your space with this striking Art Deco timepiece, defined by its distinctive round gold frame that captures the geometric elegance of the era. This piece embodies the bold symmetry and luxurious aesthetic characteristic of Art Deco design, making it an ideal choice for collectors and design enthusiasts seeking authentic period styling with contemporary appeal.
 
- Size available: ∅80cm
+Size available: ∅80cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G-M002.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/G-M0021.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/G-M0022.jpg
@@ -6053,9 +6347,10 @@ Images:
 
 The G-M003 combines timeless Art Deco elegance with contemporary functionality. This frame-over-mirror design features a striking gold frame that transforms any space with geometric sophistication. The layered composition creates visual depth while the warm metallic finish complements both modern and classic interiors. Perfect for adding architectural interest to hallways, bedrooms, or living areas, this piece serves as both a practical mirror and a statement art installation. The Art Deco styling brings a touch of glamour to your home décor.
 
- Size available: ∅80cm
+Size available: ∅80cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G-M003.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/G-M0031.jpg
 
@@ -6068,13 +6363,14 @@ Images:
 
 The G-M004 combines timeless elegance with understated sophistication. Available in striking gold or classic black frames, this piece exemplifies refined design principles through its clean lines and balanced proportions. The minimalist aesthetic ensures versatility across diverse settings, while the premium frame options provide flexibility to match your existing décor or personal style. A thoughtfully crafted choice for those who appreciate quality craftsmanship and enduring design.
 
- Sizes available:
+Sizes available:
 
- 80 x 120cm (Black)
+80 x 120cm (Black)
 
- 70 x 100cm (Gold) ( SOLD OUT )
+70 x 100cm (Gold) ( SOLD OUT )
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb3_2026_10_20_29AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G-M004.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/G-M0041.jpg
@@ -6087,9 +6383,10 @@ Images:
 
 This striking Art Deco tall mirror features an architectural frame that sits elegantly over the reflective surface, creating dimensional visual interest. The geometric lines and refined proportions characteristic of the Art Deco movement make it a sophisticated statement piece for any interior. Perfect for creating the illusion of space whilst adding a touch of vintage glamour to hallways, bedrooms, or living areas. The frame-over-mirror design offers both functional reflection and decorative appeal, seamlessly complementing period interiors or contemporary spaces seeking classic aesthetic refinement.
 
- Size available: 60 x 180cm
+Size available: 60 x 180cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G-M005.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/G-M005.jpg
 
@@ -6102,9 +6399,10 @@ Images:
 
 Elevate your space with this striking geometric mirror featuring a sophisticated gold frame. The clean lines and angular design create visual interest while the warm metallic finish adds contemporary elegance to any room. Perfect for modern interiors seeking both form and function, this piece serves as a statement accent that complements minimalist and eclectic aesthetics alike. The durable gold frame ensures lasting quality and timeless appeal.
 
- Size available: 25 x 110cm
+Size available: 25 x 110cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G-M006.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/G-M006.jpg
 
@@ -6117,11 +6415,12 @@ Images:
 
 The G-M007 presents a geometric framed mirror with reflective surface, available in gold or silver finishes. The angular frame design provides structural integrity whilst the mirrored composition delivers practical functionality and visual appeal. Gold offers warm, sophisticated aesthetics, whilst silver provides contemporary minimalism. The geometric silhouette creates architectural interest suitable for various interior settings and décor styles. Both finishes showcase premium craftsmanship, making this an excellent choice for those seeking decorative pieces that combine form with reflective utility and refined material quality.
 
- Size available: 92 x 130cm
+Size available: 92 x 130cm
 
- GOLD HAS SOLD OUT
+GOLD HAS SOLD OUT
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb3_2026_10_39_55AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb3_2026_10_37_28AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G-M007.png
@@ -6135,9 +6434,10 @@ Images:
 
 Elevate your interior with this distinguished mirror, featuring an ornate gold design that brings timeless elegance to any space. Crafted with classic proportions and refined detailing, this frame transforms an ordinary mirror into a statement piece. The warm gold finish complements both traditional and contemporary décor, adding depth and sophistication to your walls. Perfect for bathrooms, bedrooms, or living areas, this frame delivers enduring style and quality craftsmanship that stands the test of time.
 
- Size available: 50 x 110cm
+Size available: 50 x 110cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G-M0081.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/G-M0081.jpg
 
@@ -6150,9 +6450,10 @@ Images:
 
 This Art Deco frame-over-mirror combines geometric elegance with timeless sophistication. The sleek design features clean lines and symmetrical proportions characteristic of the era, creating a striking focal point for any interior. Available in both lustrous gold and polished silver finishes, it adapts seamlessly to your décor aesthetic. The frame sits gracefully over the mirror surface, adding dimensional depth while maintaining the minimalist refinement Art Deco is renowned for. A versatile statement piece that elevates both contemporary and classic spaces with understated luxury.
 
- Size available: 78 x 115cm
+Size available: 78 x 115cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb3_2026_10_44_54AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G-M009S.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/G-M009S.jpg
@@ -6166,9 +6467,10 @@ Images:
 
 This round mirror showcases a refined gold frame that delivers understated luxury to any room. The minimalist design prioritises clean lines and balanced proportions, allowing the mirror to integrate seamlessly into diverse interior schemes. Ideal for creating focal points in entryways, bedrooms, or living spaces, it combines aesthetic restraint with functional elegance. The warm gold finish enhances natural light whilst adding a touch of prestige without excessive ornamentation. A discerning choice for those who appreciate quality craftsmanship and timeless design principles.
 
- Size available: ∅69cm
+Size available: ∅69cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb9_2026_10_48_22AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/G-M0101.jpg
 
@@ -6180,9 +6482,10 @@ Images:
 
 This tall mirror features a sleek, simple gold frame that complements any interior aesthetic. Its free-standing design offers flexible placement throughout your home, whether in bedrooms, hallways, or living spaces. The minimalist frame construction maintains an understated elegance while the generous height provides full-length reflection. Ideal for those seeking functional décor that enhances spatial perception and adds a touch of refined sophistication to contemporary or transitional interiors.
 
- Size available: 40 x 140cm (free-standing)
+Size available: 40 x 140cm (free-standing)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/GM011.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G-M0111_eb81e40e-553e-47e9-b58c-f3d7ce2aec6e.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/G-M0111.jpg
@@ -6196,11 +6499,12 @@ Images:
 
 Elevate your interior with this sophisticated mirror duo, featuring one sleek black frame and one luxurious gold frame. Both round mirrors showcase timeless design that complements contemporary and classic spaces alike. The clean lines and refined finishes deliver understated elegance, making them ideal for entryways, bedrooms, or living areas. This versatile 2-pack allows you to create balanced visual interest or coordinate with existing décor. Perfect for those seeking quality mirrors that blend functionality with refined aesthetics.
 
- Size available: ∅90cm
+Size available: ∅90cm
 
- Purchased as a pack of 2 mirrors, 1x gold & 1x black
+Purchased as a pack of 2 mirrors, 1x gold & 1x black
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageJan26_2026_03_52_43PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/gold_mirror_lifestyle.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/black_mirror_lifestyle.png
@@ -6216,9 +6520,10 @@ Images:
 
 This elegant three-sided tabletop mirror features a refined gold frame that enhances any vanity or dressing area. The tri-fold design provides multiple viewing angles, allowing you to assess your appearance from different perspectives simultaneously. The gold finish adds a touch of sophistication to your grooming routine whilst maintaining a timeless aesthetic. Ideal for makeup application, styling, and personal grooming, this mirror combines functionality with understated luxury.
 
- Size available: 86 x 58cm
+Size available: 86 x 58cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/G-SY628.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/GSY6281.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/G-SY638.jpg
@@ -6231,13 +6536,14 @@ Images:
 
 The PU006/007 mirror delivers dynamic visual impact through its innovative offset design, creating depth and movement on any wall. Its versatile aesthetic seamlessly complements contemporary, industrial, and eclectic interiors alike. The mirrored surfaces amplify light and expand spatial perception, making it an intelligent choice for compact rooms or areas requiring enhanced brightness. Built for durability and easy installation, this frame adapts effortlessly to evolving décor schemes while maintaining sophisticated appeal.
 
- Sizes available:
+Sizes available:
 
- ∅100cm (PU007 - Round)
+∅100cm (PU007 - Round)
 
- ∅80cm (PU006 - Round)
+∅80cm (PU006 - Round)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb3_2026_09_51_59AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/PU06_1.jpg
 
@@ -6250,15 +6556,16 @@ Images:
 
 The PU010 Mirror delivers dynamic visual impact through its innovative offset design, creating depth and movement on any wall. Its versatile aesthetic seamlessly complements contemporary, industrial, and eclectic interiors alike. The mirrored surfaces amplify light and expand spatial perception, making it an intelligent choice for compact rooms or areas requiring enhanced brightness. Built for durability and easy installation, this frame adapts effortlessly to evolving décor schemes while maintaining sophisticated appeal.
 
- Sizes available:
+Sizes available:
 
- 80 x 120cm
+80 x 120cm
 
- 70 x 100cm
+70 x 100cm
 
- 60 x 90cm
+60 x 90cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/PU010.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/PU010.jpg
 
@@ -6270,17 +6577,18 @@ Images:
 
 The SY1701 features a distinctive thick crushed diamond border that combines luxury with contemporary aesthetics. Its sleek design delivers a refined, minimalist profile that complements any setting. The substantial diamond detailing provides visual impact while maintaining elegant proportions, making this piece a sophisticated choice for those who appreciate understated glamour with a bold edge.
 
- Sizes available:
+Sizes available:
 
- 80 x 160cm (SY1707)
+80 x 160cm (SY1707)
 
- 80 x 120cm (SY1701)
+80 x 120cm (SY1701)
 
- ∅90cm (SY1701 - Round)
+∅90cm (SY1701 - Round)
 
- ∅80cm (SY1703 - Round)
+∅80cm (SY1703 - Round)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY1701.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY1703.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY1701.jpg
@@ -6295,17 +6603,18 @@ Images:
 
 The SY1701/1703 features a distinctive thick crushed diamond border that combines luxury with contemporary aesthetics. Its sleek design delivers a refined, minimalist profile that complements any setting. The substantial diamond detailing provides visual impact while maintaining elegant proportions, making this piece a sophisticated choice for those who appreciate understated glamour with a bold edge.
 
- Sizes available:
+Sizes available:
 
- 80 x 160cm (SY1707)
+80 x 160cm (SY1707)
 
- 80 x 120cm (SY1701)
+80 x 120cm (SY1701)
 
- ∅90cm (SY1701 - Round)
+∅90cm (SY1701 - Round)
 
- ∅80cm (SY1703 - Round)
+∅80cm (SY1703 - Round)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY1703.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY1703.jpg
 
@@ -6317,9 +6626,10 @@ Images:
 
 The SY1702 showcases a striking crushed diamond border composed of geometric squares that frame your mirror with refined sophistication. Each square element features a lustrous diamond-crushed finish that reflects light dynamically, creating depth and visual interest. This architectural design merges contemporary geometry with luxurious sparkle, making it an ideal choice for those seeking a statement piece that balances modern minimalism with glamorous detailing. The structured square pattern ensures a polished, intentional aesthetic suitable for discerning interiors.
 
- Size available: 80 x 120cm
+Size available: 80 x 120cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY1702.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY1702.jpg
 
@@ -6331,17 +6641,18 @@ Images:
 
 This elegant mirror features a thin crushed diamond border that catches and reflects light beautifully, adding sophisticated sparkle to any room. The classic design complements both traditional and contemporary interiors, making it a versatile choice for bedrooms, bathrooms, or living spaces. The refined frame detail elevates the mirror's aesthetic appeal while maintaining a timeless look that won't date. Perfect for those seeking understated luxury with enduring style.
 
- Sizes available:
+Sizes available:
 
- 80x120cm
+80x120cm
 
- 70x100cm
+70x100cm
 
- 60x90cm
+60x90cm
 
- 40x120cm
+40x120cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY1704.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY1704.jpg
 
@@ -6354,15 +6665,16 @@ Images:
 
 A refined mirror featuring a delicate diamond-patterned border in thin strips, this piece exemplifies understated elegance. The minimalist design allows the mirror's reflective surface to take centre stage, making it an ideal choice for contemporary interiors seeking sophistication without visual clutter. The subtle geometric detailing adds a touch of refinement, perfect for bathrooms, bedrooms, or hallways where understated style is valued.
 
- Sizes available:
+Sizes available:
 
- 80x120cm
+80x120cm
 
- 60x90cm
+60x90cm
 
- 40x120cm
+40x120cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY1705.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY1705.jpg
 
@@ -6375,17 +6687,18 @@ Images:
 
 The SY1707 features a distinctive thick crushed diamond border that combines luxury with contemporary aesthetics. Its sleek design delivers a refined, minimalist profile that complements any setting. The substantial diamond detailing provides visual impact while maintaining elegant proportions, making this piece a sophisticated choice for those who appreciate understated glamour with a bold edge.
 
- Sizes available:
+Sizes available:
 
- 80 x 160cm (SY1707)
+80 x 160cm (SY1707)
 
- 80 x 120cm (SY1701)
+80 x 120cm (SY1701)
 
- ∅90cm (SY1701 - Round)
+∅90cm (SY1701 - Round)
 
- ∅80cm (SY1703 - Round)
+∅80cm (SY1703 - Round)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY1701.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY1701_80b02ae9-c82e-439a-b655-9c2e6069ff2c.jpg
 
@@ -6398,21 +6711,22 @@ Images:
 
 The SY1710 features a robust aluminium frame engineered for durability and lightweight performance. Available in multiple sizes to suit various applications, this model combines structural integrity with practical versatility. The aluminium construction resists corrosion and ensures long-lasting reliability, making it an excellent choice for demanding environments. Select your preferred size from the range to match your specific requirements.
 
- Sizes available:
+Sizes available:
 
- 50 x 160cm (F1710 - free-standing)
+50 x 160cm (F1710 - free-standing)
 
- 80 x 160cm (SY1710-1)
+80 x 160cm (SY1710-1)
 
- 80 x 120cm (SY1710-2)
+80 x 120cm (SY1710-2)
 
- 60 x 80cm (SY1710-3)
+60 x 80cm (SY1710-3)
 
- 40 x 60cm (SY1710-4)
+40 x 60cm (SY1710-4)
 
- 40 x 120cm (SY1710-5)
+40 x 120cm (SY1710-5)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY1710_2.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY1710.jpg
 
@@ -6424,9 +6738,10 @@ Images:
 
 This striking mirror showcases a staggered border design that creates visual depth and contemporary appeal. The elegant frame combines clean lines with an eclectic aesthetic, making it a versatile statement piece for modern and traditional interiors alike. Perfect for adding architectural interest to hallways, living rooms, or bedrooms, this mirror reflects light beautifully whilst serving as a functional art installation. The thoughtfully layered border detail elevates any space with understated sophistication.
 
- Size available: 80 x 120cm
+Size available: 80 x 120cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY1719.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6165.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY1719.jpg
@@ -6439,9 +6754,10 @@ Images:
 
 This elegant round mirror features a sophisticated partitioned mirrored border design that creates visual depth and contemporary appeal. The segmented frame construction adds architectural interest while the circular form complements modern and traditional interiors alike. Perfect for entryways, living spaces, or bedrooms, this piece combines functional reflection with striking decorative impact. The mirrored border amplifies light throughout your room, enhancing brightness and creating an illusion of expanded space. A versatile statement piece that elevates any wall with refined style and practical utility.
 
- Size available: ∅100cm
+Size available: ∅100cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb6_2026_01_26_47PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY1720.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_6147.jpg
@@ -6455,17 +6771,18 @@ Images:
 
 This sophisticated heart-shaped piece showcases a meticulously crafted crushed diamond border that delivers exceptional sparkle and depth. Hidden LED technology illuminates the perimeter, creating an enchanting glow that highlights the diamond detailing without visible light sources. The seamless integration of lighting enhances the piece's luxurious appeal, making it an outstanding decorative accent. Ideal for those who appreciate refined craftsmanship combined with contemporary illumination design.
 
- Sizes available:
+Sizes available:
 
- 55 x 160cm (F1761 - free-standing)
+55 x 160cm (F1761 - free-standing)
 
- 80 x 120cm (SY1761)
+80 x 120cm (SY1761)
 
- 80 x 80cm (SY1761 - Octagon shaped)
+80 x 80cm (SY1761 - Octagon shaped)
 
- 70 x 90cm (SY1760 - Heart shaped)
+70 x 90cm (SY1760 - Heart shaped)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY17601.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY17601.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY17602.jpg
@@ -6479,17 +6796,18 @@ Images:
 
 This octagon-shaped mirror features a sophisticated crushed diamond border that catches and reflects light beautifully. The integrated LED illumination system, discreetly concealed within the frame, provides even, flattering lighting ideal for grooming and makeup application. The hidden technology creates a seamless aesthetic while delivering practical brightness. Perfect for contemporary bathrooms or dressing areas, this piece combines functional lighting with elegant design.
 
- Sizes available:
+Sizes available:
 
- 55 x 160cm (F1761 - free-standing)
+55 x 160cm (F1761 - free-standing)
 
- 80 x 120cm (SY1761)
+80 x 120cm (SY1761)
 
- 80 x 80cm (SY1761 - Octagon shaped)
+80 x 80cm (SY1761 - Octagon shaped)
 
- 70 x 90cm (SY1760 - Heart shaped)
+70 x 90cm (SY1760 - Heart shaped)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb6_2026_01_25_20PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY1761Octagon1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY1761Octagon2.jpg
@@ -6503,9 +6821,10 @@ Images:
 
 A three-sided mirror design offers superior visibility from multiple angles, making it an essential addition to any dressing area or vanity. This classic-style mirror features a traditional aesthetic that complements both contemporary and period interiors. The angled panels provide comprehensive reflection coverage, allowing you to assess your appearance from the front and sides simultaneously
 
- Size available: 77 x 55cm
+Size available: 77 x 55cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY63021.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY63021_eb719fee-c692-4027-b875-78bc16c025c0.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY63021.jpg
@@ -6520,9 +6839,10 @@ Images:
 
 Three-sided mirror with classic styling and crushed diamond borders that catch and reflect light beautifully. The angled design provides multiple viewing angles, ideal for makeup application, grooming, or vanity displays. Crushed diamond detailing adds an elegant touch of glamour to any dressing table or bedroom. Durable construction ensures lasting quality and performance.
 
- Size available: 77 x 55cm
+Size available: 77 x 55cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY6303_7f95309c-9c06-400b-8370-878bb3db56dc.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageMar4_2026_09_49_56AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY63031.jpg
@@ -6537,9 +6857,10 @@ Images:
 
 Transform your daily routine with this sophisticated circular vanity mirror, expertly crafted with a shimmering crushed diamond embellishment that catches light beautifully. The integrated LED border provides professional-grade illumination, with discreetly concealed lighting that eliminates shadows and ensures flawless visibility. Perfect for makeup application, grooming, or simply elevating your bathroom aesthetic, this mirror combines luxury finishes with practical functionality. The hidden LED technology delivers consistent, flattering light without visible fixtures, creating a seamless, high-end appearance.
 
- Size available: 51 x 11 x 54cm
+Size available: 51 x 11 x 54cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/6311_led.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY6301LED1_bccbe896-545f-4805-bc0e-6eda9811e522.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/LEDTabletopMirror_SY6301_1.jpg
@@ -6554,9 +6875,10 @@ Images:
 
 This elegant three-panel mirror features a reflective central panel flanked by two outer panels adorned with crushed diamond embellishment. The sparkling diamond detailing creates a luxurious focal point, catching and reflecting light to enhance any room's ambiance. Perfect for vanities, dressing areas, or as a statement piece, this mirror combines functionality with sophisticated decorative appeal. The multi-panel design offers versatile positioning and expanded viewing angles whilst the shimmering embellishment adds contemporary glamour to traditional or modern interiors.
 
- Size available: 83 x 61cm
+Size available: 83 x 61cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY6308.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SY63081.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/products/SY63081.jpg
@@ -6570,15 +6892,16 @@ Images:
 
 Crafted with meticulous attention to detail, this mirror features a sophisticated wooden frame adorned with intricate decorative elements. Each finish delivers an elegant aesthetic that complements both contemporary and traditional interiors, making it a versatile addition to any room seeking refined style and functional beauty.
 
- Available in Champagne, Dark Silver, Gold
+Available in Champagne, Dark Silver, Gold
 
- Sizes available:
+Sizes available:
 
- 100 x 200cm
+100 x 200cm
 
- 80 x 160cm
+80 x 160cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb12_2026_02_14_53PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb12_2026_03_09_21PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb12_2026_03_09_06PM.png
@@ -6594,15 +6917,16 @@ Images:
 
 Crafted with a sophisticated wooden frame featuring intricate detailing, this mirror combines classical aesthetics with functional elegance. Each finish enhances the ornamental craftsmanship, making it an ideal statement piece for spaces requiring refined décor. Perfect for adding depth and light to any room whilst maintaining a polished, curated appearance.
 
- Available in Dark Silver, Gold, Champagne
+Available in Dark Silver, Gold, Champagne
 
- Sizes available:
+Sizes available:
 
- 100 x 200cm
+100 x 200cm
 
- 80 x 160cm
+80 x 160cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb12_2026_02_10_48PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb12_2026_03_09_14PM_c6e70e7a-237c-4caa-a402-99e83713d0a8.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb12_2026_03_09_21PM.png
@@ -6623,17 +6947,18 @@ Images:
 
 Transform your outdoor spaces with a purpose-built composite cladding system engineered for durability and aesthetic appeal. Each panel features authentic wood grain texturing and interlocking design for seamless installation and a cohesive finish. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. This pack contains 12 pieces in a finish that coordinates seamlessly with our broader outdoor collection. This pack contains six panels covering 290cm each, delivering professional-grade cladding that combines weather resistance with contemporary styling.
 
- Size available:
+Size available:
 
- 14.7 x 290 x 2cm per panel
+14.7 x 290 x 2cm per panel
 
- 13.5 x 290 x 2cm per fitted and interlocked panel
+13.5 x 290 x 2cm per fitted and interlocked panel
 
- 6 pieces per pack
+6 pieces per pack
 
- Area covered: 2.35m² per pack when fitted and interlocked
+Area covered: 2.35m² per pack when fitted and interlocked
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/87AOak03.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/87A03.png
 
@@ -6646,23 +6971,24 @@ Images:
 
 Transform your outdoor spaces with a purpose-built composite cladding system engineered for durability and aesthetic appeal. Each panel features authentic wood grain texturing and interlocking design for seamless installation and a cohesive finish. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. This pack contains 12 pieces in a finish that coordinates seamlessly with our broader outdoor collection. This pack contains six panels covering 290cm each, delivering professional-grade cladding that combines weather resistance with contemporary styling.
 
- Size available:
+Size available:
 
- 14.7 x 290 x 2cm per panel
+14.7 x 290 x 2cm per panel
 
- 13.5 x 290 x 2cm per fitted and interlocked panel
+13.5 x 290 x 2cm per fitted and interlocked panel
 
- 6 pieces per pack
+6 pieces per pack
 
- Area covered: 2.35m² per pack when fitted and interlocked
+Area covered: 2.35m² per pack when fitted and interlocked
 
- Trims:
+Trims:
 
- Wall Panel 83B Trim - Grey - 290cm - (1 Pack / 10pcs)
+Wall Panel 83B Trim - Grey - 290cm - (1 Pack / 10pcs)
 
- Wall Panel 84B Trim - Grey - 240cm - (1 Pack / 10pcs)
+Wall Panel 84B Trim - Grey - 240cm - (1 Pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_09_44_40AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/87B_a05bbe23-ba6c-414f-add3-acb8708e3331.png
 
@@ -6675,23 +7001,24 @@ Images:
 
 Transform your outdoor spaces with a purpose-built composite cladding system engineered for durability and aesthetic appeal. Each panel features authentic wood grain texturing and interlocking design for seamless installation and a cohesive finish. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. This pack contains 12 pieces in a finish that coordinates seamlessly with our broader outdoor collection. This pack contains six panels covering 290cm each, delivering professional-grade cladding that combines weather resistance with contemporary styling.
 
- Size available:
+Size available:
 
- 14.7 x 290 x 2cm per panel
+14.7 x 290 x 2cm per panel
 
- 13.5 x 290 x 2cm per fitted and interlocked panel
+13.5 x 290 x 2cm per fitted and interlocked panel
 
- 6 pieces per pack
+6 pieces per pack
 
- Area covered: 2.35m² per pack when fitted and interlocked
+Area covered: 2.35m² per pack when fitted and interlocked
 
- Trims:
+Trims:
 
- Wall Panel 83D Trim - Dark Brown - 290cm - (1 Pack / 10pcs)
+Wall Panel 83D Trim - Dark Brown - 290cm - (1 Pack / 10pcs)
 
- Wall Panel 84D Trim - Dark Brown - 240cm - (1 Pack / 10pcs)
+Wall Panel 84D Trim - Dark Brown - 240cm - (1 Pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/87DDarkBrown.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/87D_95a8131c-0890-47a6-bae0-c02f548aa11a.png
 
@@ -6704,23 +7031,24 @@ Images:
 
 Transform your outdoor spaces with a purpose-built composite cladding system engineered for durability and aesthetic appeal. Each panel features authentic wood grain texturing and interlocking design for seamless installation and a cohesive finish. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. This pack contains 12 pieces in a finish that coordinates seamlessly with our broader outdoor collection. This pack contains six panels covering 290cm each, delivering professional-grade cladding that combines weather resistance with contemporary styling.
 
- Size available:
+Size available:
 
- 14.7 x 290 x 2cm per panel
+14.7 x 290 x 2cm per panel
 
- 13.5 x 290 x 2cm per fitted and interlocked panel
+13.5 x 290 x 2cm per fitted and interlocked panel
 
- 6 pieces per pack
+6 pieces per pack
 
- Area covered: 2.35m² per pack when fitted and interlocked
+Area covered: 2.35m² per pack when fitted and interlocked
 
- Trims:
+Trims:
 
- Wall Panel 83E Trim - Black - 290cm - (1 Pack / 10pcs)
+Wall Panel 83E Trim - Black - 290cm - (1 Pack / 10pcs)
 
- Wall Panel 84E Trim - Black - 240cm - (1 Pack / 10pcs)
+Wall Panel 84E Trim - Black - 240cm - (1 Pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_09_44_42AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/87E_95e95700-be28-403b-833b-f183597e3d18.png
 
@@ -6733,23 +7061,24 @@ Images:
 
 Transform your outdoor spaces with a purpose-built composite cladding system engineered for durability and aesthetic appeal. Each panel features authentic wood grain texturing and interlocking design for seamless installation and a cohesive finish. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. This pack contains 12 pieces in a finish that coordinates seamlessly with our broader outdoor collection. This pack contains six panels covering 290cm each, delivering professional-grade cladding that combines weather resistance with contemporary styling.
 
- Size available:
+Size available:
 
- 14.7 x 290 x 2cm per panel
+14.7 x 290 x 2cm per panel
 
- 13.5 x 290 x 2cm per fitted and interlocked panel
+13.5 x 290 x 2cm per fitted and interlocked panel
 
- 6 pieces per pack
+6 pieces per pack
 
- Area covered: 2.35m² per pack when fitted and interlocked
+Area covered: 2.35m² per pack when fitted and interlocked
 
- Trims:
+Trims:
 
- Wall Panel 83F Trim - Khaki - 290cm - (1 Pack / 10pcs)
+Wall Panel 83F Trim - Khaki - 290cm - (1 Pack / 10pcs)
 
- Wall Panel 84F Trim - Khaki - 240cm - (1 Pack / 10pcs)
+Wall Panel 84F Trim - Khaki - 240cm - (1 Pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/87FKhaki.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/87F.png
 
@@ -6764,13 +7093,14 @@ Images:
 
 Composite outdoor decking board featuring authentic wood grain texture, designed to coordinate seamlessly with your existing outdoor furniture and landscaping collections. This durable, weather-resistant solution offers the aesthetic appeal of natural wood without the maintenance demands. The decking is also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Each pack contains four pieces measuring 290cm, providing flexible coverage for patios, pathways, and deck installations. Fittings and fasteners are available separately to complete your project. Ideal for creating a cohesive outdoor living space that withstands the elements whilst maintaining its appearance season after season.
 
- Size available: 15 x 290 x 2.3cm per panel
+Size available: 15 x 290 x 2.3cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 1.74m² per pack
+Area covered: 1.74m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/85AOak03.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/85A03.png
 
@@ -6783,15 +7113,16 @@ Images:
 
 Composite outdoor decking board featuring authentic wood grain texture, designed to coordinate seamlessly with your existing outdoor furniture and landscaping collections. This durable, weather-resistant solution offers the aesthetic appeal of natural wood without the maintenance demands. The decking is also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Each pack contains four pieces measuring 290cm, providing flexible coverage for patios, pathways, and deck installations. Fittings and fasteners are available separately to complete your project. Ideal for creating a cohesive outdoor living space that withstands the elements whilst maintaining its appearance season after season.
 
- Size available: 15 x 290 x 2.3cm per panel
+Size available: 15 x 290 x 2.3cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 1.74m² per pack
+Area covered: 1.74m² per pack
 
- Trim: Wall Panel 83B Trim - Grey - 290cm - (1 Pack / 10pcs)
+Trim: Wall Panel 83B Trim - Grey - 290cm - (1 Pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_09_53_43AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/85B.png
 
@@ -6804,15 +7135,16 @@ Images:
 
 Composite outdoor decking boards engineered for durability and aesthetic versatility. Each pack contains four pieces featuring reversible design—choose between authentic wood grain finish or practical anti-slip ribbed texture depending on your application. The rich dark brown tone coordinates seamlessly with complementary outdoor furniture and landscaping collections. Constructed from composite materials for superior weather resistance and minimal maintenance compared to traditional timber. The decking is also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Installation hardware sold separately, allowing you to customise your setup. Ideal for patios, walkways, and deck projects requiring reliable performance in demanding outdoor environments.
 
- Size available: 15 x 290 x 2.3cm per panel
+Size available: 15 x 290 x 2.3cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 1.74m² per pack
+Area covered: 1.74m² per pack
 
- Trim: Wall Panel 83D Trim - Dark Brown - 290cm - (1 Pack / 10pcs)
+Trim: Wall Panel 83D Trim - Dark Brown - 290cm - (1 Pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_09_53_45AM_f145dc6e-11e8-459f-b3f6-cd2a26d206a5.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/85D.png
 
@@ -6825,15 +7157,16 @@ Images:
 
 Composite outdoor decking boards engineered for durability and aesthetic versatility. Each pack contains four pieces featuring reversible design—choose between authentic wood grain finish or practical anti-slip ribbed texture depending on your application. The rich black tone coordinates seamlessly with complementary outdoor furniture and landscaping collections. Constructed from composite materials for superior weather resistance and minimal maintenance compared to traditional timber. The decking is also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Installation hardware sold separately, allowing you to customise your setup. Ideal for patios, walkways, and deck projects requiring reliable performance in demanding outdoor environments.
 
- Size available: 15 x 290 x 2.3cm per panel
+Size available: 15 x 290 x 2.3cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 1.74m² per pack
+Area covered: 1.74m² per pack
 
- Trim: Wall Panel 83E Trim - Black - 290cm - (1 Pack / 10pcs)
+Trim: Wall Panel 83E Trim - Black - 290cm - (1 Pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_09_53_47AM_86ccbfb6-262e-4dfc-811a-0437fdadcf11.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/85E.png
 
@@ -6846,15 +7179,16 @@ Images:
 
 Composite outdoor decking board featuring authentic wood grain texture in khaki, designed to coordinate seamlessly with your existing outdoor furniture and landscaping collections. This durable, weather-resistant solution offers the aesthetic appeal of natural wood without the maintenance demands. Each pack contains four pieces measuring 290cm, providing flexible coverage for patios, pathways, and deck installations. The decking is also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Fittings and fasteners are available separately to complete your project. Ideal for creating a cohesive outdoor living space that withstands the elements whilst maintaining its appearance season after season.
 
- Size available: 15 x 290 x 2.3cm per panel
+Size available: 15 x 290 x 2.3cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 1.74m² per pack
+Area covered: 1.74m² per pack
 
- Trim: Wall Panel 83F Trim - Khaki - 290cm - (1 Pack / 10pcs)
+Trim: Wall Panel 83F Trim - Khaki - 290cm - (1 Pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/85f_khaki.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/85F.png
 
@@ -6867,9 +7201,10 @@ Images:
 
 These composite decking fittings are engineered for seamless integration with our decking systems. Each pack contains 80 pieces, providing comprehensive coverage for most residential projects. The straightforward installation process requires simply sliding the fittings into the decking grooves and securing with screws—no specialised tools or expertise needed. Designed for durability and longevity, these fittings ensure your composite deck maintains structural integrity and aesthetic appeal for years to come.
 
- 80 pieces per pack
+80 pieces per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/e77515c0-6077-4ccf-929d-47ec1379f066.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/293717be-e0e8-4b23-8850-e356d7c8adf0.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/5b9f6ee4-ab8b-45ea-9f73-2bce2bed48a3.jpg
@@ -6885,15 +7220,16 @@ Images:
 
 Composite trim designed to create seamless finishes on wall panel cladding and outdoor decking. This 290cm length offers UV resistance to withstand outdoor conditions without fading or deterioration. Perfect for protecting edges and transitions while maintaining a clean, professional appearance. Each pack contains 10 pieces, providing complete coverage for your project.
 
- Size available:
+Size available:
 
- 4 x 4 x 290cm per trim
+4 x 4 x 290cm per trim
 
- 10 pieces per pack
+10 pieces per pack
 
- This can also be used with our decking
+This can also be used with our decking
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/83AOak03_f12f7275-9e13-4803-8f34-833eed6b890d.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/83BGrey_5665cb51-63b1-4d8e-8c76-4a4b29a682d8.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/83CLightBrown_62bef8de-239b-498b-a4b5-eb1224133705.jpg
@@ -6915,11 +7251,12 @@ Images:
 
 Lightweight aluminium sheet measuring 180cm long and 30cm wide, engineered for seamless integration into fence systems. Features precision-cut detailing and design with top and bottom aluminium trim strips - one fitted with grooves to lock securely into standard fence panel trims. Trim thickness of 19mm ensures solid, reliable installation. Ideal for adding decorative lattice elements to existing fence frameworks.
 
- Size available: 180 x 30 x 0.2cm
+Size available: 180 x 30 x 0.2cm
 
- Each pack contains 1 lattice, 2 top and bottom trims, 2 L-connectors and 8 screws
+Each pack contains 1 lattice, 2 top and bottom trims, 2 L-connectors and 8 screws
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG-2709.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Lattice_01_1.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/FullSizeRender_d511d35b-9259-484b-8bb7-24fc265d3b2c.jpg
@@ -6934,11 +7271,12 @@ Images:
 
 Lightweight aluminium sheet measuring 180cm long and 30cm wide, engineered for seamless integration into fence systems. Features precision-cut detailing and design with top and bottom aluminium trim strips - one fitted with grooves to lock securely into standard fence panel trims. Trim thickness of 19mm ensures solid, reliable installation. Ideal for adding decorative lattice elements to existing fence frameworks.
 
- Size available: 180 x 30 x 0.2cm
+Size available: 180 x 30 x 0.2cm
 
- Each pack contains 1 lattice, 2 top and bottom trims, 2 L-connectors and 8 screws
+Each pack contains 1 lattice, 2 top and bottom trims, 2 L-connectors and 8 screws
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG-2707.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Lattice_02_1.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/FullSizeRender_d511d35b-9259-484b-8bb7-24fc265d3b2c.jpg
@@ -6953,19 +7291,20 @@ Images:
 
 Three-way composite fence post designed to accommodate 2cm thick fence panels. Each post measures 8 x 8 x 190cm with precision-cut grooves (20mm wide, 18mm deep) for secure panel installation. UV-resistant composite material protects against sun damage and colour fading, maintaining the black finish and structural integrity through years of outdoor exposure. Pack contains 4 posts, ideal for creating sturdy, weather-resistant fencing sections. Durable composite construction resists rot and splitting.
 
- Size available: 8 x 8 x 190cm
+Size available: 8 x 8 x 190cm
 
- Gaps for fence panels 20mm wide and 18mm deep
+Gaps for fence panels 20mm wide and 18mm deep
 
- 4 pieces per pack
+4 pieces per pack
 
- Fencing: Fencing 86 - Outdoor - 180cm
+Fencing: Fencing 86 - Outdoor - 180cm
 
- Fitting kit: Fence Post Fitting Kit - Black (1 Carton / 4 Sets)
+Fitting kit: Fence Post Fitting Kit - Black (1 Carton / 4 Sets)
 
- Packaging dimensions: 00 x 00 x 00cm (GW: 23kg) CBM: 0.000
+Packaging dimensions: 00 x 00 x 00cm (GW: 23kg) CBM: 0.000
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/C7A344BD-E8C0-4C90-8CCC-6D018434AA05.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/721827EC-CBAD-4245-BF0E-618D55B0EDA5.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/FencePost.png
@@ -6980,17 +7319,18 @@ Images:
 
 4-piece fitting kit for secure fence post installation on hard surfaces. Each set includes a post hat, base cover, mounting bracket, and stainless steel bolts. Designed for concrete slabs, tarmac, and similar floors. One pack contains 4 complete sets, providing everything needed for professional-grade post assembly and anchoring.
 
- 4 fitting kits per carton
+4 fitting kits per carton
 
- Posts: Fence Post - Black (1 Pack / 4pcs)
+Posts: Fence Post - Black (1 Pack / 4pcs)
 
- Packaging dimensions:
+Packaging dimensions:
 
- Single set: 15.5 x 15.5 x 20.5cm (GW: 0.00kg) CBM: 0.005
+Single set: 15.5 x 15.5 x 20.5cm (GW: 0.00kg) CBM: 0.005
 
- 4 set carton: 00 x 00 x 00cm (GW: 00kg) CBM: 0.000
+4 set carton: 00 x 00 x 00cm (GW: 00kg) CBM: 0.000
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Post_Fitting_Kit.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Post_Fitting_Kit_1.1.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Post_Fitting_Kit_1.png
@@ -7009,23 +7349,24 @@ Images:
 
 Premium composite fence panels designed for seamless, professional installations. Each pack contains 6 durable panels measuring 180cm in length, 2cm thick and 15cm wide. The composite construction ensures weather resistance and UV resistance, protecting against fading and colour degradation in direct sunlight. The clean, modern finish complements any outdoor space and maintains its appearance year-round. Seamless fit technology allows panels to connect smoothly without visible gaps, creating a uniform appearance across your garden or property boundary. Low-maintenance and built to last, these panels offer a contemporary alternative to traditional timber fencing.
 
- Trims available to fit current concrete posts
+Trims available to fit current concrete posts
 
- Posts available for new installations
+Posts available for new installations
 
- Size available: 15 x 180 x 2cm per fitted and interlocked panel
+Size available: 15 x 180 x 2cm per fitted and interlocked panel
 
- 6 pieces per pack
+6 pieces per pack
 
- Two packs required per fence panel
+Two packs required per fence panel
 
- Area covered: 1.62m² per pack when fitted and interlocked
+Area covered: 1.62m² per pack when fitted and interlocked
 
- Posts: Fence Post - Black (1 Pack / 4pcs)
+Posts: Fence Post - Black (1 Pack / 4pcs)
 
- Packaging dimensions: 13 x 17 x 181cm (GW: 18.5kg) CBM: 0.040
+Packaging dimensions: 13 x 17 x 181cm (GW: 18.5kg) CBM: 0.040
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/86AOak03-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/86A03_81b94d14-3bbd-4d7b-afe9-a7b33b506471.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WhatsAppImage2026-06-26at09.52.17.jpg
@@ -7041,25 +7382,26 @@ Images:
 
 Premium composite fence panels designed for seamless, professional installations. Each pack contains 6 durable panels measuring 180cm in length, 2cm thick and 15cm wide. The composite construction ensures weather resistance and UV resistance, protecting against fading and colour degradation in direct sunlight. The clean, modern finish complements any outdoor space and maintains its appearance year-round. Seamless fit technology allows panels to connect smoothly without visible gaps, creating a uniform appearance across your garden or property boundary. Low-maintenance and built to last, these panels offer a contemporary alternative to traditional timber fencing.
 
- Trims available to fit current concrete posts
+Trims available to fit current concrete posts
 
- Posts available for new installations
+Posts available for new installations
 
- Size available: 15 x 180 x 2cm per fitted and interlocked panel
+Size available: 15 x 180 x 2cm per fitted and interlocked panel
 
- 6 pieces per pack
+6 pieces per pack
 
- Two packs required per fence panel
+Two packs required per fence panel
 
- Area covered: 1.62m² per pack when fitted and interlocked
+Area covered: 1.62m² per pack when fitted and interlocked
 
- Trim: Fencing 86B Trim - Grey - 180cm (1 Pack / 4pcs)
+Trim: Fencing 86B Trim - Grey - 180cm (1 Pack / 4pcs)
 
- Posts: Fence Post - Black (1 Pack / 4pcs)
+Posts: Fence Post - Black (1 Pack / 4pcs)
 
- Packaging dimensions: 13 x 17 x 181cm (GW: 18.5kg) CBM: 0.040
+Packaging dimensions: 13 x 17 x 181cm (GW: 18.5kg) CBM: 0.040
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/86BGrey-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG-1196.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WhatsAppImage2026-06-26at09.52.08.jpg
@@ -7077,15 +7419,16 @@ Images:
 
 Fencing trim designed to fit standard 40mm concrete post installations. Each pack contains 4 pieces of trim. Cut to length as needed to trim the top and bottom edges of fence panels, creating a neat, finished appearance. Ideal for concealing raw panel edges and providing a professional look to your fencing installation. Compatible with 40mm post widths.
 
- Size available: 4 x 180 x 4cm
+Size available: 4 x 180 x 4cm
 
- 4 pieces per pack
+4 pieces per pack
 
- Fencing: Fencing 86B - Grey - Outdoor - 180cm (1 Pack / 6pcs)
+Fencing: Fencing 86B - Grey - Outdoor - 180cm (1 Pack / 6pcs)
 
- Packaging dimensions: 00 x 00 x 00cm (GW: 0kg) CBM: 0.000
+Packaging dimensions: 00 x 00 x 00cm (GW: 0kg) CBM: 0.000
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/86ATrim.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/5CD254B6-FF55-424A-A938-3D52E81B849E.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/86DTrim.png
@@ -7103,25 +7446,26 @@ Images:
 
 Premium composite fence panels designed for seamless, professional installations. Each pack contains 6 durable panels measuring 180cm in length, 2cm thick and 15cm wide. The composite construction ensures weather resistance and UV resistance, protecting against fading and colour degradation in direct sunlight. The clean, modern finish complements any outdoor space and maintains its appearance year-round. Seamless fit technology allows panels to connect smoothly without visible gaps, creating a uniform appearance across your garden or property boundary. Low-maintenance and built to last, these panels offer a contemporary alternative to traditional timber fencing.
 
- Trims available to fit current concrete posts
+Trims available to fit current concrete posts
 
- Posts available for new installations
+Posts available for new installations
 
- Size available: 15 x 180 x 2cm per fitted and interlocked panel
+Size available: 15 x 180 x 2cm per fitted and interlocked panel
 
- 6 pieces per pack
+6 pieces per pack
 
- Two packs required per fence panel
+Two packs required per fence panel
 
- Area covered: 1.62m² per pack when fitted and interlocked
+Area covered: 1.62m² per pack when fitted and interlocked
 
- Trim: Fencing 86D Trim - Dark Brown - 180cm (1 Pack / 4pcs)
+Trim: Fencing 86D Trim - Dark Brown - 180cm (1 Pack / 4pcs)
 
- Posts: Fence Post - Black (1 Pack / 4pcs)
+Posts: Fence Post - Black (1 Pack / 4pcs)
 
- Packaging dimensions: 13 x 17 x 181cm (GW: 18.5kg) CBM: 0.040
+Packaging dimensions: 13 x 17 x 181cm (GW: 18.5kg) CBM: 0.040
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/86DDarkBrown-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageApr9_2026_02_03_33PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WhatsAppImage2026-06-26at09.52.10.jpg
@@ -7139,25 +7483,26 @@ Images:
 
 Premium composite fence panels designed for seamless, professional installations. Each pack contains 6 durable panels measuring 180cm in length, 2cm thick and 15cm wide. The composite construction ensures weather resistance and UV resistance, protecting against fading and colour degradation in direct sunlight. The clean, modern finish complements any outdoor space and maintains its appearance year-round. Seamless fit technology allows panels to connect smoothly without visible gaps, creating a uniform appearance across your garden or property boundary. Low-maintenance and built to last, these panels offer a contemporary alternative to traditional timber fencing.
 
- Trims available to fit current concrete posts
+Trims available to fit current concrete posts
 
- Posts available for new installations
+Posts available for new installations
 
- Size available: 15 x 180 x 2cm per fitted and interlocked panel
+Size available: 15 x 180 x 2cm per fitted and interlocked panel
 
- 6 pieces per pack
+6 pieces per pack
 
- Two packs required per fence panel
+Two packs required per fence panel
 
- Area covered: 1.62m² per pack when fitted and interlocked
+Area covered: 1.62m² per pack when fitted and interlocked
 
- Trim: Fencing 86E Trim - Black - 180cm (1 Pack / 4pcs)
+Trim: Fencing 86E Trim - Black - 180cm (1 Pack / 4pcs)
 
- Posts: Fence Post - Black (1 Pack / 4pcs)
+Posts: Fence Post - Black (1 Pack / 4pcs)
 
- Packaging dimensions: 13 x 17 x 181cm (GW: 18.5kg) CBM: 0.040
+Packaging dimensions: 13 x 17 x 181cm (GW: 18.5kg) CBM: 0.040
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/86EBlack-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageApr9_2026_01_58_55PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WhatsAppImage2026-06-26at09.52.12.jpg
@@ -7175,25 +7520,26 @@ Images:
 
 Premium composite fence panels designed for seamless, professional installations. Each pack contains 6 durable panels measuring 180cm in length, 2cm thick and 15cm wide. The composite construction ensures weather resistance and UV resistance, protecting against fading and colour degradation in direct sunlight. The clean, modern finish complements any outdoor space and maintains its appearance year-round. Seamless fit technology allows panels to connect smoothly without visible gaps, creating a uniform appearance across your garden or property boundary. Low-maintenance and built to last, these panels offer a contemporary alternative to traditional timber fencing.
 
- Trims available to fit current concrete posts
+Trims available to fit current concrete posts
 
- Posts available for new installations
+Posts available for new installations
 
- Size available: 15 x 180 x 2cm per fitted and interlocked panel
+Size available: 15 x 180 x 2cm per fitted and interlocked panel
 
- 6 pieces per pack
+6 pieces per pack
 
- Two packs required per fence panel
+Two packs required per fence panel
 
- Area covered: 1.62m² per pack when fitted and interlocked
+Area covered: 1.62m² per pack when fitted and interlocked
 
- Trim: Fencing 86F Trim - Khaki - 180cm (1 Pack / 4pcs)
+Trim: Fencing 86F Trim - Khaki - 180cm (1 Pack / 4pcs)
 
- Posts: Fence Post - Black (1 Pack / 4pcs)
+Posts: Fence Post - Black (1 Pack / 4pcs)
 
- Packaging dimensions: 13 x 17 x 181cm (GW: 18.5kg) CBM: 0.040
+Packaging dimensions: 13 x 17 x 181cm (GW: 18.5kg) CBM: 0.040
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/86FKhaki-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageApr9_2026_01_39_44PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WhatsAppImage2026-06-26at09.52.03.jpg
@@ -7211,21 +7557,22 @@ Images:
 
 Premium composite fence panels designed for seamless, professional installations. Each pack contains 6 durable panels measuring 180cm in length, 2cm thick and 16cm wide. The composite construction ensures weather resistance and UV resistance, protecting against fading and colour degradation in direct sunlight. The clean, modern finish complements any outdoor space and maintains its appearance year-round. Seamless fit technology allows panels to connect smoothly without visible gaps, creating a uniform appearance across your garden or property boundary. Low-maintenance and built to last, these panels offer a contemporary alternative to traditional timber fencing.
 
- Trims available to fit current concrete posts
+Trims available to fit current concrete posts
 
- Posts available for new installations
+Posts available for new installations
 
- Size available: 16 x 180 x 2cm per fitted and interlocked panel
+Size available: 16 x 180 x 2cm per fitted and interlocked panel
 
- 6 pieces per pack
+6 pieces per pack
 
- Two packs required per fence panel
+Two packs required per fence panel
 
- Area covered: 1.73 m² per pack when fitted and interlocked
+Area covered: 1.73 m² per pack when fitted and interlocked
 
- Posts: Fence Post - Black (1 Pack / 4pcs)
+Posts: Fence Post - Black (1 Pack / 4pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WhatsAppImage2026-06-18at11.39.28_8_-Copy-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/F88A.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WhatsAppImage2026-06-26at09.52.37.jpg
@@ -7240,23 +7587,24 @@ Images:
 
 Premium composite fence panels designed for seamless, professional installations. Each pack contains 6 durable panels measuring 180cm in length, 2cm thick and 16cm wide. The composite construction ensures weather resistance and UV resistance, protecting against fading and colour degradation in direct sunlight. The clean, modern finish complements any outdoor space and maintains its appearance year-round. Seamless fit technology allows panels to connect smoothly without visible gaps, creating a uniform appearance across your garden or property boundary. Low-maintenance and built to last, these panels offer a contemporary alternative to traditional timber fencing.
 
- Trims available to fit current concrete posts
+Trims available to fit current concrete posts
 
- Posts available for new installations
+Posts available for new installations
 
- Size available: 16 x 180 x 2cm per fitted and interlocked panel
+Size available: 16 x 180 x 2cm per fitted and interlocked panel
 
- 6 pieces per pack
+6 pieces per pack
 
- Two packs required per fence panel
+Two packs required per fence panel
 
- Area covered: 1.73 m² per pack when fitted and interlocked
+Area covered: 1.73 m² per pack when fitted and interlocked
 
- Posts: Fence Post - Black (1 Pack / 4pcs)
+Posts: Fence Post - Black (1 Pack / 4pcs)
 
- Trim: Fencing 86B Trim - Grey - 180cm (1 Pack / 4pcs)
+Trim: Fencing 86B Trim - Grey - 180cm (1 Pack / 4pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WhatsAppImage2026-06-18at11.39.28_6.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/F88B.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WhatsAppImage2026-06-26at09.52.24.jpg
@@ -7271,23 +7619,24 @@ Images:
 
 Premium composite fence panels designed for seamless, professional installations. Each pack contains 6 durable panels measuring 180cm in length, 2cm thick and 16cm wide. The composite construction ensures weather resistance and UV resistance, protecting against fading and colour degradation in direct sunlight. The clean, modern finish complements any outdoor space and maintains its appearance year-round. Seamless fit technology allows panels to connect smoothly without visible gaps, creating a uniform appearance across your garden or property boundary. Low-maintenance and built to last, these panels offer a contemporary alternative to traditional timber fencing.
 
- Trims available to fit current concrete posts
+Trims available to fit current concrete posts
 
- Posts available for new installations
+Posts available for new installations
 
- Size available: 16 x 180 x 2cm per fitted and interlocked panel
+Size available: 16 x 180 x 2cm per fitted and interlocked panel
 
- 6 pieces per pack
+6 pieces per pack
 
- Two packs required per fence panel
+Two packs required per fence panel
 
- Area covered: 1.73 m² per pack when fitted and interlocked
+Area covered: 1.73 m² per pack when fitted and interlocked
 
- Posts: Fence Post - Black (1 Pack / 4pcs)
+Posts: Fence Post - Black (1 Pack / 4pcs)
 
- Trim: Fencing 86D Trim - Dark Brown - 180cm (1 Pack / 4pcs)
+Trim: Fencing 86D Trim - Dark Brown - 180cm (1 Pack / 4pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WhatsAppImage2026-06-26at15.54.41.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/F88D.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WhatsAppImage2026-06-26at15.54.41-Copy_2.jpg
@@ -7301,23 +7650,24 @@ Images:
 
 Premium composite fence panels designed for seamless, professional installations. Each pack contains 6 durable panels measuring 180cm in length, 2cm thick and 16cm wide. The composite construction ensures weather resistance and UV resistance, protecting against fading and colour degradation in direct sunlight. The clean, modern finish complements any outdoor space and maintains its appearance year-round. Seamless fit technology allows panels to connect smoothly without visible gaps, creating a uniform appearance across your garden or property boundary. Low-maintenance and built to last, these panels offer a contemporary alternative to traditional timber fencing.
 
- Trims available to fit current concrete posts
+Trims available to fit current concrete posts
 
- Posts available for new installations
+Posts available for new installations
 
- Size available: 16 x 180 x 2cm per fitted and interlocked panel
+Size available: 16 x 180 x 2cm per fitted and interlocked panel
 
- 6 pieces per pack
+6 pieces per pack
 
- Two packs required per fence panel
+Two packs required per fence panel
 
- Area covered: 1.73 m² per pack when fitted and interlocked
+Area covered: 1.73 m² per pack when fitted and interlocked
 
- Posts: Fence Post - Black (1 Pack / 4pcs)
+Posts: Fence Post - Black (1 Pack / 4pcs)
 
- Trim: Fencing 86E Trim - Black - 180cm (1 Pack / 4pcs)
+Trim: Fencing 86E Trim - Black - 180cm (1 Pack / 4pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WhatsAppImage2026-06-18at11.39.28_9.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/F88E.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WhatsAppImage2026-06-26at09.52.33.jpg
@@ -7332,23 +7682,24 @@ Images:
 
 Premium composite fence panels designed for seamless, professional installations. Each pack contains 6 durable panels measuring 180cm in length, 2cm thick and 16cm wide. The composite construction ensures weather resistance and UV resistance, protecting against fading and colour degradation in direct sunlight. The clean, modern finish complements any outdoor space and maintains its appearance year-round. Seamless fit technology allows panels to connect smoothly without visible gaps, creating a uniform appearance across your garden or property boundary. Low-maintenance and built to last, these panels offer a contemporary alternative to traditional timber fencing.
 
- Trims available to fit current concrete posts
+Trims available to fit current concrete posts
 
- Posts available for new installations
+Posts available for new installations
 
- Size available: 16 x 180 x 2cm per fitted and interlocked panel
+Size available: 16 x 180 x 2cm per fitted and interlocked panel
 
- 6 pieces per pack
+6 pieces per pack
 
- Two packs required per fence panel
+Two packs required per fence panel
 
- Area covered: 1.73 m² per pack when fitted and interlocked
+Area covered: 1.73 m² per pack when fitted and interlocked
 
- Posts: Fence Post - Black (1 Pack / 4pcs)
+Posts: Fence Post - Black (1 Pack / 4pcs)
 
- Trim: Fencing 86F Trim - Khaki - 180cm (1 Pack / 4pcs)
+Trim: Fencing 86F Trim - Khaki - 180cm (1 Pack / 4pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WhatsAppImage2026-06-18at11.39.28_7.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/F88F.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WhatsAppImage2026-06-26at09.52.20.jpg
@@ -7363,13 +7714,14 @@ Images:
 
 Fencing trim designed to fit standard 40mm concrete post installations. Each pack contains 4 pieces of trim. Cut to length as needed to trim the top and bottom edges of fence panels, creating a neat, finished appearance. Ideal for concealing raw panel edges and providing a professional look to your fencing installation. Compatible with 40mm post widths.
 
- Size available: 4 x 180 x 4.5cm
+Size available: 4 x 180 x 4.5cm
 
- 4 pieces per pack
+4 pieces per pack
 
- Fencing: Fencing 94 - Outdoor - 180cm
+Fencing: Fencing 94 - Outdoor - 180cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/94_Fence_Panel_Strip.png
 
 #### Fencing 94A - Oak - Outdoor - 180cm (1 Pack / 6pcs)
@@ -7381,23 +7733,24 @@ Images:
 
 Premium composite fence panels designed for seamless, professional installations. Each pack contains 6 durable panels measuring 180cm in length, 2cm thick and 30cm wide. The composite construction ensures weather resistance and UV resistance, protecting against fading and colour degradation in direct sunlight. The clean, modern finish complements any outdoor space and maintains its appearance year-round. Seamless fit technology allows panels to connect smoothly without visible gaps, creating a uniform appearance across your garden or property boundary. Low-maintenance and built to last, these panels offer a contemporary alternative to traditional timber fencing.
 
- Trims available to fit current concrete posts
+Trims available to fit current concrete posts
 
- Posts available for new installations
+Posts available for new installations
 
- Size available: 30 x 180 x 1.8cm per fitted and interlocked panel
+Size available: 30 x 180 x 1.8cm per fitted and interlocked panel
 
- 6 pieces per pack
+6 pieces per pack
 
- One pack required per fence panel
+One pack required per fence panel
 
- Area covered: 3.24 m² per pack when fitted and interlocked
+Area covered: 3.24 m² per pack when fitted and interlocked
 
- Posts: Fence Post - Black (1 Pack / 4pcs)
+Posts: Fence Post - Black (1 Pack / 4pcs)
 
- Trim: Fencing 94 Trim - Black - 180cm (1 Pack / 4pcs)
+Trim: Fencing 94 Trim - Black - 180cm (1 Pack / 4pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/94AOak4-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/94A.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/94AOak.jpg
@@ -7415,23 +7768,24 @@ Images:
 
 Premium composite fence panels designed for seamless, professional installations. Each pack contains 6 durable panels measuring 180cm in length, 2cm thick and 30cm wide. The composite construction ensures weather resistance and UV resistance, protecting against fading and colour degradation in direct sunlight. The clean, modern finish complements any outdoor space and maintains its appearance year-round. Seamless fit technology allows panels to connect smoothly without visible gaps, creating a uniform appearance across your garden or property boundary. Low-maintenance and built to last, these panels offer a contemporary alternative to traditional timber fencing.
 
- Trims available to fit current concrete posts
+Trims available to fit current concrete posts
 
- Posts available for new installations
+Posts available for new installations
 
- Size available: 30 x 180 x 1.8cm per fitted and interlocked panel
+Size available: 30 x 180 x 1.8cm per fitted and interlocked panel
 
- 6 pieces per pack
+6 pieces per pack
 
- One pack required per fence panel
+One pack required per fence panel
 
- Area covered: 3.24 m² per pack when fitted and interlocked
+Area covered: 3.24 m² per pack when fitted and interlocked
 
- Posts: Fence Post - Black (1 Pack / 4pcs)
+Posts: Fence Post - Black (1 Pack / 4pcs)
 
- Trim: Fencing 94 Trim - Black - 180cm (1 Pack / 4pcs)
+Trim: Fencing 94 Trim - Black - 180cm (1 Pack / 4pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/94BGreyOak2-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/94B.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WhatsAppImage2026-07-20at09.28.23.jpg
@@ -7453,23 +7807,24 @@ Images:
 
 Premium composite fence panels designed for seamless, professional installations. Each pack contains 6 durable panels measuring 180cm in length, 2cm thick and 30cm wide. The composite construction ensures weather resistance and UV resistance, protecting against fading and colour degradation in direct sunlight. The clean, modern finish complements any outdoor space and maintains its appearance year-round. Seamless fit technology allows panels to connect smoothly without visible gaps, creating a uniform appearance across your garden or property boundary. Low-maintenance and built to last, these panels offer a contemporary alternative to traditional timber fencing.
 
- Trims available to fit current concrete posts
+Trims available to fit current concrete posts
 
- Posts available for new installations
+Posts available for new installations
 
- Size available: 30 x 180 x 1.8cm per fitted and interlocked panel
+Size available: 30 x 180 x 1.8cm per fitted and interlocked panel
 
- 6 pieces per pack
+6 pieces per pack
 
- One pack required per fence panel
+One pack required per fence panel
 
- Area covered: 3.24 m² per pack when fitted and interlocked
+Area covered: 3.24 m² per pack when fitted and interlocked
 
- Posts: Fence Post - Black (1 Pack / 4pcs)
+Posts: Fence Post - Black (1 Pack / 4pcs)
 
- Trim: Fencing 94 Trim - Black - 180cm (1 Pack / 4pcs)
+Trim: Fencing 94 Trim - Black - 180cm (1 Pack / 4pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/94DDarkOak1-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/94D.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/94DDarkOak1.jpg
@@ -7487,23 +7842,24 @@ Images:
 
 Premium composite fence panels designed for seamless, professional installations. Each pack contains 6 durable panels measuring 180cm in length, 2cm thick and 30cm wide. The composite construction ensures weather resistance and UV resistance, protecting against fading and colour degradation in direct sunlight. The clean, modern finish complements any outdoor space and maintains its appearance year-round. Seamless fit technology allows panels to connect smoothly without visible gaps, creating a uniform appearance across your garden or property boundary. Low-maintenance and built to last, these panels offer a contemporary alternative to traditional timber fencing.
 
- Trims available to fit current concrete posts
+Trims available to fit current concrete posts
 
- Posts available for new installations
+Posts available for new installations
 
- Size available: 30 x 180 x 1.8cm per fitted and interlocked panel
+Size available: 30 x 180 x 1.8cm per fitted and interlocked panel
 
- 6 pieces per pack
+6 pieces per pack
 
- One pack required per fence panel
+One pack required per fence panel
 
- Area covered: 3.24 m² per pack when fitted and interlocked
+Area covered: 3.24 m² per pack when fitted and interlocked
 
- Posts: Fence Post - Black (1 Pack / 4pcs)
+Posts: Fence Post - Black (1 Pack / 4pcs)
 
- Trim: Fencing 94 Trim - Black - 180cm (1 Pack / 4pcs)
+Trim: Fencing 94 Trim - Black - 180cm (1 Pack / 4pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/94TWalnut2-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/94T.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/94TWalnut2.jpg
@@ -7523,9 +7879,10 @@ Images:
 
 Secure your outdoor wall panels with confidence using this heavy-duty bracket system. Each pack contains 50 pieces designed to mount panels without compromising their structural integrity. Simply slide the bracket onto the panel lip and fasten to your wall surface with a single screw. Ideal for outdoor installations where panel protection is essential. Compatible with 73/83/84 panel specifications.
 
- Size available : 2 x 5cm
+Size available : 2 x 5cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Photoroom_20260324_094212.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Photoroom_20260324_094224.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Photoroom_20260324_094236.jpg
@@ -7542,13 +7899,14 @@ Images:
 
 Composite trim designed to create seamless finishes on wall panel cladding and outdoor decking. This 290cm length offers UV resistance to withstand outdoor conditions without fading or deterioration. Perfect for protecting edges and transitions while maintaining a clean, professional appearance. Each pack contains 3 pieces, providing complete coverage for your project.
 
- Size available:
+Size available:
 
- 4 x 4 x 290cm per trim
+4 x 4 x 290cm per trim
 
- 3 pieces per pack
+3 pieces per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/7383A03.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/7383BCornerTrim.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/83CCornerTrim.png
@@ -7565,11 +7923,12 @@ Images:
 
 Composite trim designed to create seamless finishes on wall panel cladding and outdoor decking. This 240cm length offers UV resistance to withstand outdoor conditions without fading or deterioration. Perfect for protecting edges and transitions while maintaining a clean, professional appearance. Each pack contains 10 pieces, providing complete coverage for your project.
 
- Size available: 1.5 x 2.5 x 240cm per trim
+Size available: 1.5 x 2.5 x 240cm per trim
 
- 10 pieces per pack
+10 pieces per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/84AOak.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/84AOak1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/84AOak2_60858f74-5050-4bc7-a1c9-7b875e4ea873.jpg
@@ -7599,29 +7958,30 @@ Images:
 
 Composite trim designed to create seamless finishes on wall panels 88 and 89. This 290cm length offers UV resistance to withstand outdoor conditions without fading or deterioration. Perfect for protecting edges and transitions while maintaining a clean, professional appearance.
 
- Size available: TBC x TBC x 290cm per trim
+Size available: TBC x TBC x 290cm per trim
 
- 4 pieces per pack
+4 pieces per pack
 
- Fits panels:
+Fits panels:
 
- Wall Panel 88A - Oak - Outdoor - 290cm - (1 pack / 6pcs)
+Wall Panel 88A - Oak - Outdoor - 290cm - (1 pack / 6pcs)
 
- Wall Panel 88B - Grey Oak - Outdoor - 290cm - (1 pack / 6pcs)
+Wall Panel 88B - Grey Oak - Outdoor - 290cm - (1 pack / 6pcs)
 
- Wall Panel 88D - Dark Oak - Outdoor - 290cm - (1 pack / 6pcs)
+Wall Panel 88D - Dark Oak - Outdoor - 290cm - (1 pack / 6pcs)
 
- Wall Panel 88T - Walnut - Outdoor - 290cm - (1 pack / 6pcs)
+Wall Panel 88T - Walnut - Outdoor - 290cm - (1 pack / 6pcs)
 
- Wall Panel 89A - Oak - Outdoor - 290cm - (1 pack / 6pcs)
+Wall Panel 89A - Oak - Outdoor - 290cm - (1 pack / 6pcs)
 
- Wall Panel 89B - Grey Oak - Outdoor - 290cm - (1 pack / 6pcs)
+Wall Panel 89B - Grey Oak - Outdoor - 290cm - (1 pack / 6pcs)
 
- Wall Panel 89D - Dark Oak - Outdoor - 290cm - (1 pack / 6pcs)
+Wall Panel 89D - Dark Oak - Outdoor - 290cm - (1 pack / 6pcs)
 
- Wall Panel 89T - Walnut - Outdoor - 290cm - (1 pack / 6pcs)
+Wall Panel 89T - Walnut - Outdoor - 290cm - (1 pack / 6pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/88-89_Corner_Trim.png
 
 #### Wall Panel 88/89 End Trim - 290cm (1 Pack / 4pcs)
@@ -7633,29 +7993,30 @@ Images:
 
 Composite trim designed to create seamless finishes on wall panels 88 and 89. This 290cm length offers UV resistance to withstand outdoor conditions without fading or deterioration. Perfect for protecting edges and transitions while maintaining a clean, professional appearance.
 
- Size available: TBC x TBC x 290cm per trim
+Size available: TBC x TBC x 290cm per trim
 
- 4 pieces per pack
+4 pieces per pack
 
- Fits panels:
+Fits panels:
 
- Wall Panel 88A - Oak - Outdoor - 290cm - (1 pack / 6pcs)
+Wall Panel 88A - Oak - Outdoor - 290cm - (1 pack / 6pcs)
 
- Wall Panel 88B - Grey Oak - Outdoor - 290cm - (1 pack / 6pcs)
+Wall Panel 88B - Grey Oak - Outdoor - 290cm - (1 pack / 6pcs)
 
- Wall Panel 88D - Dark Oak - Outdoor - 290cm - (1 pack / 6pcs)
+Wall Panel 88D - Dark Oak - Outdoor - 290cm - (1 pack / 6pcs)
 
- Wall Panel 88T - Walnut - Outdoor - 290cm - (1 pack / 6pcs)
+Wall Panel 88T - Walnut - Outdoor - 290cm - (1 pack / 6pcs)
 
- Wall Panel 89A - Oak - Outdoor - 290cm - (1 pack / 6pcs)
+Wall Panel 89A - Oak - Outdoor - 290cm - (1 pack / 6pcs)
 
- Wall Panel 89B - Grey Oak - Outdoor - 290cm - (1 pack / 6pcs)
+Wall Panel 89B - Grey Oak - Outdoor - 290cm - (1 pack / 6pcs)
 
- Wall Panel 89D - Dark Oak - Outdoor - 290cm - (1 pack / 6pcs)
+Wall Panel 89D - Dark Oak - Outdoor - 290cm - (1 pack / 6pcs)
 
- Wall Panel 89T - Walnut - Outdoor - 290cm - (1 pack / 6pcs)
+Wall Panel 89T - Walnut - Outdoor - 290cm - (1 pack / 6pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/88-89_End_Trim.png
 
 ### Outdoor Panels (31)
@@ -7669,25 +8030,26 @@ Images:
 
 Engineered composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Complementary trim pieces are sold separately to achieve a polished, professional installation. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance.
 
- Size available: 21 x 290 x 2.5cm per panel
+Size available: 21 x 290 x 2.5cm per panel
 
- 6 pieces per pack
+6 pieces per pack
 
- Area covered: 3.65m² per pack
+Area covered: 3.65m² per pack
 
- Slat width: 3.5cm
+Slat width: 3.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel 73/83A Trim - Oak 03 - 290cm - (1 Pack / 10pcs)
+Trim: Wall Panel 73/83A Trim - Oak 03 - 290cm - (1 Pack / 10pcs)
 
- Corner: Wall Panel 73/83A Corner Trim - Oak 03 - 290cm - (1 Pack / 3pcs)
+Corner: Wall Panel 73/83A Corner Trim - Oak 03 - 290cm - (1 Pack / 3pcs)
 
- Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
+Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
 
- Brackets recommended for installation
+Brackets recommended for installation
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/73AOak03.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/73A03.png
 
@@ -7700,25 +8062,26 @@ Images:
 
 Engineered composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Complementary trim pieces are sold separately to achieve a polished, professional installation. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance.
 
- Size available: 21 x 290 x 2.5cm per panel
+Size available: 21 x 290 x 2.5cm per panel
 
- 6 pieces per pack
+6 pieces per pack
 
- Area covered: 3.65m² per pack
+Area covered: 3.65m² per pack
 
- Slat width: 3.5cm
+Slat width: 3.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel 73/83B Trim - Grey - 290cm - (1 Pack / 10pcs)
+Trim: Wall Panel 73/83B Trim - Grey - 290cm - (1 Pack / 10pcs)
 
- Corner: Wall Panel 73/83B Corner Trim - Grey - 290cm - (1 Pack / 3pcs)
+Corner: Wall Panel 73/83B Corner Trim - Grey - 290cm - (1 Pack / 3pcs)
 
- Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
+Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
 
- Brackets recommended for installation
+Brackets recommended for installation
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/73BGrey.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/73B.png
 
@@ -7731,25 +8094,26 @@ Images:
 
 Engineered composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Complementary trim pieces are sold separately to achieve a polished, professional installation. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance.
 
- Size available: 21 x 290 x 2.5cm per panel
+Size available: 21 x 290 x 2.5cm per panel
 
- 6 pieces per pack
+6 pieces per pack
 
- Area covered: 3.65m² per pack
+Area covered: 3.65m² per pack
 
- Slat width: 3.5cm
+Slat width: 3.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel 73/83D Trim - Dark Brown - 290cm - (1 Pack / 10pcs)
+Trim: Wall Panel 73/83D Trim - Dark Brown - 290cm - (1 Pack / 10pcs)
 
- Corner: Wall Panel 73/83D Corner Trim - Dark Brown - 290cm - (1 Pack / 3pcs)
+Corner: Wall Panel 73/83D Corner Trim - Dark Brown - 290cm - (1 Pack / 3pcs)
 
- Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
+Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
 
- Brackets recommended for installation
+Brackets recommended for installation
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/73DDarkBrown.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/73D.png
 
@@ -7762,25 +8126,26 @@ Images:
 
 Engineered composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Complementary trim pieces are sold separately to achieve a polished, professional installation. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance.
 
- Size available: 21 x 290 x 2.5cm per panel
+Size available: 21 x 290 x 2.5cm per panel
 
- 6 pieces per pack
+6 pieces per pack
 
- Area covered: 3.65m² per pack
+Area covered: 3.65m² per pack
 
- Slat width: 3.5cm
+Slat width: 3.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel 73/83E Trim - Black - 290cm - (1 Pack / 10pcs)
+Trim: Wall Panel 73/83E Trim - Black - 290cm - (1 Pack / 10pcs)
 
- Corner: Wall Panel 73/83E Corner Trim - Black - 290cm - (1 Pack / 3pcs)
+Corner: Wall Panel 73/83E Corner Trim - Black - 290cm - (1 Pack / 3pcs)
 
- Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
+Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
 
- Brackets recommended for installation
+Brackets recommended for installation
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/73EBlack.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/73E.png
 
@@ -7793,25 +8158,26 @@ Images:
 
 Engineered composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Complementary trim pieces are sold separately to achieve a polished, professional installation. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance.
 
- Size available: 21 x 290 x 2.5cm per panel
+Size available: 21 x 290 x 2.5cm per panel
 
- 6 pieces per pack
+6 pieces per pack
 
- Area covered: 3.65m² per pack
+Area covered: 3.65m² per pack
 
- Slat width: 3.5cm
+Slat width: 3.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel 73T Trim - Walnut - 290cm - (1 Pack / 10pcs)
+Trim: Wall Panel 73T Trim - Walnut - 290cm - (1 Pack / 10pcs)
 
- Corner: Wall Panel 73T Corner Trim - Walnut - 290cm - (1 Pack / 3pcs)
+Corner: Wall Panel 73T Corner Trim - Walnut - 290cm - (1 Pack / 3pcs)
 
- Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
+Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
 
- Brackets recommended for installation
+Brackets recommended for installation
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/73TWalnut.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/73T.png
 
@@ -7824,27 +8190,28 @@ Images:
 
 Engineered composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Available in two convenient sizes to suit various project requirements, with finishes coordinated across our complete outdoor collection. Complementary trim pieces are sold separately to achieve a polished, professional installation. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance.
 
- Sizes available:
+Sizes available:
 
- 21 x 290 x 2.5cm per panel
+21 x 290 x 2.5cm per panel
 
- 6 pieces per pack
+6 pieces per pack
 
- Area covered: 3.65m² per pack
+Area covered: 3.65m² per pack
 
- 21 x 180 x 2.5cm per panel
+21 x 180 x 2.5cm per panel
 
- Area covered: 2.27m² per pack
+Area covered: 2.27m² per pack
 
- Slat width: 3.5cm
+Slat width: 3.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
+Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
 
- Brackets recommended for installation
+Brackets recommended for installation
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/83AOak02.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Photoroom_20260305_101703.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/OUTDOOR_83_OAK.png
@@ -7858,27 +8225,28 @@ Images:
 
 Engineered composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Available in two convenient sizes to suit various project requirements, with finishes coordinated across our complete outdoor collection. Complementary trim pieces are sold separately to achieve a polished, professional installation. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance.
 
- Sizes available:
+Sizes available:
 
- 21 x 290 x 2.5cm per panel
+21 x 290 x 2.5cm per panel
 
- 6 pieces per pack
+6 pieces per pack
 
- Area covered: 3.65m² per pack
+Area covered: 3.65m² per pack
 
- 21 x 180 x 2.5cm per panel
+21 x 180 x 2.5cm per panel
 
- Area covered: 2.27m² per pack
+Area covered: 2.27m² per pack
 
- Slat width: 3.5cm
+Slat width: 3.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
+Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
 
- Brackets recommended for installation
+Brackets recommended for installation
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/83AOak03.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/83A03.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/83Sideview.jpg
@@ -7892,29 +8260,30 @@ Images:
 
 Engineered composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Available in two convenient sizes to suit various project requirements, with finishes coordinated across our complete outdoor collection. Complementary trim pieces are sold separately to achieve a polished, professional installation. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance.
 
- Sizes available:
+Sizes available:
 
- 21 x 290 x 2.5cm per panel
+21 x 290 x 2.5cm per panel
 
- 6 pieces per pack
+6 pieces per pack
 
- Area covered: 3.65m² per pack
+Area covered: 3.65m² per pack
 
- 21 x 180 x 2.5cm per panel
+21 x 180 x 2.5cm per panel
 
- Area covered: 2.27m² per pack
+Area covered: 2.27m² per pack
 
- Slat width: 3.5cm
+Slat width: 3.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel 73/83B Trim - Grey - 290cm - (1 Pack / 10pcs)
+Trim: Wall Panel 73/83B Trim - Grey - 290cm - (1 Pack / 10pcs)
 
- Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
+Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
 
- Brackets recommended for installation
+Brackets recommended for installation
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/83BGrey.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/83B.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Photoroom_20260305_101703.jpg
@@ -7929,29 +8298,30 @@ Images:
 
 Engineered composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Available in two convenient sizes to suit various project requirements, with finishes coordinated across our complete outdoor collection. Complementary trim pieces are sold separately to achieve a polished, professional installation. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance.
 
- Sizes available:
+Sizes available:
 
- 21 x 290 x 2.5cm per panel
+21 x 290 x 2.5cm per panel
 
- 6 pieces per pack
+6 pieces per pack
 
- Area covered: 3.65m² per pack
+Area covered: 3.65m² per pack
 
- 21 x 180 x 2.5cm per panel
+21 x 180 x 2.5cm per panel
 
- Area covered: 2.27m² per pack
+Area covered: 2.27m² per pack
 
- Slat width: 3.5cm
+Slat width: 3.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel 83C Trim - Light Brown - 290cm - (1 Pack / 10pcs)
+Trim: Wall Panel 83C Trim - Light Brown - 290cm - (1 Pack / 10pcs)
 
- Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
+Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
 
- Brackets recommended for installation
+Brackets recommended for installation
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/83CLightBrown.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/83C.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Photoroom_20260305_101703.jpg
@@ -7966,29 +8336,30 @@ Images:
 
 Engineered composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Available in two convenient sizes to suit various project requirements, with finishes coordinated across our complete outdoor collection. Complementary trim pieces are sold separately to achieve a polished, professional installation. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance.
 
- Sizes available:
+Sizes available:
 
- 21 x 290 x 2.5cm per panel
+21 x 290 x 2.5cm per panel
 
- 6 pieces per pack
+6 pieces per pack
 
- Area covered: 3.65m² per pack
+Area covered: 3.65m² per pack
 
- 21 x 180 x 2.5cm per panel
+21 x 180 x 2.5cm per panel
 
- Area covered: 2.27m² per pack
+Area covered: 2.27m² per pack
 
- Slat width: 3.5cm
+Slat width: 3.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel 73/83D Trim - Dark Brown - 290cm - (1 Pack / 10pcs)
+Trim: Wall Panel 73/83D Trim - Dark Brown - 290cm - (1 Pack / 10pcs)
 
- Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
+Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
 
- Brackets recommended for installation
+Brackets recommended for installation
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/83DDarkBrown.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/83D.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Photoroom_20260305_101703.jpg
@@ -8003,29 +8374,30 @@ Images:
 
 Engineered composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Available in two convenient sizes to suit various project requirements, with finishes coordinated across our complete outdoor collection. Complementary trim pieces are sold separately to achieve a polished, professional installation. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance.
 
- Sizes available:
+Sizes available:
 
- 21 x 290 x 2.5cm per panel
+21 x 290 x 2.5cm per panel
 
- 6 pieces per pack
+6 pieces per pack
 
- Area covered: 3.65m² per pack
+Area covered: 3.65m² per pack
 
- 21 x 180 x 2.5cm per panel
+21 x 180 x 2.5cm per panel
 
- Area covered: 2.27m² per pack
+Area covered: 2.27m² per pack
 
- Slat width: 3.5cm
+Slat width: 3.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel 73/83E Trim - Black - 290cm - (1 Pack / 10pcs)
+Trim: Wall Panel 73/83E Trim - Black - 290cm - (1 Pack / 10pcs)
 
- Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
+Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
 
- Brackets recommended for installation
+Brackets recommended for installation
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/83EBlack.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/83E.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Photoroom_20260305_101703.jpg
@@ -8040,23 +8412,24 @@ Images:
 
 Engineered composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Available with finishes coordinated across our complete outdoor collection. Complementary trim pieces are sold separately to achieve a polished, professional installation. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance.
 
- Size available: 21 x 290 x 2.5cm per panel
+Size available: 21 x 290 x 2.5cm per panel
 
- 6 pieces per pack
+6 pieces per pack
 
- Area covered: 3.65m² per pack
+Area covered: 3.65m² per pack
 
- Slat width: 3.5cm
+Slat width: 3.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel 83F Trim - Khaki - 290cm - (1 Pack / 10pcs)
+Trim: Wall Panel 83F Trim - Khaki - 290cm - (1 Pack / 10pcs)
 
- Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
+Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
 
- Brackets recommended for installation
+Brackets recommended for installation
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/83FKhaki_1b4636e1-dc87-4ba4-83d9-af8a4669a3e8.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/83F.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Photoroom_20260305_101703.jpg
@@ -8071,21 +8444,22 @@ Images:
 
 Engineered composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and authentic character whilst maintaining superior weather resistance. This 240cm pack contains 12 pieces in a finish that coordinates seamlessly with our broader outdoor collection. The durable composite construction resists fading, warping, and moisture damage—ideal for cladding, feature walls, and architectural accents. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Complementary trim pieces are available separately to achieve professional installation and refined finishing details.
 
- Size available: 16 x 240 x 1cm per panel
+Size available: 16 x 240 x 1cm per panel
 
- 12 pieces per pack
+12 pieces per pack
 
- Area covered: 4.61m² per pack
+Area covered: 4.61m² per pack
 
- Slat width: 2.4cm
+Slat width: 2.4cm
 
- Space between slats: 1.4cm
+Space between slats: 1.4cm
 
- Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
+Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
 
- Brackets recommended for installation
+Brackets recommended for installation
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageMay13_2026_10_07_31AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/84A03.png
 
@@ -8098,23 +8472,24 @@ Images:
 
 Engineered composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and authentic character whilst maintaining superior weather resistance. This 240cm pack contains 12 pieces in a finish that coordinates seamlessly with our broader outdoor collection. The durable composite construction resists fading, warping, and moisture damage—ideal for cladding, feature walls, and architectural accents. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Complementary trim pieces are available separately to achieve professional installation and refined finishing details.
 
- Size available: 16 x 240 x 1cm per panel
+Size available: 16 x 240 x 1cm per panel
 
- 12 pieces per pack
+12 pieces per pack
 
- Area covered: 4.61m² per pack
+Area covered: 4.61m² per pack
 
- Slat width: 2.4cm
+Slat width: 2.4cm
 
- Space between slats: 1.4cm
+Space between slats: 1.4cm
 
- Trim: Wall Panel 84B Trim - Grey - 240cm - (1 Pack / 10pcs)
+Trim: Wall Panel 84B Trim - Grey - 240cm - (1 Pack / 10pcs)
 
- Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
+Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
 
- Brackets recommended for installation
+Brackets recommended for installation
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/84BGrey.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/84B_6636fa75-1e90-4f3b-af62-a7d9162f1e77.png
 
@@ -8127,23 +8502,24 @@ Images:
 
 Engineered composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and authentic character whilst maintaining superior weather resistance. This 240cm pack contains 12 pieces in a finish that coordinates seamlessly with our broader outdoor collection. The durable composite construction resists fading, warping, and moisture damage—ideal for cladding, feature walls, and architectural accents. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Complementary trim pieces are available separately to achieve professional installation and refined finishing details.
 
- Size available: 16 x 240 x 1cm per panel
+Size available: 16 x 240 x 1cm per panel
 
- 12 pieces per pack
+12 pieces per pack
 
- Area covered: 4.61m² per pack
+Area covered: 4.61m² per pack
 
- Slat width: 2.4cm
+Slat width: 2.4cm
 
- Space between slats: 1.4cm
+Space between slats: 1.4cm
 
- Trim: Wall Panel 84C Trim - Light Brown - 240cm - (1 Pack / 10pcs)
+Trim: Wall Panel 84C Trim - Light Brown - 240cm - (1 Pack / 10pcs)
 
- Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
+Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
 
- Brackets recommended for installation
+Brackets recommended for installation
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/84CLightBrown.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/84C_3f3a0f57-6cbf-4994-a951-2ab266c03a9f.png
 
@@ -8156,23 +8532,24 @@ Images:
 
 Engineered composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and authentic character whilst maintaining superior weather resistance. This 240cm pack contains 12 pieces in a finish that coordinates seamlessly with our broader outdoor collection. The durable composite construction resists fading, warping, and moisture damage—ideal for cladding, feature walls, and architectural accents. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Complementary trim pieces are available separately to achieve professional installation and refined finishing details.
 
- Size available: 16 x 240 x 1cm per panel
+Size available: 16 x 240 x 1cm per panel
 
- 12 pieces per pack
+12 pieces per pack
 
- Area covered: 4.61m² per pack
+Area covered: 4.61m² per pack
 
- Slat width: 2.4cm
+Slat width: 2.4cm
 
- Space between slats: 1.4cm
+Space between slats: 1.4cm
 
- Trim: Wall Panel 84D Trim - Dark Brown - 240cm - (1 Pack / 10pcs)
+Trim: Wall Panel 84D Trim - Dark Brown - 240cm - (1 Pack / 10pcs)
 
- Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
+Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
 
- Brackets recommended for installation
+Brackets recommended for installation
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/84DDarkBrown.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/84D_de0ab8da-3a51-475d-aa22-7056c7de821e.png
 
@@ -8185,23 +8562,24 @@ Images:
 
 Engineered composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and authentic character whilst maintaining superior weather resistance. This 240cm pack contains 12 pieces in a finish that coordinates seamlessly with our broader outdoor collection. The durable composite construction resists fading, warping, and moisture damage—ideal for cladding, feature walls, and architectural accents. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Complementary trim pieces are available separately to achieve professional installation and refined finishing details.
 
- Size available: 16 x 240 x 1cm per panel
+Size available: 16 x 240 x 1cm per panel
 
- 12 pieces per pack
+12 pieces per pack
 
- Area covered: 4.61m² per pack
+Area covered: 4.61m² per pack
 
- Slat width: 2.4cm
+Slat width: 2.4cm
 
- Space between slats: 1.4cm
+Space between slats: 1.4cm
 
- Trim: Wall Panel 84E Trim - Black - 240cm - (1 Pack / 10pcs)
+Trim: Wall Panel 84E Trim - Black - 240cm - (1 Pack / 10pcs)
 
- Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
+Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
 
- Brackets recommended for installation
+Brackets recommended for installation
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/84EBlack.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/84E_e13dd52d-2dc0-4ebb-93e4-0d537a0b4d03.png
 
@@ -8214,23 +8592,24 @@ Images:
 
 Engineered composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and authentic character whilst maintaining superior weather resistance. This 240cm pack contains 12 pieces in a finish that coordinates seamlessly with our broader outdoor collection. The durable composite construction resists fading, warping, and moisture damage—ideal for cladding, feature walls, and architectural accents. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Complementary trim pieces are available separately to achieve professional installation and refined finishing details.
 
- Size available: 16 x 240 x 1cm per panel
+Size available: 16 x 240 x 1cm per panel
 
- 12 pieces per pack
+12 pieces per pack
 
- Area covered: 4.61m² per pack
+Area covered: 4.61m² per pack
 
- Slat width: 2.4cm
+Slat width: 2.4cm
 
- Space between slats: 1.4cm
+Space between slats: 1.4cm
 
- Trim: Wall Panel 84F Trim - Khaki - 240cm - (1 Pack / 10pcs)
+Trim: Wall Panel 84F Trim - Khaki - 240cm - (1 Pack / 10pcs)
 
- Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
+Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
 
- Brackets recommended for installation
+Brackets recommended for installation
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/84FKhaki_9436eec4-523f-4b65-a726-b9523be9b1a4.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/84F.png
 
@@ -8243,17 +8622,18 @@ Images:
 
 Engineered PVC composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance.
 
- Size available: 16 x 290 x 2cm per panel when fitted and interlocked
+Size available: 16 x 290 x 2cm per panel when fitted and interlocked
 
- 6 pieces per pack
+6 pieces per pack
 
- Area covered: 2.78m² per pack when fitted and interlocked
+Area covered: 2.78m² per pack when fitted and interlocked
 
- Trim: Wall Panel 88/89 End Trim - 290cm
+Trim: Wall Panel 88/89 End Trim - 290cm
 
- Corner strip: Wall Panel 88/89 Corner Trim - 290cm
+Corner strip: Wall Panel 88/89 Corner Trim - 290cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/PVCCompositePanel88-A_5_-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/88A.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/PVCCompositePanel88-A_1.jpg
@@ -8271,17 +8651,18 @@ Images:
 
 Engineered PVC composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance.
 
- Size available: 16 x 290 x 2cm per panel when fitted and interlocked
+Size available: 16 x 290 x 2cm per panel when fitted and interlocked
 
- 6 pieces per pack
+6 pieces per pack
 
- Area covered: 2.78m² per pack when fitted and interlocked
+Area covered: 2.78m² per pack when fitted and interlocked
 
- Trim: Wall Panel 88/89 End Trim - 290cm
+Trim: Wall Panel 88/89 End Trim - 290cm
 
- Corner strip: Wall Panel 88/89 Corner Trim - 290cm
+Corner strip: Wall Panel 88/89 Corner Trim - 290cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/PVCCompositePanel88-B_5_-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/88B.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/PVCCompositePanel88-B_1.jpg
@@ -8299,17 +8680,18 @@ Images:
 
 Engineered PVC composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance.
 
- Size available: 16 x 290 x 2cm per panel when fitted and interlocked
+Size available: 16 x 290 x 2cm per panel when fitted and interlocked
 
- 6 pieces per pack
+6 pieces per pack
 
- Area covered: 2.78m² per pack when fitted and interlocked
+Area covered: 2.78m² per pack when fitted and interlocked
 
- Trim: Wall Panel 88/89 End Trim - 290cm
+Trim: Wall Panel 88/89 End Trim - 290cm
 
- Corner strip: Wall Panel 88/89 Corner Trim - 290cm
+Corner strip: Wall Panel 88/89 Corner Trim - 290cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/PVCCompositePanel88-D_5_-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/88D.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/PVCCompositePanel88-D_1.jpg
@@ -8327,17 +8709,18 @@ Images:
 
 Engineered PVC composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance.
 
- Size available: 16 x 290 x 2cm per panel when fitted and interlocked
+Size available: 16 x 290 x 2cm per panel when fitted and interlocked
 
- 6 pieces per pack
+6 pieces per pack
 
- Area covered: 2.78m² per pack when fitted and interlocked
+Area covered: 2.78m² per pack when fitted and interlocked
 
- Trim: Wall Panel 88/89 End Trim - 290cm
+Trim: Wall Panel 88/89 End Trim - 290cm
 
- Corner strip: Wall Panel 88/89 Corner Trim - 290cm
+Corner strip: Wall Panel 88/89 Corner Trim - 290cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/PVCCompositePanel88-T_3_-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/88T.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/PVCCompositePanel88-T_1.jpg
@@ -8355,17 +8738,18 @@ Images:
 
 Engineered PVC composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance.
 
- Size available: 16 x 290 x 2cm per panel when fitted and interlocked
+Size available: 16 x 290 x 2cm per panel when fitted and interlocked
 
- 6 pieces per pack
+6 pieces per pack
 
- Area covered: 2.78m² per pack when fitted and interlocked
+Area covered: 2.78m² per pack when fitted and interlocked
 
- Trim: Wall Panel 88/89 End Trim - 290cm
+Trim: Wall Panel 88/89 End Trim - 290cm
 
- Corner strip: Wall Panel 88/89 Corner Trim - 290cm
+Corner strip: Wall Panel 88/89 Corner Trim - 290cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/PVCCompositePanel89-A_5_-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/89A.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/PVCCompositePanel89-A_1.jpg
@@ -8383,17 +8767,18 @@ Images:
 
 Engineered PVC composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance.
 
- Size available: 16 x 290 x 2cm per panel when fitted and interlocked
+Size available: 16 x 290 x 2cm per panel when fitted and interlocked
 
- 6 pieces per pack
+6 pieces per pack
 
- Area covered: 2.78m² per pack when fitted and interlocked
+Area covered: 2.78m² per pack when fitted and interlocked
 
- Trim: Wall Panel 88/89 End Trim - 290cm
+Trim: Wall Panel 88/89 End Trim - 290cm
 
- Corner strip: Wall Panel 88/89 Corner Trim - 290cm
+Corner strip: Wall Panel 88/89 Corner Trim - 290cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/PVCCompositePanel89-B_3_-Copy_2529c82f-ef4c-4a39-87d9-dd919435dab6.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/89B.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/PVCCompositePanel89-B_5.jpg
@@ -8411,17 +8796,18 @@ Images:
 
 Engineered PVC composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance.
 
- Size available: 16 x 290 x 2cm per panel when fitted and interlocked
+Size available: 16 x 290 x 2cm per panel when fitted and interlocked
 
- 6 pieces per pack
+6 pieces per pack
 
- Area covered: 2.78m² per pack when fitted and interlocked
+Area covered: 2.78m² per pack when fitted and interlocked
 
- Trim: Wall Panel 88/89 End Trim - 290cm
+Trim: Wall Panel 88/89 End Trim - 290cm
 
- Corner strip: Wall Panel 88/89 Corner Trim - 290cm
+Corner strip: Wall Panel 88/89 Corner Trim - 290cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/PVCCompositePanel89-D_1_-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/89D.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/PVCCompositePanel89-D_5.jpg
@@ -8439,17 +8825,18 @@ Images:
 
 Engineered PVC composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance.
 
- Size available: 16 x 290 x 2cm per panel when fitted and interlocked
+Size available: 16 x 290 x 2cm per panel when fitted and interlocked
 
- 6 pieces per pack
+6 pieces per pack
 
- Area covered: 2.78m² per pack when fitted and interlocked
+Area covered: 2.78m² per pack when fitted and interlocked
 
- Trim: Wall Panel 88/89 End Trim - 290cm
+Trim: Wall Panel 88/89 End Trim - 290cm
 
- Corner strip: Wall Panel 88/89 Corner Trim - 290cm
+Corner strip: Wall Panel 88/89 Corner Trim - 290cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/PVCCompositePanel89-T_4_-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/89T.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/PVCCompositePanel89-T_1.jpg
@@ -8467,21 +8854,22 @@ Images:
 
 Engineered composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Complementary trim pieces are sold separately to achieve a polished, professional installation. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance.
 
- Size available: 16 x 240 x 1.2cm per panel
+Size available: 16 x 240 x 1.2cm per panel
 
- 12 pieces per pack
+12 pieces per pack
 
- Area covered: 4.61m² per pack
+Area covered: 4.61m² per pack
 
- Slat width: 2.4cm
+Slat width: 2.4cm
 
- Space between slats: 1.4cm
+Space between slats: 1.4cm
 
- Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
+Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
 
- Brackets recommended for installation
+Brackets recommended for installation
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/92AOak-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/92A.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/92AOak.jpg
@@ -8495,21 +8883,22 @@ Images:
 
 Engineered composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Complementary trim pieces are sold separately to achieve a polished, professional installation. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance.
 
- Size available: 16 x 240 x 1.2cm per panel
+Size available: 16 x 240 x 1.2cm per panel
 
- 12 pieces per pack
+12 pieces per pack
 
- Area covered: 4.61m² per pack
+Area covered: 4.61m² per pack
 
- Slat width: 2.4cm
+Slat width: 2.4cm
 
- Space between slats: 1.4cm
+Space between slats: 1.4cm
 
- Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
+Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
 
- Brackets recommended for installation
+Brackets recommended for installation
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/92BGrey-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/92B.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/92BGrey.jpg
@@ -8523,21 +8912,22 @@ Images:
 
 Engineered composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Complementary trim pieces are sold separately to achieve a polished, professional installation. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance.
 
- Size available: 16 x 240 x 1.2cm per panel
+Size available: 16 x 240 x 1.2cm per panel
 
- 12 pieces per pack
+12 pieces per pack
 
- Area covered: 4.61m² per pack
+Area covered: 4.61m² per pack
 
- Slat width: 2.4cm
+Slat width: 2.4cm
 
- Space between slats: 1.4cm
+Space between slats: 1.4cm
 
- Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
+Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
 
- Brackets recommended for installation
+Brackets recommended for installation
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/92DDarkOak-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/92D.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/92DDarkOak.jpg
@@ -8551,21 +8941,22 @@ Images:
 
 Engineered composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Complementary trim pieces are sold separately to achieve a polished, professional installation. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance.
 
- Size available: 16 x 240 x 1.2cm per panel
+Size available: 16 x 240 x 1.2cm per panel
 
- 12 pieces per pack
+12 pieces per pack
 
- Area covered: 4.61m² per pack
+Area covered: 4.61m² per pack
 
- Slat width: 2.4cm
+Slat width: 2.4cm
 
- Space between slats: 1.4cm
+Space between slats: 1.4cm
 
- Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
+Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
 
- Brackets recommended for installation
+Brackets recommended for installation
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/92EBlack-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/92E.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/92EBlack.jpg
@@ -8579,21 +8970,22 @@ Images:
 
 Engineered composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Complementary trim pieces are sold separately to achieve a polished, professional installation. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance.
 
- Size available: 16 x 240 x 1.2cm per panel
+Size available: 16 x 240 x 1.2cm per panel
 
- 12 pieces per pack
+12 pieces per pack
 
- Area covered: 4.61m² per pack
+Area covered: 4.61m² per pack
 
- Slat width: 2.4cm
+Slat width: 2.4cm
 
- Space between slats: 1.4cm
+Space between slats: 1.4cm
 
- Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
+Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs)
 
- Brackets recommended for installation
+Brackets recommended for installation
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/92TWalnut-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/92T.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/92T_Walnut.jpg
@@ -8611,13 +9003,14 @@ Images:
 
 Transform your space with this sophisticated acoustic wall panel system. Featuring an ornate, distinctive design in antique metallic grey, each panel combines HDF slat construction with premium felt backing to deliver superior sound absorption and aesthetic refinement. The 240cm pack contains four pieces, ideal for creating a cohesive feature wall or comprehensive room treatment. Perfect for studios, offices, or contemporary interiors where acoustic performance meets elegant design.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP010G-GREY_03fd921c-186b-41f7-835a-401aabc29ae0.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageApr8_2026_03_14_35PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP010G-GREY.png
@@ -8632,13 +9025,14 @@ Images:
 
 Transform your space with this sophisticated acoustic wall panel featuring an ornate, antique metallic gold design that commands attention. Crafted from premium HDF slat material, each panel delivers exceptional sound absorption while adding architectural elegance to any room. The felt backing ensures secure installation and enhanced acoustic performance, making it ideal for studios, offices, or contemporary interiors seeking both aesthetic refinement and functional sound control. This single pack contains four panels, each measuring 240cm, providing substantial coverage for transformative impact.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP010G-BROWN_5cd83073-9c51-4cca-ade2-d93e9a30f868.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageApr8_2026_03_18_14PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP010G-BROWN_182ba403-b105-4a0e-ae09-807787b2430c.png
@@ -8653,13 +9047,14 @@ Images:
 
 Transform your space with this sophisticated acoustic wall panel system. Featuring an ornate, distinctive design in antique metallic brown, each panel combines HDF slat construction with premium felt backing for superior sound absorption. The 240cm pack delivers four pieces ready for seamless installation, making it ideal for studios, offices, or contemporary interiors seeking both aesthetic refinement and acoustic performance. The felt backing ensures optimal sound dampening while the durable HDF material provides lasting structural integrity. A professional-grade solution that elevates interior design whilst addressing acoustic challenges with understated elegance.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP010G_af3a7615-93df-4d3d-9ba4-38c4bee5b8d4.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageApr8_2026_03_18_19PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP010G_96f0d34e-0bfe-465a-8909-fe8e638f9920.png
@@ -8674,13 +9069,14 @@ Images:
 
 Transform your space with professional-grade acoustic panelling designed for superior sound control. These wall panels feature honeycomb effect slats crafted from durable HDF material, delivering both aesthetic appeal and functional noise reduction. The felt backing enhances acoustic performance while the elegant gold and grey finish complements contemporary interiors. Each pack contains four panels measuring 240cm, providing substantial coverage for offices, studios, or residential spaces. Ideal for creating acoustically optimised environments without compromising on style.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP013B.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/13A2.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/013_grey.png
@@ -8694,13 +9090,14 @@ Images:
 
 Transform your space with professional-grade acoustic panelling designed for superior sound control. These wall panels feature honeycomb effect slats crafted from durable HDF material, delivering both aesthetic appeal and functional noise reduction. The felt backing enhances acoustic performance while the elegant gold and brown finish complements contemporary interiors. Each pack contains four panels measuring 240cm, providing substantial coverage for offices, studios, or residential spaces. Ideal for creating acoustically optimised environments without compromising on style.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP013A.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/13A_2.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/013brown.png
@@ -8714,19 +9111,20 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound and reduce noise transmission effectively. The natural oak finish adds warmth and sophistication to any room while delivering professional-grade acoustic performance. Each pack contains four panels, offering flexible coverage for studios, offices, or residential spaces. Ideal for creating acoustically optimized environments without compromising on aesthetic appeal.
 
- Size available: 60 x 240 x 1.5cm per panel
+Size available: 60 x 240 x 1.5cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered : 5.76m² per pack
+Area covered : 5.76m² per pack
 
- Slat width: 2.5cm
+Slat width: 2.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel Trim A - A Oak - WP 01/02/03/04/06/08 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - A Oak - WP 01/02/03/04/06/08 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/03_64c706af-4068-4642-aaae-186bd6d5b828.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01A-NaturalOak1_ed6ce0dd-0195-4e7d-962e-f0f7d8e46184.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01A-NaturalOak1.jpg
@@ -8741,19 +9139,20 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound effectively and reduce noise transmission. Each pack contains four panels, delivering professional-grade acoustic performance with a sophisticated light grey finish. Ideal for studios, offices, or any environment where sound control matters. Install with confidence knowing you're choosing a modern solution that combines aesthetic appeal with proven acoustic engineering.
 
- Size available: 60 x 240 x 1.5cm per panel
+Size available: 60 x 240 x 1.5cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.5cm
+Slat width: 2.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel Trim A - B Light Grey - WP 01/02/04/06/08 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - B Light Grey - WP 01/02/04/06/08 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01B.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01B_a913324a-9f55-4724-95f2-e4d7c447f79b.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01B_6b742e7c-bde7-4fd8-b8de-40c3dad0949a.jpg
@@ -8768,19 +9167,20 @@ Images:
 
 Elevate acoustic performance with these forward-thinking wall panels. Engineered with robust HDF slat construction and backed by premium felt material, they deliver exceptional sound absorption and noise dampening across frequencies. The sophisticated dark grey aesthetic complements modern interiors while providing professional-grade acoustic control. Four panels per pack offer flexible coverage for studios, meeting rooms, or residential spaces requiring superior sound management. Built for durability and acoustic precision.
 
- Size available: 60 x 240 x 1.5cm per panel
+Size available: 60 x 240 x 1.5cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.5cm
+Slat width: 2.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel Trim A - C Dark Grey - WP 01/03 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - C Dark Grey - WP 01/03 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01C.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01C_e22a9555-c901-4e4d-9ebe-c76dad807126.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01C_7a4b566f-7d19-4af3-9690-d791958b0ae6.jpg
@@ -8794,19 +9194,20 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound and reduce noise transmission effectively. The Dark Oak finish delivers sophisticated aesthetics while the acoustic properties enhance room acoustics for superior sound quality. Each pack contains four panels, offering flexible coverage for studios, offices, or residential spaces. Installation is straightforward, making professional-grade acoustic treatment accessible to everyone.
 
- Size available: 60 x 240 x 1.5cm per panel
+Size available: 60 x 240 x 1.5cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.5cm
+Slat width: 2.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel Trim A - D Dark Oak - WP 01/03/04/31 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - D Dark Oak - WP 01/03/04/31 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01D.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01D-DarkOak1_eb10ead4-a5a7-4a1a-981d-69e4dc8ba9b3.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01D-DarkOak1.jpg
@@ -8821,19 +9222,20 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound effectively and reduce noise transmission. Each pack contains four panels, delivering professional-grade acoustic performance with a sleek black finish. Ideal for studios, offices, or any environment where sound control matters. Install with confidence knowing you're investing in both aesthetics and acoustic excellence.
 
- Size available: 60 x 240 x 1.5cm per panel
+Size available: 60 x 240 x 1.5cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width : 2.5cm
+Slat width : 2.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel Trim A - E Black - WP 01 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - E Black - WP 01 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01E.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01E-Black1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01E_5b5aa623-3603-4b49-99eb-90a727c40882.jpg
@@ -8847,17 +9249,18 @@ Images:
 
 Harness advanced acoustic engineering with these state-of-the-art wall panels. Built from robust HDF slats and backed with premium felt material, they provide exceptional sound control for demanding environments. The shiny gold finish delivers a refined aesthetic that enhances contemporary interiors. Designed for professionals who demand both performance and elegance, each four-panel pack offers comprehensive coverage and flexible installation. Whether outfitting recording studios, conference rooms, or high-end residential spaces, these innovative panels combine technical precision with sophisticated visual appeal to create acoustically optimized environments.
 
- Size available: 60 x 240 x 1.5cm per panel
+Size available: 60 x 240 x 1.5cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.5cm
+Slat width: 2.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Image_20250829105426_68_12.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageApr8_2026_12_39_08PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP01G-2.png
@@ -8872,19 +9275,20 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound and reduce noise transmission effectively. The Teak Oak finish delivers sophisticated aesthetics while the acoustic properties enhance room acoustics for superior sound quality. Each pack contains four panels, offering flexible coverage for studios, offices, or residential spaces. Installation is straightforward, making professional-grade acoustic treatment accessible to everyone.
 
- Size available: 60 x 240 x 1.5cm per panel
+Size available: 60 x 240 x 1.5cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.5cm
+Slat width: 2.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel Trim A - P Teak Oak - WP 01 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - P Teak Oak - WP 01 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01PTeakOak_6055c751-790d-4789-9dc0-152999903a95.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01P_f9a5c954-6590-42af-967c-3e8247cb12ef.png
 
@@ -8897,17 +9301,18 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound and reduce noise effectively. The walnut finish adds sophisticated warmth to any room while delivering professional-grade acoustic performance. Each pack contains four panels, making installation straightforward for residential or commercial applications. Perfect for studios, offices, or living spaces seeking superior sound control without compromising on aesthetics.
 
- Size available: 60 x 240 x 1.5cm per panel
+Size available: 60 x 240 x 1.5cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.5cm
+Slat width: 2.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01QSmokedOak.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01Q.jpg
 
@@ -8920,17 +9325,18 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound and reduce noise effectively. The walnut finish adds sophisticated warmth to any room while delivering professional-grade acoustic performance. Each pack contains four panels, making installation straightforward for residential or commercial applications. Perfect for studios, offices, or living spaces seeking superior sound control without compromising on aesthetics.
 
- Size available: 60 x 240 x 1.5cm per panel
+Size available: 60 x 240 x 1.5cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.5cm
+Slat width: 2.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01RConcrete.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01R.jpg
 
@@ -8943,17 +9349,18 @@ Images:
 
 Harness advanced acoustic engineering with these state-of-the-art wall panels. Built from robust HDF slats and backed with premium felt material, they provide exceptional sound control for demanding environments. The shiny silver finish delivers a refined aesthetic that enhances contemporary interiors. Designed for professionals who demand both performance and elegance, each four-panel pack offers comprehensive coverage and flexible installation. Whether outfitting recording studios, conference rooms, or high-end residential spaces, these innovative panels combine technical precision with sophisticated visual appeal to create acoustically optimized environments.
 
- Size available: 60 x 240 x 1.5cm per panel
+Size available: 60 x 240 x 1.5cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.5cm
+Slat width: 2.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Image_20250829105426_67_12.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageApr8_2026_12_37_15PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP01S.png
@@ -8968,19 +9375,20 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound and reduce noise effectively. The walnut finish adds sophisticated warmth to any room while delivering professional-grade acoustic performance. Each pack contains four panels, making installation straightforward for residential or commercial applications. Perfect for studios, offices, or living spaces seeking superior sound control without compromising on aesthetics.
 
- Size available: 60 x 240 x 1.5cm per panel
+Size available: 60 x 240 x 1.5cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.5cm
+Slat width: 2.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel Trim A - T Walnut - WP 01/02/03/04/06/08 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - T Walnut - WP 01/02/03/04/06/08 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01T.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01T_56cd73a8-fddd-4a35-abb4-0bf0cf16619f.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01T_9b55f321-1ad7-4c79-bc10-dbb4e109ec16.jpg
@@ -8995,19 +9403,20 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound effectively while adding contemporary visual interest. Each pack contains four panels, delivering professional-grade acoustic performance with a sophisticated metallic-brown finish. Ideal for studios, offices, or any environment where sound control meets modern design. Create a refined atmosphere that's both acoustically superior and visually striking.
 
- Size available: 60 x 240 x 1.5cm per panel
+Size available: 60 x 240 x 1.5cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.5cm
+Slat width: 2.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel Trim A - WF Metallic Brown - WP 01 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - WF Metallic Brown - WP 01 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WF_1bb3cfe4-780d-4856-8200-53f855310152.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageApr8_2026_12_03_20PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WF_1303a220-e692-4fea-aaaf-54fae859bf0f.png
@@ -9024,19 +9433,20 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound effectively while adding contemporary visual interest. Each pack contains four panels, delivering professional-grade acoustic performance with a sophisticated metallic-gold finish. Ideal for studios, offices, or any environment where sound control meets modern design. Create a refined atmosphere that's both acoustically superior and visually striking.
 
- Size available: 60 x 240 x 1.5cm per panel
+Size available: 60 x 240 x 1.5cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.5cm
+Slat width: 2.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel Trim A - WG Metallic Gold - WP 01 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - WG Metallic Gold - WP 01 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WG_b607843a-702e-4040-809a-d1446ff2ed04.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageApr8_2026_12_05_32PM_5f73d54a-32ff-4f04-b76f-de3c13455229.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WG_a61f02d0-bcbc-4c7a-bf08-a67459c48367.png
@@ -9053,19 +9463,20 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound effectively while adding contemporary visual interest. Each pack contains four panels, delivering professional-grade acoustic performance with a sophisticated metallic light grey finish. Ideal for studios, offices, or any environment where sound control meets modern design. Create a refined atmosphere that's both acoustically superior and visually striking.
 
- Size available: 60 x 240 x 1.5cm per panel
+Size available: 60 x 240 x 1.5cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.5cm
+Slat width: 2.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel Trim A - WH Metallic Light Grey - WP 01 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - WH Metallic Light Grey - WP 01 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WH_4a863433-d052-48d2-85d0-33afdc9418ef.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageApr8_2026_12_07_28PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WH_b0ffb764-50bc-4518-8be3-44654ee132d9.png
@@ -9082,19 +9493,20 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound effectively while maintaining aesthetic appeal. The metallic-dark grey finish delivers contemporary sophistication to any room. Each pack contains four panels, offering flexible coverage for studios, offices, or residential spaces. Superior sound dampening meets modern design in one elegant solution.
 
- Size available: 60 x 240 x 1.5cm per panel
+Size available: 60 x 240 x 1.5cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.5cm
+Slat width: 2.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel Trim A - WJ Metallic Dark Grey - WP 01 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - WJ Metallic Dark Grey - WP 01 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WJ_2ee952b4-4a0a-4272-ab56-1a0a322767eb.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageApr8_2026_12_13_00PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WJ-MetallicDarkGrey2.jpg
@@ -9110,19 +9522,20 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound effectively and reduce noise transmission. The elegant white marble finish complements any interior aesthetic while delivering professional-grade acoustic performance. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where sound control matters.
 
- Size available: 60 x 240 x 1.5cm per panel
+Size available: 60 x 240 x 1.5cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.5cm
+Slat width: 2.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel Trim A - WK White Marble - WP 01/02 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - WK White Marble - WP 01/02 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WK_c873f015-3ac0-4a66-a3e2-224c22b00464.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageApr8_2026_12_21_53PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WK.png
@@ -9137,19 +9550,20 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound effectively and reduce noise transmission. The elegant gold and black marble finish complements any interior aesthetic while delivering professional-grade acoustic performance. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where sound control matters.
 
- Size available: 60 x 240 x 1.5cm per panel
+Size available: 60 x 240 x 1.5cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.5cm
+Slat width: 2.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel Trim A - WN Gold and Black Marble - WP 01/02 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - WN Gold and Black Marble - WP 01/02 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WN_dcb5e1ef-3ecb-47cd-a81c-c44d49e68d54.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageApr8_2026_12_28_29PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WN.png
@@ -9164,19 +9578,20 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound effectively and reduce noise transmission. The elegant grey marble finish complements any interior aesthetic while delivering professional-grade acoustic performance. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where sound control matters.
 
- Size available: 60 x 240 x 1.5cm per panel
+Size available: 60 x 240 x 1.5cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.5cm
+Slat width: 2.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel Trim A - WO Grey Marble - WP 01/02 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - WO Grey Marble - WP 01/02 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WO2.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageApr8_2026_12_26_10PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01W0_3.jpg
@@ -9190,17 +9605,18 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound effectively and reduce noise transmission. The elegant white marble finish complements any interior aesthetic while delivering professional-grade acoustic performance. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where sound control matters.
 
- Size available: 60 x 240 x 1.5cm per panel
+Size available: 60 x 240 x 1.5cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.5cm
+Slat width: 2.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_12_09_36PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/79172726311__833673c5-d42d-4a98-b980-bb6f78dfd79e.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/79172726311__3D688098-801B-42D0-BBC6-928599C8E7A6.jpg
@@ -9214,17 +9630,18 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound and reduce noise transmission effectively. The natural oak finish adds warmth and sophistication to any room while delivering professional-grade acoustic performance. Each pack contains four panels, offering flexible coverage for studios, offices, or residential spaces. Ideal for creating acoustically optimized environments without compromising on aesthetic appeal.
 
- Size available: 60 x 240 x 1.5cm per panel
+Size available: 60 x 240 x 1.5cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered : 5.76m² per pack
+Area covered : 5.76m² per pack
 
- Slat width: 2.5cm
+Slat width: 2.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WXGoldandWhite-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WALLPANNEL01WX_2_-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WALLPANNEL01WX_1.jpg
@@ -9244,19 +9661,20 @@ Images:
 
 Transform your space with the Wall Panel 02WA in warm oak. These innovative acoustic panels feature HDF slat construction paired with felt backing to absorb sound and reduce noise effectively. Each pack contains three pieces, making installation straightforward for any room. The sleek slat design adds contemporary visual interest while delivering genuine acoustic performance. Perfect for studios, offices, or living spaces where sound control matters. Enhance both aesthetics and acoustics with a solution that performs as beautifully as it looks.
 
- Size available: 60 x 280 x 1.7cm per panel
+Size available: 60 x 280 x 1.7cm per panel
 
- 3 pieces per pack
+3 pieces per pack
 
- Area covered: 5.04m² per pack
+Area covered: 5.04m² per pack
 
- Slat width: 3.5cm
+Slat width: 3.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel Trim A - A Oak - WP 01/02/03/04/06/08 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - A Oak - WP 01/02/03/04/06/08 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/02WA_da313921-f6fa-447f-aec1-0dca95de4f31.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01A-NaturalOak1_ed6ce0dd-0195-4e7d-962e-f0f7d8e46184.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/02WA.png
@@ -9271,19 +9689,20 @@ Images:
 
 Transform your space with the Wall Panel 02WB, an innovative acoustic solution engineered for superior sound control. Crafted from premium HDF slat material, these panels deliver exceptional acoustic performance while maintaining a sleek grey aesthetic. The felt-backed design ensures optimal sound absorption and easy installation on any wall surface. Each pack contains three panels, providing flexible coverage for studios, offices, or residential spaces. Perfect for reducing noise and enhancing acoustics without compromising on style.
 
- Size available: 60 x 280 x 1.7cm per panel
+Size available: 60 x 280 x 1.7cm per panel
 
- 3 pieces per pack
+3 pieces per pack
 
- Area covered: 5.04m² per pack
+Area covered: 5.04m² per pack
 
- Slat width: 3.5cm
+Slat width: 3.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel Trim A - B Light Grey - WP 01/02/04/06/08 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - B Light Grey - WP 01/02/04/06/08 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/02WB_a5e408eb-85fb-4021-8d82-cbf046fbc5ed.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01B_ecb0ee8d-0585-446d-98d9-f51eb58a53cf.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/02WB.png
@@ -9298,19 +9717,20 @@ Images:
 
 Transform your space with the Wall Panel 02WK, an innovative acoustic solution crafted from premium HDF slat material. Each pack contains three panels featuring a sophisticated white marble finish that complements any interior aesthetic. The felt-backed construction absorbs sound effectively, reducing noise and enhancing acoustic comfort in offices, studios, or residential spaces. Lightweight yet durable, these panels install seamlessly on walls, delivering both visual elegance and functional sound management. Ideal for creating professional environments or improving room acoustics without compromising on design.
 
- Size available: 60 x 280 x 1.7cm per panel
+Size available: 60 x 280 x 1.7cm per panel
 
- 3 pieces per pack
+3 pieces per pack
 
- Area covered: 5.04m² per pack
+Area covered: 5.04m² per pack
 
- Slat width: 3.5cm
+Slat width: 3.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel Trim A - WK White Marble - WP 01/02 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - WK White Marble - WP 01/02 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/02WK2.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageApr8_2026_12_21_53PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/02_WK.jpg
@@ -9325,19 +9745,20 @@ Images:
 
 Elevate your interior with next-generation acoustic solutions. These sophisticated wall panels combine innovative HDF slat design with felt-backed technology to deliver exceptional sound absorption and damping. The striking gold and black marble aesthetic adds contemporary elegance to any environment whilst providing professional-grade acoustic performance. Ideal for studios, boardrooms, or modern homes, each three-piece pack offers versatile coverage and seamless integration into discerning spaces where both acoustics and design excellence matter.
 
- Size available: 60 x 280 x 1.7cm per panel
+Size available: 60 x 280 x 1.7cm per panel
 
- 3 pieces per pack
+3 pieces per pack
 
- Area covered: 5.04m² per pack
+Area covered: 5.04m² per pack
 
- Slat width: 3.5cm
+Slat width: 3.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel Trim A - WN Gold and Black Marble - WP 01/02 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - WN Gold and Black Marble - WP 01/02 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/02_WN_3_ec6c1bba-2fbf-439a-82a6-c41fe05a1c6d.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageApr8_2026_12_28_29PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/02_WN4.jpg
@@ -9353,19 +9774,20 @@ Images:
 
 Harness cutting-edge acoustic innovation with these premium wall panels. Featuring robust HDF slat construction paired with felt backing, they effectively manage sound whilst delivering visual refinement. The sophisticated grey marble finish complements contemporary and traditional interiors alike, offering versatile design flexibility. At 280cm coverage per panel, these three-piece panels provide substantial acoustic treatment for larger spaces—studios, conference rooms, or residential areas demanding professional-grade sound absorption without aesthetic compromise.
 
- Size available: 60 x 280 x 1.7cm per panel
+Size available: 60 x 280 x 1.7cm per panel
 
- 3 pieces per pack
+3 pieces per pack
 
- Area covered: 5.04m² per pack
+Area covered: 5.04m² per pack
 
- Slat width: 3.5cm
+Slat width: 3.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel Trim A - WO Grey Marble - WP 01/02 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - WO Grey Marble - WP 01/02 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WO2_70203fa3-f168-4c35-af4e-860da2c18842.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageApr8_2026_12_26_10PM.png
 
@@ -9378,19 +9800,20 @@ Images:
 
 Transform your space with cutting-edge acoustic solutions. Our Wall Panel 02WT features premium HDF slat construction paired with felt backing to absorb sound effectively while maintaining aesthetic appeal. The walnut finish adds warmth and sophistication to any interior. Each pack contains three panels of 280cm, offering flexible coverage for offices, studios, or residential spaces. Engineered for both performance and design, these panels deliver professional-grade sound control without compromise.
 
- Size available: 60 x 280 x 1.7cm per panel
+Size available: 60 x 280 x 1.7cm per panel
 
- 3 pieces per pack
+3 pieces per pack
 
- Area covered: 5.04m² per pack
+Area covered: 5.04m² per pack
 
- Slat width: 3.5cm
+Slat width: 3.5cm
 
- Space between slats: 1.5cm
+Space between slats: 1.5cm
 
- Trim: Wall Panel Trim A - T Walnut - WP 01/02/03/04/06/08 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - T Walnut - WP 01/02/03/04/06/08 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01TWalnut.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01T_56cd73a8-fddd-4a35-abb4-0bf0cf16619f.jpg
 
@@ -9403,17 +9826,18 @@ Images:
 
 Transform your space with this sophisticated acoustic wall panel system. Featuring an innovative wavy design that adds visual depth and contemporary style, each panel combines HDF slat material with felt backing to deliver superior sound absorption. The oak finish complements modern and traditional interiors alike, while the acoustic properties reduce noise and improve room acoustics effectively. At 240cm height, this single pack contains four panels offering substantial coverage. Ideal for offices, studios, bedrooms, or commercial spaces seeking both aesthetic appeal and functional sound control.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.5cm
+Slat width: 2.5cm
 
- Trim: Wall Panel Trim A - A Oak - WP 01/02/03/04/06/08 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - A Oak - WP 01/02/03/04/06/08 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/03A-1.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageApr8_2026_01_41_06PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/03A.png
@@ -9427,17 +9851,18 @@ Images:
 
 Transform your space with this sophisticated acoustic wall panel system. Featuring an innovative wavy design that adds visual depth and contemporary style, each panel combines HDF slat material with felt backing to deliver superior sound absorption. The dark grey finish complements modern and traditional interiors alike, while the acoustic properties reduce noise and improve room acoustics effectively. At 240cm height, this single pack contains four panels offering substantial coverage. Ideal for offices, studios, bedrooms, or commercial spaces seeking both aesthetic appeal and functional sound control.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.5cm
+Slat width: 2.5cm
 
- Trim: Wall Panel Trim A - C Dark Grey - WP 01/03 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - C Dark Grey - WP 01/03 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/03C_d15f0e89-e03e-4d69-87be-5a72d687b753.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/03C_4ae2c9ca-408a-4d2e-aedf-f848fe2daa52.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/03C_c5050182-62f1-4dcd-8893-a24460f4734e.png
@@ -9451,17 +9876,18 @@ Images:
 
 Transform your space with this sophisticated acoustic wall panel system. Featuring an innovative wavy design that adds visual depth and contemporary style, each panel combines HDF slat material with felt backing to deliver superior sound absorption. The dark oak finish complements modern and traditional interiors alike, while the acoustic properties reduce noise and improve room acoustics effectively. At 240cm height, this single pack contains four panels offering substantial coverage. Ideal for offices, studios, bedrooms, or commercial spaces seeking both aesthetic appeal and functional sound control.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.5cm
+Slat width: 2.5cm
 
- Trim: Wall Panel Trim A - D Dark Oak - WP 01/03/04/31 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - D Dark Oak - WP 01/03/04/31 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/03D_3ef549dd-310c-4388-ae7e-6ecbd9482d9e.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/03D_30428d1a-941f-42da-b0e8-06b8f3d27e6c.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/03D_446845c0-8340-43ca-81b1-9d1599131612.png
@@ -9475,17 +9901,18 @@ Images:
 
 Transform your space with this sophisticated acoustic wall panel system. Featuring an innovative wavy design that adds visual depth and contemporary style, each panel combines HDF slat material with felt backing to deliver superior sound absorption. The walnut finish complements modern and traditional interiors alike, while the acoustic properties reduce noise and improve room acoustics effectively. At 240cm height, this single pack contains four panels offering substantial coverage. Ideal for offices, studios, bedrooms, or commercial spaces seeking both aesthetic appeal and functional sound control.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.5cm
+Slat width: 2.5cm
 
- Trim: Wall Panel Trim A - T Walnut - WP 01/02/03/04/06/08 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - T Walnut - WP 01/02/03/04/06/08 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/03T_685a886e-0b2d-4c92-af3b-76a4e4a06b2f.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/03T_16b24c84-eee2-489a-a1d6-9b9bea726106.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/03T_ce9c9116-9515-41b8-bdcd-b9c6c0fd099c.png
@@ -9499,19 +9926,20 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound and reduce noise transmission effectively. The natural oak finish adds warmth and sophistication to any room while delivering professional-grade acoustic performance. Each pack contains four panels, offering flexible coverage for studios, offices, or residential spaces. Ideal for creating acoustically optimized environments without compromising on aesthetic appeal.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 3.8cm + 1.8cm
+Slat width: 3.8cm + 1.8cm
 
- Space between slats: 1cm
+Space between slats: 1cm
 
- Trim: Wall Panel Trim A - A Oak - WP 01/02/03/04/06/08 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - A Oak - WP 01/02/03/04/06/08 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/04AOak1.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/04A.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/3d8bdaeb-5139-46f1-aca0-8b44feda9b3e_c6b98db2-cfe4-42df-a556-252a0eb44e9e.jpg
@@ -9525,19 +9953,20 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound effectively and reduce noise transmission. Each pack contains four panels, delivering professional-grade acoustic performance with a sophisticated light grey finish. Ideal for studios, offices, or any environment where sound control matters. Install with confidence knowing you're choosing a modern solution that combines aesthetic appeal with proven acoustic engineering.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 3.8cm + 1.8cm
+Slat width: 3.8cm + 1.8cm
 
- Space between slats: 1cm
+Space between slats: 1cm
 
- Trim: Wall Panel Trim A - B Light Grey - WP 01/02/04/06/08 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - B Light Grey - WP 01/02/04/06/08 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb12_2026_03_28_47PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageMar16_2026_12_19_46PM.png
 
@@ -9550,19 +9979,20 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound and reduce noise transmission effectively. The dark oak finish adds warmth and sophistication to any room while delivering professional-grade acoustic performance. Each pack contains four panels, offering flexible coverage for studios, offices, or residential spaces. Ideal for creating acoustically optimized environments without compromising on aesthetic appeal.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 3.8cm + 1.8cm
+Slat width: 3.8cm + 1.8cm
 
- Space between slats: 1cm
+Space between slats: 1cm
 
- Trim: Wall Panel Trim A - D Dark Oak - WP 01/03/04/31 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - D Dark Oak - WP 01/03/04/31 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/04DDarkOak.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageMar16_2026_12_24_10PM.png
 
@@ -9575,19 +10005,20 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound and reduce noise effectively. The walnut finish adds sophisticated warmth to any room while delivering professional-grade acoustic performance. Each pack contains four panels, making installation straightforward for residential or commercial applications. Perfect for studios, offices, or living spaces seeking superior sound control without compromising on aesthetics.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered : 5.76m² per pack
+Area covered : 5.76m² per pack
 
- Slat width: 3.8cm + 1.8cm
+Slat width: 3.8cm + 1.8cm
 
- Space between slats: 1cm
+Space between slats: 1cm
 
- Trim: Wall Panel Trim A - T Walnut - WP 01/02/03/04/06/08 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - T Walnut - WP 01/02/03/04/06/08 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb12_2026_03_28_04PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageMar16_2026_12_24_53PM.png
 
@@ -9600,15 +10031,16 @@ Images:
 
 Transform your space with these premium acoustic wall panels featuring a striking vertical brick pattern. Crafted from durable HDF material with felt backing, they deliver superior sound absorption while adding architectural depth to any room. Each pack contains four panels measuring 240cm, perfect for creating a cohesive feature wall. The oak finish complements modern and traditional interiors alike, making these panels an ideal solution for studios, offices, or residential spaces seeking both aesthetic appeal and acoustic performance.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trim: Wall Panel Trim A - A Oak - WP 01/02/03/04/06/08 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - A Oak - WP 01/02/03/04/06/08 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/06A.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageApr8_2026_01_54_05PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/06A_50713bca-d9b3-4e3c-a894-de0654017614.jpg
@@ -9623,15 +10055,16 @@ Images:
 
 Transform your space with these acoustic wall panels featuring a striking mandala pattern design. Crafted from durable HDF material with felt backing, they deliver superior sound absorption while adding visual interest to any room. Each panel measures 240cm and comes as a pack of 4 pieces, making installation straightforward. The oak finish complements modern and traditional interiors alike. Ideal for studios, offices, or residential spaces seeking both aesthetic appeal and acoustic performance.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trim: Wall Panel Trim A - A Oak - WP 01/02/03/04/06/08 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - A Oak - WP 01/02/03/04/06/08 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/08A_3ca92f2e-6dbc-442a-9e5e-dafca29b1949.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/08A.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/08A_bc25243a-8cae-4b5f-96c2-a7dced0e178e.png
@@ -9646,15 +10079,16 @@ Images:
 
 Transform your space with these acoustic wall panels featuring a striking mandala pattern design. Crafted from durable HDF material with felt backing, they deliver superior sound absorption while adding visual interest to any room. Each panel measures 240cm and comes as a pack of 4 pieces, making installation straightforward. The oak finish complements modern and traditional interiors alike. Ideal for studios, offices, or residential spaces seeking both aesthetic appeal and acoustic performance.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trim: Wall Panel Trim A - D Dark Oak - WP 01/03/04/08/31 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - D Dark Oak - WP 01/03/04/08/31 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/08DDarkOak.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/08D.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/08DDarkOak_f8896202-b485-4caf-9ece-b8d87642dc07.png
@@ -9669,15 +10103,16 @@ Images:
 
 Transform your space with these acoustic wall panels featuring a striking mandala pattern design. Crafted from durable HDF material with felt backing, they deliver superior sound absorption while adding visual interest to any room. Each panel measures 240cm and comes as a pack of 4 pieces, making installation straightforward. The grey finish complements modern and traditional interiors alike. Ideal for studios, offices, or residential spaces seeking both aesthetic appeal and acoustic performance.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trim: Wall Panel Trim A - B Light Grey - WP 01/02/04/06/08 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - B Light Grey - WP 01/02/04/06/08 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageMar2_2026_03_13_25PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/08B.png
 
@@ -9690,15 +10125,16 @@ Images:
 
 Transform your space with this sophisticated acoustic wall panel featuring an intricate mandala pattern. Crafted from durable HDF material with a felt backing, it delivers superior sound absorption while adding visual depth to any room. The walnut finish complements modern and traditional interiors alike. Each pack contains four panels measuring 240cm in total, making installation straightforward and efficient. Ideal for studios, offices, or residential spaces seeking both aesthetic appeal and acoustic performance.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trim: Wall Panel Trim A - T Walnut - WP 01/02/03/04/06/08 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - T Walnut - WP 01/02/03/04/06/08 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/08T_6ecfedca-475f-40a8-89ed-5df86bc7534f.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/08T_3b437ba5-f198-44e3-a460-0822982cd7c4.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/08T.png
@@ -9713,15 +10149,16 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These premium wall panels feature HDF slat construction with felt backing to absorb sound effectively and reduce noise transmission. Thicker than standard panels at 17mm thick. The three-sided veneer coverage on all visible slats ensures a refined, finished appearance from every angle. The elegant finish complements any interior aesthetic while delivering professional-grade sound control. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where superior sound control matters.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trim: Wall Panel Trim A - D Dark Oak - WP 01/03/04/31 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel Trim A - D Dark Oak - WP 01/03/04/31 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/31DDarkOak1.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/31D.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/031D.png
@@ -9735,13 +10172,14 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These premium wall panels feature HDF slat construction with felt backing to absorb sound effectively and reduce noise transmission. Thicker than standard panels at 17mm thick. The three-sided veneer coverage on all visible slats ensures a refined, finished appearance from every angle. The elegant finish complements any interior aesthetic while delivering professional-grade sound control. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where superior sound control matters.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/31FGreyOak1.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/31F.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/031F.png
@@ -9755,13 +10193,14 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These premium wall panels feature HDF slat construction with felt backing to absorb sound effectively and reduce noise transmission. Thicker than standard panels at 17mm thick. The three-sided veneer coverage on all visible slats ensures a refined, finished appearance from every angle. The elegant finish complements any interior aesthetic while delivering professional-grade sound control. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where superior sound control matters.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/31HOak021.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/31H.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/031H.png
@@ -9775,15 +10214,16 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These premium wall panels feature HDF slat construction with felt backing to absorb sound effectively and reduce noise transmission. Thicker than standard panels at 17mm thick. The three-sided veneer coverage on all visible slats ensures a refined, finished appearance from every angle. The elegant finish complements any interior aesthetic while delivering professional-grade sound control. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where superior sound control matters.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trim: Wall Panel PVC Trim Acoustic - T Walnut - WP 01/02/03/04/08/31 - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel PVC Trim Acoustic - T Walnut - WP 01/02/03/04/08/31 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/31TWalnut1.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/31T.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/031T.png
@@ -9797,13 +10237,14 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These premium wall panels feature HDF slat construction with felt backing to absorb sound effectively and reduce noise transmission. Thicker than standard panels at 17mm thick. The three-sided veneer coverage on all visible slats ensures a refined, finished appearance from every angle. The elegant finish complements any interior aesthetic while delivering professional-grade sound control. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where superior sound control matters.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32FGreyOak-Copy.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32FGreyOak-Copy-Copy.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32FGreyOak.png
@@ -9817,13 +10258,14 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These premium wall panels feature HDF slat construction with felt backing to absorb sound effectively and reduce noise transmission. Thicker than standard panels at 17mm thick. The three-sided veneer coverage on all visible slats ensures a refined, finished appearance from every angle. The elegant finish complements any interior aesthetic while delivering professional-grade sound control. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where superior sound control matters.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32HOak-Copy.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32HOak-Copy-Copy.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32HOak.png
@@ -9837,13 +10279,14 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These premium wall panels feature HDF slat construction with felt backing to absorb sound effectively and reduce noise transmission. Thicker than standard panels at 17mm thick. The three-sided veneer coverage on all visible slats ensures a refined, finished appearance from every angle. The elegant finish complements any interior aesthetic while delivering professional-grade sound control. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where superior sound control matters.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32KShadowOak-Copy.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32KShadowOak-Copy-Copy.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32KShadowOak.png
@@ -9857,13 +10300,14 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These premium wall panels feature HDF slat construction with felt backing to absorb sound effectively and reduce noise transmission. Thicker than standard panels at 17mm thick. The three-sided veneer coverage on all visible slats ensures a refined, finished appearance from every angle. The elegant finish complements any interior aesthetic while delivering professional-grade sound control. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where superior sound control matters.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32RConcrete-Copy.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32RConcrete-Copy-Copy.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32RConcrete.png
@@ -9877,13 +10321,14 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These premium wall panels feature HDF slat construction with felt backing to absorb sound effectively and reduce noise transmission. Thicker than standard panels at 17mm thick. The three-sided veneer coverage on all visible slats ensures a refined, finished appearance from every angle. The elegant finish complements any interior aesthetic while delivering professional-grade sound control. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where superior sound control matters.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32WLightOak-Copy.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32WLightOak-Copy-Copy.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32WLightOak.png
@@ -9897,17 +10342,18 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF rounded slat construction paired with felt backing to absorb sound and reduce noise effectively. The finish adds sophisticated warmth to any room while delivering professional-grade acoustic performance. Each pack contains four panels, making installation straightforward for residential or commercial applications. Perfect for studios, offices, or living spaces seeking superior sound control without compromising on aesthetics.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.5cm
+Slat width: 2.5cm
 
- Space between slats: 1cm
+Space between slats: 1cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/36FGreyOak.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/36F.jpg
 
@@ -9920,17 +10366,18 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF rounded slat construction paired with felt backing to absorb sound and reduce noise effectively. The finish adds sophisticated warmth to any room while delivering professional-grade acoustic performance. Each pack contains four panels, making installation straightforward for residential or commercial applications. Perfect for studios, offices, or living spaces seeking superior sound control without compromising on aesthetics.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.5cm
+Slat width: 2.5cm
 
- Space between slats: 1cm
+Space between slats: 1cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/36HOak02.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/36H.jpg
 
@@ -9943,17 +10390,18 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF rounded slat construction paired with felt backing to absorb sound and reduce noise effectively. The finish adds sophisticated warmth to any room while delivering professional-grade acoustic performance. Each pack contains four panels, making installation straightforward for residential or commercial applications. Perfect for studios, offices, or living spaces seeking superior sound control without compromising on aesthetics.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.5cm
+Slat width: 2.5cm
 
- Space between slats: 1cm
+Space between slats: 1cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/36WTWalnut.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/36WT.jpg
 
@@ -9966,17 +10414,18 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF rounded slat construction paired with felt backing to absorb sound and reduce noise effectively. The finish adds sophisticated warmth to any room while delivering professional-grade acoustic performance. Each pack contains four panels, making installation straightforward for residential or commercial applications. Perfect for studios, offices, or living spaces seeking superior sound control without compromising on aesthetics.
 
- Size available: 60 x 240 x 2.2cm per panel
+Size available: 60 x 240 x 2.2cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 4cm
+Slat width: 4cm
 
- Space between slats: 1cm
+Space between slats: 1cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/37FGreyOak.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/37F.jpg
 
@@ -9989,17 +10438,18 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF rounded slat construction paired with felt backing to absorb sound and reduce noise effectively. The finish adds sophisticated warmth to any room while delivering professional-grade acoustic performance. Each pack contains four panels, making installation straightforward for residential or commercial applications. Perfect for studios, offices, or living spaces seeking superior sound control without compromising on aesthetics.
 
- Size available: 60 x 240 x 2.2cm per panel
+Size available: 60 x 240 x 2.2cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 4cm
+Slat width: 4cm
 
- Space between slats: 1cm
+Space between slats: 1cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/37HOak02.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/37H.jpg
 
@@ -10012,17 +10462,18 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF rounded slat construction paired with felt backing to absorb sound and reduce noise effectively. The finish adds sophisticated warmth to any room while delivering professional-grade acoustic performance. Each pack contains four panels, making installation straightforward for residential or commercial applications. Perfect for studios, offices, or living spaces seeking superior sound control without compromising on aesthetics.
 
- Size available: 60 x 240 x 2.2cm per panel
+Size available: 60 x 240 x 2.2cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 4cm
+Slat width: 4cm
 
- Space between slats: 1cm
+Space between slats: 1cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/37WTWalnut.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/37WT.jpg
 
@@ -10035,13 +10486,14 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound effectively and reduce noise transmission. The elegant finish complements any interior aesthetic while delivering professional-grade acoustic performance. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where sound control matters.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/41FGreyOak.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/41F.png
 
@@ -10054,13 +10506,14 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound effectively and reduce noise transmission. The elegant finish complements any interior aesthetic while delivering professional-grade acoustic performance. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where sound control matters.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/41HOak.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/41H.png
 
@@ -10073,13 +10526,14 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound effectively and reduce noise transmission. The elegant finish complements any interior aesthetic while delivering professional-grade acoustic performance. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where sound control matters.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/41KShadowOak.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/41K.png
 
@@ -10092,13 +10546,14 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound effectively and reduce noise transmission. The elegant finish complements any interior aesthetic while delivering professional-grade acoustic performance. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where sound control matters.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/41WTWalnut.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/41WT.png
 
@@ -10111,13 +10566,14 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound effectively and reduce noise transmission. The elegant finish complements any interior aesthetic while delivering professional-grade acoustic performance. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where sound control matters.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/42FGreyOak.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/42F.png
 
@@ -10130,13 +10586,14 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound effectively and reduce noise transmission. The elegant finish complements any interior aesthetic while delivering professional-grade acoustic performance. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where sound control matters.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/42HOak.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/42H_9ab98821-81af-4642-9b29-2a2c7e30acc9.png
 
@@ -10149,13 +10606,14 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound effectively and reduce noise transmission. The elegant finish complements any interior aesthetic while delivering professional-grade acoustic performance. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where sound control matters.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/42KShadowOak.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/42K.png
 
@@ -10168,13 +10626,14 @@ Images:
 
 Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound effectively and reduce noise transmission. The elegant finish complements any interior aesthetic while delivering professional-grade acoustic performance. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where sound control matters.
 
- Size available: 60 x 240 x 1.7cm per panel
+Size available: 60 x 240 x 1.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/42WTWalnut.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/42WT.png
 
@@ -10187,23 +10646,24 @@ Images:
 
 Precision-engineered trim designed to seamlessly finish wall panel installations. This 240cm length trim adapts to standard wall panel systems, providing clean edges and professional transitions between panels. Each pack contains 10 pieces, offering complete coverage for typical room applications. The sleek finish complements modern interiors whilst maintaining durability through everyday use. Essential for achieving polished results in wall panel projects.
 
- Size available: 2 x 2 x 240cm per trim
+Size available: 2 x 2 x 240cm per trim
 
- 10 pieces per pack
+10 pieces per pack
 
- Fits panels:
+Fits panels:
 
- Wall Panel 01A - Natural Oak - Acoustic - 240cm - (1 pack / 4pcs)
+Wall Panel 01A - Natural Oak - Acoustic - 240cm - (1 pack / 4pcs)
 
- Wall Panel 02WA - Oak - Acoustic - 280cm - (1 pack / 3pcs)
+Wall Panel 02WA - Oak - Acoustic - 280cm - (1 pack / 3pcs)
 
- Wall Panel 03A - Oak - Acoustic - 240cm - (1 pack / 4pcs)
+Wall Panel 03A - Oak - Acoustic - 240cm - (1 pack / 4pcs)
 
- Wall Panel 04A - Oak - Acoustic - 240cm - (1 pack / 4pcs)
+Wall Panel 04A - Oak - Acoustic - 240cm - (1 pack / 4pcs)
 
- Wall Panel 08A - Oak - Blocks - 240cm - (1 pack / 4pcs)
+Wall Panel 08A - Oak - Blocks - 240cm - (1 pack / 4pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/TrimAA.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/TrimAA1.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/TrimABLightGrey.png
@@ -10249,11 +10709,12 @@ Images:
 
 Precision-engineered trim designed to seamlessly finish wall panel installations. This 300cm length trim adapts to standard wall panel systems, providing clean edges and professional transitions between panels. Each pack contains 10 pieces, offering complete coverage for typical room applications. The aluminium strips work for any of our PVC wall panels. Essential for achieving polished results in wall panel projects.
 
- Size available: 300cm per trim
+Size available: 300cm per trim
 
- 10 pieces per pack
+10 pieces per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/AlumCornerStripBlack_c0a2ae50-aa1e-4d75-8e31-99f03b319f59.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/AlumCornerStripBlack1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/AlumCornerStripGold_0f1f8f70-db7c-4472-b988-5d57c0e6831f.jpg
@@ -10270,11 +10731,12 @@ Images:
 
 Precision-engineered trim designed to seamlessly finish wall panel installations. This 300cm length trim adapts to standard wall panel systems, providing clean edges and professional transitions between panels. Each pack contains 10 pieces, offering complete coverage for typical room applications. The aluminium strips work for any of our PVC wall panels. Essential for achieving polished results in wall panel projects.
 
- Size available: 300cm per trim
+Size available: 300cm per trim
 
- 10 pieces per pack
+10 pieces per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/AlumEndStripGold_15e56f44-bd62-408e-a298-694d2b83b0ff.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/AlumEndStripGold1_d7e51005-b400-4ccb-a9cd-784b42d57d3a.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/AlumEndStripBlack_42901729-d4bc-4949-8b0c-5d8ef3d90206.jpg
@@ -10291,11 +10753,12 @@ Images:
 
 Precision-engineered trim designed to seamlessly finish wall panel installations. This 300cm length trim adapts to standard wall panel systems, providing clean edges and professional transitions between panels. Each pack contains 10 pieces, offering complete coverage for typical room applications. The aluminium strips work for any of our PVC wall panels. Essential for achieving polished results in wall panel projects.
 
- Size available: 300cm per trim
+Size available: 300cm per trim
 
- 10 pieces per pack
+10 pieces per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/AlumIStripSilver_892b1fc2-ae94-493c-953a-92b0414bb66b.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/AlumIStripSilver1_cd8c1afc-bb78-4aa9-a0ec-34ae6bfe23c8.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/AlumIStripBlack_26c823b2-4b35-47c6-97cb-2e5ee76fb3ca.jpg
@@ -10312,11 +10775,12 @@ Images:
 
 Precision-engineered trim designed to seamlessly finish wall panel installations. This 240cm length trim adapts to standard wall panel systems, providing clean edges and professional transitions between panels. Each pack contains 4 pieces, offering complete coverage for typical room applications. The finish complements modern interiors whilst maintaining durability through everyday use. Essential for achieving polished results in wall panel projects.
 
- Size available: 0.9 x 3 x 240cm per trim
+Size available: 0.9 x 3 x 240cm per trim
 
- 4 pieces per pack
+4 pieces per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Photoroom_20260317_124137.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Photoroom_20260317_124123.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Photoroom_20260317_124148.jpg
@@ -10351,11 +10815,12 @@ Images:
 
 Precision-engineered trim designed to seamlessly finish wall panel installations. This 240cm length trim adapts to standard wall panel systems, providing clean edges and professional transitions between panels. Each pack contains 10 pieces, offering complete coverage for typical room applications. The oak and grey finishes complements its associated PVC wall panel. Essential for achieving polished results in wall panel projects.
 
- Size available: 1 x 2 x 240cm per trim
+Size available: 1 x 2 x 240cm per trim
 
- 10 pieces per pack
+10 pieces per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Photoroom_20260319_104749.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Photoroom_20260319_104729.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/PVCStripABLightGrey.jpg
@@ -10377,11 +10842,12 @@ Images:
 
 Precision-engineered trim designed to seamlessly finish wall panel installations. This 240cm length trim adapts to standard wall panel systems, providing clean edges and professional transitions between panels. Each pack contains 10 pieces, offering complete coverage for typical room applications. The finish complement its associated PVC wall panel. Essential for achieving polished results in wall panel projects.
 
- Size available: 1 x 2 x 240cm per trim
+Size available: 1 x 2 x 240cm per trim
 
- 10 pieces per pack
+10 pieces per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Photoroom_20260319_105453.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Photoroom_20260319_105437.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/PVC_Strip_B_B_Grey_Marble.jpg
@@ -10407,23 +10873,24 @@ Images:
 
 Transform your walls with this premium wall panel system featuring authentic marble effect finishes. Crafted from high-quality PVC, these panels deliver exceptional durability and moisture resistance ideal for kitchens, bathrooms, and commercial spaces. The seamless tongue and groove configuration ensures effortless installation with perfectly aligned joints and a flawless, professional appearance. Each pack contains two panels measuring 240cm each, providing substantial coverage with minimal waste. The elegant white marble aesthetic adds sophisticated style whilst maintaining practical, easy-to-clean surfaces that resist staining and wear. A superior alternative to traditional tiling or wallpaper.
 
- Size available: 90 x 240 x 0.7cm per panel
+Size available: 90 x 240 x 0.7cm per panel
 
- 2 pieces per pack
+2 pieces per pack
 
- Area covered: 4.32m² per pack
+Area covered: 4.32m² per pack
 
- Trim: PVC Strip B - A White Marble - WP 07/11 - 240cm - (1 pack / 10pcs)
+Trim: PVC Strip B - A White Marble - WP 07/11 - 240cm - (1 pack / 10pcs)
 
- Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- Corner strip: PVC Corner Strip - A White Marble - WP 07/11 - 240cm - (1 pack / 4pcs)
+Corner strip: PVC Corner Strip - A White Marble - WP 07/11 - 240cm - (1 pack / 4pcs)
 
- Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/04WP011A4.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageApr8_2026_03_22_48PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP011A_9.jpg
@@ -10437,23 +10904,24 @@ Images:
 
 Transform your walls with this premium wall panel system featuring authentic marble aesthetics. Crafted from high-quality PVC, each panel delivers exceptional durability and moisture resistance, making it ideal for kitchens, bathrooms, and commercial spaces. The distinctive grey marble effect adds sophisticated visual depth to any room. The seamless tongue and groove configuration ensures effortless installation with perfectly aligned joints and a polished, professional finish. At 240cm height, these panels maximise wall coverage efficiently. Each pack contains two pieces, providing substantial coverage while maintaining the integrity of the marble pattern throughout. Low-maintenance and long-lasting, this solution combines aesthetic appeal with practical performance.
 
- Size available: 90 x 240 x 0.7cm per panel
+Size available: 90 x 240 x 0.7cm per panel
 
- 2 pieces per pack
+2 pieces per pack
 
- Area covered: 4.32m² per pack
+Area covered: 4.32m² per pack
 
- Trim: PVC Strip B - B Grey Marble - WP 07/11 - 240cm - (1 pack / 10pcs)
+Trim: PVC Strip B - B Grey Marble - WP 07/11 - 240cm - (1 pack / 10pcs)
 
- Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- Corner strip: PVC Corner Strip - B Grey Marble - WP 07/11 - 240cm - (1 pack / 4pcs)
+Corner strip: PVC Corner Strip - B Grey Marble - WP 07/11 - 240cm - (1 pack / 4pcs)
 
- Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP011B.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/011B.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP011B4_db42f34c-8180-4560-b9f0-024748fd3e20.jpg
@@ -10468,23 +10936,24 @@ Images:
 
 Transform your walls with this premium wall panel system featuring authentic marble aesthetics. Crafted from high-quality PVC, each panel delivers exceptional durability and moisture resistance ideal for kitchens, bathrooms, and feature walls. The sophisticated gold and black marble effect creates striking visual depth without the maintenance demands of natural stone. The seamless tongue and groove configuration ensures flawless installation with invisible joints, delivering a polished, professional finish. At 240cm height, this two-piece pack covers substantial wall areas efficiently. Perfect for contemporary interiors seeking luxury appeal with practical performance.
 
- Size available: 90 x 240 x 0.7cm per panel
+Size available: 90 x 240 x 0.7cm per panel
 
- 2 pieces per pack
+2 pieces per pack
 
- Area covered: 4.32m² per pack
+Area covered: 4.32m² per pack
 
- Trim: PVC Strip B - C Gold and Black Marble - WP 11 - 240cm - (1 pack / 10pcs)
+Trim: PVC Strip B - C Gold and Black Marble - WP 11 - 240cm - (1 pack / 10pcs)
 
- Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- Corner strip: PVC Corner Strip - C Gold and Black Marble - WP 11 - 240cm - (1 pack / 4pcs)
+Corner strip: PVC Corner Strip - C Gold and Black Marble - WP 11 - 240cm - (1 pack / 4pcs)
 
- Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP011C7.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/011C.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP011C.jpg
@@ -10499,23 +10968,24 @@ Images:
 
 Transform your walls with this premium wall panel system featuring authentic marble aesthetics. Crafted from high-quality PVC, each panel delivers exceptional durability and moisture resistance ideal for kitchens, bathrooms, and feature walls. The elegant gold and white marble effect creates sophisticated visual depth without the maintenance demands of natural stone. The seamless tongue and groove configuration ensures flawless installation and a perfectly unified finish across your space. At 240cm height, this two-piece pack provides substantial coverage with professional-grade results. Easy to clean, long-lasting, and instantly elevating—the intelligent choice for discerning homeowners seeking luxury finishes with practical performance.
 
- Size available: 90 x 240 x 0.7cm per panel
+Size available: 90 x 240 x 0.7cm per panel
 
- 2 pieces per pack
+2 pieces per pack
 
- Area covered: 4.32m² per pack
+Area covered: 4.32m² per pack
 
- Trim: PVC Strip B - D Gold and White Marble - WP 07/11 - 240cm - (1 pack / 10pcs)
+Trim: PVC Strip B - D Gold and White Marble - WP 07/11 - 240cm - (1 pack / 10pcs)
 
- Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- Corner strip: PVC Corner Strip - D Gold and White Marble - WP 07/11 - 240cm - (1 pack / 4pcs)
+Corner strip: PVC Corner Strip - D Gold and White Marble - WP 07/11 - 240cm - (1 pack / 4pcs)
 
- Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP011D_17854d36-3a9a-4806-9ff5-d0af7a016919.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/011D.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP011D7.jpg
@@ -10530,19 +11000,20 @@ Images:
 
 Transform your interior spaces with these premium wall panels featuring authentic wood effect finishes. Crafted from high-quality PVC, they deliver the warmth and character of natural oak without the maintenance demands. The seamless tongue and groove configuration ensures flawless installation and a polished, continuous appearance across your walls. Each pack contains four panels measuring 240cm, providing substantial coverage for feature walls or complete room transformations. Ideal for kitchens, bathrooms, and living areas where durability and aesthetic appeal are paramount. Moisture-resistant and easy to clean, these panels combine practical performance with sophisticated design.
 
- Size available: 60 x 240 x 0.7cm per panel
+Size available: 60 x 240 x 0.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trim: Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Trim: Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- Corner strip: Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Corner strip: Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05A_acaa6c33-09ea-48c4-b8a5-c56a71f5eaac.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05A_7dad8fac-0000-4a63-86a3-89b9c43acd43.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05A.png
@@ -10558,21 +11029,22 @@ Images:
 
 Upgrade your spaces with these premium dark oak wall panels, manufactured from high-quality PVC with authentic wood-grain detailing. This four-piece pack features 240cm panels equipped with seamless tongue and groove joints, ensuring a polished, continuous surface without visible seams. The rich wood effect delivers timeless elegance while the durable PVC construction resists moisture, staining, and wear—making these panels perfect for kitchens, bathrooms, and feature walls. Professional-grade quality meets effortless installation and maintenance.
 
- Size available: 60 x 240 x 0.7cm per panel
+Size available: 60 x 240 x 0.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trims: PVC Strip A - A Oak - WP 05/61/62 - 240cm - (1 pack / 10pcs)
+Trims: PVC Strip A - A Oak - WP 05/61/62 - 240cm - (1 pack / 10pcs)
 
- Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- Corner strip: Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Corner strip: Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05B_f69faa9a-9640-43b2-a2aa-5e4ae96cde8f.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05B_b42f468d-0714-4029-83e3-39c8e895924c.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05B.png
@@ -10588,19 +11060,20 @@ Images:
 
 Elevate your interior with these sophisticated grey wall panels, crafted from premium PVC to deliver exceptional performance and contemporary style. Each pack includes four panels at 240cm length, engineered with seamless tongue and groove interlocking for a polished, gap-free installation. The refined wood-effect finish provides modern elegance while offering superior moisture resistance and minimal maintenance requirements. Perfect for creating feature walls in bathrooms, kitchens, or bedrooms where durability meets refined aesthetics.
 
- Size available: 60 x 240 x 0.7cm per panel
+Size available: 60 x 240 x 0.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trim: Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Trim: Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- Corner strip: Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Corner strip: Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05CGrey-Copy.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05C-Grey.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05CGrey-Copy_2.png
@@ -10616,21 +11089,22 @@ Images:
 
 Elevate your interior design with these sophisticated wall panels in contemporary dark grey. Manufactured from premium PVC, they replicate refined wood texturing whilst offering superior durability and minimal upkeep. The seamless tongue and groove joint system guarantees professional-grade installation with no visible gaps, creating an immaculate, cohesive wall finish. This pack delivers four panels at 240cm height, offering generous coverage for accent walls or comprehensive room cladding. Perfect for modern kitchens, bathrooms, and commercial spaces demanding both aesthetic refinement and practical resilience. Naturally moisture-resistant and effortlessly maintainable, these panels merge contemporary styling with engineered performance.
 
- Size available: 60 x 240 x 0.7cm per panel
+Size available: 60 x 240 x 0.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trims: PVC Strip A - B Light Grey - WP 05 - 240cm - (1 pack / 10pcs)
+Trims: PVC Strip A - B Light Grey - WP 05 - 240cm - (1 pack / 10pcs)
 
- Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- Corner strip: Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Corner strip: Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05D_10a2c6ab-47b0-4abc-ac1a-9bd8da82a1cc.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05D_83f24970-45de-4f31-924e-6585744ee98a.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05D.png
@@ -10646,23 +11120,24 @@ Images:
 
 Transform your walls with these premium PVC wall panels featuring an authentic marble effect finish. Crafted from high-quality PVC, each panel measures 240cm and comes as a 4-piece pack. The seamless tongue and groove configuration ensures effortless installation and creates a flawless, continuous surface with no visible joints. Ideal for kitchens, bathrooms, and feature walls, these durable panels offer the elegance of marble without the maintenance requirements. Water-resistant and easy to clean, they provide lasting beauty and practicality for modern interiors.
 
- Size available: 60 x 240 x 0.7cm per panel
+Size available: 60 x 240 x 0.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trim: PVC Strip B - A White Marble - WP 07/11 - 240cm - (1 pack / 10pcs)
+Trim: PVC Strip B - A White Marble - WP 07/11 - 240cm - (1 pack / 10pcs)
 
- Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- Corner strip: PVC Corner Strip - A White Marble - WP 07/11 - 240cm - (1 pack / 4pcs)
+Corner strip: PVC Corner Strip - A White Marble - WP 07/11 - 240cm - (1 pack / 4pcs)
 
- Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07A_26a63a0f-cc30-4432-95fb-9f61a9c9d0f5.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07A_133f7401-ca72-45ee-8f95-bc54dea79f4b.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07A.png
@@ -10678,23 +11153,24 @@ Images:
 
 High-quality PVC wall panels featuring an authentic marble effect finish. These seamless tongue and groove panels offer effortless installation and a sophisticated aesthetic for any interior space. Each panel measures 240cm, with one pack containing four pieces. The durable PVC construction resists moisture and wear, making these panels ideal for kitchens, bathrooms, and commercial applications. Create a premium marble look without the maintenance demands of natural stone.
 
- Size available: 60 x 240 x 0.7cm per panel
+Size available: 60 x 240 x 0.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trim: PVC Strip B - B Grey Marble - WP 07/11 - 240cm - (1 pack / 10pcs)
+Trim: PVC Strip B - B Grey Marble - WP 07/11 - 240cm - (1 pack / 10pcs)
 
- Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- Corner strip: PVC Corner Strip - B Grey Marble - WP 07/11 - 240cm - (1 pack / 4pcs)
+Corner strip: PVC Corner Strip - B Grey Marble - WP 07/11 - 240cm - (1 pack / 4pcs)
 
- Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07B_8c313175-2a4b-45da-9ab7-c6ebfd72aa81.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07B_30933f10-41f1-45f6-b101-583c22a1e8d6.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07B.png
@@ -10710,19 +11186,20 @@ Images:
 
 Transform your walls with this premium wall panel system featuring authentic marble aesthetics. Crafted from high-quality PVC, each panel showcases an elegant gold and black marble effect that adds sophisticated depth to any space. The seamless tongue and groove configuration ensures effortless installation and creates a flawless, continuous finish across your walls. At 240cm in height, this pack of four panels provides substantial coverage for feature walls or complete room transformations. Durable, moisture-resistant, and maintenance-free, these panels deliver luxury finishes without the cost or complexity of traditional materials.
 
- Size available: 60 x 240 x 0.7cm per panel
+Size available: 60 x 240 x 0.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trim: Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Trim: Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- Corner strip: Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Corner strip: Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07C_c14142e2-5a0d-4981-b755-5cdbb2bd917a.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07C_a0f2165e-5035-44b9-bb8f-0c60392c2220.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07C.png
@@ -10738,19 +11215,20 @@ Images:
 
 Transform your walls with this premium wall panel system featuring authentic marble aesthetics. Crafted from high-quality PVC, each panel showcases an elegant gold and white marble effect that adds sophisticated depth to any space. The seamless tongue and groove configuration ensures effortless installation with perfectly aligned joints, creating a continuous, professional finish. At 240cm height, this single pack contains four panels offering substantial coverage. Durable, moisture-resistant, and maintenance-free, these panels deliver luxury appeal without the cost or upkeep of natural stone.
 
- Size available: 60 x 240 x 0.7cm per panel
+Size available: 60 x 240 x 0.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trim: Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Trim: Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- Corner strip: Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Corner strip: Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07D_d28c6748-f9d5-466f-8742-6de25414f027.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07D_4f10c0a6-287c-43d5-97bd-0849d88ae168.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07D.png
@@ -10766,23 +11244,24 @@ Images:
 
 Transform your walls with these premium PVC wall panels featuring an authentic marble effect finish. Crafted from high-quality PVC, each panel measures 240cm and comes as a 4-piece pack. The seamless tongue and groove configuration ensures effortless installation and creates a flawless, continuous surface with no visible joints. Ideal for kitchens, bathrooms, and feature walls, these durable panels offer the sophisticated aesthetic of natural marble with superior practicality and longevity.
 
- Size available: 60 x 240 x 0.7cm per panel
+Size available: 60 x 240 x 0.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trim: PVC Strip B - E Mix Grey Marble - WP 07 - 240cm - (1 pack / 10pcs)
+Trim: PVC Strip B - E Mix Grey Marble - WP 07 - 240cm - (1 pack / 10pcs)
 
- Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- Corner strip: PVC Corner Strip - E Mix Grey Marble - WP 07 - 240cm - (1 pack / 4pcs)
+Corner strip: PVC Corner Strip - E Mix Grey Marble - WP 07 - 240cm - (1 pack / 4pcs)
 
- Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07E_6a95cb40-f60d-4d9d-97b1-426ab082782c.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07E_07ed8ba1-c2c7-4feb-aa08-7db32d67e6a8.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07E.png
@@ -10798,23 +11277,24 @@ Images:
 
 Engineered from premium PVC with an authentic marble aesthetic, this wall panel system delivers sophisticated interior finishes without the maintenance demands of natural stone. The seamless tongue and groove joints create a flawless, continuous surface that eliminates visible seams and simplifies installation. Each pack contains four panels spanning 240cm, providing efficient coverage for residential and commercial spaces. The gold and grey marble pattern offers versatile design flexibility, complementing contemporary and traditional interiors alike. Ideal for kitchens, bathrooms, and feature walls where durability and visual impact are priorities.
 
- Size available: 60 x 240 x 0.7cm per panel
+Size available: 60 x 240 x 0.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trim: PVC Strip B - F Gold and Grey Marble - WP 07 - 240cm - (1 pack / 10pcs)
+Trim: PVC Strip B - F Gold and Grey Marble - WP 07 - 240cm - (1 pack / 10pcs)
 
- Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- Corner strip: PVC Corner Strip - F Gold and Grey Marble - WP 07 - 240cm - (1 pack / 4pcs)
+Corner strip: PVC Corner Strip - F Gold and Grey Marble - WP 07 - 240cm - (1 pack / 4pcs)
 
- Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07F_fab74acc-59dd-4ef6-a9ed-071fca3bf96d.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07F_ab3f6fdb-98f8-42d0-815e-b5fc77a5bb09.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07F_3d8255c9-228d-4b79-b469-66fa4ee04932.png
@@ -10830,23 +11310,24 @@ Images:
 
 E0ngineered from premium PVC with authentic wood effect finish, these wall panels deliver durability without maintenance demands. The seamless tongue and groove system ensures flawless installation and a unified aesthetic across your walls. Each panel measures 240cm, providing substantial coverage with minimal joints. Ideal for kitchens, bathrooms, and commercial spaces where moisture resistance and longevity matter. One pack contains four pieces for efficient project planning.
 
- Size available: 60 x 240 x 0.7cm per panel
+Size available: 60 x 240 x 0.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trim: PVC Strip B - M Cream - WP 07 - 240cm - (1 pack / 10pcs)
+Trim: PVC Strip B - M Cream - WP 07 - 240cm - (1 pack / 10pcs)
 
- Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- Corner strip: PVC Corner Strip - Cream - WP 07 - 240cm - (1 pack / 4pcs)
+Corner strip: PVC Corner Strip - Cream - WP 07 - 240cm - (1 pack / 4pcs)
 
- Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb11_2026_02_40_46PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageApr8_2026_02_02_41PM.png
 
@@ -10859,23 +11340,24 @@ Images:
 
 Engineered from premium PVC with authentic wood effect finish, these wall panels deliver durability without maintenance demands. The seamless tongue and groove system ensures flawless installation and a unified aesthetic across your walls. Each panel measures 240cm, providing substantial coverage with minimal joints. Ideal for kitchens, bathrooms, and commercial spaces where moisture resistance and longevity matter. One pack contains four pieces for efficient project planning.
 
- Size available: 60 x 240 x 0.7cm per panel
+Size available: 60 x 240 x 0.7cm per panel
 
- 4 pieces per pack
+4 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Corner strip: PVC Corner Strip - T Walnut - WP 07 - 240cm - (1 pack / 10pcs)
+Corner strip: PVC Corner Strip - T Walnut - WP 07 - 240cm - (1 pack / 10pcs)
 
- Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- End strip: PVC Strip A - T Walnut - WP 07 - 240cm - (1 pack / 4pcs)
+End strip: PVC Strip A - T Walnut - WP 07 - 240cm - (1 pack / 4pcs)
 
- Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07W_a03e87bb-3f15-44c0-b106-ba83d8349488.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageApr8_2026_02_04_05PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07W.png
@@ -10893,11 +11375,12 @@ Images:
 
 Professional-grade wall panel adhesive designed for secure, long-lasting installation. Each box contains 24 tubes of white silicone sealant, ideal for bonding panels to walls with reliable hold and flexibility. The sealant remains usable for 12 months after opening, ensuring extended project timelines without waste. Perfect for construction, renovation, and interior design applications where durability and clean aesthetics matter.
 
- 24 pieces per pack
+24 pieces per pack
 
- Packaging dimensions: 24 pack carton: 30 x 21 x 24cm (GW: 11kg) CBM: 0.015
+Packaging dimensions: 24 pack carton: 30 x 21 x 24cm (GW: 11kg) CBM: 0.015
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/4EF711EE-C2E1-47EF-9710-578B2CD8FF37.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/5CBCB591-02ED-4EE0-ADCB-ED8902FBFF83.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/47CBE822-C4A8-473F-B8CE-38C1EFB5A3DF.png
@@ -10911,9 +11394,10 @@ Images:
 
 Secure PVC wall boards to walls with precision using these durable brackets. Designed for seamless installation, each buckle fastens boards firmly in place while remaining completely hidden once mounted. This pack contains 100 pieces, providing ample supply for comprehensive wall coverage. The expert-grade construction ensures reliable performance and a professional finish every time. Ideal for both residential and commercial applications where clean aesthetics are essential.
 
- Size available: 4 x 3cm
+Size available: 4 x 3cm
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/MA001_1_043a65b8-eb67-4862-ae28-22990d6e4644.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/MA-001.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/MA001_1.jpg
@@ -10929,17 +11413,18 @@ Images:
 
 Lightweight PVC ceiling panels designed for easy installation and maintenance. Each pack contains 8 interlocking panels measuring 30 x 290 x 0.9cm, covering 6.96m² when fitted together. The finish provides a clean, modern aesthetic suitable for kitchens, bathrooms, and commercial spaces. Durable PVC construction resists moisture, staining, and warping, making these panels ideal for humid environments. Quick-lock system ensures seamless joints and a professional appearance with minimal effort.
 
- Size available: 30 x 290 x 0.9cm per panel when fitted and interlocked
+Size available: 30 x 290 x 0.9cm per panel when fitted and interlocked
 
- 8 pieces per pack
+8 pieces per pack
 
- Area covered: 6.96 m² per pack when fitted and interlocked
+Area covered: 6.96 m² per pack when fitted and interlocked
 
- Connection Strips: Ceiling Connect Strip - A White
+Connection Strips: Ceiling Connect Strip - A White
 
- End Strips: Ceiling End Strip - A White
+End Strips: Ceiling End Strip - A White
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/120AWhite-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/120A.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/120AWhite_bc38b792-6678-4ee8-bad5-11e6282e1519.jpg
@@ -10954,17 +11439,18 @@ Images:
 
 Lightweight PVC ceiling panels designed for easy installation and maintenance. Each pack contains 8 interlocking panels measuring 30 x 290 x 0.9cm, covering 6.96m² when fitted together. The finish provides a clean, modern aesthetic suitable for kitchens, bathrooms, and commercial spaces. Durable PVC construction resists moisture, staining, and warping, making these panels ideal for humid environments. Quick-lock system ensures seamless joints and a professional appearance with minimal effort.
 
- Size available: 30 x 290 x 0.9cm per panel when fitted and interlocked
+Size available: 30 x 290 x 0.9cm per panel when fitted and interlocked
 
- 8 pieces per pack
+8 pieces per pack
 
- Area covered: 6.96 m² per pack when fitted and interlocked
+Area covered: 6.96 m² per pack when fitted and interlocked
 
- Connection Strips: Ceiling Connect Strip - B Light Grey
+Connection Strips: Ceiling Connect Strip - B Light Grey
 
- End Strips: Ceiling End Strip - B Light Grey
+End Strips: Ceiling End Strip - B Light Grey
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/120BLightGrey-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/120B.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/120BLightGrey_d10eda3f-9b80-4365-ab93-d47e467018c3.jpg
@@ -10979,17 +11465,18 @@ Images:
 
 Lightweight PVC ceiling panels designed for easy installation and maintenance. Each pack contains 8 interlocking panels measuring 30 x 290 x 0.9cm, covering 6.96m² when fitted together. The finish provides a clean, modern aesthetic suitable for kitchens, bathrooms, and commercial spaces. Durable PVC construction resists moisture, staining, and warping, making these panels ideal for humid environments. Quick-lock system ensures seamless joints and a professional appearance with minimal effort.
 
- Size available: 30 x 290 x 0.9cm per panel when fitted and interlocked
+Size available: 30 x 290 x 0.9cm per panel when fitted and interlocked
 
- 8 pieces per pack
+8 pieces per pack
 
- Area covered: 6.96 m² per pack when fitted and interlocked
+Area covered: 6.96 m² per pack when fitted and interlocked
 
- Connection Strips: Ceiling Connect Strip - C Cream
+Connection Strips: Ceiling Connect Strip - C Cream
 
- End Strips: Ceiling End Strip - C Cream
+End Strips: Ceiling End Strip - C Cream
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/120CCream-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/120C.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/120CCream_f87756c5-30bc-4067-99c8-aa54038a2c2d.jpg
@@ -11004,11 +11491,12 @@ Images:
 
 Professional PVC connection strips designed to create seamless joints between ceiling panels. Each strip delivers a clean, high-standard finish that conceals panel edges and transitions for a polished appearance. Engineered for easy installation. Pack contains 10 pieces. Dimensions: 2.2 x 290 x 1.3cm per strip. Ideal for residential and commercial applications where aesthetic quality and durability matter.
 
- Size available: 2.2 x 290 x 1.3cm
+Size available: 2.2 x 290 x 1.3cm
 
- 10 pieces per pack
+10 pieces per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/120A_Connect.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/120BConnect.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/120CConnect.png
@@ -11022,11 +11510,12 @@ Images:
 
 Professional PVC end strips designed to create a seamless finish. Each strip delivers a clean, high-standard finish that conceals panel edges and transitions for a polished appearance. Engineered for easy installation. Pack contains 10 pieces. Dimensions: 2.2 x 290 x 1.3cm per strip. Ideal for residential and commercial applications where aesthetic quality and durability matter.
 
- Size available: 2.2 x 290 x 1.3cm
+Size available: 2.2 x 290 x 1.3cm
 
- 10 pieces per pack
+10 pieces per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/120A_End.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/120BEnd.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/120CEnd.png
@@ -11042,21 +11531,22 @@ Images:
 
 Transform your wall panels with the Cover Slip in sleek silver or gold. This three-piece set includes 30cm, 60cm, and 90cm lengths, giving you complete flexibility to accessorize any space. The chromatic finish delivers a modern, reflective aesthetic that complements contemporary interiors. Mix and match lengths to create custom configurations that suit your design vision.
 
- Size available: 30, 60 & 90cm
+Size available: 30, 60 & 90cm
 
- Width to fit: 2.5cm
+Width to fit: 2.5cm
 
- Depth: 1cm
+Depth: 1cm
 
- Available in Silver & Gold
+Available in Silver & Gold
 
- Packaging dimensions:
+Packaging dimensions:
 
- Single pack: ∅2.5 x 94cm (GW: 0.56kg) CBM: 0.001
+Single pack: ∅2.5 x 94cm (GW: 0.56kg) CBM: 0.001
 
- 20 pack carton: 23 x 25 x 98cm (GW: 11.2kg) CBM: 0.056
+20 pack carton: 23 x 25 x 98cm (GW: 11.2kg) CBM: 0.056
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/9CC7C152-F46F-4339-AB3F-9F1C8F3AC000.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/09E932AF-8E32-46D0-A1D4-20E0B8BBACBE_c65db556-b89c-49c5-9cd6-0daa527d3335.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/EC068716-84DA-499F-8C4C-2116F6686E74.jpg
@@ -11087,9 +11577,9 @@ Images:
 
 Elevate your interior design with our Wall Panel LED Lighting solution. Each pack delivers two strips of each 60cm, 90cm, and 150cm lengths, designed for effortless installation—simply plug in and activate. Choose between warm or white light options to match your aesthetic preferences. The included remote control enables convenient brightness and colour adjustment from anywhere in the room.
 
- Pack 01:
+Pack 01:
 
- 6 pieces per pack
+6 pieces per pack
 
 - 15mm wide x 9mm deep
 
@@ -11103,11 +11593,12 @@ Elevate your interior design with our Wall Panel LED Lighting solution. Each pac
 
 - Remote control
 
- Plug in to the transformer, plug in to mains and go - installation instructions provided
+Plug in to the transformer, plug in to mains and go - installation instructions provided
 
- The first cover image is an AI generated visual representation of the product based on the features, such as size, colour and material. Actual products may vary.
+The first cover image is an AI generated visual representation of the product based on the features, such as size, colour and material. Actual products may vary.
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/LED01.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/LED053.png
 
@@ -11120,9 +11611,9 @@ Images:
 
 Elevate your interior design with our Wall Panel LED Lighting solution. Each pack delivers two strips of each 60cm, 90cm, and 150cm lengths, designed for effortless installation—simply plug in and activate. Choose between multi-colour light options to match your aesthetic preferences. The included remote control enables convenient brightness and colour adjustment from anywhere in the room.
 
- Pack 06:
+Pack 06:
 
- 6 pieces per pack
+6 pieces per pack
 
 - 10mm wide x 9mm deep
 
@@ -11136,11 +11627,12 @@ Elevate your interior design with our Wall Panel LED Lighting solution. Each pac
 
 - Remote control
 
- Plug in to the transformer, plug in to mains and go - installation instructions provided
+Plug in to the transformer, plug in to mains and go - installation instructions provided
 
- The first cover image is an AI generated visual representation of the product based on the features, such as size, colour and material. Actual products may vary.
+The first cover image is an AI generated visual representation of the product based on the features, such as size, colour and material. Actual products may vary.
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/LED02_2ab28cb9-8572-461a-9cd4-3880217e2561.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/LED061.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/LED062.jpg
@@ -11154,7 +11646,7 @@ Images:
 
 Elevate your interior design with our Wall Panel LED Lighting solution. Each pack delivers two strips of 60cm, 90cm, and 150cm lengths, designed for effortless installation—simply plug in and activate. Choose between warm or white light options to match your aesthetic preferences. The included remote control enables convenient brightness and colour adjustment from anywhere in the room.
 
- Pack 03:
+Pack 03:
 
 - 13mm wide x 7mm deep
 
@@ -11170,11 +11662,12 @@ Elevate your interior design with our Wall Panel LED Lighting solution. Each pac
 
 - Remote control
 
- Plug in to the transformer, plug in to mains and go - installation instructions provided
+Plug in to the transformer, plug in to mains and go - installation instructions provided
 
- The first cover image is an AI generated visual representation of the product based on the features, such as size, colour and material. Actual products may vary.
+The first cover image is an AI generated visual representation of the product based on the features, such as size, colour and material. Actual products may vary.
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/B7C1AC39-2E6F-49C7-8F11-30B142D0ECE9.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/1D0509EA-8585-4E91-BE40-B6EBCA4DE986.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/85DEB899-E48A-4AA7-9A45-2CD495A95C4B.jpg
@@ -11190,7 +11683,7 @@ Images:
 
 Elevate your interior design with our Wall Panel LED Lighting solution. Each pack delivers two strips of 60cm, 90cm, and 150cm lengths, designed for effortless installation—simply plug in and activate. Choose between warm or white light options to match your aesthetic preferences. The included remote control enables convenient brightness and colour adjustment from anywhere in the room.
 
- Pack 04:
+Pack 04:
 
 - 10mm wide x 9mm deep
 
@@ -11204,11 +11697,12 @@ Elevate your interior design with our Wall Panel LED Lighting solution. Each pac
 
 - Controlled by application
 
- Requires additional wiring to a transformer and a plug - these are not provided
+Requires additional wiring to a transformer and a plug - these are not provided
 
- The first cover image is an AI generated visual representation of the product based on the features, such as size, colour and material. Actual products may vary.
+The first cover image is an AI generated visual representation of the product based on the features, such as size, colour and material. Actual products may vary.
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/LED04_dfec626c-99ed-4be5-abca-bcfead45d053.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/FullSizeRender.heic
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG-1185.heic
@@ -11222,9 +11716,9 @@ Images:
 
 Elevate your interior design with our Wall Panel LED Lighting solution. Each pack delivers two strips of 60cm, 90cm, and 150cm lengths, designed for effortless installation—simply plug in and activate. Choose between warm or white light options to match your aesthetic preferences. The included remote control enables convenient brightness and colour adjustment from anywhere in the room.
 
- Pack 05:
+Pack 05:
 
- 6 pieces per pack
+6 pieces per pack
 
 - 15mm wide x 9mm deep
 
@@ -11238,11 +11732,12 @@ Elevate your interior design with our Wall Panel LED Lighting solution. Each pac
 
 - Remote control
 
- Plug in to the transformer, plug in to mains and go - installation instructions provided
+Plug in to the transformer, plug in to mains and go - installation instructions provided
 
- The first cover image is an AI generated visual representation of the product based on the features, such as size, colour and material. Actual products may vary.
+The first cover image is an AI generated visual representation of the product based on the features, such as size, colour and material. Actual products may vary.
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/LED05_d9fd84dd-8310-436d-ab38-db855fe26ad4.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/LED051.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/LED052_780b908c-92d6-4f65-9a53-586f0657209a.png
@@ -11257,9 +11752,9 @@ Images:
 
 Elevate your interior design with our Wall Panel LED Lighting solution. Each pack delivers two strips of 60cm, 90cm, and 150cm lengths, designed for effortless installation—simply plug in and activate. Choose between warm or white light options to match your aesthetic preferences. The included remote control enables convenient brightness and colour adjustment from anywhere in the room.
 
- Pack 06:
+Pack 06:
 
- 6 pieces per pack
+6 pieces per pack
 
 - 10mm wide x 9mm deep
 
@@ -11273,11 +11768,12 @@ Elevate your interior design with our Wall Panel LED Lighting solution. Each pac
 
 - Remote control
 
- Plug in to the transformer, plug in to mains and go - installation instructions provided
+Plug in to the transformer, plug in to mains and go - installation instructions provided
 
- The first cover image is an AI generated visual representation of the product based on the features, such as size, colour and material. Actual products may vary.
+The first cover image is an AI generated visual representation of the product based on the features, such as size, colour and material. Actual products may vary.
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/LED06_63ff7b71-a70b-4473-b1f6-547cf969588b.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/LED061.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/LED062.jpg
@@ -11291,9 +11787,9 @@ Images:
 
 Transform any space with this flexible LED lighting solution. Simply cut to your desired length, install without trimming hassle, and enjoy seamless white LED illumination. The setup is straightforward—wire to the transformer, plug in, and you're ready to go. Remote control included for convenient brightness adjustment. Complete installation video provided to guide you through every step. Perfect for wall panel lighting, even for under-cabinet displays or architectural highlights.
 
- Size available: 240cm
+Size available: 240cm
 
- 4 pieces per pack
+4 pieces per pack
 
 - 14mm wide x 11mm deep
 
@@ -11313,17 +11809,18 @@ Transform any space with this flexible LED lighting solution. Simply cut to your
 
 - Each light has over 180cm of cable to reach the transformer
 
- Plug in to the transformer, plug in to mains and go - installation video provided
+Plug in to the transformer, plug in to mains and go - installation video provided
 
- Packaging dimensions:
+Packaging dimensions:
 
- Single pack: 25 x 25 x 10cm (GW: 1.95kg) CBM: 0.006
+Single pack: 25 x 25 x 10cm (GW: 1.95kg) CBM: 0.006
 
- 10 pack carton: 58 x 53 x 27cm (GW: 19.5kg) CBM: 0.083
+10 pack carton: 58 x 53 x 27cm (GW: 19.5kg) CBM: 0.083
 
- The first cover image is an AI generated visual representation of the product based on the features, such as size, colour and material. Actual products may vary.
+The first cover image is an AI generated visual representation of the product based on the features, such as size, colour and material. Actual products may vary.
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/LED07.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_0763.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG-1103.jpg
@@ -11351,9 +11848,9 @@ Images:
 
 Transform any space with this flexible LED lighting solution. Simply cut to your desired length, install without trimming hassle, and enjoy seamless multi-colour LED illumination. The setup is straightforward—wire to the transformer, plug in, and you're ready to go. Remote control included for convenient brightness and colour adjustment. Perfect for wall panel lighting, even for under-cabinet displays or architectural highlights.
 
- Size available: 240cm
+Size available: 240cm
 
- 4 pieces per pack
+4 pieces per pack
 
 - 14mm wide x 11mm deep
 
@@ -11375,17 +11872,18 @@ Transform any space with this flexible LED lighting solution. Simply cut to your
 
 - 8 lights per transformer
 
- Plug in to the transformer, plug in to mains and go
+Plug in to the transformer, plug in to mains and go
 
- Packaging dimensions:
+Packaging dimensions:
 
- Single pack: 25 x 25 x 10cm (GW: 1.95kg) CBM: 0.006
+Single pack: 25 x 25 x 10cm (GW: 1.95kg) CBM: 0.006
 
- 10 pack carton: 58 x 53 x 27cm (GW: 19.5kg) CBM: 0.083
+10 pack carton: 58 x 53 x 27cm (GW: 19.5kg) CBM: 0.083
 
- The first cover image is an AI generated visual representation of the product based on the features, such as size, colour and material. Actual products may vary.
+The first cover image is an AI generated visual representation of the product based on the features, such as size, colour and material. Actual products may vary.
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/LED08.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/FullSizeRender_8e032c85-d53b-412f-92c9-71e6b003d637.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/1908DC3A-71F4-461B-AA75-D8CFEEE7EB28.jpg
@@ -11411,11 +11909,12 @@ Images:
 
 Precision-engineered trim designed to seamlessly finish wall panel installations. This 240cm length trim adapts to standard wall panel systems, providing clean edges and professional transitions between panels. Each pack contains 10 pieces, offering complete coverage for typical room applications. The oak finish complements modern interiors whilst maintaining durability through everyday use. Essential for achieving polished results in wall panel projects.
 
- Size available: 2.5 x 2.5 x 240cm per trim
+Size available: 2.5 x 2.5 x 240cm per trim
 
- 10 pieces per pack
+10 pieces per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/81A.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/81A1.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/81A2.jpg
@@ -11459,13 +11958,14 @@ Images:
 
 A modern alternative to traditional wall panelling. These PVC wall panels feature tongue-and-groove joints for seamless installation without visible gaps. Each slat showcases three-sided oak veneer for authentic wood aesthetics with superior durability. Perfect for areas where moisture resistance and easy maintenance matter.
 
- Size available: 30 x 240 x 1.2cm per panel
+Size available: 30 x 240 x 1.2cm per panel
 
- 8 pieces per pack
+8 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/21AOak1-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/21A.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/21AOak4.jpg
@@ -11482,13 +11982,14 @@ Images:
 
 A modern alternative to traditional wall panelling. These PVC wall panels feature tongue-and-groove joints for seamless installation without visible gaps. Each slat showcases three-sided oak veneer for authentic wood aesthetics with superior durability. Perfect for areas where moisture resistance and easy maintenance matter.
 
- Size available: 30 x 240 x 1.2cm per panel
+Size available: 30 x 240 x 1.2cm per panel
 
- 8 pieces per pack
+8 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/21BGrey4-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/21B.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/21BGrey4.jpg
@@ -11505,13 +12006,14 @@ Images:
 
 A modern alternative to traditional wall panelling. These PVC wall panels feature tongue-and-groove joints for seamless installation without visible gaps. Each slat showcases three-sided oak veneer for authentic wood aesthetics with superior durability. Perfect for areas where moisture resistance and easy maintenance matter.
 
- Size available: 30 x 240 x 1.2cm per panel
+Size available: 30 x 240 x 1.2cm per panel
 
- 8 pieces per pack
+8 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/21CWhiteOak2-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/21C.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/21CWhiteOak4.jpg
@@ -11528,13 +12030,14 @@ Images:
 
 A modern alternative to traditional wall panelling. These PVC wall panels feature tongue-and-groove joints for seamless installation without visible gaps. Each slat showcases three-sided oak veneer for authentic wood aesthetics with superior durability. Perfect for areas where moisture resistance and easy maintenance matter.
 
- Size available: 30 x 240 x 1.2cm per panel
+Size available: 30 x 240 x 1.2cm per panel
 
- 8 pieces per pack
+8 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/21DDarkOak1-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/21D.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/21DDarkOak4.jpg
@@ -11551,13 +12054,14 @@ Images:
 
 A modern alternative to traditional wall panelling. These PVC wall panels feature tongue-and-groove joints for seamless installation without visible gaps. Each slat showcases three-sided oak veneer for authentic wood aesthetics with superior durability. Perfect for areas where moisture resistance and easy maintenance matter.
 
- Size available: 30 x 240 x 1.2cm per panel
+Size available: 30 x 240 x 1.2cm per panel
 
- 8 pieces per pack
+8 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/21EBlack1-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/21E.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/21EBlack4.jpg
@@ -11574,13 +12078,14 @@ Images:
 
 A modern alternative to traditional wall panelling. These PVC wall panels feature tongue-and-groove joints for seamless installation without visible gaps. Each slat showcases three-sided oak veneer for authentic wood aesthetics with superior durability. Perfect for areas where moisture resistance and easy maintenance matter.
 
- Size available: 30 x 240 x 1.2cm per panel
+Size available: 30 x 240 x 1.2cm per panel
 
- 8 pieces per pack
+8 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/21TWalnut2-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/21T.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/21TWalnut4.jpg
@@ -11599,19 +12104,20 @@ Images:
 
 Wall Panel 61A combines premium PVC construction with authentic oak effect slats for a sophisticated interior solution. Each panel features durable oak-textured slats backed with black reinforcement, delivering both aesthetic appeal and structural integrity. This pack contains 8 pieces of 240cm lengths, offering flexible coverage for walls, ceilings, or feature installations. The high-quality PVC material resists moisture and wear, making it ideal for kitchens, bathrooms, and commercial spaces. Easy to install and maintain, these panels provide a contemporary wood-look finish without the upkeep demands of natural timber.
 
- Size available: 30 x 240 x 1cm per panel
+Size available: 30 x 240 x 1cm per panel
 
- 8 pieces per pack
+8 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.4cm
+Slat width: 2.4cm
 
- Space between slats: 1.4cm
+Space between slats: 1.4cm
 
- Trim: PVC Strip A - A Oak - WP 05/61/62 - 240cm - (1 pack / 10pcs)
+Trim: PVC Strip A - A Oak - WP 05/61/62 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_01_14_43PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/611.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/61AOak1.jpg
@@ -11625,19 +12131,20 @@ Images:
 
 Wall Panel 61B combines premium PVC construction with authentic oak effect slats for a sophisticated interior solution. Each panel features durable oak-textured slats backed with black reinforcement, delivering both aesthetic appeal and structural integrity. This pack contains 8 pieces of 240cm lengths, offering flexible coverage for walls, ceilings, or feature installations. The high-quality PVC material resists moisture and wear, making it ideal for kitchens, bathrooms, and commercial spaces. Easy to install and maintain, these panels provide a contemporary wood-look finish without the upkeep demands of natural timber.
 
- Size available: 30 x 240 x 1cm per panel
+Size available: 30 x 240 x 1cm per panel
 
- 8 pieces per pack
+8 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.4cm
+Slat width: 2.4cm
 
- Space between slats: 1.4cm
+Space between slats: 1.4cm
 
- Trim: PVC Strip A - B Light Grey - WP 05 - 240cm - (1 pack / 10pcs)
+Trim: PVC Strip A - B Light Grey - WP 05 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_01_15_52PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/612.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/61BLightGrey1.jpg
@@ -11651,19 +12158,20 @@ Images:
 
 Wall Panel 61D combines premium PVC construction with authentic oak effect slats for a sophisticated interior solution. Each panel features durable oak-textured slats backed with black reinforcement, delivering both aesthetic appeal and structural integrity. This pack contains 8 pieces of 240cm lengths, offering flexible coverage for walls, ceilings, or feature installations. The high-quality PVC material resists moisture and wear, making it ideal for kitchens, bathrooms, and commercial spaces. Easy to install and maintain, these panels provide a contemporary wood-look finish without the upkeep demands of natural timber.
 
- Size available: 30 x 240 x 1cm per panel
+Size available: 30 x 240 x 1cm per panel
 
- 8 pieces per pack
+8 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.4cm
+Slat width: 2.4cm
 
- Space between slats: 1.4cm
+Space between slats: 1.4cm
 
- Trim: PVC Strip A - D Dark Oak - WP 61/62 - 240cm - (1 pack / 10pcs)
+Trim: PVC Strip A - D Dark Oak - WP 61/62 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_03_21_44PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/614.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/61DDarkOak1.jpg
@@ -11677,24 +12185,25 @@ Images:
 
 Wall Panel 61T combines premium PVC construction with authentic oak effect slats for a sophisticated interior solution. Each panel features durable oak-textured slats backed with black reinforcement, delivering both aesthetic appeal and structural integrity. This pack contains 8 pieces of 240cm lengths, offering flexible coverage for walls, ceilings, or feature installations. The high-quality PVC material resists moisture and wear, making it ideal for kitchens, bathrooms, and commercial spaces. Easy to install and maintain, these panels provide a contemporary wood-look finish without the upkeep demands of natural timber.
 
- Size available: 30 x 240 x 1cm per panel
+Size available: 30 x 240 x 1cm per panel
 
- 8 pieces per pack
+8 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Slat width: 2.4cm
+Slat width: 2.4cm
 
- Space between slats: 1.4cm
+Space between slats: 1.4cm
 
- Trim: PVC Strip A - T Walnut - WP 07/61/62 - 240cm - (1 pack / 10pcs)
+Trim: PVC Strip A - T Walnut - WP 07/61/62 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_03_20_34PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/615.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/61TWalnut1.jpg
 
-### Wall Panel 62 Series (5)
+### WPC 30cm \* 240cm (5)
 
 #### Wall Panel 62A - Oak - PVC - 240cm - (1 pack / 8pcs)
 
@@ -11705,15 +12214,16 @@ Images:
 
 Wall Panel 62A delivers premium PVC panelling with seamless oak effect colouration throughout. Engineered from high-quality PVC, each panel maintains consistent colour and grain appearance across all surfaces, eliminating visual discontinuities. This pack includes 8 pieces of 240cm length, providing comprehensive wall coverage with a unified aesthetic. The seamless finish creates a polished, professional look suitable for residential and commercial applications. Resistant to moisture, fading, and daily wear, these panels offer the warmth of natural oak with superior durability and minimal maintenance requirements. Ideal for creating feature walls or complete interior transformations.
 
- Size available: 30 x 240 x 1cm per panel
+Size available: 30 x 240 x 1cm per panel
 
- 8 pieces per pack
+8 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trim: PVC Strip A - A Oak - WP 05/61/62 - 240cm - (1 pack / 10pcs)
+Trim: PVC Strip A - A Oak - WP 05/61/62 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_04_54_27PM_eadabc79-a0ad-4454-abb7-e95c16223d15.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/621.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/62AOak1.jpg
@@ -11727,21 +12237,22 @@ Images:
 
 Wall Panel 62B delivers premium PVC panelling with seamless oak effect colouration throughout. Engineered from high-quality PVC, each panel maintains consistent colour and grain appearance across all surfaces, eliminating visual discontinuities. This pack includes 8 pieces of 240cm length, providing comprehensive wall coverage with a unified aesthetic. The seamless finish creates a polished, professional look suitable for residential and commercial applications. Resistant to moisture, fading, and daily wear, these panels offer the warmth of natural oak with superior durability and minimal maintenance requirements. Ideal for creating feature walls or complete interior transformations.
 
- Size available: 30 x 240 x 1cm per panel
+Size available: 30 x 240 x 1cm per panel
 
- 8 pieces per pack
+8 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trim: PVC Strip A - B Light Grey - WP 05 - 240cm - (1 pack / 10pcs)
+Trim: PVC Strip A - B Light Grey - WP 05 - 240cm - (1 pack / 10pcs)
 
- Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- Corner strip: Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+Corner strip: Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
- I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
+I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb3_2026_09_54_45AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/622.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/62BLightGrey1.jpg
@@ -11755,15 +12266,16 @@ Images:
 
 Wall Panel 62C delivers premium PVC panelling with seamless oak effect colouration throughout. Engineered from high-quality PVC, each panel maintains consistent colour and grain appearance across all surfaces, eliminating visual discontinuities. This pack includes 8 pieces of 240cm length, providing comprehensive wall coverage with a unified aesthetic. The seamless finish creates a polished, professional look suitable for residential and commercial applications. Resistant to moisture, fading, and daily wear, these panels offer the warmth of natural oak with superior durability and minimal maintenance requirements. Ideal for creating feature walls or complete interior transformations.
 
- Size available: 30 x 240 x 1cm per panel
+Size available: 30 x 240 x 1cm per panel
 
- 8 pieces per pack
+8 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trim: PVC Strip A - C Dark Grey - WP 61/62 - 240cm - (1 pack / 10pcs)
+Trim: PVC Strip A - C Dark Grey - WP 61/62 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_04_02_16PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/623.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/62CDarkGrey1.jpg
@@ -11777,15 +12289,16 @@ Images:
 
 Wall Panel 62D delivers premium PVC panelling with seamless oak effect colouration throughout. Engineered from high-quality PVC, each panel maintains consistent colour and grain appearance across all surfaces, eliminating visual discontinuities. This pack includes 8 pieces of 240cm length, providing comprehensive wall coverage with a unified aesthetic. The seamless finish creates a polished, professional look suitable for residential and commercial applications. Resistant to moisture, fading, and daily wear, these panels offer the warmth of natural oak with superior durability and minimal maintenance requirements. Ideal for creating feature walls or complete interior transformations.
 
- Size available: 30 x 240 x 1cm per panel
+Size available: 30 x 240 x 1cm per panel
 
- 8 pieces per pack
+8 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trim: PVC Strip A - D Dark Oak - WP 61/62 - 240cm - (1 pack / 10pcs)
+Trim: PVC Strip A - D Dark Oak - WP 61/62 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_04_09_04PM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/624.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/62DDarkOak1.jpg
@@ -11799,20 +12312,21 @@ Images:
 
 Wall Panel 62T delivers premium PVC panelling with seamless oak effect colouration throughout. Engineered from high-quality PVC, each panel maintains consistent colour and grain appearance across all surfaces, eliminating visual discontinuities. This pack includes 8 pieces of 240cm length, providing comprehensive wall coverage with a unified aesthetic. The seamless finish creates a polished, professional look suitable for residential and commercial applications. Resistant to moisture, fading, and daily wear, these panels offer the warmth of natural oak with superior durability and minimal maintenance requirements. Ideal for creating feature walls or complete interior transformations.
 
- Size available: 30 x 240 x 1cm per panel
+Size available: 30 x 240 x 1cm per panel
 
- 8 pieces per pack
+8 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trim: PVC Strip A - T Walnut - WP 07/61/62 - 240cm - (1 pack / 10pcs)
+Trim: PVC Strip A - T Walnut - WP 07/61/62 - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb3_2026_09_45_07AM.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/625.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/62TWalnut1.jpg
 
-### Wall Panel 63 Series (5)
+### WPC 30cm \* 240cm cladding (5)
 
 #### Wall Panel 63 Corner Strip - PVC - 240cm - (1 pack / 10pcs)
 
@@ -11823,11 +12337,12 @@ Images:
 
 Precision-engineered trim designed to seamlessly finish wall panel installations. This 240cm length trim adapts to standard wall panel systems, providing clean edges and professional transitions between panels. Each pack contains 10 pieces, offering complete coverage for typical room applications. The finish complements modern interiors whilst maintaining durability through everyday use. Essential for achieving polished results in wall panel projects.
 
- Size available: 4 x 4 x 240cm per trim
+Size available: 4 x 4 x 240cm per trim
 
- 10 pieces per pack
+10 pieces per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/63ACorner.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/63BCorner_5ca57d56-a439-4440-9f98-a06566210e0e.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/63TCorner_31a39dfb-1e9b-4218-b8c7-17e208f8eed0.png
@@ -11842,13 +12357,14 @@ Images:
 
 Precision-engineered trim designed to seamlessly finish wall panel installations. This 240cm length trim adapts to standard wall panel systems, providing clean edges and professional transitions between panels. Each pack contains 10 pieces, offering complete coverage for typical room applications. The finish complements modern interiors whilst maintaining durability through everyday use. Essential for achieving polished results in wall panel projects.
 
- Size available: 2 x 1.5 x 240cm per trim
+Size available: 2 x 1.5 x 240cm per trim
 
- 10 pieces per pack
+10 pieces per pack
 
- Fits panel: Wall Panel 63A - Oak - PVC - 240cm - (1 pack / 8pcs)
+Fits panel: Wall Panel 63A - Oak - PVC - 240cm - (1 pack / 8pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG-1161.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/63BTrim.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/63TTrim.png
@@ -11863,19 +12379,20 @@ Images:
 
 Transform your interior spaces with these premium PVC wall panels featuring authentic wood effect finishes. Engineered from high-quality PVC, each panel delivers exceptional durability and moisture resistance, making them ideal for kitchens, bathrooms, and commercial environments. The seamless tongue and groove system ensures flawless colouration continuity across installations, creating a sophisticated, unified aesthetic without visible joints. At 240cm in height, these panels maximise wall coverage efficiently. Each pack contains 8 pieces, providing comprehensive coverage with professional-grade performance and minimal maintenance requirements.
 
- Size available: 30 x 240 x 1cm per panel
+Size available: 30 x 240 x 1cm per panel
 
- 25.5 x 240 x 1cm per fitted and interlocked panel
+25.5 x 240 x 1cm per fitted and interlocked panel
 
- 8 pieces per pack
+8 pieces per pack
 
- Area covered: 4.9m² per pack when fitted and interlocked
+Area covered: 4.9m² per pack when fitted and interlocked
 
- Trim: Wall Panel 63A Trim - Oak - PVC - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel 63A Trim - Oak - PVC - 240cm - (1 pack / 10pcs)
 
- Corner strip: Wall Panel 63A Corner Strip - Oak - PVC - 240cm - (1 pack / 10pcs)
+Corner strip: Wall Panel 63A Corner Strip - Oak - PVC - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP63-A_2_bfe7526e-939d-4f3d-a015-68d218f0789b.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_0482_SnapseedCopy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP63-A_1.jpg
@@ -11890,19 +12407,20 @@ Images:
 
 Transform your interior spaces with these premium PVC wall panels featuring authentic wood effect finishes. Engineered from high-quality PVC, each panel delivers exceptional durability and moisture resistance, making them ideal for kitchens, bathrooms, and commercial environments. The seamless tongue and groove system ensures flawless colouration continuity across installations, creating a sophisticated, unified aesthetic without visible joints. At 240cm in height, these panels maximise wall coverage efficiently. Each pack contains 8 pieces, providing comprehensive coverage with professional-grade performance and minimal maintenance requirements.
 
- Size available: 30 x 240 x 1cm per panel
+Size available: 30 x 240 x 1cm per panel
 
- 25.5 x 240 x 1cm per fitted and interlocked panel
+25.5 x 240 x 1cm per fitted and interlocked panel
 
- 8 pieces per pack
+8 pieces per pack
 
- Area covered: 4.9m² per pack when fitted and interlocked
+Area covered: 4.9m² per pack when fitted and interlocked
 
- Trim: Wall Panel 63B Trim - Grey - PVC - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel 63B Trim - Grey - PVC - 240cm - (1 pack / 10pcs)
 
- Corner strip: Wall Panel 63B Corner Strip - Grey - PVC - 240cm - (1 pack / 10pcs)
+Corner strip: Wall Panel 63B Corner Strip - Grey - PVC - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP63-B_2.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_0482_SnapseedCopy_475e23f6-fa62-467d-be4c-8585ddee7020.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP63-B_1.jpg
@@ -11917,25 +12435,26 @@ Images:
 
 Transform your interior spaces with these premium PVC wall panels featuring authentic wood effect finishes. Engineered from high-quality PVC, each panel delivers exceptional durability and moisture resistance, making them ideal for kitchens, bathrooms, and commercial environments. The seamless tongue and groove system ensures flawless colouration continuity across installations, creating a sophisticated, unified aesthetic without visible joints. At 240cm in height, these panels maximise wall coverage efficiently. Each pack contains 8 pieces, providing comprehensive coverage with professional-grade performance and minimal maintenance requirements.
 
- Size available: 30 x 240 x 1cm per panel
+Size available: 30 x 240 x 1cm per panel
 
- 25.5 x 240 x 1cm per fitted and interlocked panel
+25.5 x 240 x 1cm per fitted and interlocked panel
 
- 8 pieces per pack
+8 pieces per pack
 
- Area covered: 4.9m² per pack when fitted and interlocked
+Area covered: 4.9m² per pack when fitted and interlocked
 
- Trim: Wall Panel 63T Trim - Walnut - PVC - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel 63T Trim - Walnut - PVC - 240cm - (1 pack / 10pcs)
 
- Corner strip: Wall Panel 63T Corner Strip - Walnut - PVC - 240cm - (1 pack / 10pcs)
+Corner strip: Wall Panel 63T Corner Strip - Walnut - PVC - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP63-T_2_01b1972a-4dbd-4ae4-88b8-47c4823f46ca.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG_0482_SnapseedCopy_d0e45464-1997-4c95-aacc-7591153b1813.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP63-T_1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP63-T_3.jpg
 
-### Wall Panel 64 Series (4)
+### PVC 30cm \* 240cm black line (4)
 
 #### Wall Panel 64A - Oak - PVC - 240cm - (1 pack / 8pcs)
 
@@ -11946,13 +12465,14 @@ Images:
 
 Wall Panel 64A delivers premium PVC panelling with seamless oak effect colouration throughout. Engineered from high-quality PVC, each panel maintains consistent colour and grain appearance across all surfaces, eliminating visual discontinuities. This pack includes 8 pieces of 240cm length, providing comprehensive wall coverage with a unified aesthetic. The seamless finish creates a polished, professional look suitable for residential and commercial applications. Resistant to moisture, fading, and daily wear, these panels offer the warmth of natural oak with superior durability and minimal maintenance requirements. Ideal for creating feature walls or complete interior transformations.
 
- Size available: 30 x 240 x 1cm per panel
+Size available: 30 x 240 x 1cm per panel
 
- 8 pieces per pack
+8 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/64AOak-Copy_1072efe6-c8e4-4001-b71e-86f5908472a1.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/64A.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/64AOak.jpg
@@ -11967,13 +12487,14 @@ Images:
 
 Wall Panel 64B delivers premium PVC panelling with seamless oak effect colouration throughout. Engineered from high-quality PVC, each panel maintains consistent colour and grain appearance across all surfaces, eliminating visual discontinuities. This pack includes 8 pieces of 240cm length, providing comprehensive wall coverage with a unified aesthetic. The seamless finish creates a polished, professional look suitable for residential and commercial applications. Resistant to moisture, fading, and daily wear, these panels offer the warmth of natural oak with superior durability and minimal maintenance requirements. Ideal for creating feature walls or complete interior transformations.
 
- Size available: 30 x 240 x 1cm per panel
+Size available: 30 x 240 x 1cm per panel
 
- 8 pieces per pack
+8 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/64BGrey-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/64B.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/64BGrey.jpg
@@ -11988,13 +12509,14 @@ Images:
 
 Wall Panel 64D delivers premium PVC panelling with seamless oak effect colouration throughout. Engineered from high-quality PVC, each panel maintains consistent colour and grain appearance across all surfaces, eliminating visual discontinuities. This pack includes 8 pieces of 240cm length, providing comprehensive wall coverage with a unified aesthetic. The seamless finish creates a polished, professional look suitable for residential and commercial applications. Resistant to moisture, fading, and daily wear, these panels offer the warmth of natural oak with superior durability and minimal maintenance requirements. Ideal for creating feature walls or complete interior transformations.
 
- Size available: 30 x 240 x 1cm per panel
+Size available: 30 x 240 x 1cm per panel
 
- 8 pieces per pack
+8 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/64DDarkOak-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/64D.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/64DDarkOak.jpg
@@ -12009,13 +12531,14 @@ Images:
 
 Wall Panel 64T delivers premium PVC panelling with seamless oak effect colouration throughout. Engineered from high-quality PVC, each panel maintains consistent colour and grain appearance across all surfaces, eliminating visual discontinuities. This pack includes 8 pieces of 240cm length, providing comprehensive wall coverage with a unified aesthetic. The seamless finish creates a polished, professional look suitable for residential and commercial applications. Resistant to moisture, fading, and daily wear, these panels offer the warmth of natural oak with superior durability and minimal maintenance requirements. Ideal for creating feature walls or complete interior transformations.
 
- Size available: 30 x 240 x 1cm per panel
+Size available: 30 x 240 x 1cm per panel
 
- 8 pieces per pack
+8 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/64TWalnut-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/64T.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/64TWalnut.jpg
@@ -12032,19 +12555,20 @@ Images:
 
 Fluted PVC wall panels designed for seamless, professional installation. Each panel features distinctive vertical grooves that add depth and visual interest to any space. This pack contains 12 panels covering 4.32m², ideal for accent walls, feature areas, or complete room coverage. PVC construction ensures durability, moisture resistance, and easy maintenance - simply wipe clean. Perfect for living spaces, or commercial settings where style meets practicality.
 
- Size available: 15 x 240 x 1.5cm per panel when fitted and interlocked
+Size available: 15 x 240 x 1.5cm per panel when fitted and interlocked
 
- 12 pieces per pack
+12 pieces per pack
 
- Area covered: 4.32m² per pack when fitted and interlocked
+Area covered: 4.32m² per pack when fitted and interlocked
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/80AOak-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/FullSizeRender_72a41bea-cdf9-4afe-8c58-21defe771e67.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/80AOak.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WhatsAppImage2026-05-15at12.44.10.jpg
 
-#### Wall Panel 80B - Light Grey  - Seamless - 240cm - (1 pack / 12pcs)
+#### Wall Panel 80B - Light Grey - Seamless - 240cm - (1 pack / 12pcs)
 
 - Handle: `wall-panel-80b-grey-02-seamless-240cm-1-pack-12pcs`
 - URL: https://awstradingltd.com/products/wall-panel-80b-grey-02-seamless-240cm-1-pack-12pcs
@@ -12053,13 +12577,14 @@ Images:
 
 Fluted PVC wall panels designed for seamless, professional installation. Each panel features distinctive vertical grooves that add depth and visual interest to any space. This pack contains 12 panels covering 4.32m², ideal for accent walls, feature areas, or complete room coverage. PVC construction ensures durability, moisture resistance, and easy maintenance - simply wipe clean. Perfect for living spaces, or commercial settings where style meets practicality.
 
- Size available: 15 x 240 x 1.5cm per panel when fitted and interlocked
+Size available: 15 x 240 x 1.5cm per panel when fitted and interlocked
 
- 12 pieces per pack
+12 pieces per pack
 
- Area covered: 4.32m² per pack when fitted and interlocked
+Area covered: 4.32m² per pack when fitted and interlocked
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/80BLightGrey-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/FullSizeRender_644af272-7f7b-4577-8d36-acb742b865fb.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/80BLightGrey.jpg
@@ -12074,13 +12599,14 @@ Images:
 
 Fluted PVC wall panels designed for seamless, professional installation. Each panel features distinctive vertical grooves that add depth and visual interest to any space. This pack contains 12 panels covering 4.32m², ideal for accent walls, feature areas, or complete room coverage. PVC construction ensures durability, moisture resistance, and easy maintenance - simply wipe clean. Perfect for living spaces, or commercial settings where style meets practicality.
 
- Size available: 15 x 240 x 1.5cm per panel when fitted and interlocked
+Size available: 15 x 240 x 1.5cm per panel when fitted and interlocked
 
- 12 pieces per pack
+12 pieces per pack
 
- Area covered: 4.32m² per pack when fitted and interlocked
+Area covered: 4.32m² per pack when fitted and interlocked
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/80DMidGrey-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/FullSizeRender_46190f40-463c-4c43-80bf-a05da99323c9.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/80DMidGrey.jpg
@@ -12095,13 +12621,14 @@ Images:
 
 Fluted PVC wall panels designed for seamless, professional installation. Each panel features distinctive vertical grooves that add depth and visual interest to any space. This pack contains 12 panels covering 4.32m², ideal for accent walls, feature areas, or complete room coverage. PVC construction ensures durability, moisture resistance, and easy maintenance - simply wipe clean. Perfect for living spaces, or commercial settings where style meets practicality.
 
- Size available: 15 x 240 x 1.5cm per panel when fitted and interlocked
+Size available: 15 x 240 x 1.5cm per panel when fitted and interlocked
 
- 12 pieces per pack
+12 pieces per pack
 
- Area covered: 4.32m² per pack when fitted and interlocked
+Area covered: 4.32m² per pack when fitted and interlocked
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/80CDarkOak-Copy.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/FullSizeRender_e1803f49-d88d-4431-9971-5b9b1f3475b7.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/80CDarkOak.jpg
@@ -12116,15 +12643,16 @@ Images:
 
 Transform your interior spaces with this premium wall panel system. Crafted from high-quality PVC with an authentic wood-effect finish, each panel delivers seamless colouration that creates a unified, sophisticated aesthetic across your walls. The oak tone provides timeless elegance suitable for contemporary and traditional settings alike. At 240cm in height, this single pack contains 16 pieces offering substantial coverage and design flexibility. The durable PVC construction ensures longevity whilst maintaining its refined appearance, making it an ideal choice for residential renovations, commercial installations, or accent wall projects where quality and visual continuity are paramount.
 
- Size available: 15 x 240 x 1.8cm per panel
+Size available: 15 x 240 x 1.8cm per panel
 
- 16 pieces per pack
+16 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trim: Wall Panel 81A Trim - Oak - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel 81A Trim - Oak - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SC-WP81_OAK.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/81A-Oak.jpg
 
@@ -12137,15 +12665,16 @@ Images:
 
 Engineered from premium PVC with authentic wood-effect finishing, this wall panel system delivers professional-grade durability without compromise. The seamless colouration technology ensures consistent walnut tones across all 16 pieces, eliminating visible joints for a unified, gallery-quality appearance. Each panel spans 240cm, facilitating rapid installation whilst maintaining the refined aesthetic demanded by discerning interiors. Ideal for commercial and residential applications requiring both visual sophistication and long-term performance.
 
- Size available: 15 x 240 x 1.8cm per panel
+Size available: 15 x 240 x 1.8cm per panel
 
- 16 pieces per pack
+16 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trim: Wall Panel 81B Trim - Walnut - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel 81B Trim - Walnut - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SC-WP81_DARK_OAK.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/81B-DarkOak.jpg
 
@@ -12158,15 +12687,16 @@ Images:
 
 Transform your interior spaces with this premium wall panel system. Crafted from high-quality PVC with an authentic wood-effect finish, each panel delivers seamless colouration that creates a unified, professional appearance across expansive wall areas. The light grey tone offers versatile sophistication, complementing contemporary and traditional décor alike. At 240cm in height, this single pack contains 16 pieces, providing substantial coverage for feature walls or complete room transformations. The durable PVC construction resists moisture and wear, making it ideal for kitchens, bathrooms, and high-traffic zones. Installation is straightforward, allowing you to achieve designer-quality results without specialist expertise.
 
- Size available: 15 x 240 x 1.8cm per panel
+Size available: 15 x 240 x 1.8cm per panel
 
- 16 pieces per pack
+16 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trim: Wall Panel 81C Trim - Light Grey - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel 81C Trim - Light Grey - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SC-WP81_LIGHT_GREY.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/81C-LightGrey.jpg
 
@@ -12179,15 +12709,16 @@ Images:
 
 Transform your interior spaces with our Wall Panel 81D in Dark Grey. Crafted from premium PVC with an authentic wood-effect finish, these seamless panels deliver sophisticated aesthetics without compromise. Each pack contains 16 pieces covering 240cm, offering effortless installation and maintenance. The consistent colouration ensures a flawless, professional appearance across any wall surface. Ideal for modern homes and commercial environments seeking durable, elegant wall solutions that combine style with practical longevity.
 
- Size available: 15 x 240 x 1.8cm per panel
+Size available: 15 x 240 x 1.8cm per panel
 
- 16 pieces per pack
+16 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trim: Wall Panel 81D Trim - Dark Grey - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel 81D Trim - Dark Grey - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SC-WP81_DARK_GREY.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/81D-DarkGrey.jpg
 
@@ -12200,15 +12731,16 @@ Images:
 
 Transform your interior spaces with the Wall Panel 81E, engineered from premium PVC with an authentic wood-effect finish. Each panel features seamless colouration that creates a unified, professional appearance across installations. At 240cm in height, this single pack contains 16 pieces offering substantial coverage and design flexibility. The high-quality construction ensures durability and longevity, while the wood aesthetic delivers warmth and sophistication to any room. Ideal for feature walls, cladding projects, or comprehensive interior renovations where consistency and visual impact matter.
 
- Size available: 15 x 240 x 1.8cm per panel
+Size available: 15 x 240 x 1.8cm per panel
 
- 16 pieces per pack
+16 pieces per pack
 
- Area covered: 5.76m² per pack
+Area covered: 5.76m² per pack
 
- Trim: Wall Panel 81E Trim - Black - 240cm - (1 pack / 10pcs)
+Trim: Wall Panel 81E Trim - Black - 240cm - (1 pack / 10pcs)
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SC-WP81_BLACK.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/81E-Black.jpg
 
@@ -12221,13 +12753,14 @@ Images:
 
 Transform your interior spaces with this premium wall panel system. Crafted from high-quality PVC with an authentic wood-effect finish, each panel delivers seamless colouration that creates a unified, sophisticated aesthetic across your walls. The oak tone provides timeless elegance suitable for contemporary and traditional settings alike. At 240cm in height, this single pack contains 12 pieces offering substantial coverage and design flexibility. The durable PVC construction ensures longevity whilst maintaining its refined appearance, making it an ideal choice for residential renovations, commercial installations, or accent wall projects where quality and visual continuity are paramount.
 
- Size available: 15 x 240 x 1cm per panel
+Size available: 15 x 240 x 1cm per panel
 
- 12 pieces per pack
+12 pieces per pack
 
- Area covered: 4.32m² per pack
+Area covered: 4.32m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/82AOak.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/82A.png
 
@@ -12240,13 +12773,14 @@ Images:
 
 Transform your interior spaces with this premium wall panel system. Crafted from high-quality PVC with an authentic wood-effect finish, each panel delivers seamless colouration that creates a unified, sophisticated aesthetic across your walls. The grey tone provides timeless elegance suitable for contemporary and traditional settings alike. At 240cm in height, this single pack contains 12 pieces offering substantial coverage and design flexibility. The durable PVC construction ensures longevity whilst maintaining its refined appearance, making it an ideal choice for residential renovations, commercial installations, or accent wall projects where quality and visual continuity are paramount.
 
- Size available: 15 x 240 x 1cm per panel
+Size available: 15 x 240 x 1cm per panel
 
- 12 pieces per pack
+12 pieces per pack
 
- Area covered: 4.32m² per pack
+Area covered: 4.32m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/82BGrey.jpg
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/82B.png
 
@@ -12259,13 +12793,14 @@ Images:
 
 Transform your interior spaces with this premium wall panel system. Crafted from high-quality PVC with an authentic wood-effect finish, each panel delivers seamless colouration that creates a unified, sophisticated aesthetic across your walls. The black tone provides timeless elegance suitable for contemporary and traditional settings alike. At 240cm in height, this single pack contains 12 pieces offering substantial coverage and design flexibility. The durable PVC construction ensures longevity whilst maintaining its refined appearance, making it an ideal choice for residential renovations, commercial installations, or accent wall projects where quality and visual continuity are paramount.
 
- Size available: 15 x 240 x 1cm per panel
+Size available: 15 x 240 x 1cm per panel
 
- 12 pieces per pack
+12 pieces per pack
 
- Area covered: 4.32m² per pack
+Area covered: 4.32m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/82EBlack.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/82E.png
 
@@ -12278,12 +12813,13 @@ Images:
 
 Transform your interior spaces with this premium wall panel system. Crafted from high-quality PVC with an authentic wood-effect finish, each panel delivers seamless colouration that creates a unified, sophisticated aesthetic across your walls. The walnut tone provides timeless elegance suitable for contemporary and traditional settings alike. At 240cm in height, this single pack contains 12 pieces offering substantial coverage and design flexibility. The durable PVC construction ensures longevity whilst maintaining its refined appearance, making it an ideal choice for residential renovations, commercial installations, or accent wall projects where quality and visual continuity are paramount.
 
- Size available: 15 x 240 x 1cm per panel
+Size available: 15 x 240 x 1cm per panel
 
- 12 pieces per pack
+12 pieces per pack
 
- Area covered: 4.32m² per pack
+Area covered: 4.32m² per pack
 
 Images:
+
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/82TWalnut_087de175-5d63-41d9-81ed-fed36551f8bf.png
 - https://cdn.shopify.com/s/files/1/0247/8846/7766/files/82T.png

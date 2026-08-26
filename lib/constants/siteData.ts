@@ -29,8 +29,16 @@ export const NAV_CATEGORIES: NavCategory[] = [
       { id: "showers", label: "Showers", href: "/showers" },
       { id: "baths", label: "Baths", href: "/baths" },
       { id: "bath-screens", label: "Bath Screens", href: "/bath-screens" },
-      { id: "shower-enclosures", label: "Shower Enclosures", href: "/shower-enclosures" },
-      { id: "wetroom-screens", label: "Wetroom Screens", href: "/wetroom-screens" },
+      {
+        id: "shower-enclosures",
+        label: "Shower Enclosures",
+        href: "/shower-enclosures",
+      },
+      {
+        id: "wetroom-screens",
+        label: "Wetroom Screens",
+        href: "/wetroom-screens",
+      },
       { id: "shower-trays", label: "Shower Trays", href: "/shower-trays" },
       { id: "furniture", label: "Bath Furniture", href: "/furniture" },
       { id: "heating", label: "Heating", href: "/heating" },
@@ -44,9 +52,12 @@ export const NAV_CATEGORIES: NavCategory[] = [
     children: [
       { id: "panels", label: "Panels", href: "/panels" },
       { id: "wpc-panels", label: "WPC Panels", href: "/wpc-panels" },
-      { id: "acoustic-panels", label: "Acoustic Panels", href: "/acoustic-panels" },
       { id: "solid-panels", label: "Solid Panels", href: "/solid-panels" },
-      { id: "ceiling-panels", label: "Ceiling Panels", href: "/ceiling-panels" },
+      {
+        id: "ceiling-panels",
+        label: "Ceiling Panels",
+        href: "/ceiling-panels",
+      },
     ],
   },
   {
@@ -54,14 +65,22 @@ export const NAV_CATEGORIES: NavCategory[] = [
     label: "Ceiling",
     href: "/ceiling-tiles",
     children: [
-      { id: "ceiling-panels", label: "Ceiling Panels", href: "/ceiling-panels" },
+      {
+        id: "ceiling-panels",
+        label: "Ceiling Panels",
+        href: "/ceiling-panels",
+      },
       { id: "ceiling-tiles", label: "Ceiling Tiles", href: "/ceiling-tiles" },
     ],
   },
   { id: "flooring", label: "Flooring", href: "/flooring" },
   { id: "wall-tiles", label: "Wall Tiles", href: "/wall-tiles" },
   { id: "kitchens", label: "Kitchens", href: "/kitchens" },
-  { id: "artificial-grass", label: "Artificial Grass", href: "/artificial-grass" },
+  {
+    id: "artificial-grass",
+    label: "Artificial Grass",
+    href: "/artificial-grass",
+  },
   { id: "silicone", label: "Silicone", href: "/silicone" },
   { id: "accessories", label: "Accessories", href: "/accessories" },
   {
@@ -69,10 +88,26 @@ export const NAV_CATEGORIES: NavCategory[] = [
     label: "Verandas",
     href: "/verandas",
     children: [
-      { id: "aluminium-verandas", label: "Aluminium Verandas", href: "/verandas/aluminium-verandas" },
-      { id: "glass-sliding-doors", label: "Glass Sliding Doors", href: "/verandas/glass-sliding-doors" },
-      { id: "louvered-roofs", label: "Louvered Roofs", href: "/verandas/louvered-roofs" },
-      { id: "folding-roofs", label: "Folding Roofs", href: "/verandas/folding-roofs" },
+      {
+        id: "aluminium-verandas",
+        label: "Aluminium Verandas",
+        href: "/verandas/aluminium-verandas",
+      },
+      {
+        id: "glass-sliding-doors",
+        label: "Glass Sliding Doors",
+        href: "/verandas/glass-sliding-doors",
+      },
+      {
+        id: "louvered-roofs",
+        label: "Louvered Roofs",
+        href: "/verandas/louvered-roofs",
+      },
+      {
+        id: "folding-roofs",
+        label: "Folding Roofs",
+        href: "/verandas/folding-roofs",
+      },
     ],
   },
   {
@@ -80,12 +115,20 @@ export const NAV_CATEGORIES: NavCategory[] = [
     label: "Furniture",
     href: "/home-furniture",
     children: [
-      { id: "dining-tables", label: "Dining Tables", href: "/home-furniture/dining-tables" },
+      {
+        id: "dining-tables",
+        label: "Dining Tables",
+        href: "/home-furniture/dining-tables",
+      },
       { id: "chairs", label: "Chairs", href: "/home-furniture/chairs" },
       { id: "sofas", label: "Sofas", href: "/home-furniture/sofas" },
       { id: "oak", label: "Oak", href: "/home-furniture/oak" },
       { id: "beds", label: "Beds / Mattresses", href: "/home-furniture/beds" },
-      { id: "decorative-mirrors", label: "Mirrors", href: "/decorative-mirrors" },
+      {
+        id: "decorative-mirrors",
+        label: "Mirrors",
+        href: "/decorative-mirrors",
+      },
       { id: "clocks", label: "Clocks", href: "/clocks" },
       { id: "home-lighting", label: "Lighting", href: "/home-lighting" },
     ],
@@ -93,12 +136,20 @@ export const NAV_CATEGORIES: NavCategory[] = [
   {
     id: "wall-panelling",
     label: "Wall Panelling",
-    href: "/wall-panelling",
+    href: "/panels/",
     children: [
-      { id: "acoustic-wall-panels", label: "Acoustic Panels", href: "/wall-panelling/acoustic-panels" },
-      { id: "aqua-panels", label: "Aqua Panels", href: "/wall-panelling/aqua-panels" },
-      { id: "wall-panels", label: "Wall Panels", href: "/wall-panelling/wall-panels" },
-      { id: "ceilings", label: "Ceilings", href: "/wall-panelling/ceilings" },
+      {
+        id: "acoustic-wall-panels",
+        label: "Acoustic Panels",
+        href: "/panels/acoustic-panels",
+      },
+      {
+        id: "aqua-panels",
+        label: "60 cm PVC Panels",
+        href: "/panels/aqua-panels",
+      },
+      { id: "wall-panels", label: "Wall Panels", href: "/panels/wall-panels" },
+      { id: "ceilings", label: "Ceilings", href: "/panels/ceilings" },
     ],
   },
   {
@@ -106,7 +157,11 @@ export const NAV_CATEGORIES: NavCategory[] = [
     label: "Outdoor",
     href: "/outdoor",
     children: [
-      { id: "outdoor-panels", label: "Outdoor Panels", href: "/outdoor/outdoor-panels" },
+      {
+        id: "outdoor-panels",
+        label: "Outdoor Panels",
+        href: "/outdoor/outdoor-panels",
+      },
       { id: "cladding", label: "Cladding", href: "/outdoor/cladding" },
       { id: "decking", label: "Decking", href: "/outdoor/decking" },
       { id: "fencing", label: "Fencing", href: "/outdoor/fencing" },
@@ -117,15 +172,26 @@ export const NAV_CATEGORIES: NavCategory[] = [
     label: "Corners",
     href: "/corners",
     children: [
-      { id: "angle-trims", label: "Angle Trims / L Shape", href: "/angle-trims" },
+      {
+        id: "angle-trims",
+        label: "Angle Trims / L Shape",
+        href: "/angle-trims",
+      },
       { id: "end-cap", label: "End Cap", href: "/end-cap" },
-      { id: "internal-corner", label: "Internal Corner", href: "/internal-corner" },
-      { id: "external-corner", label: "External Corner", href: "/external-corner" },
+      {
+        id: "internal-corner",
+        label: "Internal Corner",
+        href: "/internal-corner",
+      },
+      {
+        id: "external-corner",
+        label: "External Corner",
+        href: "/external-corner",
+      },
       { id: "fascia", label: "Fascia", href: "/fascia" },
     ],
   },
 ];
-
 
 export const HERO_SLIDES = [
   {
@@ -168,8 +234,7 @@ export const CAROUSEL_SLIDES = [
       "Waterproof panels, SPC flooring and wall tiles for spaces that work hard.",
     ctaLabel: "View range",
     ctaHref: "/panels",
-    image:
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/panels.jpg",
+    image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/panels.jpg",
   },
   {
     id: 4,
@@ -188,25 +253,81 @@ export const CAROUSEL_SLIDES = [
       "Statement baths and vanity ranges that pull a bathroom scheme together.",
     ctaLabel: "View range",
     ctaHref: "/baths",
-    image:
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/baths.jpg",
+    image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/baths.jpg",
   },
 ] as const;
 
 export const PRODUCT_CATEGORIES = [
-  { id: "bathrooms", label: "Bathrooms", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/baths.jpg" },
-  { id: "panels", label: "Panels", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/panels.jpg" },
-  { id: "flooring", label: "Flooring", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/flooring.jpg" },
-  { id: "wall-tiles", label: "Wall Tiles", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/wall-tiles.jpg" },
-  { id: "kitchens", label: "Kitchens", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/furniture-1.jpg" },
-  { id: "artificial-grass", label: "Artificial Grass", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/flooring-1.jpg" },
-  { id: "silicone", label: "Silicone", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/accessories.jpg" },
-  { id: "accessories", label: "Accessories", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/accessories.jpg" },
-  { id: "verandas", label: "Verandas", image: "https://www.deponti.com/storage/app/resources/resize/510_320_0_0_crop/img_a68a9b7552a23cd079464b3a4202f79a.jpg" },
-  { id: "home-furniture", label: "Furniture", image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/4066109F-C183-4DB5-B7A0-0EBC2F096574.png" },
-  { id: "wall-panelling", label: "Wall Panelling", image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP010G-GREY_03fd921c-186b-41f7-835a-401aabc29ae0.png" },
-  { id: "outdoor", label: "Outdoor", image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/87AOak03.png" },
-  { id: "corners", label: "Corners", image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/accessories.jpg" },
+  {
+    id: "bathrooms",
+    label: "Bathrooms",
+    image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/baths.jpg",
+  },
+  {
+    id: "panels",
+    label: "Panels",
+    image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/panels.jpg",
+  },
+  {
+    id: "flooring",
+    label: "Flooring",
+    image:
+      "https://giavanibathrooms.com/wp-content/uploads/2026/03/flooring.jpg",
+  },
+  {
+    id: "wall-tiles",
+    label: "Wall Tiles",
+    image:
+      "https://giavanibathrooms.com/wp-content/uploads/2026/03/wall-tiles.jpg",
+  },
+  {
+    id: "kitchens",
+    label: "Kitchens",
+    image:
+      "https://giavanibathrooms.com/wp-content/uploads/2026/03/furniture-1.jpg",
+  },
+  {
+    id: "artificial-grass",
+    label: "Artificial Grass",
+    image:
+      "https://giavanibathrooms.com/wp-content/uploads/2026/03/flooring-1.jpg",
+  },
+  {
+    id: "silicone",
+    label: "Silicone",
+    image:
+      "https://giavanibathrooms.com/wp-content/uploads/2026/03/accessories.jpg",
+  },
+  {
+    id: "accessories",
+    label: "Accessories",
+    image:
+      "https://giavanibathrooms.com/wp-content/uploads/2026/03/accessories.jpg",
+  },
+  {
+    id: "verandas",
+    label: "Verandas",
+    image:
+      "https://www.deponti.com/storage/app/resources/resize/510_320_0_0_crop/img_a68a9b7552a23cd079464b3a4202f79a.jpg",
+  },
+  {
+    id: "home-furniture",
+    label: "Furniture",
+    image:
+      "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/4066109F-C183-4DB5-B7A0-0EBC2F096574.png",
+  },
+  {
+    id: "outdoor",
+    label: "Outdoor",
+    image:
+      "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/87AOak03.png",
+  },
+  {
+    id: "corners",
+    label: "Corners",
+    image:
+      "https://giavanibathrooms.com/wp-content/uploads/2026/03/accessories.jpg",
+  },
 ] as const;
 
 export const EXPERIENCE_SECTION = {

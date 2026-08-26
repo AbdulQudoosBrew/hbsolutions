@@ -34,10 +34,8 @@ export default function ProductPageView({
 }: ProductPageViewProps) {
   const allImages = useMemo(
     () =>
-      uniqueImages(
-        product.images?.length ? product.images : [product.image]
-      ),
-    [product.images, product.image]
+      uniqueImages(product.images?.length ? product.images : [product.image]),
+    [product.images, product.image],
   );
   const colours = (product.colours || []).filter((c) => !c.href);
   const sizes = product.sizes || [];
@@ -238,24 +236,30 @@ export default function ProductPageView({
                   Specifications
                 </p>
                 <dl className="mt-3 border-t border-[#eeeeee] sm:mt-4">
-                  {product.specs.map((spec) => (
-                    <div
-                      key={spec.label}
-                      className="grid gap-1 border-b border-[#eeeeee] py-3 sm:grid-cols-[minmax(120px,34%)_1fr] sm:gap-4 sm:py-3.5"
-                    >
-                      <dt className="text-[11px] uppercase tracking-[0.12em] text-[#888888] sm:text-xs">
-                        {spec.label}
-                      </dt>
-                      <dd className="text-sm leading-6 text-[#444444] sm:text-[15px] sm:leading-7">
-                        {spec.value}
-                      </dd>
-                    </div>
-                  ))}
+                  {product.specs
+                    .filter(
+                      (spec) =>
+                        spec.label !== "Product code" &&
+                        spec.label !== "Available codes",
+                    )
+                    .map((spec) => (
+                      <div
+                        key={spec.label}
+                        className="grid gap-1 border-b border-[#eeeeee] py-3 sm:grid-cols-[minmax(120px,34%)_1fr] sm:gap-4 sm:py-3.5"
+                      >
+                        <dt className="text-[11px] uppercase tracking-[0.12em] text-[#888888] sm:text-xs">
+                          {spec.label}
+                        </dt>
+                        <dd className="text-sm leading-6 text-[#444444] sm:text-[15px] sm:leading-7">
+                          {spec.value}
+                        </dd>
+                      </div>
+                    ))}
                 </dl>
               </div>
             ) : null}
 
-            {colours.length > 0 ? (
+            {/* {colours.length > 0 ? (
               <div className="mt-6 sm:mt-8">
                 <p className="text-[10px] uppercase tracking-[0.22em] text-[#111111] sm:text-[11px] sm:tracking-[0.25em]">
                   Colour
@@ -289,7 +293,7 @@ export default function ProductPageView({
                   })}
                 </div>
               </div>
-            ) : null}
+            ) : null} */}
 
             {sizes.length > 0 ? (
               <div className="mt-6 sm:mt-8">

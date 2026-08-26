@@ -47,7 +47,7 @@ export default async function ProductRoutePage({ params }: ProductRouteProps) {
   }
 
   const relatedProducts = collectionPage.items.filter(
-    (item) => item.id !== page.slug
+    (item) => item.id !== page.slug,
   );
 
   return (
