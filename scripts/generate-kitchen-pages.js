@@ -7,6 +7,7 @@ const OUT = path.join(ROOT, "lib", "constants", "kitchenPages.ts");
 
 const FAVICON = "9b37ef_0961403087fd42f6a902430d1b31e251~mv2.jpg";
 const LOGO_IDS = new Set([
+  "9b37ef_4e81a0715dd54af1b236ae83e363d9ff~mv2.jpg",
   "9b37ef_a8dcd1e63d994a829b4bb31c3b1743f0~mv2.jpg",
   "9b37ef_a0e9f009221b4f5e97ce65987daa6fe8~mv2.jpg",
 ]);

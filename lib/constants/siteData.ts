@@ -327,7 +327,7 @@ export const PRODUCT_CATEGORIES = [
     id: "kitchens",
     label: "Kitchens",
     image:
-      "https://static.wixstatic.com/media/9b37ef_4e81a0715dd54af1b236ae83e363d9ff~mv2.jpg",
+      "https://static.wixstatic.com/media/9b37ef_718352d3b597426a9d6c34265306f376~mv2.jpg",
   },
   {
     id: "artificial-grass",
