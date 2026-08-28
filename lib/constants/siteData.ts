@@ -81,7 +81,50 @@ export const NAV_CATEGORIES: NavCategory[] = [
     label: "Artificial Grass",
     href: "/artificial-grass",
   },
-  { id: "silicone", label: "Silicone", href: "/silicone" },
+  {
+    id: "silicone",
+    label: "Silicone",
+    href: "/silicone",
+    children: [
+      { id: "ct1", label: "CT1", href: "/silicone/ct1" },
+      { id: "bt1", label: "BT1", href: "/silicone/bt1" },
+      { id: "bw1", label: "BW1", href: "/silicone/bw1" },
+      { id: "fc1", label: "FC1", href: "/silicone/fc1" },
+      {
+        id: "fc1-patch-and-fill",
+        label: "FC1 Patch & Fill",
+        href: "/silicone/fc1-patch-and-fill",
+      },
+      { id: "miracle-seal", label: "Miracle Seal", href: "/silicone/miracle-seal" },
+      { id: "multisolve", label: "MultiSolve 500ml", href: "/silicone/multisolve" },
+      { id: "peel-tec", label: "Peel Tec 500ml", href: "/silicone/peel-tec" },
+      {
+        id: "power-grab-n-bond",
+        label: "Power Grab n Bond",
+        href: "/silicone/power-grab-n-bond",
+      },
+      {
+        id: "super-fast-plus-50ml",
+        label: "Superfast Plus 50ml",
+        href: "/silicone/super-fast-plus-50ml",
+      },
+      {
+        id: "superfast-plus-20ml",
+        label: "Superfast Plus 20ml",
+        href: "/silicone/superfast-plus-20ml",
+      },
+      {
+        id: "super-fast-plus-activator",
+        label: "Superfast Plus Activator",
+        href: "/silicone/super-fast-plus-activator",
+      },
+      {
+        id: "ct1-caulking-gun",
+        label: "CT1 Caulking Gun",
+        href: "/silicone/ct1-caulking-gun",
+      },
+    ],
+  },
   { id: "accessories", label: "Accessories", href: "/accessories" },
   {
     id: "verandas",
@@ -284,7 +327,7 @@ export const PRODUCT_CATEGORIES = [
     id: "kitchens",
     label: "Kitchens",
     image:
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/furniture-1.jpg",
+      "https://static.wixstatic.com/media/9b37ef_4e81a0715dd54af1b236ae83e363d9ff~mv2.jpg",
   },
   {
     id: "artificial-grass",
@@ -296,7 +339,7 @@ export const PRODUCT_CATEGORIES = [
     id: "silicone",
     label: "Silicone",
     image:
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/accessories.jpg",
+      "https://shop.ct1.com/pub/media/catalog/product/c/t/ct1_white.jpg",
   },
   {
     id: "accessories",

@@ -46,26 +46,22 @@ export default function CategoryPageView({ category }: CategoryPageViewProps) {
 
       {category.heroImage ? (
         <div className="relative w-full overflow-hidden bg-[#f0f0f0]">
-          <div className="relative aspect-[4/3] w-full sm:aspect-[16/10] lg:aspect-[1536/931]">
-            <CategoryImage
-              src={category.heroImage}
-              alt={category.title}
-              variant="hero"
-              priority
-            />
-          </div>
+          <CategoryImage
+            src={category.heroImage}
+            alt={category.title}
+            variant="hero"
+            priority
+          />
         </div>
       ) : null}
 
       {category.bannerImage ? (
         <div className="relative w-full overflow-hidden bg-[#f0f0f0]">
-          <div className="relative min-h-[44px] w-full aspect-[1536/233] sm:min-h-[56px] md:min-h-[72px]">
-            <CategoryImage
-              src={category.bannerImage}
-              alt={`${category.title} banner`}
-              variant="banner"
-            />
-          </div>
+          <CategoryImage
+            src={category.bannerImage}
+            alt={`${category.title} banner`}
+            variant="banner"
+          />
         </div>
       ) : null}
 

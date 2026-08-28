@@ -16,6 +16,8 @@ type ProductRouteProps = {
   params: Promise<{ slug: string; collection: string; product: string }>;
 };
 
+export const dynamicParams = true;
+
 export function generateStaticParams() {
   return getAllProductParams();
 }

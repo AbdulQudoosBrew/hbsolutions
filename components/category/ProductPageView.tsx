@@ -129,7 +129,7 @@ export default function ProductPageView({
         </nav>
 
         {product.heroImage ? (
-          <div className="relative mt-4 aspect-[16/9] w-full overflow-hidden bg-[#f0f0f0] sm:mt-6 sm:aspect-[21/9] lg:aspect-[1500/400]">
+          <div className="relative mt-4 w-full overflow-hidden bg-[#f0f0f0] sm:mt-6">
             <CategoryImage
               src={product.heroImage}
               alt={product.title}

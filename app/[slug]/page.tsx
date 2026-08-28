@@ -14,6 +14,8 @@ type CategoryPageProps = {
   params: Promise<{ slug: string }>;
 };
 
+export const dynamicParams = true;
+
 export function generateStaticParams() {
   return getAllCategorySlugs().map((slug) => ({ slug }));
 }

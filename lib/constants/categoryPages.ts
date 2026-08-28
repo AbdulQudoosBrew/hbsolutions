@@ -1,4 +1,6 @@
 import { AWS_CATEGORY_PAGES } from "./awsPages";
+import { SILICONE_CATEGORY } from "./siliconePages";
+import { KITCHENS_CATEGORY } from "./kitchenPages";
 
 export type CategoryCollection = {
   id: string;
@@ -1328,54 +1330,7 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
       },
     ],
   },
-  kitchens: {
-    slug: "kitchens",
-    title: "Kitchens",
-    description:
-      "Discover our Kitchens range from Haris Building Solutions. Quality products selected for performance, style and lasting value.",
-    heroImage:
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/category-header8.jpg",
-    bannerImage:
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/furniture-1.jpg",
-    collectionHeading: "View Our Collection",
-    collections: [
-      {
-        id: "luna-furniture",
-        label: "LUNA",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2023/11/e500.jpg",
-        href: "/furniture/luna-furniture",
-      },
-      {
-        id: "edge-furniture",
-        label: "EDGE",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2023/11/500-7.jpg",
-        href: "/furniture/edge-furniture",
-      },
-      {
-        id: "como-furniture",
-        label: "COMO",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2026/02/Como-Unit_800_wall_oak_03-copy-3.jpg-3.jpg",
-        href: "/furniture/como-furniture",
-      },
-      {
-        id: "sienna-furniture",
-        label: "SIENNA",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2026/02/sienna-unit_600_wll_cream_full-lifestyle_01.jpg",
-        href: "/furniture/sienna-furniture",
-      },
-      {
-        id: "niche",
-        label: "NICHE",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2026/03/THUMBNAIL-24.jpg",
-        href: "/furniture/niche",
-      },
-    ],
-  },
+  kitchens: KITCHENS_CATEGORY,
   "artificial-grass": {
     slug: "artificial-grass",
     title: "Artificial Grass",
@@ -1459,90 +1414,7 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
       },
     ],
   },
-  silicone: {
-    slug: "silicone",
-    title: "Silicone",
-    description:
-      "Discover our Silicone range from Haris Building Solutions. Quality products selected for performance, style and lasting value.",
-    heroImage:
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/accessories.jpg",
-    collectionHeading: "View Our Range",
-    collectionAspect: "portrait",
-    collections: [
-      {
-        id: "sanitaryware-accessories",
-        label: "Sanitaryware Accessories",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2023/12/gf-768x1024.jpg",
-        href: "/accessories/sanitaryware-accessories",
-      },
-      {
-        id: "taps-accessories",
-        label: "Taps Accessories",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2023/12/2-768x1024.jpg",
-        href: "/accessories/taps-accessories",
-      },
-      {
-        id: "showers-accessories",
-        label: "Shower Accessories",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2023/12/jp-768x1024.jpg",
-        href: "/accessories/showers-accessories",
-      },
-      {
-        id: "enclosures-tray-accessories",
-        label: "Enclosures/Trays Accessories",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2023/12/222-768x1024.jpg",
-        href: "/accessories/enclosures-tray-accessories",
-      },
-      {
-        id: "underfloor-heating",
-        label: "Underfloor Heating",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2026/03/underfloor.jpg",
-        href: "/accessories/underfloor-heating",
-      },
-      {
-        id: "radiator-accessories",
-        label: "Radiator Accessories",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2026/03/radiator.jpg",
-        href: "/accessories/radiator-accessories",
-      },
-
-      {
-        id: "extractor-fan",
-        label: "Extractor Fan",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2026/03/Turbo-Extractor-Fan-with-Timer.jpg",
-        href: "/accessories/extractor-fan",
-      },
-
-      {
-        id: "ip65-lighting",
-        label: "IP65 Lighting",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2026/03/ip65-.jpg",
-        href: "/accessories/ip65-lighting",
-      },
-      {
-        id: "furniture-accessories",
-        label: "Furniture Accessories",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2026/03/furniture-2.jpg",
-        href: "/accessories/furniture-accessories",
-      },
-      {
-        id: "niche",
-        label: "Niche",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2026/03/Brushed-Bronze.jpg",
-        href: "/accessories/niche",
-      },
-    ],
-  },
+  silicone: SILICONE_CATEGORY,
 
   "ceiling-tiles": {
     slug: "ceiling-tiles",
@@ -1652,6 +1524,7 @@ Object.assign(
   CATEGORY_PAGES,
   AWS_CATEGORY_PAGES as Record<string, CategoryPageData>,
 );
+Object.assign(CATEGORY_PAGES, { kitchens: KITCHENS_CATEGORY });
 
 export function getCategoryPage(slug: string): CategoryPageData | null {
   return CATEGORY_PAGES[slug] ?? null;

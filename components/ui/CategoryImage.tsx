@@ -23,9 +23,8 @@ const VARIANT_SIZES: Record<ImageVariant, string> = {
 
 const VARIANT_FIT: Record<ImageVariant, string> = {
   card: "object-cover object-center",
-  // Show the full reference frame — avoid aggressive crop on category headers
-  hero: "object-cover object-center",
-  banner: "object-cover object-[center_40%]",
+  hero: "h-full w-full object-cover object-center",
+  banner: "h-full w-full object-cover object-center",
   product: "object-contain object-center",
 };
 
@@ -51,15 +50,23 @@ export default function CategoryImage({
     );
   }
 
+  const isHeader = variant === "hero" || variant === "banner";
+
   return (
     <RemoteImage
       src={fullSrc}
       alt={alt}
-      fill
+      {...(isHeader
+        ? {
+            width: 1920,
+            height: 600,
+            style: { width: "100%", height: "auto" },
+          }
+        : { fill: true })}
       priority={priority}
       sizes={VARIANT_SIZES[variant]}
       quality={90}
-      className={`${VARIANT_FIT[variant]} ${
+      className={`${isHeader ? "h-auto w-full" : VARIANT_FIT[variant]} ${
         variant === "product" ? "bg-white" : ""
       } ${className}`.trim()}
       onError={() => setHasError(true)}

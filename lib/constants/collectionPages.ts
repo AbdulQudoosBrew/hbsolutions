@@ -1,5 +1,7 @@
 import { VERANDA_COLLECTIONS, VERANDA_PRODUCTS } from "./verandaPages";
 import { AWS_COLLECTIONS, AWS_PRODUCTS } from "./awsPages";
+import { SILICONE_COLLECTIONS, SILICONE_PRODUCTS } from "./siliconePages";
+import { KITCHENS_COLLECTIONS, KITCHENS_PRODUCTS } from "./kitchenPages";
 
 export type CollectionItem = {
   id: string;
@@ -3249,7 +3251,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-010-a-antique-m-grey-1-pack4pcs",
         label:
-          "Wall Panel 010A - Antique Metallic Grey - Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Antique Metallic Grey - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP010G-GREY_03fd921c-186b-41f7-835a-401aabc29ae0.png",
         href: "/panels/acoustic-panels/wall-panel-010-a-antique-m-grey-1-pack4pcs",
@@ -3257,7 +3259,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-010-c-antique-m-brown-1-pack4pcs",
         label:
-          "Wall Panel 010B - Antique Metallic Gold - Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Antique Metallic Gold - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP010G-BROWN_5cd83073-9c51-4cca-ade2-d93e9a30f868.png",
         href: "/panels/acoustic-panels/wall-panel-010-c-antique-m-brown-1-pack4pcs",
@@ -3265,7 +3267,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-010-b-antique-m-gold-1-pack4pcs",
         label:
-          "Wall Panel 010C - Antique Metallic Brown - Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Antique Metallic Brown - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP010G_af3a7615-93df-4d3d-9ba4-38c4bee5b8d4.png",
         href: "/panels/acoustic-panels/wall-panel-010-b-antique-m-gold-1-pack4pcs",
@@ -3273,7 +3275,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-013a-ps-g-grey-acoustic-1-pack4pcs",
         label:
-          "Wall Panel 013A - PS Gold and Grey - Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - PS Gold and Grey - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP013B.png",
         href: "/panels/acoustic-panels/wall-panel-013a-ps-g-grey-acoustic-1-pack4pcs",
@@ -3281,7 +3283,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-013b-ps-g-brown-acoustic-1-pack4pcs",
         label:
-          "Wall Panel 013B - PS Gold and Brown - Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - PS Gold and Brown - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP013A.png",
         href: "/panels/acoustic-panels/wall-panel-013b-ps-g-brown-acoustic-1-pack4pcs",
@@ -3289,7 +3291,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "pack-a-natural-oak",
         label:
-          "Wall Panel 01A - Natural Oak - Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Natural Oak - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/03_64c706af-4068-4642-aaae-186bd6d5b828.jpg",
         href: "/panels/acoustic-panels/pack-a-natural-oak",
@@ -3297,40 +3299,40 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "pack-b-light-grey",
         label:
-          "Wall Panel 01B - Light Grey - Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Light Grey - Acoustic - 240cm",
         image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01B.jpg",
         href: "/panels/acoustic-panels/pack-b-light-grey",
       },
       {
         id: "pack-c-dark-grey",
         label:
-          "Wall Panel 01C - Dark Grey - Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Dark Grey - Acoustic - 240cm",
         image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01C.jpg",
         href: "/panels/acoustic-panels/pack-c-dark-grey",
       },
       {
         id: "pack-d-dark-oak",
-        label: "Wall Panel 01D - Dark Oak - Acoustic - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Dark Oak - Acoustic - 240cm",
         image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01D.jpg",
         href: "/panels/acoustic-panels/pack-d-dark-oak",
       },
       {
         id: "pack-04e-black-bendable-wall-panel-copy",
-        label: "Wall Panel 01E - Black - Acoustic - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Black - Acoustic - 240cm",
         image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01E.jpg",
         href: "/panels/acoustic-panels/pack-04e-black-bendable-wall-panel-copy",
       },
       {
         id: "wall-panel-01-g-gold-acoustic-1-pack4pcs",
         label:
-          "Wall Panel 01G - Shiny Gold - Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Shiny Gold - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Image_20250829105426_68_12.png",
         href: "/panels/acoustic-panels/wall-panel-01-g-gold-acoustic-1-pack4pcs",
       },
       {
         id: "wall-panel-01p-teak-oak-acoustic-240cm-1-pack-4pcs",
-        label: "Wall Panel 01P - Teak Oak - Acoustic - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Teak Oak - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01PTeakOak_6055c751-790d-4789-9dc0-152999903a95.png",
         href: "/panels/acoustic-panels/wall-panel-01p-teak-oak-acoustic-240cm-1-pack-4pcs",
@@ -3338,14 +3340,14 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-01q-smoked-oak-acoustic-240cm-1-pack-4pcs",
         label:
-          "Wall Panel 01Q - Smoked Oak - Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Smoked Oak - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01QSmokedOak.png",
         href: "/panels/acoustic-panels/wall-panel-01q-smoked-oak-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-01r-concrete-acoustic-240cm-1-pack-4pcs",
-        label: "Wall Panel 01R - Concrete - Acoustic - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Concrete - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01RConcrete.png",
         href: "/panels/acoustic-panels/wall-panel-01r-concrete-acoustic-240cm-1-pack-4pcs",
@@ -3353,21 +3355,21 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-01-s-silver-acoustic-1-pack4pcs-copy",
         label:
-          "Wall Panel 01S - Shiny Silver - Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Shiny Silver - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Image_20250829105426_67_12.png",
         href: "/panels/acoustic-panels/wall-panel-01-s-silver-acoustic-1-pack4pcs-copy",
       },
       {
         id: "pack-01t-walnut-acoustic",
-        label: "Wall Panel 01T - Walnut - Acoustic - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Walnut - Acoustic - 240cm",
         image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01T.jpg",
         href: "/panels/acoustic-panels/pack-01t-walnut-acoustic",
       },
       {
         id: "pack-01wp-metallic-brown-acoustic",
         label:
-          "Wall Panel 01WF - Metallic Brown - Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Metallic Brown - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WF_1bb3cfe4-780d-4856-8200-53f855310152.png",
         href: "/panels/acoustic-panels/pack-01wp-metallic-brown-acoustic",
@@ -3375,7 +3377,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "pack-01wg-metallic-gold-acoustic",
         label:
-          "Wall Panel 01WG - Metallic Gold - Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Metallic Gold - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WG_b607843a-702e-4040-809a-d1446ff2ed04.png",
         href: "/panels/acoustic-panels/pack-01wg-metallic-gold-acoustic",
@@ -3383,7 +3385,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "pack-01wh-metallic-light-grey-acoustic",
         label:
-          "Wall Panel 01WH - Metallic Light Grey - Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Metallic Light Grey - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WH_4a863433-d052-48d2-85d0-33afdc9418ef.png",
         href: "/panels/acoustic-panels/pack-01wh-metallic-light-grey-acoustic",
@@ -3391,7 +3393,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "pack-01wj-metallic-dark-grey-acoustic",
         label:
-          "Wall Panel 01WJ - Metallic Dark Grey - Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Metallic Dark Grey - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WJ_2ee952b4-4a0a-4272-ab56-1a0a322767eb.png",
         href: "/panels/acoustic-panels/pack-01wj-metallic-dark-grey-acoustic",
@@ -3399,7 +3401,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-01-wk-mb-white-acoustic-1-pack4pcs",
         label:
-          "Wall Panel 01WK - White Marble - Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - White Marble - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WK_c873f015-3ac0-4a66-a3e2-224c22b00464.png",
         href: "/panels/acoustic-panels/wall-panel-01-wk-mb-white-acoustic-1-pack4pcs",
@@ -3407,7 +3409,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-01-wn-marble-gold-black-acoustic-1-pack4pcs",
         label:
-          "Wall Panel 01WN - Gold and Black Marble - Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Gold and Black Marble - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WN_dcb5e1ef-3ecb-47cd-a81c-c44d49e68d54.png",
         href: "/panels/acoustic-panels/wall-panel-01-wn-marble-gold-black-acoustic-1-pack4pcs",
@@ -3415,14 +3417,14 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-01-wo-marble-grey-acoustic-1-pack4pcs",
         label:
-          "Wall Panel 01WO - Grey Marble - Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Grey Marble - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WO2.jpg",
         href: "/panels/acoustic-panels/wall-panel-01-wo-marble-grey-acoustic-1-pack4pcs",
       },
       {
         id: "wall-panel-01ww-white-acoustic-1-pack-4pcs",
-        label: "Wall Panel 01WW - White - Acoustic - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - White - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_12_09_36PM.png",
         href: "/panels/acoustic-panels/wall-panel-01ww-white-acoustic-1-pack-4pcs",
@@ -3430,21 +3432,21 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-01wx-gold-and-white-marble-acoustic-240cm-1-pack-4pcs",
         label:
-          "Wall Panel 01WX - Gold and White Marble - Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Gold and White Marble - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WXGoldandWhite-Copy.jpg",
         href: "/panels/acoustic-panels/wall-panel-01wx-gold-and-white-marble-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-02-wa-oak-acoustic-1-pack3pcs",
-        label: "Wall Panel 02WA - Oak - Acoustic - 280cm - (1 pack / 3pcs)",
+        label: "Wall Panel - Oak - Acoustic - 280cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/02WA_da313921-f6fa-447f-aec1-0dca95de4f31.png",
         href: "/panels/acoustic-panels/wall-panel-02-wa-oak-acoustic-1-pack3pcs",
       },
       {
         id: "wall-panel-02-wb-grey-280cm-acoustic-1-pack3pcs",
-        label: "Wall Panel 02WB - Grey - Acoustic - 280cm - (1 pack / 3pcs)",
+        label: "Wall Panel - Grey - Acoustic - 280cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/02WB_a5e408eb-85fb-4021-8d82-cbf046fbc5ed.png",
         href: "/panels/acoustic-panels/wall-panel-02-wb-grey-280cm-acoustic-1-pack3pcs",
@@ -3452,7 +3454,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-02-wk-mb-white-280cm-acoustic-1-pack3pcs",
         label:
-          "Wall Panel 02WK - White Marble - Acoustic - 280cm - (1 pack / 3pcs)",
+          "Wall Panel - White Marble - Acoustic - 280cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/02WK2.jpg",
         href: "/panels/acoustic-panels/wall-panel-02-wk-mb-white-280cm-acoustic-1-pack3pcs",
@@ -3460,7 +3462,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-02-wn-marble-gold-black-280cm-acoustic-1-pack3pcs",
         label:
-          "Wall Panel 02WN - Gold and Black Marble - Acoustic - 280cm - (1 pack / 3pcs)",
+          "Wall Panel - Gold and Black Marble - Acoustic - 280cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/02_WN_3_ec6c1bba-2fbf-439a-82a6-c41fe05a1c6d.jpg",
         href: "/panels/acoustic-panels/wall-panel-02-wn-marble-gold-black-280cm-acoustic-1-pack3pcs",
@@ -3468,21 +3470,21 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-02wo-grey-marble-acoustic-1-pack-3pcs",
         label:
-          "Wall Panel 02WO - Grey Marble - Acoustic - 280cm - (1 pack / 3pcs)",
+          "Wall Panel - Grey Marble - Acoustic - 280cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WO2_70203fa3-f168-4c35-af4e-860da2c18842.jpg",
         href: "/panels/acoustic-panels/wall-panel-02wo-grey-marble-acoustic-1-pack-3pcs",
       },
       {
         id: "wall-panel-02-wt-walnut-280cm-acoustic-1-pack3pcs",
-        label: "Wall Panel 02WT - Walnut - Acoustic - 280cm - (1 pack / 3pcs)",
+        label: "Wall Panel - Walnut - Acoustic - 280cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01TWalnut.jpg",
         href: "/panels/acoustic-panels/wall-panel-02-wt-walnut-280cm-acoustic-1-pack3pcs",
       },
       {
         id: "pack-03a-oak-acoustic",
-        label: "Wall Panel 03A - Oak - Acoustic - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Oak - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/03A-1.png",
         href: "/panels/acoustic-panels/pack-03a-oak-acoustic",
@@ -3490,28 +3492,28 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "pack-03c-dark-grey",
         label:
-          "Wall Panel 03C - Dark Grey - Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Dark Grey - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/03C_d15f0e89-e03e-4d69-87be-5a72d687b753.png",
         href: "/panels/acoustic-panels/pack-03c-dark-grey",
       },
       {
         id: "wp-03d-acoustic",
-        label: "Wall Panel 03D - Dark Oak - Acoustic - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Dark Oak - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/03D_3ef549dd-310c-4388-ae7e-6ecbd9482d9e.png",
         href: "/panels/acoustic-panels/wp-03d-acoustic",
       },
       {
         id: "wp-03t-acoustic-1",
-        label: "Wall Panel 03T - Walnut - Acoustic - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Walnut - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/03T_685a886e-0b2d-4c92-af3b-76a4e4a06b2f.png",
         href: "/panels/acoustic-panels/wp-03t-acoustic-1",
       },
       {
         id: "wall-panel-04a-natural-oak-acoustic-240cm-1-pack-4pcs",
-        label: "Wall Panel 04A - Oak - Acoustic - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Oak - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/04AOak1.png",
         href: "/panels/acoustic-panels/wall-panel-04a-natural-oak-acoustic-240cm-1-pack-4pcs",
@@ -3519,55 +3521,55 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-04b-light-grey-acoustic-240cm-1-pack-4pcs",
         label:
-          "Wall Panel 04B - Light Grey - Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Light Grey - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb12_2026_03_28_47PM.png",
         href: "/panels/acoustic-panels/wall-panel-04b-light-grey-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-04d-dark-oak-acoustic-240cm-1-pack-4pcs",
-        label: "Wall Panel 04D - Dark Oak - Acoustic - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Dark Oak - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/04DDarkOak.png",
         href: "/panels/acoustic-panels/wall-panel-04d-dark-oak-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-04t-walnut-acoustic-240cm-1-pack-4pcs",
-        label: "Wall Panel 04T - Walnut - Acoustic - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Walnut - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb12_2026_03_28_04PM.png",
         href: "/panels/acoustic-panels/wall-panel-04t-walnut-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "pack-06a-natural-oak",
-        label: "Wall Panel 06A - Oak - Vertical - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Oak - Vertical - 240cm",
         image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/06A.jpg",
         href: "/panels/acoustic-panels/pack-06a-natural-oak",
       },
       {
         id: "pack-08a-natural-oak-copy",
-        label: "Wall Panel 08A - Oak - Blocks - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Oak - Blocks - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/08A_3ca92f2e-6dbc-442a-9e5e-dafca29b1949.png",
         href: "/panels/acoustic-panels/pack-08a-natural-oak-copy",
       },
       {
         id: "wall-panel-08d-dark-oak-blocks-240cm-1-pack-4pcs",
-        label: "Wall Panel 08D - Dark Oak - Blocks - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Dark Oak - Blocks - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/08DDarkOak.png",
         href: "/panels/acoustic-panels/wall-panel-08d-dark-oak-blocks-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-08b-grey-blocks-240cm-1-pack-4pcs",
-        label: "Wall Panel 08F - Grey - Blocks - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Grey - Blocks - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageMar2_2026_03_13_25PM.png",
         href: "/panels/acoustic-panels/wall-panel-08b-grey-blocks-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-08-t-blocks-wall-panel-walnut-1-pack4pcs",
-        label: "Wall Panel 08T - Walnut - Blocks - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Walnut - Blocks - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/08T_6ecfedca-475f-40a8-89ed-5df86bc7534f.png",
         href: "/panels/acoustic-panels/wall-panel-08-t-blocks-wall-panel-walnut-1-pack4pcs",
@@ -3575,7 +3577,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-31d-dark-oak-acoustic-240cm-1-pack-4pcs",
         label:
-          "Wall Panel 31D - Dark Oak - Premium Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Dark Oak - Premium Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/31DDarkOak1.png",
         href: "/panels/acoustic-panels/wall-panel-31d-dark-oak-acoustic-240cm-1-pack-4pcs",
@@ -3583,7 +3585,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-31f-grey-oak-acoustic-240cm-1-pack-4pcs",
         label:
-          "Wall Panel 31F - Grey Oak - Premium Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Grey Oak - Premium Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/31FGreyOak1.png",
         href: "/panels/acoustic-panels/wall-panel-31f-grey-oak-acoustic-240cm-1-pack-4pcs",
@@ -3591,7 +3593,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-31h-oak-acoustic-240cm-1-pack-4pcs",
         label:
-          "Wall Panel 31H - Oak - Premium Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Oak - Premium Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/31HOak021.png",
         href: "/panels/acoustic-panels/wall-panel-31h-oak-acoustic-240cm-1-pack-4pcs",
@@ -3599,7 +3601,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-31t-walnut-acoustic-240cm-1-pack-4pcs",
         label:
-          "Wall Panel 31T - Walnut - Premium Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Walnut - Premium Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/31TWalnut1.png",
         href: "/panels/acoustic-panels/wall-panel-31t-walnut-acoustic-240cm-1-pack-4pcs",
@@ -3607,7 +3609,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-32f-grey-oak-acoustic-240cm-1-pack-4pcs",
         label:
-          "Wall Panel 32F - Grey Oak - Premium Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Grey Oak - Premium Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32FGreyOak-Copy.png",
         href: "/panels/acoustic-panels/wall-panel-32f-grey-oak-acoustic-240cm-1-pack-4pcs",
@@ -3615,7 +3617,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-32h-oak-acoustic-240cm-1-pack-4pcs",
         label:
-          "Wall Panel 32H - Oak - Premium Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Oak - Premium Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32HOak-Copy.png",
         href: "/panels/acoustic-panels/wall-panel-32h-oak-acoustic-240cm-1-pack-4pcs",
@@ -3623,7 +3625,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-32k-shadow-oak-acoustic-240cm-1-pack-4pcs",
         label:
-          "Wall Panel 32K - Shadow Oak - Premium Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Shadow Oak - Premium Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32KShadowOak-Copy.png",
         href: "/panels/acoustic-panels/wall-panel-32k-shadow-oak-acoustic-240cm-1-pack-4pcs",
@@ -3631,7 +3633,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-32r-concrete-acoustic-240cm-1-pack-4pcs",
         label:
-          "Wall Panel 32R - Concrete - Premium Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Concrete - Premium Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32RConcrete-Copy.png",
         href: "/panels/acoustic-panels/wall-panel-32r-concrete-acoustic-240cm-1-pack-4pcs",
@@ -3639,63 +3641,63 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-32w-light-oak-acoustic-240cm-1-pack-4pcs",
         label:
-          "Wall Panel 32W - Light Oak - Premium Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Light Oak - Premium Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32WLightOak-Copy.png",
         href: "/panels/acoustic-panels/wall-panel-32w-light-oak-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-36f-grey-oak-acoustic-240cm-1-pack-4pcs",
-        label: "Wall Panel 36F - Grey Oak - Acoustic - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Grey Oak - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/36FGreyOak.png",
         href: "/panels/acoustic-panels/wall-panel-36f-grey-oak-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-36h-oak-02-acoustic-240cm-1-pack-4pcs",
-        label: "Wall Panel 36H - Oak 02 - Acoustic - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Oak 02 - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/36HOak02.png",
         href: "/panels/acoustic-panels/wall-panel-36h-oak-02-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-36wt-walnut-acoustic-240cm-1-pack-4pcs",
-        label: "Wall Panel 36WT - Walnut - Acoustic - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Walnut - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/36WTWalnut.png",
         href: "/panels/acoustic-panels/wall-panel-36wt-walnut-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-37f-grey-oak-acoustic-240cm-1-pack-4pcs",
-        label: "Wall Panel 37F - Grey Oak - Acoustic - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Grey Oak - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/37FGreyOak.png",
         href: "/panels/acoustic-panels/wall-panel-37f-grey-oak-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-37h-oak-02-acoustic-240cm-1-pack-4pcs",
-        label: "Wall Panel 37H - Oak 02 - Acoustic - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Oak 02 - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/37HOak02.png",
         href: "/panels/acoustic-panels/wall-panel-37h-oak-02-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-37wt-walnut-acoustic-240cm-1-pack-4pcs",
-        label: "Wall Panel 37WT - Walnut - Acoustic - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Walnut - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/37WTWalnut.png",
         href: "/panels/acoustic-panels/wall-panel-37wt-walnut-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-41f-grey-oak-acoustic-240cm-1-pack-4pcs",
-        label: "Wall Panel 41F - Grey Oak - Acoustic - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Grey Oak - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/41FGreyOak.png",
         href: "/panels/acoustic-panels/wall-panel-41f-grey-oak-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-41h-oak-acoustic-240cm-1-pack-4pcs",
-        label: "Wall Panel 41H - Oak - Acoustic - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Oak - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/41HOak.png",
         href: "/panels/acoustic-panels/wall-panel-41h-oak-acoustic-240cm-1-pack-4pcs",
@@ -3703,28 +3705,28 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-41k-shadow-oak-acoustic-240cm-1-pack-4pcs",
         label:
-          "Wall Panel 41K - Shadow Oak - Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Shadow Oak - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/41KShadowOak.png",
         href: "/panels/acoustic-panels/wall-panel-41k-shadow-oak-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-41wt-walnut-acoustic-240cm-1-pack-4pcs",
-        label: "Wall Panel 41WT - Walnut - Acoustic - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Walnut - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/41WTWalnut.png",
         href: "/panels/acoustic-panels/wall-panel-41wt-walnut-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-42f-grey-oak-acoustic-240cm-1-pack-4pcs",
-        label: "Wall Panel 42F - Grey Oak - Acoustic - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Grey Oak - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/42FGreyOak.png",
         href: "/panels/acoustic-panels/wall-panel-42f-grey-oak-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-42h-oak-acoustic-240cm-1-pack-4pcs",
-        label: "Wall Panel 42H - Oak - Acoustic - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Oak - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/42HOak.png",
         href: "/panels/acoustic-panels/wall-panel-42h-oak-acoustic-240cm-1-pack-4pcs",
@@ -3732,14 +3734,14 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-42k-shadow-oak-acoustic-240cm-1-pack-4pcs",
         label:
-          "Wall Panel 42K - Shadow Oak - Acoustic - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Shadow Oak - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/42KShadowOak.png",
         href: "/panels/acoustic-panels/wall-panel-42k-shadow-oak-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-42wt-walnut-acoustic-240cm-1-pack-4pcs",
-        label: "Wall Panel 42WT - Walnut - Acoustic - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Walnut - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/42WTWalnut.png",
         href: "/panels/acoustic-panels/wall-panel-42wt-walnut-acoustic-240cm-1-pack-4pcs",
@@ -3747,7 +3749,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-trim-a-a-oak-wp-01-02-03-04-06-08-240cm-1-pack-10pcs",
         label:
-          "Wall Panel PVC Trim Acoustic - A Oak - WP 01/02/03/04/08 - 240cm - (1 pack / 10pcs)",
+          "Wall Panel PVC Trim Acoustic - A Oak - WP 01/02/03/04/08 - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/TrimAA.jpg",
         href: "/panels/acoustic-panels/wall-panel-trim-a-a-oak-wp-01-02-03-04-06-08-240cm-1-pack-10pcs",
@@ -3811,7 +3813,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-011a-m-white-wall-board-1-pack2pcs",
         label:
-          "Wall Panel 011A - White Marble - Wall Board - 240cm - (1 pack / 2pcs)",
+          "Wall Panel - White Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/04WP011A4.png",
         href: "/panels/aqua-panels/wall-panel-011a-m-white-wall-board-1-pack2pcs",
@@ -3819,7 +3821,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-011a-m-black-wall-board-1-pack2pcs",
         label:
-          "Wall Panel 011B - Grey Marble - Wall Board - 240cm - (1 pack / 2pcs)",
+          "Wall Panel - Grey Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP011B.jpg",
         href: "/panels/aqua-panels/wall-panel-011a-m-black-wall-board-1-pack2pcs",
@@ -3827,7 +3829,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-011c-m-g-black-wall-board-1-pack2pcs",
         label:
-          "Wall Panel 011C - Gold and Black Marble - Wall Board - 240cm - (1 pack / 2pcs)",
+          "Wall Panel - Gold and Black Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP011C7.jpg",
         href: "/panels/aqua-panels/wall-panel-011c-m-g-black-wall-board-1-pack2pcs",
@@ -3835,35 +3837,35 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-011d-m-g-white-wall-board-1-pack2pcs",
         label:
-          "Wall Panel 011D - Gold and White Marble - Wall Board - 240cm - (1 pack / 2pcs)",
+          "Wall Panel - Gold and White Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP011D_17854d36-3a9a-4806-9ff5-d0af7a016919.jpg",
         href: "/panels/aqua-panels/wall-panel-011d-m-g-white-wall-board-1-pack2pcs",
       },
       {
         id: "pack-05a-oak-wall-covering",
-        label: "Wall Panel 05A - Oak - PVC - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Oak - PVC - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05A_acaa6c33-09ea-48c4-b8a5-c56a71f5eaac.png",
         href: "/panels/aqua-panels/pack-05a-oak-wall-covering",
       },
       {
         id: "pack-05b-oak-wall-covering",
-        label: "Wall Panel 05B - Dark Oak - PVC - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Dark Oak - PVC - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05B_f69faa9a-9640-43b2-a2aa-5e4ae96cde8f.png",
         href: "/panels/aqua-panels/pack-05b-oak-wall-covering",
       },
       {
         id: "pack-05c-grey",
-        label: "Wall Panel 05C - Grey - PVC - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Grey - PVC - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05CGrey-Copy.png",
         href: "/panels/aqua-panels/pack-05c-grey",
       },
       {
         id: "pack-05d-grey",
-        label: "Wall Panel 05D - Dark grey - PVC - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Dark grey - PVC - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05D_10a2c6ab-47b0-4abc-ac1a-9bd8da82a1cc.png",
         href: "/panels/aqua-panels/pack-05d-grey",
@@ -3871,7 +3873,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-covering-white",
         label:
-          "Wall Panel 07A - White Marble - Wall Board - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - White Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07A_26a63a0f-cc30-4432-95fb-9f61a9c9d0f5.png",
         href: "/panels/aqua-panels/wall-covering-white",
@@ -3879,7 +3881,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-covering-grey",
         label:
-          "Wall Panel 07B - Grey Marble - Wall Board - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Grey Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07B_8c313175-2a4b-45da-9ab7-c6ebfd72aa81.png",
         href: "/panels/aqua-panels/wall-covering-grey",
@@ -3887,7 +3889,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wp-07c",
         label:
-          "Wall Panel 07C - Gold and Black Marble - Wall Board - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Gold and Black Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07C_c14142e2-5a0d-4981-b755-5cdbb2bd917a.png",
         href: "/panels/aqua-panels/wp-07c",
@@ -3895,7 +3897,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "pack-07d-white-wall-board",
         label:
-          "Wall Panel 07D - Gold and White Marble - Wall Board - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Gold and White Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07D_d28c6748-f9d5-466f-8742-6de25414f027.png",
         href: "/panels/aqua-panels/pack-07d-white-wall-board",
@@ -3903,7 +3905,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "pack-o7e-m-mix-grey-wall-board",
         label:
-          "Wall Panel 07E - Mix Grey Marble - Wall Board - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Mix Grey Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07E_6a95cb40-f60d-4d9d-97b1-426ab082782c.png",
         href: "/panels/aqua-panels/pack-o7e-m-mix-grey-wall-board",
@@ -3911,21 +3913,21 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "pack-o7f-m-g-grey-wall-board",
         label:
-          "Wall Panel 07F - Gold and Grey Marble - Wall Board - 240cm - (1 pack / 4pcs)",
+          "Wall Panel - Gold and Grey Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07F_fab74acc-59dd-4ef6-a9ed-071fca3bf96d.png",
         href: "/panels/aqua-panels/pack-o7f-m-g-grey-wall-board",
       },
       {
         id: "wall-panel-07m-cream-wall-board-240cm-1-pack-4pcs",
-        label: "Wall Panel 07M - Cream - Wall Board - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Cream - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb11_2026_02_40_46PM.png",
         href: "/panels/aqua-panels/wall-panel-07m-cream-wall-board-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-07w-walnut-wall-board-1-pack4pcs",
-        label: "Wall Panel 07W - Walnut - Wall Board - 240cm - (1 pack / 4pcs)",
+        label: "Wall Panel - Walnut - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07W_a03e87bb-3f15-44c0-b106-ba83d8349488.png",
         href: "/panels/aqua-panels/wall-panel-07w-walnut-wall-board-1-pack4pcs",
@@ -4107,7 +4109,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
     items: [
       {
         id: "wall-panel-81a-trim-oak-240cm-1-pack-10pcs",
-        label: "Wall Panel 81 Trim - 240cm - (1 pack / 10pcs)",
+        label: "Wall Panel Trim - 240cm",
         image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/81A.png",
         href: "/panels/trims/wall-panel-81a-trim-oak-240cm-1-pack-10pcs",
       },
@@ -4117,7 +4119,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
     key: "panels/wall-panel-21-series",
     categorySlug: "panels",
     slug: "wall-panel-21-series",
-    title: "Wall Panel 21 Series",
+    title: "Wall Panel Series",
     description:
       "Explore the Wall Panel 21 Series range from Haris Building Solutions. Quality wall panelling selected for performance, style and lasting value.",
     image:
@@ -4126,14 +4128,14 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
     items: [
       {
         id: "wall-panel-21a-oak-seamless-240cm-1-pack-8pcs",
-        label: "Wall Panel 21A - Oak - Seamless - 240cm - (1 pack / 8pcs)",
+        label: "Wall Panel - Oak - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/21AOak1-Copy.jpg",
         href: "/panels/wall-panel-21-series/wall-panel-21a-oak-seamless-240cm-1-pack-8pcs",
       },
       {
         id: "wall-panel-21b-grey-seamless-240cm-1-pack-8pcs",
-        label: "Wall Panel 21B - Grey - Seamless - 240cm - (1 pack / 8pcs)",
+        label: "Wall Panel - Grey - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/21BGrey4-Copy.jpg",
         href: "/panels/wall-panel-21-series/wall-panel-21b-grey-seamless-240cm-1-pack-8pcs",
@@ -4141,28 +4143,28 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-21c-white-oak-seamless-240cm-1-pack-8pcs",
         label:
-          "Wall Panel 21C - White Oak - Seamless - 240cm - (1 pack / 8pcs)",
+          "Wall Panel - White Oak - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/21CWhiteOak2-Copy.jpg",
         href: "/panels/wall-panel-21-series/wall-panel-21c-white-oak-seamless-240cm-1-pack-8pcs",
       },
       {
         id: "wall-panel-21d-dark-oak-seamless-240cm-1-pack-8pcs",
-        label: "Wall Panel 21D - Dark Oak - Seamless - 240cm - (1 pack / 8pcs)",
+        label: "Wall Panel - Dark Oak - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/21DDarkOak1-Copy.jpg",
         href: "/panels/wall-panel-21-series/wall-panel-21d-dark-oak-seamless-240cm-1-pack-8pcs",
       },
       {
         id: "wall-panel-21e-black-seamless-240cm-1-pack-8pcs",
-        label: "Wall Panel 21E - Black - Seamless - 240cm - (1 pack / 8pcs)",
+        label: "Wall Panel - Black - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/21EBlack1-Copy.jpg",
         href: "/panels/wall-panel-21-series/wall-panel-21e-black-seamless-240cm-1-pack-8pcs",
       },
       {
         id: "wall-panel-21t-walnut-seamless-240cm-1-pack-8pcs",
-        label: "Wall Panel 21T - Walnut - Seamless - 240cm - (1 pack / 8pcs)",
+        label: "Wall Panel - Walnut - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/21TWalnut2-Copy.jpg",
         href: "/panels/wall-panel-21-series/wall-panel-21t-walnut-seamless-240cm-1-pack-8pcs",
@@ -4173,7 +4175,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
     key: "panels/wall-panel-61-series",
     categorySlug: "panels",
     slug: "wall-panel-61-series",
-    title: "Wall Panel 61 Series",
+    title: "Wall Panel Series",
     description:
       "Explore the Wall Panel 61 Series range from Haris Building Solutions. Quality wall panelling selected for performance, style and lasting value.",
     image:
@@ -4182,28 +4184,28 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
     items: [
       {
         id: "wall-panel-61a-oak-acoustic-240cm-1-pack-8pcs",
-        label: "Wall Panel 61A - Oak - PVC - 240cm - (1 pack / 8pcs)",
+        label: "Wall Panel - Oak - PVC - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_01_14_43PM.png",
         href: "/panels/wall-panel-61-series/wall-panel-61a-oak-acoustic-240cm-1-pack-8pcs",
       },
       {
         id: "wall-panel-61b-light-grey-pvc-240cm-1-pack-8pcs",
-        label: "Wall Panel 61B - Light Grey - PVC - 240cm - (1 pack / 8pcs)",
+        label: "Wall Panel - Light Grey - PVC - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_01_15_52PM.png",
         href: "/panels/wall-panel-61-series/wall-panel-61b-light-grey-pvc-240cm-1-pack-8pcs",
       },
       {
         id: "wall-panel-61d-dark-oak-pvc-240cm-1-pack-8pcs",
-        label: "Wall Panel 61D - Dark Oak - PVC - 240cm - (1 pack / 8pcs)",
+        label: "Wall Panel - Dark Oak - PVC - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_03_21_44PM.png",
         href: "/panels/wall-panel-61-series/wall-panel-61d-dark-oak-pvc-240cm-1-pack-8pcs",
       },
       {
         id: "wall-panel-61t-walnut-pvc-240cm-1-pack-8pcs",
-        label: "Wall Panel 61T - Walnut - PVC - 240cm - (1 pack / 8pcs)",
+        label: "Wall Panel - Walnut - PVC - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_03_20_34PM.png",
         href: "/panels/wall-panel-61-series/wall-panel-61t-walnut-pvc-240cm-1-pack-8pcs",
@@ -4224,35 +4226,35 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
     items: [
       {
         id: "wall-panel-62a-oak-pvc-240cm-1-pack-8pcs",
-        label: "Wall Panel 62A - Oak - PVC - 240cm - (1 pack / 8pcs)",
+        label: "Wall Panel - Oak - PVC - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_04_54_27PM_eadabc79-a0ad-4454-abb7-e95c16223d15.png",
         href: "/panels/wall-panel-62-series/wall-panel-62a-oak-pvc-240cm-1-pack-8pcs",
       },
       {
         id: "wall-panel-62b-light-grey-pvc-240cm-1-pack-8pcs",
-        label: "Wall Panel 62B - Light Grey - PVC - 240cm - (1 pack / 8pcs)",
+        label: "Wall Panel - Light Grey - PVC - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb3_2026_09_54_45AM.png",
         href: "/panels/wall-panel-62-series/wall-panel-62b-light-grey-pvc-240cm-1-pack-8pcs",
       },
       {
         id: "wall-panel-62c-dark-grey-pvc-240cm-1-pack-8pcs",
-        label: "Wall Panel 62C - Dark Grey - PVC - 240cm - (1 pack / 8pcs)",
+        label: "Wall Panel - Dark Grey - PVC - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_04_02_16PM.png",
         href: "/panels/wall-panel-62-series/wall-panel-62c-dark-grey-pvc-240cm-1-pack-8pcs",
       },
       {
         id: "wall-panel-62d-dark-oak-pvc-240cm-1-pack-8pcs",
-        label: "Wall Panel 62D - Dark Oak - PVC - 240cm - (1 pack / 8pcs)",
+        label: "Wall Panel - Dark Oak - PVC - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_04_09_04PM.png",
         href: "/panels/wall-panel-62-series/wall-panel-62d-dark-oak-pvc-240cm-1-pack-8pcs",
       },
       {
         id: "wall-panel-62t-walnut-pvc-240cm-1-pack-8pcs",
-        label: "Wall Panel 62T - Walnut - PVC - 240cm - (1 pack / 8pcs)",
+        label: "Wall Panel - Walnut - PVC - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb3_2026_09_45_07AM.png",
         href: "/panels/wall-panel-62-series/wall-panel-62t-walnut-pvc-240cm-1-pack-8pcs",
@@ -4272,35 +4274,35 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
     items: [
       {
         id: "wall-panel-63a-corner-strip-oak-pvc-240cm-1-pack-10pcs",
-        label: "Wall Panel 63 Corner Strip - PVC - 240cm - (1 pack / 10pcs)",
+        label: "Wall Panel Corner Strip - PVC - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/63ACorner.png",
         href: "/panels/wall-panel-63-series/wall-panel-63a-corner-strip-oak-pvc-240cm-1-pack-10pcs",
       },
       {
         id: "wall-panel-63a-trim-oak-pvc-240cm-1-pack-10pcs",
-        label: "Wall Panel 63 Trim - PVC - 240cm - (1 pack / 10pcs)",
+        label: "Wall Panel Trim - PVC - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/IMG-1161.png",
         href: "/panels/wall-panel-63-series/wall-panel-63a-trim-oak-pvc-240cm-1-pack-10pcs",
       },
       {
         id: "wall-panel-63a-oak-pvc-240cm-1-pack-8pcs",
-        label: "Wall Panel 63A - Oak - PVC - 240cm - (1 pack / 8pcs)",
+        label: "Wall Panel - Oak - PVC - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP63-A_2_bfe7526e-939d-4f3d-a015-68d218f0789b.jpg",
         href: "/panels/wall-panel-63-series/wall-panel-63a-oak-pvc-240cm-1-pack-8pcs",
       },
       {
         id: "wall-panel-63b-grey-pvc-240cm-1-pack-8pcs",
-        label: "Wall Panel 63B - Grey - PVC - 240cm - (1 pack / 8pcs)",
+        label: "Wall Panel - Grey - PVC - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP63-B_2.jpg",
         href: "/panels/wall-panel-63-series/wall-panel-63b-grey-pvc-240cm-1-pack-8pcs",
       },
       {
         id: "wall-panel-63t-walnut-pvc-240cm-1-pack-8pcs",
-        label: "Wall Panel 63T - Walnut - PVC - 240cm - (1 pack / 8pcs)",
+        label: "Wall Panel - Walnut - PVC - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP63-T_2_01b1972a-4dbd-4ae4-88b8-47c4823f46ca.jpg",
         href: "/panels/wall-panel-63-series/wall-panel-63t-walnut-pvc-240cm-1-pack-8pcs",
@@ -4320,28 +4322,28 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
     items: [
       {
         id: "wall-panel-64a-oak-pvc-240cm-1-pack-8pcs",
-        label: "Wall Panel 64A - Oak - PVC - 240cm - (1 pack / 8pcs)",
+        label: "Wall Panel - Oak - PVC - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/64AOak-Copy_1072efe6-c8e4-4001-b71e-86f5908472a1.jpg",
         href: "/panels/wall-panel-64-series/wall-panel-64a-oak-pvc-240cm-1-pack-8pcs",
       },
       {
         id: "wall-panel-64b-grey-pvc-240cm-1-pack-8pcs",
-        label: "Wall Panel 64B - Grey - PVC - 240cm - (1 pack / 8pcs)",
+        label: "Wall Panel - Grey - PVC - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/64BGrey-Copy.jpg",
         href: "/panels/wall-panel-64-series/wall-panel-64b-grey-pvc-240cm-1-pack-8pcs",
       },
       {
         id: "wall-panel-64d-dark-oak-pvc-240cm-1-pack-8pcs",
-        label: "Wall Panel 64D - Dark Oak - PVC - 240cm - (1 pack / 8pcs)",
+        label: "Wall Panel - Dark Oak - PVC - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/64DDarkOak-Copy.jpg",
         href: "/panels/wall-panel-64-series/wall-panel-64d-dark-oak-pvc-240cm-1-pack-8pcs",
       },
       {
         id: "wall-panel-64t-walnut-pvc-240cm-1-pack-8pcs",
-        label: "Wall Panel 64T - Walnut - Acoustic - 240cm - (1 pack / 8pcs)",
+        label: "Wall Panel - Walnut - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/64TWalnut-Copy.jpg",
         href: "/panels/wall-panel-64-series/wall-panel-64t-walnut-pvc-240cm-1-pack-8pcs",
@@ -4361,7 +4363,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
     items: [
       {
         id: "wall-panel-80a-oak-seamless-240cm-1-pack-12pcs",
-        label: "Wall Panel 80A - Oak - Seamless - 240cm - (1 pack / 12pcs)",
+        label: "Wall Panel - Oak - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/80AOak-Copy.jpg",
         href: "/panels/wall-panels/wall-panel-80a-oak-seamless-240cm-1-pack-12pcs",
@@ -4369,7 +4371,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-80b-grey-02-seamless-240cm-1-pack-12pcs",
         label:
-          "Wall Panel 80B - Light Grey  - Seamless - 240cm - (1 pack / 12pcs)",
+          "Wall Panel - Light Grey - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/80BLightGrey-Copy.jpg",
         href: "/panels/wall-panels/wall-panel-80b-grey-02-seamless-240cm-1-pack-12pcs",
@@ -4377,7 +4379,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-80d-black-seamless-240cm-1-pack-12pcs",
         label:
-          "Wall Panel 80C - Mid Grey - Seamless - 240cm - (1 pack / 12pcs)",
+          "Wall Panel - Mid Grey - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/80DMidGrey-Copy.jpg",
         href: "/panels/wall-panels/wall-panel-80d-black-seamless-240cm-1-pack-12pcs",
@@ -4385,21 +4387,21 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "wall-panel-80c-dark-brown-seamless-240cm-1-pack-12pcs",
         label:
-          "Wall Panel 80D - Dark Oak - Seamless - 240cm - (1 pack / 12pcs)",
+          "Wall Panel - Dark Oak - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/80CDarkOak-Copy.jpg",
         href: "/panels/wall-panels/wall-panel-80c-dark-brown-seamless-240cm-1-pack-12pcs",
       },
       {
         id: "pack-81a-oak",
-        label: "Wall Panel 81A - Oak - Seamless - 240cm - (1 pack / 16pcs)",
+        label: "Wall Panel - Oak - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SC-WP81_OAK.jpg",
         href: "/panels/wall-panels/pack-81a-oak",
       },
       {
         id: "pack-81b-dark-oak",
-        label: "Wall Panel 81B - Walnut - Seamless - 240cm - (1 pack / 16pcs)",
+        label: "Wall Panel - Walnut - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SC-WP81_DARK_OAK.jpg",
         href: "/panels/wall-panels/pack-81b-dark-oak",
@@ -4407,7 +4409,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "pack-81c-light-grey",
         label:
-          "Wall Panel 81C - Light Grey - Seamless - 240cm - (1 pack / 16pcs)",
+          "Wall Panel - Light Grey - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SC-WP81_LIGHT_GREY.jpg",
         href: "/panels/wall-panels/pack-81c-light-grey",
@@ -4415,42 +4417,42 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       {
         id: "pack-81d-dark-grey",
         label:
-          "Wall Panel 81D - Dark Grey - Seamless - 240cm - (1 pack / 16pcs)",
+          "Wall Panel - Dark Grey - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SC-WP81_DARK_GREY.jpg",
         href: "/panels/wall-panels/pack-81d-dark-grey",
       },
       {
         id: "pack-81e-black",
-        label: "Wall Panel 81E - Black - Seamless - 240cm - (1 pack / 16pcs)",
+        label: "Wall Panel - Black - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SC-WP81_BLACK.jpg",
         href: "/panels/wall-panels/pack-81e-black",
       },
       {
         id: "wall-panel-82a-oak-seamless-240cm-1-pack-12pcs",
-        label: "Wall Panel 82A - Oak - Seamless - 240cm - (1 pack / 12pcs)",
+        label: "Wall Panel - Oak - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/82AOak.jpg",
         href: "/panels/wall-panels/wall-panel-82a-oak-seamless-240cm-1-pack-12pcs",
       },
       {
         id: "wall-panel-82b-grey-seamless-240cm-1-pack-12pcs",
-        label: "Wall Panel 82B - Grey - Seamless - 240cm - (1 pack / 12pcs)",
+        label: "Wall Panel - Grey - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/82BGrey.jpg",
         href: "/panels/wall-panels/wall-panel-82b-grey-seamless-240cm-1-pack-12pcs",
       },
       {
         id: "wall-panel-82e-black-seamless-240cm-1-pack-12pcs",
-        label: "Wall Panel 82E - Black - Seamless - 240cm - (1 pack / 12pcs)",
+        label: "Wall Panel - Black - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/82EBlack.png",
         href: "/panels/wall-panels/wall-panel-82e-black-seamless-240cm-1-pack-12pcs",
       },
       {
         id: "wall-panel-82t-walnut-seamless-240cm-1-pack-12pcs",
-        label: "Wall Panel 82T - Walnut - Seamless - 240cm - (1 pack / 12pcs)",
+        label: "Wall Panel - Walnut - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/82TWalnut_087de175-5d63-41d9-81ed-fed36551f8bf.png",
         href: "/panels/wall-panels/wall-panel-82t-walnut-seamless-240cm-1-pack-12pcs",
@@ -16341,6 +16343,10 @@ Object.assign(COLLECTION_PAGES, VERANDA_COLLECTIONS);
 Object.assign(PRODUCT_PAGES, VERANDA_PRODUCTS);
 Object.assign(COLLECTION_PAGES, AWS_COLLECTIONS);
 Object.assign(PRODUCT_PAGES, AWS_PRODUCTS);
+Object.assign(COLLECTION_PAGES, SILICONE_COLLECTIONS);
+Object.assign(PRODUCT_PAGES, SILICONE_PRODUCTS);
+Object.assign(COLLECTION_PAGES, KITCHENS_COLLECTIONS);
+Object.assign(PRODUCT_PAGES, KITCHENS_PRODUCTS);
 
 export function getProductPage(
   categorySlug: string,

@@ -15,6 +15,8 @@ type CollectionRouteProps = {
   params: Promise<{ slug: string; collection: string }>;
 };
 
+export const dynamicParams = true;
+
 export function generateStaticParams() {
   return getAllCollectionParams();
 }

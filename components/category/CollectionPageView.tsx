@@ -58,14 +58,12 @@ export default function CollectionPageView({
 
       {collection.heroImage ? (
         <div className="relative w-full overflow-hidden bg-[#f0f0f0]">
-          <div className="relative aspect-[4/3] w-full sm:aspect-[16/10] lg:aspect-[1536/931]">
-            <CategoryImage
-              src={collection.heroImage}
-              alt={collection.title}
-              variant="hero"
-              priority
-            />
-          </div>
+          <CategoryImage
+            src={collection.heroImage}
+            alt={collection.title}
+            variant="hero"
+            priority
+          />
         </div>
       ) : null}
 

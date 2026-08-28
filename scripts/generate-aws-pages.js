@@ -51,6 +51,21 @@ function brandify(text) {
     .trim();
 }
 
+function cleanWallPanelTitle(title) {
+  const value = String(title || "");
+  if (!/^Wall Panel\b/i.test(value)) return value;
+  return value
+    .replace(
+      /\s*[-–]?\s*\(\s*\d+\s*pack\s*\/\s*\d+\s*(?:pcs|pieces|sets)\s*\)\s*$/i,
+      "",
+    )
+    .replace(/^(Wall Panel)\s+\d+(?:\/\d+)?[A-Z]{0,3}\b\s*/i, "$1 ")
+    .replace(/\s*-\s*-\s*/g, " - ")
+    .replace(/\s{2,}/g, " ")
+    .replace(/\s+-\s*$/g, "")
+    .trim();
+}
+
 function slugify(text) {
   return String(text || "")
     .toLowerCase()
@@ -143,7 +158,7 @@ for (const top of data.categories) {
 
     const items = products.map((product) => ({
       id: product.pageSlug,
-      label: product.title,
+      label: cleanWallPanelTitle(product.title),
       image: product.image || product.images?.[0]?.src || collectionImage,
       href: `/${categorySlug}/${collectionSlug}/${product.pageSlug}`,
     }));
@@ -173,7 +188,7 @@ for (const top of data.categories) {
     categorySlug: ${js(categorySlug)},
     collectionSlug: ${js(collectionSlug)},
     slug: ${js(product.pageSlug)},
-    title: ${js(product.title)},
+    title: ${js(cleanWallPanelTitle(product.title))},
     description: ${js(productDescription(product, collectionTitle, CATEGORY_TITLES[categorySlug]))},
     image: ${js(image)},
     images: ${js(gallery)},
