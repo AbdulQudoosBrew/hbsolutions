@@ -2,6 +2,16 @@ import { VERANDA_COLLECTIONS, VERANDA_PRODUCTS } from "./verandaPages";
 import { AWS_COLLECTIONS, AWS_PRODUCTS } from "./awsPages";
 import { SILICONE_COLLECTIONS, SILICONE_PRODUCTS } from "./siliconePages";
 import { KITCHENS_COLLECTIONS, KITCHENS_PRODUCTS } from "./kitchenPages";
+import {
+  STRING_CLADDING_ITEMS,
+  STRING_CLADDING_PRODUCTS,
+  STRING_SHOWER_ITEMS,
+  STRING_SHOWER_PRODUCTS,
+} from "./stringPanelPages";
+import {
+  STRING_SPC_COLLECTIONS,
+  STRING_SPC_PRODUCTS,
+} from "./stringSpcFlooringPages";
 
 export type CollectionItem = {
   id: string;
@@ -4658,9 +4668,9 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
     description:
       "Explore the PVC Wall Panels 1000mm * 2400mm * 10mm range from Haris Building Solutions.",
     heroImage:
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/THUMBNAIL-52.jpg",
+      "https://cdn.shopify.com/s/files/1/0797/2519/9645/files/02_Z247.jpg?v=1770370608",
     image:
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/THUMBNAIL-52.jpg",
+      "https://cdn.shopify.com/s/files/1/0797/2519/9645/files/02_Z247.jpg?v=1770370608",
     itemsHeading: "View Our Range",
     items: [
       {
@@ -16347,6 +16357,26 @@ Object.assign(COLLECTION_PAGES, SILICONE_COLLECTIONS);
 Object.assign(PRODUCT_PAGES, SILICONE_PRODUCTS);
 Object.assign(COLLECTION_PAGES, KITCHENS_COLLECTIONS);
 Object.assign(PRODUCT_PAGES, KITCHENS_PRODUCTS);
+
+function mergeCollectionItems(
+  key: string,
+  extras: CollectionItem[],
+) {
+  const page = COLLECTION_PAGES[key];
+  if (!page) return;
+  const existing = new Set(page.items.map((item) => item.id));
+  page.items = [
+    ...page.items,
+    ...extras.filter((item) => !existing.has(item.id)),
+  ];
+}
+
+mergeCollectionItems("panels/classic-10mm", STRING_SHOWER_ITEMS);
+mergeCollectionItems("panels/classic-8mm", STRING_CLADDING_ITEMS);
+Object.assign(PRODUCT_PAGES, STRING_SHOWER_PRODUCTS);
+Object.assign(PRODUCT_PAGES, STRING_CLADDING_PRODUCTS);
+Object.assign(COLLECTION_PAGES, STRING_SPC_COLLECTIONS);
+Object.assign(PRODUCT_PAGES, STRING_SPC_PRODUCTS);
 
 export function getProductPage(
   categorySlug: string,

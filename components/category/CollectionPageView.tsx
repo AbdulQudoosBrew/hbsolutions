@@ -91,21 +91,22 @@ export default function CollectionPageView({
               href={item.href}
               className="group flex flex-col items-center text-center"
             >
-              <div className="relative aspect-square w-full overflow-hidden bg-[#f5f5f5]">
+              <div className="relative aspect-square w-full overflow-hidden bg-[#000000]/50">
                 <CategoryImage
                   src={item.image}
                   alt={item.label}
                   variant="card"
-                  className="transition-transform duration-500 group-hover:scale-[1.03]"
+                  className="object-contain transition-transform duration-500 group-hover:scale-[1.03]"
                 />
-                <div className="absolute inset-0 bg-black/0 transition-colors duration-300 group-hover:bg-black/5" />
               </div>
-              <span className="mt-3 inline-flex min-h-9 items-center justify-center px-1 text-[11px] font-medium uppercase leading-snug tracking-[0.14em] text-[#333333] transition-colors duration-300 group-hover:text-[#000000] sm:mt-4 sm:min-h-10 sm:px-2 sm:text-xs sm:tracking-[0.2em] md:text-[13px]">
-                {item.label}
-              </span>
-              <span className="mt-1.5 text-[9px] uppercase tracking-[0.16em] text-[#888888] transition-colors group-hover:text-[#000000] sm:mt-2 sm:text-[10px] sm:tracking-[0.2em]">
-                View & Enquire
-              </span>
+              <div className="mt-3 w-full sm:mt-4">
+                <span className="inline-flex min-h-9 w-full items-center justify-center px-1 text-[11px] font-medium uppercase leading-snug tracking-[0.14em] text-[#333333] transition-transform duration-300 group-hover:scale-110 sm:min-h-10 sm:px-2 sm:text-xs sm:tracking-[0.2em] md:text-[13px]">
+                  {item.label}
+                </span>
+                <span className="block pb-1.5 text-[9px] uppercase tracking-[0.16em] text-[#888888] sm:pb-2 sm:text-[10px] sm:tracking-[0.2em]">
+                  View & Enquire
+                </span>
+              </div>
             </Link>
           ))}
         </div>

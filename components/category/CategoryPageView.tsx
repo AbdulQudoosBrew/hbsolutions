@@ -90,7 +90,7 @@ export default function CategoryPageView({ category }: CategoryPageViewProps) {
               className="group flex flex-col items-center text-center"
             >
               <div
-                className={`relative w-full overflow-hidden bg-[#f5f5f5] ${
+                className={`relative w-full overflow-hidden bg-[#000000]/50 ${
                   isPortrait ? "aspect-[3/4]" : "aspect-square"
                 }`}
               >
@@ -98,11 +98,10 @@ export default function CategoryPageView({ category }: CategoryPageViewProps) {
                   src={collection.image}
                   alt={collection.label}
                   variant="card"
-                  className="transition-transform duration-500 group-hover:scale-[1.03]"
+                  className="object-contain transition-transform duration-500 group-hover:scale-[1.03]"
                 />
-                <div className="absolute inset-0 bg-black/0 transition-colors duration-300 group-hover:bg-black/5" />
               </div>
-              <span className="mt-3 inline-flex min-h-9 items-center justify-center px-1 text-[11px] font-medium uppercase leading-snug tracking-[0.14em] text-[#333333] transition-colors duration-300 group-hover:text-[#000000] sm:mt-4 sm:min-h-10 sm:px-2 sm:text-xs sm:tracking-[0.2em] md:text-[13px]">
+              <span className="mt-3 inline-flex min-h-9 items-center justify-center px-1 text-[11px] font-medium uppercase leading-snug tracking-[0.14em] text-[#333333] transition-transform duration-300 group-hover:scale-110 sm:mt-4 sm:min-h-10 sm:px-2 sm:text-xs sm:tracking-[0.2em] md:text-[13px]">
                 {collection.label}
               </span>
             </Link>

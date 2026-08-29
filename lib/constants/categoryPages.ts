@@ -1,6 +1,7 @@
 import { AWS_CATEGORY_PAGES } from "./awsPages";
 import { SILICONE_CATEGORY } from "./siliconePages";
 import { KITCHENS_CATEGORY } from "./kitchenPages";
+import { STRING_SPC_CATEGORY_CARD } from "./stringSpcFlooringPages";
 
 export type CategoryCollection = {
   id: string;
@@ -230,6 +231,7 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/flooring-1.jpg",
     collectionHeading: "View Our Collection",
     collections: [
+      STRING_SPC_CATEGORY_CARD,
       {
         id: "product/7524",
         label: "Cairo SPC Flooring",
@@ -581,20 +583,12 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
     collectionHeading: "View Our Collection",
     collections: [
       {
-        id: "bosco-panels",
-        label: "BOSCO",
+        id: "classic-10mm",
+        label: "PVC Wall Panels 1000mm * 2400mm * 10mm",
         image:
-          "https://giavanibathrooms.com/wp-content/uploads/2023/12/main1.jpg",
-        href: "/panels/bosco-panels",
+          "https://cdn.shopify.com/s/files/1/0797/2519/9645/files/02_Z247.jpg?v=1770370608",
+        href: "/panels/classic-10mm",
       },
-      {
-        id: "acoustic-panels",
-        label: "ACOUSTIC PANELS",
-        image:
-          "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP010G-GREY_03fd921c-186b-41f7-835a-401aabc29ae0.png",
-        href: "/panels/acoustic-panels",
-      },
-
       {
         id: "panels/aqua-panels",
         label: "60 cm PVC Panels",
@@ -602,53 +596,6 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/AlumCornerStripBlack_c0a2ae50-aa1e-4d75-8e31-99f03b319f59.jpg",
         href: "/panels/aqua-panels",
       },
-
-      {
-        id: "panels/cover-slips",
-        label: "COVER SLIPS",
-        image:
-          "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/9CC7C152-F46F-4339-AB3F-9F1C8F3AC000.jpg",
-        href: "/panels/cover-slips",
-      },
-
-      {
-        id: "panels/panel-lighting",
-        label: "PANEL LIGHTING",
-        image:
-          "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/LED01.png",
-        href: "/panels/panel-lighting",
-      },
-
-      {
-        id: "panels/trims",
-        label: "TRIMS",
-        image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/81A.png",
-        href: "/panels/trims",
-      },
-      {
-        id: "panels/wall-panel-62-series",
-        label: "PVC 30cm * 240cm ",
-        image:
-          "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_04_54_27PM_eadabc79-a0ad-4454-abb7-e95c16223d15.png",
-        href: "/panels/wall-panel-62-series",
-      },
-
-      {
-        id: "panels/wall-panel-63-series",
-        label: "PVC 30cm * 240cm cladding",
-        image:
-          "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/63ACorner.png",
-        href: "/panels/wall-panel-63-series",
-      },
-
-      {
-        id: "panels/wall-panel-64-series",
-        label: "PVC 30cm * 240cm with black line",
-        image:
-          "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/64AOak-Copy_1072efe6-c8e4-4001-b71e-86f5908472a1.jpg",
-        href: "/panels/wall-panel-64-series",
-      },
-
       {
         id: "classic-8mm",
         label: "Ceiling panels 250mm * 2700mm * 8mm",
@@ -664,13 +611,60 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
         href: "/panels/classic-9mm",
       },
       {
-        id: "classic-10mm",
-        label: "PVC Wall Panels 1000mm * 2400mm * 10mm",
+        id: "acoustic-panels",
+        label: "ACOUSTIC PANELS",
         image:
-          "https://giavanibathrooms.com/wp-content/uploads/2026/02/THUMBNAIL-52.jpg",
-        href: "/panels/classic-10mm",
+          "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP010G-GREY_03fd921c-186b-41f7-835a-401aabc29ae0.png",
+        href: "/panels/acoustic-panels",
       },
-
+      {
+        id: "bosco-panels",
+        label: "BOSCO",
+        image:
+          "https://giavanibathrooms.com/wp-content/uploads/2023/12/main1.jpg",
+        href: "/panels/bosco-panels",
+      },
+      {
+        id: "panels/cover-slips",
+        label: "COVER SLIPS",
+        image:
+          "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/9CC7C152-F46F-4339-AB3F-9F1C8F3AC000.jpg",
+        href: "/panels/cover-slips",
+      },
+      {
+        id: "panels/panel-lighting",
+        label: "PANEL LIGHTING",
+        image:
+          "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/LED01.png",
+        href: "/panels/panel-lighting",
+      },
+      {
+        id: "panels/trims",
+        label: "TRIMS",
+        image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/81A.png",
+        href: "/panels/trims",
+      },
+      {
+        id: "panels/wall-panel-62-series",
+        label: "PVC 30cm * 240cm ",
+        image:
+          "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_04_54_27PM_eadabc79-a0ad-4454-abb7-e95c16223d15.png",
+        href: "/panels/wall-panel-62-series",
+      },
+      {
+        id: "panels/wall-panel-63-series",
+        label: "PVC 30cm * 240cm cladding",
+        image:
+          "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/63ACorner.png",
+        href: "/panels/wall-panel-63-series",
+      },
+      {
+        id: "panels/wall-panel-64-series",
+        label: "PVC 30cm * 240cm with black line",
+        image:
+          "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/64AOak-Copy_1072efe6-c8e4-4001-b71e-86f5908472a1.jpg",
+        href: "/panels/wall-panel-64-series",
+      },
       {
         id: "decorative-panel",
         label: "PVC wall panels 1000 mm * 2400 mm * 8mm",

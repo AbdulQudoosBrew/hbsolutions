@@ -22,7 +22,7 @@ const VARIANT_SIZES: Record<ImageVariant, string> = {
 };
 
 const VARIANT_FIT: Record<ImageVariant, string> = {
-  card: "object-cover object-center",
+  card: "object-contain object-center",
   hero: "h-full w-full object-cover object-center",
   banner: "h-full w-full object-cover object-center",
   product: "object-contain object-center",
