@@ -2836,8 +2836,7 @@ export const AWS_COLLECTIONS: Record<string, CollectionPageData> = {
       },
       {
         id: "composite-panel-87-d-dark-brown-1-pack-6-pcs",
-        label:
-          "Wall Panel - Dark Brown - Outdoor - 290cm",
+        label: "Wall Panel - Dark Brown - Outdoor - 290cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/87DDarkBrown.png",
         href: "/outdoor/cladding/composite-panel-87-d-dark-brown-1-pack-6-pcs",
@@ -3160,8 +3159,7 @@ export const AWS_COLLECTIONS: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-panel-73d-dark-brown-outdoor-290cm-1-pack-6pcs",
-        label:
-          "Wall Panel - Dark Brown - Outdoor - 290cm",
+        label: "Wall Panel - Dark Brown - Outdoor - 290cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/73DDarkBrown.png",
         href: "/outdoor/outdoor-panels/wall-panel-73d-dark-brown-outdoor-290cm-1-pack-6pcs",
@@ -3182,48 +3180,42 @@ export const AWS_COLLECTIONS: Record<string, CollectionPageData> = {
       },
       {
         id: "sc-w-panel-83-a-oak-seamless-1-pack16pcs",
-        label:
-          "Wall Panel - Oak 02 - Outdoor - 180cm/290cm",
+        label: "Wall Panel - Oak 02 - Outdoor - 180cm/290cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/83AOak02.png",
         href: "/outdoor/outdoor-panels/sc-w-panel-83-a-oak-seamless-1-pack16pcs",
       },
       {
         id: "wall-panel-83a-oak-03-outdoor-180cm-290cm-1-pack-6pcs",
-        label:
-          "Wall Panel - Oak 03 - Outdoor - 180cm/290cm",
+        label: "Wall Panel - Oak 03 - Outdoor - 180cm/290cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/83AOak03.png",
         href: "/outdoor/outdoor-panels/wall-panel-83a-oak-03-outdoor-180cm-290cm-1-pack-6pcs",
       },
       {
         id: "sc-w-panel-83-b-grey-seamless-180cm-290cm-1-pack6pcs",
-        label:
-          "Wall Panel - Grey - Outdoor - 180cm/290cm",
+        label: "Wall Panel - Grey - Outdoor - 180cm/290cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/83BGrey.png",
         href: "/outdoor/outdoor-panels/sc-w-panel-83-b-grey-seamless-180cm-290cm-1-pack6pcs",
       },
       {
         id: "sc-w-panel-83-c-light-brown-seamless-180cm-290cm-1-pack6pcs",
-        label:
-          "Wall Panel - Light Brown - Outdoor - 180cm/290cm",
+        label: "Wall Panel - Light Brown - Outdoor - 180cm/290cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/83CLightBrown.png",
         href: "/outdoor/outdoor-panels/sc-w-panel-83-c-light-brown-seamless-180cm-290cm-1-pack6pcs",
       },
       {
         id: "sc-w-panel-83-d-dark-brown-seamless-180cm-290cm-1-pack6pcs",
-        label:
-          "Wall Panel - Dark Brown - Outdoor - 180cm/290cm",
+        label: "Wall Panel - Dark Brown - Outdoor - 180cm/290cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/83DDarkBrown.png",
         href: "/outdoor/outdoor-panels/sc-w-panel-83-d-dark-brown-seamless-180cm-290cm-1-pack6pcs",
       },
       {
         id: "sc-w-panel-83-e-black-seamless-180cm-290cm-1-pack6pcs",
-        label:
-          "Wall Panel - Black - Outdoor - 180cm/290cm",
+        label: "Wall Panel - Black - Outdoor - 180cm/290cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/83EBlack.png",
         href: "/outdoor/outdoor-panels/sc-w-panel-83-e-black-seamless-180cm-290cm-1-pack6pcs",
@@ -3251,16 +3243,14 @@ export const AWS_COLLECTIONS: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-panel-84c-light-brown-outdoor-240cm-1-pack-12pcs",
-        label:
-          "Wall Panel - Light Brown - Outdoor - 240cm",
+        label: "Wall Panel - Light Brown - Outdoor - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/84CLightBrown.png",
         href: "/outdoor/outdoor-panels/wall-panel-84c-light-brown-outdoor-240cm-1-pack-12pcs",
       },
       {
         id: "wall-panel-84d-dark-brown-outdoor-240cm-1-pack-12pcs",
-        label:
-          "Wall Panel - Dark Brown - Outdoor - 240cm",
+        label: "Wall Panel - Dark Brown - Outdoor - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/84DDarkBrown.png",
         href: "/outdoor/outdoor-panels/wall-panel-84d-dark-brown-outdoor-240cm-1-pack-12pcs",
@@ -3385,63 +3375,55 @@ export const AWS_COLLECTIONS: Record<string, CollectionPageData> = {
     items: [
       {
         id: "wall-panel-010-a-antique-m-grey-1-pack4pcs",
-        label:
-          "Wall Panel - Antique Metallic Grey - Acoustic - 240cm",
+        label: "Wall Panel - Antique Metallic Grey - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP010G-GREY_03fd921c-186b-41f7-835a-401aabc29ae0.png",
         href: "/panels/acoustic-panels/wall-panel-010-a-antique-m-grey-1-pack4pcs",
       },
       {
         id: "wall-panel-010-c-antique-m-brown-1-pack4pcs",
-        label:
-          "Wall Panel - Antique Metallic Gold - Acoustic - 240cm",
+        label: "Wall Panel - Antique Metallic Gold - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP010G-BROWN_5cd83073-9c51-4cca-ade2-d93e9a30f868.png",
         href: "/panels/acoustic-panels/wall-panel-010-c-antique-m-brown-1-pack4pcs",
       },
       {
         id: "wall-panel-010-b-antique-m-gold-1-pack4pcs",
-        label:
-          "Wall Panel - Antique Metallic Brown - Acoustic - 240cm",
+        label: "Wall Panel - Antique Metallic Brown - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP010G_af3a7615-93df-4d3d-9ba4-38c4bee5b8d4.png",
         href: "/panels/acoustic-panels/wall-panel-010-b-antique-m-gold-1-pack4pcs",
       },
       {
         id: "wall-panel-013a-ps-g-grey-acoustic-1-pack4pcs",
-        label:
-          "Wall Panel - PS Gold and Grey - Acoustic - 240cm",
+        label: "Wall Panel - PS Gold and Grey - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP013B.png",
         href: "/panels/acoustic-panels/wall-panel-013a-ps-g-grey-acoustic-1-pack4pcs",
       },
       {
         id: "wall-panel-013b-ps-g-brown-acoustic-1-pack4pcs",
-        label:
-          "Wall Panel - PS Gold and Brown - Acoustic - 240cm",
+        label: "Wall Panel - PS Gold and Brown - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP013A.png",
         href: "/panels/acoustic-panels/wall-panel-013b-ps-g-brown-acoustic-1-pack4pcs",
       },
       {
         id: "pack-a-natural-oak",
-        label:
-          "Wall Panel - Natural Oak - Acoustic - 240cm",
+        label: "Wall Panel - Natural Oak - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/03_64c706af-4068-4642-aaae-186bd6d5b828.jpg",
         href: "/panels/acoustic-panels/pack-a-natural-oak",
       },
       {
         id: "pack-b-light-grey",
-        label:
-          "Wall Panel - Light Grey - Acoustic - 240cm",
+        label: "Wall Panel - Light Grey - Acoustic - 240cm",
         image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01B.jpg",
         href: "/panels/acoustic-panels/pack-b-light-grey",
       },
       {
         id: "pack-c-dark-grey",
-        label:
-          "Wall Panel - Dark Grey - Acoustic - 240cm",
+        label: "Wall Panel - Dark Grey - Acoustic - 240cm",
         image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01C.jpg",
         href: "/panels/acoustic-panels/pack-c-dark-grey",
       },
@@ -3459,8 +3441,7 @@ export const AWS_COLLECTIONS: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-panel-01-g-gold-acoustic-1-pack4pcs",
-        label:
-          "Wall Panel - Shiny Gold - Acoustic - 240cm",
+        label: "Wall Panel - Shiny Gold - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Image_20250829105426_68_12.png",
         href: "/panels/acoustic-panels/wall-panel-01-g-gold-acoustic-1-pack4pcs",
@@ -3474,8 +3455,7 @@ export const AWS_COLLECTIONS: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-panel-01q-smoked-oak-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Smoked Oak - Acoustic - 240cm",
+        label: "Wall Panel - Smoked Oak - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01QSmokedOak.png",
         href: "/panels/acoustic-panels/wall-panel-01q-smoked-oak-acoustic-240cm-1-pack-4pcs",
@@ -3489,8 +3469,7 @@ export const AWS_COLLECTIONS: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-panel-01-s-silver-acoustic-1-pack4pcs-copy",
-        label:
-          "Wall Panel - Shiny Silver - Acoustic - 240cm",
+        label: "Wall Panel - Shiny Silver - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Image_20250829105426_67_12.png",
         href: "/panels/acoustic-panels/wall-panel-01-s-silver-acoustic-1-pack4pcs-copy",
@@ -3503,56 +3482,49 @@ export const AWS_COLLECTIONS: Record<string, CollectionPageData> = {
       },
       {
         id: "pack-01wp-metallic-brown-acoustic",
-        label:
-          "Wall Panel - Metallic Brown - Acoustic - 240cm",
+        label: "Wall Panel - Metallic Brown - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WF_1bb3cfe4-780d-4856-8200-53f855310152.png",
         href: "/panels/acoustic-panels/pack-01wp-metallic-brown-acoustic",
       },
       {
         id: "pack-01wg-metallic-gold-acoustic",
-        label:
-          "Wall Panel - Metallic Gold - Acoustic - 240cm",
+        label: "Wall Panel - Metallic Gold - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WG_b607843a-702e-4040-809a-d1446ff2ed04.png",
         href: "/panels/acoustic-panels/pack-01wg-metallic-gold-acoustic",
       },
       {
         id: "pack-01wh-metallic-light-grey-acoustic",
-        label:
-          "Wall Panel - Metallic Light Grey - Acoustic - 240cm",
+        label: "Wall Panel - Metallic Light Grey - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WH_4a863433-d052-48d2-85d0-33afdc9418ef.png",
         href: "/panels/acoustic-panels/pack-01wh-metallic-light-grey-acoustic",
       },
       {
         id: "pack-01wj-metallic-dark-grey-acoustic",
-        label:
-          "Wall Panel - Metallic Dark Grey - Acoustic - 240cm",
+        label: "Wall Panel - Metallic Dark Grey - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WJ_2ee952b4-4a0a-4272-ab56-1a0a322767eb.png",
         href: "/panels/acoustic-panels/pack-01wj-metallic-dark-grey-acoustic",
       },
       {
         id: "wall-panel-01-wk-mb-white-acoustic-1-pack4pcs",
-        label:
-          "Wall Panel - White Marble - Acoustic - 240cm",
+        label: "Wall Panel - White Marble - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WK_c873f015-3ac0-4a66-a3e2-224c22b00464.png",
         href: "/panels/acoustic-panels/wall-panel-01-wk-mb-white-acoustic-1-pack4pcs",
       },
       {
         id: "wall-panel-01-wn-marble-gold-black-acoustic-1-pack4pcs",
-        label:
-          "Wall Panel - Gold and Black Marble - Acoustic - 240cm",
+        label: "Wall Panel - Gold and Black Marble - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WN_dcb5e1ef-3ecb-47cd-a81c-c44d49e68d54.png",
         href: "/panels/acoustic-panels/wall-panel-01-wn-marble-gold-black-acoustic-1-pack4pcs",
       },
       {
         id: "wall-panel-01-wo-marble-grey-acoustic-1-pack4pcs",
-        label:
-          "Wall Panel - Grey Marble - Acoustic - 240cm",
+        label: "Wall Panel - Grey Marble - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WO2.jpg",
         href: "/panels/acoustic-panels/wall-panel-01-wo-marble-grey-acoustic-1-pack4pcs",
@@ -3566,8 +3538,7 @@ export const AWS_COLLECTIONS: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-panel-01wx-gold-and-white-marble-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Gold and White Marble - Acoustic - 240cm",
+        label: "Wall Panel - Gold and White Marble - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WXGoldandWhite-Copy.jpg",
         href: "/panels/acoustic-panels/wall-panel-01wx-gold-and-white-marble-acoustic-240cm-1-pack-4pcs",
@@ -3588,24 +3559,21 @@ export const AWS_COLLECTIONS: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-panel-02-wk-mb-white-280cm-acoustic-1-pack3pcs",
-        label:
-          "Wall Panel - White Marble - Acoustic - 280cm",
+        label: "Wall Panel - White Marble - Acoustic - 280cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/02WK2.jpg",
         href: "/panels/acoustic-panels/wall-panel-02-wk-mb-white-280cm-acoustic-1-pack3pcs",
       },
       {
         id: "wall-panel-02-wn-marble-gold-black-280cm-acoustic-1-pack3pcs",
-        label:
-          "Wall Panel - Gold and Black Marble - Acoustic - 280cm",
+        label: "Wall Panel - Gold and Black Marble - Acoustic - 280cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/02_WN_3_ec6c1bba-2fbf-439a-82a6-c41fe05a1c6d.jpg",
         href: "/panels/acoustic-panels/wall-panel-02-wn-marble-gold-black-280cm-acoustic-1-pack3pcs",
       },
       {
         id: "wall-panel-02wo-grey-marble-acoustic-1-pack-3pcs",
-        label:
-          "Wall Panel - Grey Marble - Acoustic - 280cm",
+        label: "Wall Panel - Grey Marble - Acoustic - 280cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WO2_70203fa3-f168-4c35-af4e-860da2c18842.jpg",
         href: "/panels/acoustic-panels/wall-panel-02wo-grey-marble-acoustic-1-pack-3pcs",
@@ -3626,8 +3594,7 @@ export const AWS_COLLECTIONS: Record<string, CollectionPageData> = {
       },
       {
         id: "pack-03c-dark-grey",
-        label:
-          "Wall Panel - Dark Grey - Acoustic - 240cm",
+        label: "Wall Panel - Dark Grey - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/03C_d15f0e89-e03e-4d69-87be-5a72d687b753.png",
         href: "/panels/acoustic-panels/pack-03c-dark-grey",
@@ -3655,8 +3622,7 @@ export const AWS_COLLECTIONS: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-panel-04b-light-grey-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Light Grey - Acoustic - 240cm",
+        label: "Wall Panel - Light Grey - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb12_2026_03_28_47PM.png",
         href: "/panels/acoustic-panels/wall-panel-04b-light-grey-acoustic-240cm-1-pack-4pcs",
@@ -3711,72 +3677,63 @@ export const AWS_COLLECTIONS: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-panel-31d-dark-oak-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Dark Oak - Premium Acoustic - 240cm",
+        label: "Wall Panel - Dark Oak - Premium Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/31DDarkOak1.png",
         href: "/panels/acoustic-panels/wall-panel-31d-dark-oak-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-31f-grey-oak-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Grey Oak - Premium Acoustic - 240cm",
+        label: "Wall Panel - Grey Oak - Premium Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/31FGreyOak1.png",
         href: "/panels/acoustic-panels/wall-panel-31f-grey-oak-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-31h-oak-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Oak - Premium Acoustic - 240cm",
+        label: "Wall Panel - Oak - Premium Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/31HOak021.png",
         href: "/panels/acoustic-panels/wall-panel-31h-oak-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-31t-walnut-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Walnut - Premium Acoustic - 240cm",
+        label: "Wall Panel - Walnut - Premium Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/31TWalnut1.png",
         href: "/panels/acoustic-panels/wall-panel-31t-walnut-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-32f-grey-oak-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Grey Oak - Premium Acoustic - 240cm",
+        label: "Wall Panel - Grey Oak - Premium Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32FGreyOak-Copy.png",
         href: "/panels/acoustic-panels/wall-panel-32f-grey-oak-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-32h-oak-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Oak - Premium Acoustic - 240cm",
+        label: "Wall Panel - Oak - Premium Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32HOak-Copy.png",
         href: "/panels/acoustic-panels/wall-panel-32h-oak-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-32k-shadow-oak-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Shadow Oak - Premium Acoustic - 240cm",
+        label: "Wall Panel - Shadow Oak - Premium Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32KShadowOak-Copy.png",
         href: "/panels/acoustic-panels/wall-panel-32k-shadow-oak-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-32r-concrete-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Concrete - Premium Acoustic - 240cm",
+        label: "Wall Panel - Concrete - Premium Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32RConcrete-Copy.png",
         href: "/panels/acoustic-panels/wall-panel-32r-concrete-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-32w-light-oak-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Light Oak - Premium Acoustic - 240cm",
+        label: "Wall Panel - Light Oak - Premium Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32WLightOak-Copy.png",
         href: "/panels/acoustic-panels/wall-panel-32w-light-oak-acoustic-240cm-1-pack-4pcs",
@@ -3839,8 +3796,7 @@ export const AWS_COLLECTIONS: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-panel-41k-shadow-oak-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Shadow Oak - Acoustic - 240cm",
+        label: "Wall Panel - Shadow Oak - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/41KShadowOak.png",
         href: "/panels/acoustic-panels/wall-panel-41k-shadow-oak-acoustic-240cm-1-pack-4pcs",
@@ -3868,8 +3824,7 @@ export const AWS_COLLECTIONS: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-panel-42k-shadow-oak-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Shadow Oak - Acoustic - 240cm",
+        label: "Wall Panel - Shadow Oak - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/42KShadowOak.png",
         href: "/panels/acoustic-panels/wall-panel-42k-shadow-oak-acoustic-240cm-1-pack-4pcs",
@@ -3899,7 +3854,7 @@ export const AWS_COLLECTIONS: Record<string, CollectionPageData> = {
     description:
       "Explore the 60 cm PVC Panels range from Haris Building Solutions. Quality wall panelling selected for performance, style and lasting value.",
     image:
-      "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/AlumCornerStripBlack_c0a2ae50-aa1e-4d75-8e31-99f03b319f59.jpg",
+      "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05A.png",
     itemsHeading: "View Our Range",
     items: [
       {
@@ -3947,32 +3902,28 @@ export const AWS_COLLECTIONS: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-panel-011a-m-white-wall-board-1-pack2pcs",
-        label:
-          "Wall Panel - White Marble - Wall Board - 240cm",
+        label: "Wall Panel - White Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/04WP011A4.png",
         href: "/panels/aqua-panels/wall-panel-011a-m-white-wall-board-1-pack2pcs",
       },
       {
         id: "wall-panel-011a-m-black-wall-board-1-pack2pcs",
-        label:
-          "Wall Panel - Grey Marble - Wall Board - 240cm",
+        label: "Wall Panel - Grey Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP011B.jpg",
         href: "/panels/aqua-panels/wall-panel-011a-m-black-wall-board-1-pack2pcs",
       },
       {
         id: "wall-panel-011c-m-g-black-wall-board-1-pack2pcs",
-        label:
-          "Wall Panel - Gold and Black Marble - Wall Board - 240cm",
+        label: "Wall Panel - Gold and Black Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP011C7.jpg",
         href: "/panels/aqua-panels/wall-panel-011c-m-g-black-wall-board-1-pack2pcs",
       },
       {
         id: "wall-panel-011d-m-g-white-wall-board-1-pack2pcs",
-        label:
-          "Wall Panel - Gold and White Marble - Wall Board - 240cm",
+        label: "Wall Panel - Gold and White Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP011D_17854d36-3a9a-4806-9ff5-d0af7a016919.jpg",
         href: "/panels/aqua-panels/wall-panel-011d-m-g-white-wall-board-1-pack2pcs",
@@ -4007,48 +3958,42 @@ export const AWS_COLLECTIONS: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-covering-white",
-        label:
-          "Wall Panel - White Marble - Wall Board - 240cm",
+        label: "Wall Panel - White Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07A_26a63a0f-cc30-4432-95fb-9f61a9c9d0f5.png",
         href: "/panels/aqua-panels/wall-covering-white",
       },
       {
         id: "wall-covering-grey",
-        label:
-          "Wall Panel - Grey Marble - Wall Board - 240cm",
+        label: "Wall Panel - Grey Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07B_8c313175-2a4b-45da-9ab7-c6ebfd72aa81.png",
         href: "/panels/aqua-panels/wall-covering-grey",
       },
       {
         id: "wp-07c",
-        label:
-          "Wall Panel - Gold and Black Marble - Wall Board - 240cm",
+        label: "Wall Panel - Gold and Black Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07C_c14142e2-5a0d-4981-b755-5cdbb2bd917a.png",
         href: "/panels/aqua-panels/wp-07c",
       },
       {
         id: "pack-07d-white-wall-board",
-        label:
-          "Wall Panel - Gold and White Marble - Wall Board - 240cm",
+        label: "Wall Panel - Gold and White Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07D_d28c6748-f9d5-466f-8742-6de25414f027.png",
         href: "/panels/aqua-panels/pack-07d-white-wall-board",
       },
       {
         id: "pack-o7e-m-mix-grey-wall-board",
-        label:
-          "Wall Panel - Mix Grey Marble - Wall Board - 240cm",
+        label: "Wall Panel - Mix Grey Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07E_6a95cb40-f60d-4d9d-97b1-426ab082782c.png",
         href: "/panels/aqua-panels/pack-o7e-m-mix-grey-wall-board",
       },
       {
         id: "pack-o7f-m-g-grey-wall-board",
-        label:
-          "Wall Panel - Gold and Grey Marble - Wall Board - 240cm",
+        label: "Wall Panel - Gold and Grey Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07F_fab74acc-59dd-4ef6-a9ed-071fca3bf96d.png",
         href: "/panels/aqua-panels/pack-o7f-m-g-grey-wall-board",
@@ -4277,8 +4222,7 @@ export const AWS_COLLECTIONS: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-panel-21c-white-oak-seamless-240cm-1-pack-8pcs",
-        label:
-          "Wall Panel - White Oak - Seamless - 240cm",
+        label: "Wall Panel - White Oak - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/21CWhiteOak2-Copy.jpg",
         href: "/panels/wall-panel-21-series/wall-panel-21c-white-oak-seamless-240cm-1-pack-8pcs",
@@ -4504,24 +4448,21 @@ export const AWS_COLLECTIONS: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-panel-80b-grey-02-seamless-240cm-1-pack-12pcs",
-        label:
-          "Wall Panel - Light Grey - Seamless - 240cm",
+        label: "Wall Panel - Light Grey - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/80BLightGrey-Copy.jpg",
         href: "/panels/wall-panels/wall-panel-80b-grey-02-seamless-240cm-1-pack-12pcs",
       },
       {
         id: "wall-panel-80d-black-seamless-240cm-1-pack-12pcs",
-        label:
-          "Wall Panel - Mid Grey - Seamless - 240cm",
+        label: "Wall Panel - Mid Grey - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/80DMidGrey-Copy.jpg",
         href: "/panels/wall-panels/wall-panel-80d-black-seamless-240cm-1-pack-12pcs",
       },
       {
         id: "wall-panel-80c-dark-brown-seamless-240cm-1-pack-12pcs",
-        label:
-          "Wall Panel - Dark Oak - Seamless - 240cm",
+        label: "Wall Panel - Dark Oak - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/80CDarkOak-Copy.jpg",
         href: "/panels/wall-panels/wall-panel-80c-dark-brown-seamless-240cm-1-pack-12pcs",
@@ -4542,16 +4483,14 @@ export const AWS_COLLECTIONS: Record<string, CollectionPageData> = {
       },
       {
         id: "pack-81c-light-grey",
-        label:
-          "Wall Panel - Light Grey - Seamless - 240cm",
+        label: "Wall Panel - Light Grey - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SC-WP81_LIGHT_GREY.jpg",
         href: "/panels/wall-panels/pack-81c-light-grey",
       },
       {
         id: "pack-81d-dark-grey",
-        label:
-          "Wall Panel - Dark Grey - Seamless - 240cm",
+        label: "Wall Panel - Dark Grey - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SC-WP81_DARK_GREY.jpg",
         href: "/panels/wall-panels/pack-81d-dark-grey",
@@ -15057,8 +14996,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
       categorySlug: "outdoor",
       collectionSlug: "outdoor-panels",
       slug: "wall-panel-83a-oak-03-outdoor-180cm-290cm-1-pack-6pcs",
-      title:
-        "Wall Panel - Oak 03 - Outdoor - 180cm/290cm",
+      title: "Wall Panel - Oak 03 - Outdoor - 180cm/290cm",
       description:
         "Engineered composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Available in two convenient sizes to suit various project requirements, with finishes coordinated across our complete outdoor collection. Complementary trim pieces are sold separately to achieve a polished, professional installation. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance. Sizes available: 21 x 290 x 2.5cm per panel 6 pieces per pack Area covered: 3.65m² per pack 21 x 180 x 2.5cm per panel Area covered: 2.27m² per pack Slat width: 3.5cm Space between slats: 1.5cm Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs) Brackets recommended for installation",
       image:
@@ -15132,8 +15070,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
       categorySlug: "outdoor",
       collectionSlug: "outdoor-panels",
       slug: "sc-w-panel-83-c-light-brown-seamless-180cm-290cm-1-pack6pcs",
-      title:
-        "Wall Panel - Light Brown - Outdoor - 180cm/290cm",
+      title: "Wall Panel - Light Brown - Outdoor - 180cm/290cm",
       description:
         "Engineered composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Available in two convenient sizes to suit various project requirements, with finishes coordinated across our complete outdoor collection. Complementary trim pieces are sold separately to achieve a polished, professional installation. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance. Sizes available: 21 x 290 x 2.5cm per panel 6 pieces per pack Area covered: 3.65m² per pack 21 x 180 x 2.5cm per panel Area covered: 2.27m² per pack Slat width: 3.5cm Space between slats: 1.5cm Trim: Wall Panel 83C Trim - Light Brown - 290cm - (1 Pack / 10pcs) Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs) Brackets recommended for installation",
       image:
@@ -15171,8 +15108,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
       categorySlug: "outdoor",
       collectionSlug: "outdoor-panels",
       slug: "sc-w-panel-83-d-dark-brown-seamless-180cm-290cm-1-pack6pcs",
-      title:
-        "Wall Panel - Dark Brown - Outdoor - 180cm/290cm",
+      title: "Wall Panel - Dark Brown - Outdoor - 180cm/290cm",
       description:
         "Engineered composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and weather-resistant durability. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Available in two convenient sizes to suit various project requirements, with finishes coordinated across our complete outdoor collection. Complementary trim pieces are sold separately to achieve a polished, professional installation. Ideal for creating contemporary exterior cladding solutions that combine aesthetic appeal with long-term performance. Sizes available: 21 x 290 x 2.5cm per panel 6 pieces per pack Area covered: 3.65m² per pack 21 x 180 x 2.5cm per panel Area covered: 2.27m² per pack Slat width: 3.5cm Space between slats: 1.5cm Trim: Wall Panel 73/83D Trim - Dark Brown - 290cm - (1 Pack / 10pcs) Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs) Brackets recommended for installation",
       image:
@@ -15335,8 +15271,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
       categorySlug: "outdoor",
       collectionSlug: "outdoor-panels",
       slug: "wall-panel-84c-light-brown-outdoor-240cm-1-pack-12pcs",
-      title:
-        "Wall Panel - Light Brown - Outdoor - 240cm",
+      title: "Wall Panel - Light Brown - Outdoor - 240cm",
       description:
         "Engineered composite wall panelling designed specifically for outdoor applications. Features textured slats that deliver visual depth and authentic character whilst maintaining superior weather resistance. This 240cm pack contains 12 pieces in a finish that coordinates seamlessly with our broader outdoor collection. The durable composite construction resists fading, warping, and moisture damage—ideal for cladding, feature walls, and architectural accents. The panels are also UV resistant, helping maintain their colour and structural integrity even under prolonged sun exposure. Complementary trim pieces are available separately to achieve professional installation and refined finishing details. Size available: 16 x 240 x 1cm per panel 12 pieces per pack Area covered: 4.61m² per pack Slat width: 2.4cm Space between slats: 1.4cm Trim: Wall Panel 84C Trim - Light Brown - 240cm - (1 Pack / 10pcs) Brackets: Bracket For Outdoor Panels (1 Pack / 50pcs) Brackets recommended for installation",
       image:
@@ -15854,8 +15789,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
     categorySlug: "panels",
     collectionSlug: "acoustic-panels",
     slug: "wall-panel-010-a-antique-m-grey-1-pack4pcs",
-    title:
-      "Wall Panel - Antique Metallic Grey - Acoustic - 240cm",
+    title: "Wall Panel - Antique Metallic Grey - Acoustic - 240cm",
     description:
       "Transform your space with this sophisticated acoustic wall panel system. Featuring an ornate, distinctive design in antique metallic grey, each panel combines HDF slat construction with premium felt backing to deliver superior sound absorption and aesthetic refinement. The 240cm pack contains four pieces, ideal for creating a cohesive feature wall or comprehensive room treatment. Perfect for studios, offices, or contemporary interiors where acoustic performance meets elegant design. Size available: 60 x 240 x 1.7cm per panel 4 pieces per pack Area covered: 5.76m² per pack",
     image:
@@ -15882,8 +15816,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
     categorySlug: "panels",
     collectionSlug: "acoustic-panels",
     slug: "wall-panel-010-c-antique-m-brown-1-pack4pcs",
-    title:
-      "Wall Panel - Antique Metallic Gold - Acoustic - 240cm",
+    title: "Wall Panel - Antique Metallic Gold - Acoustic - 240cm",
     description:
       "Transform your space with this sophisticated acoustic wall panel featuring an ornate, antique metallic gold design that commands attention. Crafted from premium HDF slat material, each panel delivers exceptional sound absorption while adding architectural elegance to any room. The felt backing ensures secure installation and enhanced acoustic performance, making it ideal for studios, offices, or contemporary interiors seeking both aesthetic refinement and functional sound control. This single pack contains four panels, each measuring 240cm, providing substantial coverage for transformative impact. Size available: 60 x 240 x 1.7cm per panel 4 pieces per pack Area covered: 5.76m² per pack",
     image:
@@ -15910,8 +15843,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
     categorySlug: "panels",
     collectionSlug: "acoustic-panels",
     slug: "wall-panel-010-b-antique-m-gold-1-pack4pcs",
-    title:
-      "Wall Panel - Antique Metallic Brown - Acoustic - 240cm",
+    title: "Wall Panel - Antique Metallic Brown - Acoustic - 240cm",
     description:
       "Transform your space with this sophisticated acoustic wall panel system. Featuring an ornate, distinctive design in antique metallic brown, each panel combines HDF slat construction with premium felt backing for superior sound absorption. The 240cm pack delivers four pieces ready for seamless installation, making it ideal for studios, offices, or contemporary interiors seeking both aesthetic refinement and acoustic performance. The felt backing ensures optimal sound dampening while the durable HDF material provides lasting structural integrity. A professional-grade solution that elevates interior design whilst addressing acoustic challenges with understated elegance. Size available: 60 x 240 x 1.7cm per panel 4 pieces per pack Area covered: 5.76m² per pack",
     image:
@@ -15938,8 +15870,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
     categorySlug: "panels",
     collectionSlug: "acoustic-panels",
     slug: "wall-panel-013a-ps-g-grey-acoustic-1-pack4pcs",
-    title:
-      "Wall Panel - PS Gold and Grey - Acoustic - 240cm",
+    title: "Wall Panel - PS Gold and Grey - Acoustic - 240cm",
     description:
       "Transform your space with professional-grade acoustic panelling designed for superior sound control. These wall panels feature honeycomb effect slats crafted from durable HDF material, delivering both aesthetic appeal and functional noise reduction. The felt backing enhances acoustic performance while the elegant gold and grey finish complements contemporary interiors. Each pack contains four panels measuring 240cm, providing substantial coverage for offices, studios, or residential spaces. Ideal for creating acoustically optimised environments without compromising on style. Size available: 60 x 240 x 1.7cm per panel 4 pieces per pack Area covered: 5.76m² per pack",
     image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP013B.png",
@@ -15964,8 +15895,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
     categorySlug: "panels",
     collectionSlug: "acoustic-panels",
     slug: "wall-panel-013b-ps-g-brown-acoustic-1-pack4pcs",
-    title:
-      "Wall Panel - PS Gold and Brown - Acoustic - 240cm",
+    title: "Wall Panel - PS Gold and Brown - Acoustic - 240cm",
     description:
       "Transform your space with professional-grade acoustic panelling designed for superior sound control. These wall panels feature honeycomb effect slats crafted from durable HDF material, delivering both aesthetic appeal and functional noise reduction. The felt backing enhances acoustic performance while the elegant gold and brown finish complements contemporary interiors. Each pack contains four panels measuring 240cm, providing substantial coverage for offices, studios, or residential spaces. Ideal for creating acoustically optimised environments without compromising on style. Size available: 60 x 240 x 1.7cm per panel 4 pieces per pack Area covered: 5.76m² per pack",
     image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP013A.png",
@@ -16293,8 +16223,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
     categorySlug: "panels",
     collectionSlug: "acoustic-panels",
     slug: "pack-01wp-metallic-brown-acoustic",
-    title:
-      "Wall Panel - Metallic Brown - Acoustic - 240cm",
+    title: "Wall Panel - Metallic Brown - Acoustic - 240cm",
     description:
       "Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound effectively while adding contemporary visual interest. Each pack contains four panels, delivering professional-grade acoustic performance with a sophisticated metallic-brown finish. Ideal for studios, offices, or any environment where sound control meets modern design. Create a refined atmosphere that's both acoustically superior and visually striking. Size available: 60 x 240 x 1.5cm per panel 4 pieces per pack Area covered: 5.76m² per pack Slat width: 2.5cm Space between slats: 1.5cm Trim: Wall Panel Trim A - WF Metallic Brown - WP 01 - 240cm - (1 pack / 10pcs)",
     image:
@@ -16325,8 +16254,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
     categorySlug: "panels",
     collectionSlug: "acoustic-panels",
     slug: "pack-01wg-metallic-gold-acoustic",
-    title:
-      "Wall Panel - Metallic Gold - Acoustic - 240cm",
+    title: "Wall Panel - Metallic Gold - Acoustic - 240cm",
     description:
       "Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound effectively while adding contemporary visual interest. Each pack contains four panels, delivering professional-grade acoustic performance with a sophisticated metallic-gold finish. Ideal for studios, offices, or any environment where sound control meets modern design. Create a refined atmosphere that's both acoustically superior and visually striking. Size available: 60 x 240 x 1.5cm per panel 4 pieces per pack Area covered: 5.76m² per pack Slat width: 2.5cm Space between slats: 1.5cm Trim: Wall Panel Trim A - WG Metallic Gold - WP 01 - 240cm - (1 pack / 10pcs)",
     image:
@@ -16357,8 +16285,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
     categorySlug: "panels",
     collectionSlug: "acoustic-panels",
     slug: "pack-01wh-metallic-light-grey-acoustic",
-    title:
-      "Wall Panel - Metallic Light Grey - Acoustic - 240cm",
+    title: "Wall Panel - Metallic Light Grey - Acoustic - 240cm",
     description:
       "Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound effectively while adding contemporary visual interest. Each pack contains four panels, delivering professional-grade acoustic performance with a sophisticated metallic light grey finish. Ideal for studios, offices, or any environment where sound control meets modern design. Create a refined atmosphere that's both acoustically superior and visually striking. Size available: 60 x 240 x 1.5cm per panel 4 pieces per pack Area covered: 5.76m² per pack Slat width: 2.5cm Space between slats: 1.5cm Trim: Wall Panel Trim A - WH Metallic Light Grey - WP 01 - 240cm - (1 pack / 10pcs)",
     image:
@@ -16389,8 +16316,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
     categorySlug: "panels",
     collectionSlug: "acoustic-panels",
     slug: "pack-01wj-metallic-dark-grey-acoustic",
-    title:
-      "Wall Panel - Metallic Dark Grey - Acoustic - 240cm",
+    title: "Wall Panel - Metallic Dark Grey - Acoustic - 240cm",
     description:
       "Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound effectively while maintaining aesthetic appeal. The metallic-dark grey finish delivers contemporary sophistication to any room. Each pack contains four panels, offering flexible coverage for studios, offices, or residential spaces. Superior sound dampening meets modern design in one elegant solution. Size available: 60 x 240 x 1.5cm per panel 4 pieces per pack Area covered: 5.76m² per pack Slat width: 2.5cm Space between slats: 1.5cm Trim: Wall Panel Trim A - WJ Metallic Dark Grey - WP 01 - 240cm - (1 pack / 10pcs)",
     image:
@@ -16420,8 +16346,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
     categorySlug: "panels",
     collectionSlug: "acoustic-panels",
     slug: "wall-panel-01-wk-mb-white-acoustic-1-pack4pcs",
-    title:
-      "Wall Panel - White Marble - Acoustic - 240cm",
+    title: "Wall Panel - White Marble - Acoustic - 240cm",
     description:
       "Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound effectively and reduce noise transmission. The elegant white marble finish complements any interior aesthetic while delivering professional-grade acoustic performance. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where sound control matters. Size available: 60 x 240 x 1.5cm per panel 4 pieces per pack Area covered: 5.76m² per pack Slat width: 2.5cm Space between slats: 1.5cm Trim: Wall Panel Trim A - WK White Marble - WP 01/02 - 240cm - (1 pack / 10pcs)",
     image:
@@ -16451,8 +16376,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
       categorySlug: "panels",
       collectionSlug: "acoustic-panels",
       slug: "wall-panel-01-wn-marble-gold-black-acoustic-1-pack4pcs",
-      title:
-        "Wall Panel - Gold and Black Marble - Acoustic - 240cm",
+      title: "Wall Panel - Gold and Black Marble - Acoustic - 240cm",
       description:
         "Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound effectively and reduce noise transmission. The elegant gold and black marble finish complements any interior aesthetic while delivering professional-grade acoustic performance. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where sound control matters. Size available: 60 x 240 x 1.5cm per panel 4 pieces per pack Area covered: 5.76m² per pack Slat width: 2.5cm Space between slats: 1.5cm Trim: Wall Panel Trim A - WN Gold and Black Marble - WP 01/02 - 240cm - (1 pack / 10pcs)",
       image:
@@ -16536,8 +16460,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
       categorySlug: "panels",
       collectionSlug: "acoustic-panels",
       slug: "wall-panel-01wx-gold-and-white-marble-acoustic-240cm-1-pack-4pcs",
-      title:
-        "Wall Panel - Gold and White Marble - Acoustic - 240cm",
+      title: "Wall Panel - Gold and White Marble - Acoustic - 240cm",
       description:
         "Transform your space with cutting-edge acoustic technology. These innovative wall panels feature premium HDF slat construction paired with felt backing to absorb sound and reduce noise transmission effectively. The natural oak finish adds warmth and sophistication to any room while delivering professional-grade acoustic performance. Each pack contains four panels, offering flexible coverage for studios, offices, or residential spaces. Ideal for creating acoustically optimized environments without compromising on aesthetic appeal. Size available: 60 x 240 x 1.5cm per panel 4 pieces per pack Area covered : 5.76m² per pack Slat width: 2.5cm Space between slats: 1.5cm",
       image:
@@ -16629,8 +16552,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
       categorySlug: "panels",
       collectionSlug: "acoustic-panels",
       slug: "wall-panel-02-wk-mb-white-280cm-acoustic-1-pack3pcs",
-      title:
-        "Wall Panel - White Marble - Acoustic - 280cm",
+      title: "Wall Panel - White Marble - Acoustic - 280cm",
       description:
         "Transform your space with the Wall Panel 02WK, an innovative acoustic solution crafted from premium HDF slat material. Each pack contains three panels featuring a sophisticated white marble finish that complements any interior aesthetic. The felt-backed construction absorbs sound effectively, reducing noise and enhancing acoustic comfort in offices, studios, or residential spaces. Lightweight yet durable, these panels install seamlessly on walls, delivering both visual elegance and functional sound management. Ideal for creating professional environments or improving room acoustics without compromising on design. Size available: 60 x 280 x 1.7cm per panel 3 pieces per pack Area covered: 5.04m² per pack Slat width: 3.5cm Space between slats: 1.5cm Trim: Wall Panel Trim A - WK White Marble - WP 01/02 - 240cm - (1 pack / 10pcs)",
       image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/02WK2.jpg",
@@ -16659,8 +16581,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
       categorySlug: "panels",
       collectionSlug: "acoustic-panels",
       slug: "wall-panel-02-wn-marble-gold-black-280cm-acoustic-1-pack3pcs",
-      title:
-        "Wall Panel - Gold and Black Marble - Acoustic - 280cm",
+      title: "Wall Panel - Gold and Black Marble - Acoustic - 280cm",
       description:
         "Elevate your interior with next-generation acoustic solutions. These sophisticated wall panels combine innovative HDF slat design with felt-backed technology to deliver exceptional sound absorption and damping. The striking gold and black marble aesthetic adds contemporary elegance to any environment whilst providing professional-grade acoustic performance. Ideal for studios, boardrooms, or modern homes, each three-piece pack offers versatile coverage and seamless integration into discerning spaces where both acoustics and design excellence matter. Size available: 60 x 280 x 1.7cm per panel 3 pieces per pack Area covered: 5.04m² per pack Slat width: 3.5cm Space between slats: 1.5cm Trim: Wall Panel Trim A - WN Gold and Black Marble - WP 01/02 - 240cm - (1 pack / 10pcs)",
       image:
@@ -17104,8 +17025,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
     categorySlug: "panels",
     collectionSlug: "acoustic-panels",
     slug: "wall-panel-31d-dark-oak-acoustic-240cm-1-pack-4pcs",
-    title:
-      "Wall Panel - Dark Oak - Premium Acoustic - 240cm",
+    title: "Wall Panel - Dark Oak - Premium Acoustic - 240cm",
     description:
       "Transform your space with cutting-edge acoustic technology. These premium wall panels feature HDF slat construction with felt backing to absorb sound effectively and reduce noise transmission. Thicker than standard panels at 17mm thick. The three-sided veneer coverage on all visible slats ensures a refined, finished appearance from every angle. The elegant finish complements any interior aesthetic while delivering professional-grade sound control. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where superior sound control matters. Size available: 60 x 240 x 1.7cm per panel 4 pieces per pack Area covered: 5.76m² per pack Trim: Wall Panel Trim A - D Dark Oak - WP 01/03/04/31 - 240cm - (1 pack / 10pcs)",
     image:
@@ -17132,8 +17052,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
     categorySlug: "panels",
     collectionSlug: "acoustic-panels",
     slug: "wall-panel-31f-grey-oak-acoustic-240cm-1-pack-4pcs",
-    title:
-      "Wall Panel - Grey Oak - Premium Acoustic - 240cm",
+    title: "Wall Panel - Grey Oak - Premium Acoustic - 240cm",
     description:
       "Transform your space with cutting-edge acoustic technology. These premium wall panels feature HDF slat construction with felt backing to absorb sound effectively and reduce noise transmission. Thicker than standard panels at 17mm thick. The three-sided veneer coverage on all visible slats ensures a refined, finished appearance from every angle. The elegant finish complements any interior aesthetic while delivering professional-grade sound control. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where superior sound control matters. Size available: 60 x 240 x 1.7cm per panel 4 pieces per pack Area covered: 5.76m² per pack",
     image:
@@ -17185,8 +17104,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
     categorySlug: "panels",
     collectionSlug: "acoustic-panels",
     slug: "wall-panel-31t-walnut-acoustic-240cm-1-pack-4pcs",
-    title:
-      "Wall Panel - Walnut - Premium Acoustic - 240cm",
+    title: "Wall Panel - Walnut - Premium Acoustic - 240cm",
     description:
       "Transform your space with cutting-edge acoustic technology. These premium wall panels feature HDF slat construction with felt backing to absorb sound effectively and reduce noise transmission. Thicker than standard panels at 17mm thick. The three-sided veneer coverage on all visible slats ensures a refined, finished appearance from every angle. The elegant finish complements any interior aesthetic while delivering professional-grade sound control. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where superior sound control matters. Size available: 60 x 240 x 1.7cm per panel 4 pieces per pack Area covered: 5.76m² per pack Trim: Wall Panel PVC Trim Acoustic - T Walnut - WP 01/02/03/04/08/31 - 240cm - (1 pack / 10pcs)",
     image:
@@ -17213,8 +17131,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
     categorySlug: "panels",
     collectionSlug: "acoustic-panels",
     slug: "wall-panel-32f-grey-oak-acoustic-240cm-1-pack-4pcs",
-    title:
-      "Wall Panel - Grey Oak - Premium Acoustic - 240cm",
+    title: "Wall Panel - Grey Oak - Premium Acoustic - 240cm",
     description:
       "Transform your space with cutting-edge acoustic technology. These premium wall panels feature HDF slat construction with felt backing to absorb sound effectively and reduce noise transmission. Thicker than standard panels at 17mm thick. The three-sided veneer coverage on all visible slats ensures a refined, finished appearance from every angle. The elegant finish complements any interior aesthetic while delivering professional-grade sound control. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where superior sound control matters. Size available: 60 x 240 x 1.7cm per panel 4 pieces per pack Area covered: 5.76m² per pack",
     image:
@@ -17267,8 +17184,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
       categorySlug: "panels",
       collectionSlug: "acoustic-panels",
       slug: "wall-panel-32k-shadow-oak-acoustic-240cm-1-pack-4pcs",
-      title:
-        "Wall Panel - Shadow Oak - Premium Acoustic - 240cm",
+      title: "Wall Panel - Shadow Oak - Premium Acoustic - 240cm",
       description:
         "Transform your space with cutting-edge acoustic technology. These premium wall panels feature HDF slat construction with felt backing to absorb sound effectively and reduce noise transmission. Thicker than standard panels at 17mm thick. The three-sided veneer coverage on all visible slats ensures a refined, finished appearance from every angle. The elegant finish complements any interior aesthetic while delivering professional-grade sound control. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where superior sound control matters. Size available: 60 x 240 x 1.7cm per panel 4 pieces per pack Area covered: 5.76m² per pack",
       image:
@@ -17294,8 +17210,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
     categorySlug: "panels",
     collectionSlug: "acoustic-panels",
     slug: "wall-panel-32r-concrete-acoustic-240cm-1-pack-4pcs",
-    title:
-      "Wall Panel - Concrete - Premium Acoustic - 240cm",
+    title: "Wall Panel - Concrete - Premium Acoustic - 240cm",
     description:
       "Transform your space with cutting-edge acoustic technology. These premium wall panels feature HDF slat construction with felt backing to absorb sound effectively and reduce noise transmission. Thicker than standard panels at 17mm thick. The three-sided veneer coverage on all visible slats ensures a refined, finished appearance from every angle. The elegant finish complements any interior aesthetic while delivering professional-grade sound control. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where superior sound control matters. Size available: 60 x 240 x 1.7cm per panel 4 pieces per pack Area covered: 5.76m² per pack",
     image:
@@ -17322,8 +17237,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
       categorySlug: "panels",
       collectionSlug: "acoustic-panels",
       slug: "wall-panel-32w-light-oak-acoustic-240cm-1-pack-4pcs",
-      title:
-        "Wall Panel - Light Oak - Premium Acoustic - 240cm",
+      title: "Wall Panel - Light Oak - Premium Acoustic - 240cm",
       description:
         "Transform your space with cutting-edge acoustic technology. These premium wall panels feature HDF slat construction with felt backing to absorb sound effectively and reduce noise transmission. Thicker than standard panels at 17mm thick. The three-sided veneer coverage on all visible slats ensures a refined, finished appearance from every angle. The elegant finish complements any interior aesthetic while delivering professional-grade sound control. Each pack contains four panels, making installation straightforward for both residential and commercial applications. Ideal for studios, offices, or living spaces where superior sound control matters. Size available: 60 x 240 x 1.7cm per panel 4 pieces per pack Area covered: 5.76m² per pack",
       image:
@@ -17706,8 +17620,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
       categorySlug: "panels",
       collectionSlug: "acoustic-panels",
       slug: "wall-panel-trim-a-a-oak-wp-01-02-03-04-06-08-240cm-1-pack-10pcs",
-      title:
-        "Wall Panel PVC Trim Acoustic - A Oak - WP 01/02/03/04/08 - 240cm",
+      title: "Wall Panel PVC Trim Acoustic - A Oak - WP 01/02/03/04/08 - 240cm",
       description:
         "Precision-engineered trim designed to seamlessly finish wall panel installations. This 240cm length trim adapts to standard wall panel systems, providing clean edges and professional transitions between panels. Each pack contains 10 pieces, offering complete coverage for typical room applications. The sleek finish complements modern interiors whilst maintaining durability through everyday use. Essential for achieving polished results in wall panel projects. Size available: 2 x 2 x 240cm per trim 10 pieces per pack Fits panels: Wall Panel 01A - Natural Oak - Acoustic - 240cm - (1 pack / 4pcs) Wall Panel 02WA - Oak - Acoustic - 280cm - (1 pack / 3pcs) Wall Panel 03A - Oak - Acoustic - 240cm - (1 pack / 4pcs) Wall Panel 04A - Oak - Acoustic - 240cm - (1 pack / 4pcs) Wall Panel 08A - Oak - Blocks - 240cm - (1 pack / 4pcs)",
       image:
@@ -18148,8 +18061,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
     categorySlug: "panels",
     collectionSlug: "aqua-panels",
     slug: "wall-panel-011a-m-white-wall-board-1-pack2pcs",
-    title:
-      "Wall Panel - White Marble - Wall Board - 240cm",
+    title: "Wall Panel - White Marble - Wall Board - 240cm",
     description:
       "Transform your walls with this premium wall panel system featuring authentic marble effect finishes. Crafted from high-quality PVC, these panels deliver exceptional durability and moisture resistance ideal for kitchens, bathrooms, and commercial spaces. The seamless tongue and groove configuration ensures effortless installation with perfectly aligned joints and a flawless, professional appearance. Each pack contains two panels measuring 240cm each, providing substantial coverage with minimal waste. The elegant white marble aesthetic adds sophisticated style whilst maintaining practical, easy-to-clean surfaces that resist staining and wear. A superior alternative to traditional tiling or wallpaper. Size available: 90 x 240 x 0.7cm per panel 2 pieces per pack Area covered: 4.32m² per pack Trim: PVC Strip B - A White Marble - WP 07/11 - 240cm - (1 pack / 10pcs) Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs) Corner strip: PVC Corner Strip - A White Marble - WP 07/11 - 240cm - (1 pack / 4pcs) Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs) I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)",
     image:
@@ -18180,8 +18092,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
     categorySlug: "panels",
     collectionSlug: "aqua-panels",
     slug: "wall-panel-011a-m-black-wall-board-1-pack2pcs",
-    title:
-      "Wall Panel - Grey Marble - Wall Board - 240cm",
+    title: "Wall Panel - Grey Marble - Wall Board - 240cm",
     description:
       "Transform your walls with this premium wall panel system featuring authentic marble aesthetics. Crafted from high-quality PVC, each panel delivers exceptional durability and moisture resistance, making it ideal for kitchens, bathrooms, and commercial spaces. The distinctive grey marble effect adds sophisticated visual depth to any room. The seamless tongue and groove configuration ensures effortless installation with perfectly aligned joints and a polished, professional finish. At 240cm height, these panels maximise wall coverage efficiently. Each pack contains two pieces, providing substantial coverage while maintaining the integrity of the marble pattern throughout. Low-maintenance and long-lasting, this solution combines aesthetic appeal with practical performance. Size available: 90 x 240 x 0.7cm per panel 2 pieces per pack Area covered: 4.32m² per pack Trim: PVC Strip B - B Grey Marble - WP 07/11 - 240cm - (1 pack / 10pcs) Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs) Corner strip: PVC Corner Strip - B Grey Marble - WP 07/11 - 240cm - (1 pack / 4pcs) Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs) I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)",
     image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP011B.jpg",
@@ -18212,8 +18123,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
     categorySlug: "panels",
     collectionSlug: "aqua-panels",
     slug: "wall-panel-011c-m-g-black-wall-board-1-pack2pcs",
-    title:
-      "Wall Panel - Gold and Black Marble - Wall Board - 240cm",
+    title: "Wall Panel - Gold and Black Marble - Wall Board - 240cm",
     description:
       "Transform your walls with this premium wall panel system featuring authentic marble aesthetics. Crafted from high-quality PVC, each panel delivers exceptional durability and moisture resistance ideal for kitchens, bathrooms, and feature walls. The sophisticated gold and black marble effect creates striking visual depth without the maintenance demands of natural stone. The seamless tongue and groove configuration ensures flawless installation with invisible joints, delivering a polished, professional finish. At 240cm height, this two-piece pack covers substantial wall areas efficiently. Perfect for contemporary interiors seeking luxury appeal with practical performance. Size available: 90 x 240 x 0.7cm per panel 2 pieces per pack Area covered: 4.32m² per pack Trim: PVC Strip B - C Gold and Black Marble - WP 11 - 240cm - (1 pack / 10pcs) Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs) Corner strip: PVC Corner Strip - C Gold and Black Marble - WP 11 - 240cm - (1 pack / 4pcs) Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs) I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)",
     image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP011C7.jpg",
@@ -18244,8 +18154,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
     categorySlug: "panels",
     collectionSlug: "aqua-panels",
     slug: "wall-panel-011d-m-g-white-wall-board-1-pack2pcs",
-    title:
-      "Wall Panel - Gold and White Marble - Wall Board - 240cm",
+    title: "Wall Panel - Gold and White Marble - Wall Board - 240cm",
     description:
       "Transform your walls with this premium wall panel system featuring authentic marble aesthetics. Crafted from high-quality PVC, each panel delivers exceptional durability and moisture resistance ideal for kitchens, bathrooms, and feature walls. The elegant gold and white marble effect creates sophisticated visual depth without the maintenance demands of natural stone. The seamless tongue and groove configuration ensures flawless installation and a perfectly unified finish across your space. At 240cm height, this two-piece pack provides substantial coverage with professional-grade results. Easy to clean, long-lasting, and instantly elevating—the intelligent choice for discerning homeowners seeking luxury finishes with practical performance. Size available: 90 x 240 x 0.7cm per panel 2 pieces per pack Area covered: 4.32m² per pack Trim: PVC Strip B - D Gold and White Marble - WP 07/11 - 240cm - (1 pack / 10pcs) Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs) Corner strip: PVC Corner Strip - D Gold and White Marble - WP 07/11 - 240cm - (1 pack / 4pcs) Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs) I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)",
     image:
@@ -18403,8 +18312,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
     categorySlug: "panels",
     collectionSlug: "aqua-panels",
     slug: "wall-covering-white",
-    title:
-      "Wall Panel - White Marble - Wall Board - 240cm",
+    title: "Wall Panel - White Marble - Wall Board - 240cm",
     description:
       "Transform your walls with these premium PVC wall panels featuring an authentic marble effect finish. Crafted from high-quality PVC, each panel measures 240cm and comes as a 4-piece pack. The seamless tongue and groove configuration ensures effortless installation and creates a flawless, continuous surface with no visible joints. Ideal for kitchens, bathrooms, and feature walls, these durable panels offer the elegance of marble without the maintenance requirements. Water-resistant and easy to clean, they provide lasting beauty and practicality for modern interiors. Size available: 60 x 240 x 0.7cm per panel 4 pieces per pack Area covered: 5.76m² per pack Trim: PVC Strip B - A White Marble - WP 07/11 - 240cm - (1 pack / 10pcs) Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs) Corner strip: PVC Corner Strip - A White Marble - WP 07/11 - 240cm - (1 pack / 4pcs) Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs) I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)",
     image:
@@ -18437,8 +18345,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
     categorySlug: "panels",
     collectionSlug: "aqua-panels",
     slug: "wall-covering-grey",
-    title:
-      "Wall Panel - Grey Marble - Wall Board - 240cm",
+    title: "Wall Panel - Grey Marble - Wall Board - 240cm",
     description:
       "High-quality PVC wall panels featuring an authentic marble effect finish. These seamless tongue and groove panels offer effortless installation and a sophisticated aesthetic for any interior space. Each panel measures 240cm, with one pack containing four pieces. The durable PVC construction resists moisture and wear, making these panels ideal for kitchens, bathrooms, and commercial applications. Create a premium marble look without the maintenance demands of natural stone. Size available: 60 x 240 x 0.7cm per panel 4 pieces per pack Area covered: 5.76m² per pack Trim: PVC Strip B - B Grey Marble - WP 07/11 - 240cm - (1 pack / 10pcs) Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs) Corner strip: PVC Corner Strip - B Grey Marble - WP 07/11 - 240cm - (1 pack / 4pcs) Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs) I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)",
     image:
@@ -18471,8 +18378,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
     categorySlug: "panels",
     collectionSlug: "aqua-panels",
     slug: "wp-07c",
-    title:
-      "Wall Panel - Gold and Black Marble - Wall Board - 240cm",
+    title: "Wall Panel - Gold and Black Marble - Wall Board - 240cm",
     description:
       "Transform your walls with this premium wall panel system featuring authentic marble aesthetics. Crafted from high-quality PVC, each panel showcases an elegant gold and black marble effect that adds sophisticated depth to any space. The seamless tongue and groove configuration ensures effortless installation and creates a flawless, continuous finish across your walls. At 240cm in height, this pack of four panels provides substantial coverage for feature walls or complete room transformations. Durable, moisture-resistant, and maintenance-free, these panels deliver luxury finishes without the cost or complexity of traditional materials. Size available: 60 x 240 x 0.7cm per panel 4 pieces per pack Area covered: 5.76m² per pack Trim: Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs) Corner strip: Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs) I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)",
     image:
@@ -18503,8 +18409,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
     categorySlug: "panels",
     collectionSlug: "aqua-panels",
     slug: "pack-07d-white-wall-board",
-    title:
-      "Wall Panel - Gold and White Marble - Wall Board - 240cm",
+    title: "Wall Panel - Gold and White Marble - Wall Board - 240cm",
     description:
       "Transform your walls with this premium wall panel system featuring authentic marble aesthetics. Crafted from high-quality PVC, each panel showcases an elegant gold and white marble effect that adds sophisticated depth to any space. The seamless tongue and groove configuration ensures effortless installation with perfectly aligned joints, creating a continuous, professional finish. At 240cm height, this single pack contains four panels offering substantial coverage. Durable, moisture-resistant, and maintenance-free, these panels deliver luxury appeal without the cost or upkeep of natural stone. Size available: 60 x 240 x 0.7cm per panel 4 pieces per pack Area covered: 5.76m² per pack Trim: Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs) Corner strip: Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs) I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)",
     image:
@@ -18535,8 +18440,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
     categorySlug: "panels",
     collectionSlug: "aqua-panels",
     slug: "pack-o7e-m-mix-grey-wall-board",
-    title:
-      "Wall Panel - Mix Grey Marble - Wall Board - 240cm",
+    title: "Wall Panel - Mix Grey Marble - Wall Board - 240cm",
     description:
       "Transform your walls with these premium PVC wall panels featuring an authentic marble effect finish. Crafted from high-quality PVC, each panel measures 240cm and comes as a 4-piece pack. The seamless tongue and groove configuration ensures effortless installation and creates a flawless, continuous surface with no visible joints. Ideal for kitchens, bathrooms, and feature walls, these durable panels offer the sophisticated aesthetic of natural marble with superior practicality and longevity. Size available: 60 x 240 x 0.7cm per panel 4 pieces per pack Area covered: 5.76m² per pack Trim: PVC Strip B - E Mix Grey Marble - WP 07 - 240cm - (1 pack / 10pcs) Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs) Corner strip: PVC Corner Strip - E Mix Grey Marble - WP 07 - 240cm - (1 pack / 4pcs) Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs) I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)",
     image:
@@ -18569,8 +18473,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
     categorySlug: "panels",
     collectionSlug: "aqua-panels",
     slug: "pack-o7f-m-g-grey-wall-board",
-    title:
-      "Wall Panel - Gold and Grey Marble - Wall Board - 240cm",
+    title: "Wall Panel - Gold and Grey Marble - Wall Board - 240cm",
     description:
       "Engineered from premium PVC with an authentic marble aesthetic, this wall panel system delivers sophisticated interior finishes without the maintenance demands of natural stone. The seamless tongue and groove joints create a flawless, continuous surface that eliminates visible seams and simplifies installation. Each pack contains four panels spanning 240cm, providing efficient coverage for residential and commercial spaces. The gold and grey marble pattern offers versatile design flexibility, complementing contemporary and traditional interiors alike. Ideal for kitchens, bathrooms, and feature walls where durability and visual impact are priorities. Size available: 60 x 240 x 0.7cm per panel 4 pieces per pack Area covered: 5.76m² per pack Trim: PVC Strip B - F Gold and Grey Marble - WP 07 - 240cm - (1 pack / 10pcs) Aluminium End Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs) Corner strip: PVC Corner Strip - F Gold and Grey Marble - WP 07 - 240cm - (1 pack / 4pcs) Aluminium Corner Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs) I strip: Aluminium I Strip - Black / Gold / Silver - 300cm - (1 pack / 10pcs)",
     image:

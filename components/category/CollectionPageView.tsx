@@ -57,7 +57,7 @@ export default function CollectionPageView({
       </Container>
 
       {collection.heroImage ? (
-        <div className="relative w-full overflow-hidden bg-[#f0f0f0]">
+        <div className="relative h-[220px] w-full overflow-hidden bg-[#f0f0f0] sm:h-[280px] md:h-[340px] lg:h-[400px]">
           <CategoryImage
             src={collection.heroImage}
             alt={collection.title}
@@ -91,7 +91,7 @@ export default function CollectionPageView({
               href={item.href}
               className="group flex flex-col items-center text-center"
             >
-              <div className="relative aspect-square w-full overflow-hidden bg-[#000000]/50">
+              <div className="relative aspect-square w-full overflow-hidden">
                 <CategoryImage
                   src={item.image}
                   alt={item.label}

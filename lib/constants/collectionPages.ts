@@ -12,6 +12,10 @@ import {
   STRING_SPC_COLLECTIONS,
   STRING_SPC_PRODUCTS,
 } from "./stringSpcFlooringPages";
+import {
+  STRING_ACOUSTIC_ITEMS,
+  STRING_ACOUSTIC_PRODUCTS,
+} from "./stringAcousticPages";
 
 export type CollectionItem = {
   id: string;
@@ -3774,7 +3778,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
     description:
       "Explore the 60 cm PVC Panels range from Haris Building Solutions. Quality wall panelling selected for performance, style and lasting value.",
     image:
-      "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/AlumCornerStripBlack_c0a2ae50-aa1e-4d75-8e31-99f03b319f59.jpg",
+      "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05A.png",
     itemsHeading: "View Our Range",
     items: [
       {
@@ -6256,14 +6260,26 @@ export function getCollectionPage(
   return COLLECTION_PAGES[`${categorySlug}/${collectionSlug}`] ?? null;
 }
 
+export function getNestedCollectionPage(
+  categorySlug: string,
+  collectionSlug: string,
+  nestedSlug: string,
+): CollectionPageData | null {
+  return (
+    COLLECTION_PAGES[`${categorySlug}/${collectionSlug}/${nestedSlug}`] ?? null
+  );
+}
+
 export function getAllCollectionParams(): {
   slug: string;
   collection: string;
 }[] {
-  return Object.values(COLLECTION_PAGES).map((page) => ({
-    slug: page.categorySlug,
-    collection: page.slug,
-  }));
+  return Object.values(COLLECTION_PAGES)
+    .filter((page) => page.key.split("/").length === 2)
+    .map((page) => ({
+      slug: page.categorySlug,
+      collection: page.slug,
+    }));
 }
 
 export const PRODUCT_PAGES: Record<string, ProductPageData> = {
@@ -16361,22 +16377,133 @@ Object.assign(PRODUCT_PAGES, KITCHENS_PRODUCTS);
 function mergeCollectionItems(
   key: string,
   extras: CollectionItem[],
+  prepend = false,
 ) {
   const page = COLLECTION_PAGES[key];
   if (!page) return;
   const existing = new Set(page.items.map((item) => item.id));
-  page.items = [
-    ...page.items,
-    ...extras.filter((item) => !existing.has(item.id)),
-  ];
+  const incoming = extras.filter((item) => !existing.has(item.id));
+  page.items = prepend
+    ? [...incoming, ...page.items]
+    : [...page.items, ...incoming];
 }
 
 mergeCollectionItems("panels/classic-10mm", STRING_SHOWER_ITEMS);
 mergeCollectionItems("panels/classic-8mm", STRING_CLADDING_ITEMS);
+mergeCollectionItems("panels/acoustic-panels", STRING_ACOUSTIC_ITEMS, true);
 Object.assign(PRODUCT_PAGES, STRING_SHOWER_PRODUCTS);
 Object.assign(PRODUCT_PAGES, STRING_CLADDING_PRODUCTS);
 Object.assign(COLLECTION_PAGES, STRING_SPC_COLLECTIONS);
 Object.assign(PRODUCT_PAGES, STRING_SPC_PRODUCTS);
+Object.assign(PRODUCT_PAGES, STRING_ACOUSTIC_PRODUCTS);
+
+const GIAVANI_FLOORING_SPC_ITEMS: CollectionItem[] = [
+  {
+    id: "7524",
+    label: "Cairo SPC Flooring",
+    image:
+      "https://giavanibathrooms.com/wp-content/uploads/2026/02/thumbnail-32.jpg",
+    href: "/flooring/7524/7524",
+  },
+  {
+    id: "clawson-oak-spc-flooring",
+    label: "Clawson SPC Flooring",
+    image:
+      "https://giavanibathrooms.com/wp-content/uploads/2026/02/thumbnail-33.jpg",
+    href: "/flooring/clawson-oak-spc-flooring/clawson-oak-spc-flooring",
+  },
+  {
+    id: "dynasty-black-spc-flooring",
+    label: "Dynasty Black SPC Flooring",
+    image: "https://giavanibathrooms.com/wp-content/uploads/2026/04/floor.jpg",
+    href: "/flooring/dynasty-black-spc-flooring/dynasty-black-spc-flooring",
+  },
+  {
+    id: "olympus-beige-spc-flooring",
+    label: "Olympus Beige SPC Flooring",
+    image:
+      "https://giavanibathrooms.com/wp-content/uploads/2026/02/thumbnail-35.jpg",
+    href: "/flooring/olympus-beige-spc-flooring/olympus-beige-spc-flooring",
+  },
+  {
+    id: "juno-grey-spc-flooring",
+    label: "Juno Grey SPC Flooring",
+    image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/rgrg.jpg",
+    href: "/flooring/juno-grey-spc-flooring/juno-grey-spc-flooring",
+  },
+  {
+    id: "athena-noir-spc-flooring",
+    label: "Athena Noir SPC Flooring",
+    image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/ytyur.jpg",
+    href: "/flooring/athena-noir-spc-flooring/athena-noir-spc-flooring",
+  },
+  {
+    id: "hera-marble-spc-flooring",
+    label: "Hera Marble SPC Flooring",
+    image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/hrh.jpg",
+    href: "/flooring/hera-marble-spc-flooring/hera-marble-spc-flooring",
+  },
+  {
+    id: "ares-carrera-spc-flooring",
+    label: "Ares Carrera SPC Flooring",
+    image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/t5y.jpg",
+    href: "/flooring/ares-carrera-spc-flooring/ares-carrera-spc-flooring",
+  },
+  {
+    id: "reve-pearl-spc-flooring",
+    label: "Reve Pearl SPC Flooring",
+    image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/syjryjr.jpg",
+    href: "/flooring/reve-pearl-spc-flooring/reve-pearl-spc-flooring",
+  },
+  {
+    id: "reve-dark-grey-spc-flooring",
+    label: "Reve Dark Grey SPC Flooring",
+    image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/yujyrsj.jpg",
+    href: "/flooring/reve-dark-grey-spc-flooring/reve-dark-grey-spc-flooring",
+  },
+];
+
+mergeCollectionItems("flooring/spc-flooring", GIAVANI_FLOORING_SPC_ITEMS);
+
+const AQUA_TRIM_IDS = new Set([
+  "aluminium-corner-strip-black-wp-07-11-61-62-300cm-1-pack-10pcs",
+  "aluminium-end-strip-black-wp-05-07-11-61-62-300cm-1-pack-10pcs",
+  "aluminium-i-strip-black-wp-05-07-11-61-62-300cm-1-pack-10pcs",
+  "pvc-corner-strip-a-white-marble-wp-07-11-240cm-1-pack-10pcs",
+  "wall-panel-pvc-strip-a-wp-05-240cm-1-pack-10pcs",
+  "pvc-strip-b-a-white-marble-wp-0711-240cm-1-pack-10pcs",
+]);
+
+function moveAquaPanelTrims() {
+  const page = COLLECTION_PAGES["panels/aqua-panels"];
+  if (!page || COLLECTION_PAGES["panels/aqua-panels/trims"]) return;
+
+  const trims = page.items.filter((item) => AQUA_TRIM_IDS.has(item.id));
+  if (!trims.length) return;
+
+  page.items = page.items.filter((item) => !AQUA_TRIM_IDS.has(item.id));
+  page.items.push({
+    id: "trims",
+    label: "Trims",
+    image: trims[0].image,
+    href: "/panels/aqua-panels/trims",
+  });
+
+  COLLECTION_PAGES["panels/aqua-panels/trims"] = {
+    key: "panels/aqua-panels/trims",
+    categorySlug: "panels",
+    slug: "trims",
+    title: "Trims",
+    description:
+      "Corner, end and joining trims for the 60 cm PVC Panels range. Supplied by Haris Building Solutions.",
+    image: trims[0].image,
+    heroImage: trims[0].image,
+    itemsHeading: "View Our Range",
+    items: trims,
+  };
+}
+
+moveAquaPanelTrims();
 
 export function getProductPage(
   categorySlug: string,

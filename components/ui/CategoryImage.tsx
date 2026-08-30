@@ -50,26 +50,31 @@ export default function CategoryImage({
     );
   }
 
-  const isHeader = variant === "hero" || variant === "banner";
-
   return (
-    <RemoteImage
-      src={fullSrc}
-      alt={alt}
-      {...(isHeader
-        ? {
-            width: 1920,
-            height: 600,
-            style: { width: "100%", height: "auto" },
-          }
-        : { fill: true })}
-      priority={priority}
-      sizes={VARIANT_SIZES[variant]}
-      quality={90}
-      className={`${isHeader ? "h-auto w-full" : VARIANT_FIT[variant]} ${
-        variant === "product" ? "bg-white" : ""
-      } ${className}`.trim()}
-      onError={() => setHasError(true)}
-    />
+    <>
+      {variant === "card" ? (
+        <RemoteImage
+          src={fullSrc}
+          alt=""
+          fill
+          aria-hidden
+          sizes={VARIANT_SIZES.card}
+          quality={40}
+          className="pointer-events-none scale-125 object-cover object-center blur-2xl saturate-150"
+        />
+      ) : null}
+      <RemoteImage
+        src={fullSrc}
+        alt={alt}
+        fill
+        priority={priority}
+        sizes={VARIANT_SIZES[variant]}
+        quality={90}
+        className={`${VARIANT_FIT[variant]} ${
+          variant === "product" ? "bg-white" : "z-[1]"
+        } ${className}`.trim()}
+        onError={() => setHasError(true)}
+      />
+    </>
   );
 }

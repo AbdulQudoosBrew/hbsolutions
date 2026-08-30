@@ -19,7 +19,7 @@ export default function ProductCategoryCard({
       href={href}
       className="group relative flex flex-col items-center overflow-hidden"
     >
-      <div className="relative aspect-square w-full overflow-hidden bg-[#000000]/50">
+      <div className="relative aspect-square w-full overflow-hidden">
         <CategoryImage
           src={image}
           alt={label}

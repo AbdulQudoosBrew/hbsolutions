@@ -16,6 +16,8 @@ export type CategoryPageData = {
   description: string;
   heroImage?: string;
   bannerImage?: string;
+  /** Build the page header from collection card images. */
+  heroMosaic?: boolean;
   /** Section title above the grid. Defaults to "View Our Collection". */
   collectionHeading?: string;
   /** Card image ratio. Accessories uses portrait like the reference site. */
@@ -232,76 +234,6 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
     collectionHeading: "View Our Collection",
     collections: [
       STRING_SPC_CATEGORY_CARD,
-      {
-        id: "product/7524",
-        label: "Cairo SPC Flooring",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2026/02/thumbnail-32.jpg",
-        href: "/flooring/7524",
-      },
-      {
-        id: "product/clawson-oak-spc-flooring",
-        label: "Clawson SPC Flooring",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2026/02/thumbnail-33.jpg",
-        href: "/flooring/clawson-oak-spc-flooring",
-      },
-      {
-        id: "product/dynasty-black-spc-flooring",
-        label: "Dynasty Black SPC Flooring",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2026/04/floor.jpg",
-        href: "/flooring/dynasty-black-spc-flooring",
-      },
-      {
-        id: "product/olympus-beige-spc-flooring",
-        label: "Olympus Beige SPC Flooring",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2026/02/thumbnail-35.jpg",
-        href: "/flooring/olympus-beige-spc-flooring",
-      },
-      {
-        id: "product/juno-grey-spc-flooring",
-        label: "Juno Grey SPC Flooring",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2023/12/rgrg.jpg",
-        href: "/flooring/juno-grey-spc-flooring",
-      },
-      {
-        id: "product/athena-noir-spc-flooring",
-        label: "Athena Noir SPC Flooring",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2023/12/ytyur.jpg",
-        href: "/flooring/athena-noir-spc-flooring",
-      },
-      {
-        id: "product/hera-marble-spc-flooring",
-        label: "Hera Marble SPC Flooring",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2023/12/hrh.jpg",
-        href: "/flooring/hera-marble-spc-flooring",
-      },
-      {
-        id: "product/ares-carrera-spc-flooring",
-        label: "Ares Carrera SPC Flooring",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2023/12/t5y.jpg",
-        href: "/flooring/ares-carrera-spc-flooring",
-      },
-      {
-        id: "product/reve-pearl-spc-flooring",
-        label: "Reve Pearl SPC Flooring",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2023/12/syjryjr.jpg",
-        href: "/flooring/reve-pearl-spc-flooring",
-      },
-      {
-        id: "product/reve-dark-grey-spc-flooring",
-        label: "Reve Dark Grey SPC Flooring",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2023/12/yujyrsj.jpg",
-        href: "/flooring/reve-dark-grey-spc-flooring",
-      },
     ],
   },
   furniture: {
@@ -593,7 +525,7 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
         id: "panels/aqua-panels",
         label: "60 cm PVC Panels",
         image:
-          "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/AlumCornerStripBlack_c0a2ae50-aa1e-4d75-8e31-99f03b319f59.jpg",
+          "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05A.png",
         href: "/panels/aqua-panels",
       },
       {
@@ -1241,8 +1173,7 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
     title: "Bathrooms",
     description:
       "Explore our full bathrooms range — sanitaryware, taps, showers, baths, bath screens, shower enclosures, wetroom screens, shower trays, bath furniture, heating and mirrors — selected for performance, style and lasting value.",
-    heroImage:
-      "https://giavanibathrooms.com/wp-content/uploads/2026/05/web-header-scaled.jpg",
+    heroMosaic: true,
     collectionHeading: "Bathroom Categories",
     collections: [
       {

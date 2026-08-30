@@ -8,8 +8,7 @@ interface CategoryPageViewProps {
 }
 
 export default function CategoryPageView({ category }: CategoryPageViewProps) {
-  const collectionHeading =
-    category.collectionHeading ?? "View Our Collection";
+  const collectionHeading = category.collectionHeading ?? "View Our Collection";
   const isPortrait = category.collectionAspect === "portrait";
 
   return (
@@ -44,8 +43,29 @@ export default function CategoryPageView({ category }: CategoryPageViewProps) {
         </div>
       </Container>
 
-      {category.heroImage ? (
-        <div className="relative w-full overflow-hidden bg-[#f0f0f0]">
+      {category.heroMosaic && category.collections.length ? (
+        <div className="grid h-[240px] w-full grid-cols-4 grid-rows-3 sm:h-[300px] sm:grid-cols-6 sm:grid-rows-2 lg:h-[400px] lg:grid-cols-11 lg:grid-rows-1">
+          {category.collections.map((collection, index) => (
+            <Link
+              key={`hero-${collection.id}`}
+              href={collection.href}
+              className="group relative min-h-0 overflow-hidden bg-[#111111]"
+            >
+              <CategoryImage
+                src={collection.image}
+                alt={collection.label}
+                variant="hero"
+                priority={index === 0}
+                className="object-cover transition-transform duration-500 group-hover:scale-105"
+              />
+              <span className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/75 via-black/25 to-transparent px-1 pb-2 pt-8 text-center text-[8px] font-medium uppercase leading-tight tracking-[0.12em] text-white sm:text-[9px] lg:pb-3 lg:text-[10px] lg:tracking-[0.14em]">
+                {collection.label}
+              </span>
+            </Link>
+          ))}
+        </div>
+      ) : category.heroImage ? (
+        <div className="relative h-[220px] w-full overflow-hidden bg-[#f0f0f0] sm:h-[280px] md:h-[340px] lg:h-[400px]">
           <CategoryImage
             src={category.heroImage}
             alt={category.title}
@@ -56,7 +76,7 @@ export default function CategoryPageView({ category }: CategoryPageViewProps) {
       ) : null}
 
       {category.bannerImage ? (
-        <div className="relative w-full overflow-hidden bg-[#f0f0f0]">
+        <div className="relative h-[160px] w-full overflow-hidden bg-[#f0f0f0] sm:h-[200px] md:h-[240px] lg:h-[280px]">
           <CategoryImage
             src={category.bannerImage}
             alt={`${category.title} banner`}
@@ -90,7 +110,7 @@ export default function CategoryPageView({ category }: CategoryPageViewProps) {
               className="group flex flex-col items-center text-center"
             >
               <div
-                className={`relative w-full overflow-hidden bg-[#000000]/50 ${
+                className={`relative w-full overflow-hidden ${
                   isPortrait ? "aspect-[3/4]" : "aspect-square"
                 }`}
               >
