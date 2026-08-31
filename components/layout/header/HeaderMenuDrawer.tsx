@@ -81,42 +81,51 @@ export default function HeaderMenuDrawer() {
                 >
                   {hasChildren ? (
                     <div>
-                      <button
-                        type="button"
-                        onClick={() =>
-                          setExpandedGroup(isExpanded ? null : category.id)
-                        }
-                        className="flex w-full items-center justify-between py-2 text-sm font-medium uppercase tracking-[0.2em] text-white/80 transition-colors duration-300 hover:text-white"
-                        aria-expanded={isExpanded}
-                      >
-                        {category.label}
-                        <svg
-                          className={`h-4 w-4 transition-transform duration-300 ${
-                            isExpanded ? "rotate-180" : ""
-                          }`}
-                          fill="none"
-                          stroke="currentColor"
-                          viewBox="0 0 24 24"
-                          aria-hidden
+                      <div className="flex items-center gap-2">
+                        <Link
+                          href={category.href}
+                          onClick={closeMenu}
+                          className="flex-1 py-2 text-sm font-medium uppercase tracking-[0.2em] text-white/80 transition-colors duration-300 hover:text-white"
                         >
-                          <path
-                            strokeLinecap="round"
-                            strokeLinejoin="round"
-                            strokeWidth={2}
-                            d="M19 9l-7 7-7-7"
-                          />
-                        </svg>
-                      </button>
+                          {category.label}
+                        </Link>
+                        <button
+                          type="button"
+                          onClick={() =>
+                            setExpandedGroup(isExpanded ? null : category.id)
+                          }
+                          className="flex h-10 w-10 items-center justify-center text-white/80 transition-colors duration-300 hover:text-white"
+                          aria-expanded={isExpanded}
+                          aria-label={`Show ${category.label} collections`}
+                        >
+                          <svg
+                            className={`h-4 w-4 transition-transform duration-300 ${
+                              isExpanded ? "rotate-180" : ""
+                            }`}
+                            fill="none"
+                            stroke="currentColor"
+                            viewBox="0 0 24 24"
+                            aria-hidden
+                          >
+                            <path
+                              strokeLinecap="round"
+                              strokeLinejoin="round"
+                              strokeWidth={2}
+                              d="M19 9l-7 7-7-7"
+                            />
+                          </svg>
+                        </button>
+                      </div>
 
                       <ul
-                        className={`overflow-hidden border-l border-white/10 pl-4 transition-all duration-300 ${
+                        className={`overflow-y-auto border-l border-white/10 pl-4 transition-all duration-300 ${
                           isExpanded
-                            ? "mt-1 max-h-80 opacity-100"
-                            : "max-h-0 opacity-0"
+                            ? "mt-1 max-h-[50vh] opacity-100"
+                            : "max-h-0 overflow-hidden opacity-0"
                         }`}
                       >
                         {category.children?.map((child) => (
-                          <li key={child.id}>
+                          <li key={`${category.id}-${child.id}`}>
                             <Link
                               href={child.href}
                               onClick={closeMenu}

@@ -2,6 +2,7 @@ import { AWS_CATEGORY_PAGES } from "./awsPages";
 import { SILICONE_CATEGORY } from "./siliconePages";
 import { KITCHENS_CATEGORY } from "./kitchenPages";
 import { STRING_SPC_CATEGORY_CARD } from "./stringSpcFlooringPages";
+import { CORNERS_CATEGORY } from "./cornerTrimPages";
 
 export type CategoryCollection = {
   id: string;
@@ -232,9 +233,7 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
     bannerImage:
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/flooring-1.jpg",
     collectionHeading: "View Our Collection",
-    collections: [
-      STRING_SPC_CATEGORY_CARD,
-    ],
+    collections: [STRING_SPC_CATEGORY_CARD],
   },
   furniture: {
     slug: "furniture",
@@ -524,8 +523,7 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
       {
         id: "panels/aqua-panels",
         label: "60 cm PVC Panels",
-        image:
-          "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05A.png",
+        image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05A.png",
         href: "/panels/aqua-panels",
       },
       {
@@ -569,12 +567,6 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/LED01.png",
         href: "/panels/panel-lighting",
-      },
-      {
-        id: "panels/trims",
-        label: "TRIMS",
-        image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/81A.png",
-        href: "/panels/trims",
       },
       {
         id: "panels/wall-panel-62-series",
@@ -1261,85 +1253,12 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
     title: "Artificial Grass",
     description:
       "Discover our Artificial Grass range from Haris Building Solutions. Quality products selected for performance, style and lasting value.",
-    heroImage:
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/category-header13.jpg",
-    bannerImage:
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/flooring-1.jpg",
+    heroImage: "/images/artificial-grass.jpg",
     collectionHeading: "View Our Collection",
-    collections: [
-      {
-        id: "product/7524",
-        label: "Cairo SPC Flooring",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2026/02/thumbnail-32.jpg",
-        href: "/flooring/7524",
-      },
-      {
-        id: "product/clawson-oak-spc-flooring",
-        label: "Clawson SPC Flooring",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2026/02/thumbnail-33.jpg",
-        href: "/flooring/clawson-oak-spc-flooring",
-      },
-      {
-        id: "product/dynasty-black-spc-flooring",
-        label: "Dynasty Black SPC Flooring",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2026/04/floor.jpg",
-        href: "/flooring/dynasty-black-spc-flooring",
-      },
-      {
-        id: "product/olympus-beige-spc-flooring",
-        label: "Olympus Beige SPC Flooring",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2026/02/thumbnail-35.jpg",
-        href: "/flooring/olympus-beige-spc-flooring",
-      },
-      {
-        id: "product/juno-grey-spc-flooring",
-        label: "Juno Grey SPC Flooring",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2023/12/rgrg.jpg",
-        href: "/flooring/juno-grey-spc-flooring",
-      },
-      {
-        id: "product/athena-noir-spc-flooring",
-        label: "Athena Noir SPC Flooring",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2023/12/ytyur.jpg",
-        href: "/flooring/athena-noir-spc-flooring",
-      },
-      {
-        id: "product/hera-marble-spc-flooring",
-        label: "Hera Marble SPC Flooring",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2023/12/hrh.jpg",
-        href: "/flooring/hera-marble-spc-flooring",
-      },
-      {
-        id: "product/ares-carrera-spc-flooring",
-        label: "Ares Carrera SPC Flooring",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2023/12/t5y.jpg",
-        href: "/flooring/ares-carrera-spc-flooring",
-      },
-      {
-        id: "product/reve-pearl-spc-flooring",
-        label: "Reve Pearl SPC Flooring",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2023/12/syjryjr.jpg",
-        href: "/flooring/reve-pearl-spc-flooring",
-      },
-      {
-        id: "product/reve-dark-grey-spc-flooring",
-        label: "Reve Dark Grey SPC Flooring",
-        image:
-          "https://giavanibathrooms.com/wp-content/uploads/2023/12/yujyrsj.jpg",
-        href: "/flooring/reve-dark-grey-spc-flooring",
-      },
-    ],
+    collections: [],
   },
   silicone: SILICONE_CATEGORY,
+  corners: CORNERS_CATEGORY,
 
   "ceiling-tiles": {
     slug: "ceiling-tiles",

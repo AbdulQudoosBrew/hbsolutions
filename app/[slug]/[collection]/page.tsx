@@ -1,12 +1,14 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import CollectionPageView from "@/components/category/CollectionPageView";
+import ProductPageView from "@/components/category/ProductPageView";
 import Footer from "@/components/layout/Footer";
 import Header from "@/components/layout/Header";
 import WhatsAppButton from "@/components/ui/WhatsAppButton";
 import {
   getAllCollectionParams,
   getCollectionPage,
+  getCollectionProductPage,
 } from "@/lib/constants/collectionPages";
 import { getCategoryPage } from "@/lib/constants/categoryPages";
 import { COMPANY } from "@/lib/constants/siteData";
@@ -25,6 +27,14 @@ export async function generateMetadata({
   params,
 }: CollectionRouteProps): Promise<Metadata> {
   const { slug, collection } = await params;
+  const product = getCollectionProductPage(slug, collection);
+  if (product) {
+    return {
+      title: `${product.title} - ${COMPANY.name}`,
+      description: product.description,
+    };
+  }
+
   const page = getCollectionPage(slug, collection);
   const category = getCategoryPage(slug);
 
@@ -44,9 +54,29 @@ export default async function CollectionRoutePage({
   const { slug, collection } = await params;
   const page = getCollectionPage(slug, collection);
   const category = getCategoryPage(slug);
+  const product = getCollectionProductPage(slug, collection);
 
   if (!page || !category) {
     notFound();
+  }
+
+  if (product) {
+    return (
+      <>
+        <Header />
+        <main>
+          <ProductPageView
+            product={product}
+            categoryTitle={category.title}
+            categoryHref={`/${category.slug}`}
+            collectionTitle={page.title}
+            collectionHref={`/${category.slug}`}
+          />
+        </main>
+        <Footer />
+        <WhatsAppButton />
+      </>
+    );
   }
 
   return (

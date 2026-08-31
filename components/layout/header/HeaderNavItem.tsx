@@ -24,8 +24,9 @@ export default function HeaderNavItem({
 
   return (
     <div className="group relative">
-      <button
-        type="button"
+      <Link
+        href={category.href}
+        onClick={onNavigate}
         className="inline-flex items-center gap-1.5 text-[11px] font-medium uppercase tracking-[0.15em] text-white/80 transition-colors duration-300 group-hover:text-white"
         aria-haspopup="true"
       >
@@ -44,10 +45,10 @@ export default function HeaderNavItem({
             d="M19 9l-7 7-7-7"
           />
         </svg>
-      </button>
+      </Link>
 
-      <div className="invisible absolute top-full left-1/2 z-[60] min-w-[220px] -translate-x-1/2 pt-3 opacity-0 transition-all duration-300 group-hover:visible group-hover:opacity-100">
-        <ul className="border border-white/10 bg-[#000000] py-2 shadow-xl">
+      <div className="invisible absolute top-full left-1/2 z-[60] min-w-[220px] max-w-[min(90vw,320px)] -translate-x-1/2 pt-3 opacity-0 transition-all duration-300 group-hover:visible group-hover:opacity-100">
+        <ul className="max-h-[70vh] overflow-y-auto border border-white/10 bg-[#000000] py-2 shadow-xl">
           {category.children?.map((child) => (
             <li key={`${category.id}-${child.id}`}>
               <Link

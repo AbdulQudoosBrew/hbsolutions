@@ -16,6 +16,7 @@ import {
   STRING_ACOUSTIC_ITEMS,
   STRING_ACOUSTIC_PRODUCTS,
 } from "./stringAcousticPages";
+import { CORNER_COLLECTIONS, CORNER_PRODUCTS } from "./cornerTrimPages";
 
 export type CollectionItem = {
   id: string;
@@ -16388,7 +16389,37 @@ function mergeCollectionItems(
     : [...page.items, ...incoming];
 }
 
+function classic10mmColourRank(item: CollectionItem): number {
+  const text = `${item.label} ${item.id}`.toLowerCase();
+  if (/\bgold\b|\boro\b/.test(text)) return 0;
+  if (
+    /\bwhite\b|\bgalaxy\b|\bcalacatta\b|\bcarrera\b|\bcalcutta\b|\bstutario\b|\bpergamon\b|\btimeless\b|invisible marble|gloss white/.test(
+      text,
+    ) &&
+    !/\bnero\b/.test(text)
+  ) {
+    return 1;
+  }
+  if (
+    /chevron|honeycomb|honeycombe|milano|moccaccino|london tile/.test(text)
+  ) {
+    return 3;
+  }
+  return 2;
+}
+
+function sortClassic10mmByColour() {
+  const page = COLLECTION_PAGES["panels/classic-10mm"];
+  if (!page) return;
+  page.items = [...page.items].sort((a, b) => {
+    const rank = classic10mmColourRank(a) - classic10mmColourRank(b);
+    if (rank !== 0) return rank;
+    return a.label.localeCompare(b.label);
+  });
+}
+
 mergeCollectionItems("panels/classic-10mm", STRING_SHOWER_ITEMS);
+sortClassic10mmByColour();
 mergeCollectionItems("panels/classic-8mm", STRING_CLADDING_ITEMS);
 mergeCollectionItems("panels/acoustic-panels", STRING_ACOUSTIC_ITEMS, true);
 Object.assign(PRODUCT_PAGES, STRING_SHOWER_PRODUCTS);
@@ -16396,6 +16427,8 @@ Object.assign(PRODUCT_PAGES, STRING_CLADDING_PRODUCTS);
 Object.assign(COLLECTION_PAGES, STRING_SPC_COLLECTIONS);
 Object.assign(PRODUCT_PAGES, STRING_SPC_PRODUCTS);
 Object.assign(PRODUCT_PAGES, STRING_ACOUSTIC_PRODUCTS);
+Object.assign(COLLECTION_PAGES, CORNER_COLLECTIONS);
+Object.assign(PRODUCT_PAGES, CORNER_PRODUCTS);
 
 const GIAVANI_FLOORING_SPC_ITEMS: CollectionItem[] = [
   {
@@ -16505,6 +16538,40 @@ function moveAquaPanelTrims() {
 
 moveAquaPanelTrims();
 
+const ACOUSTIC_OAK_TRIM_ID = "wall-panel-81a-trim-oak-240cm-1-pack-10pcs";
+
+function moveOakTrimToAcoustic() {
+  const fromKey = `panels/trims/${ACOUSTIC_OAK_TRIM_ID}`;
+  const toKey = "corners/acoustic-panels-trims";
+  const product = PRODUCT_PAGES[fromKey];
+  const from = COLLECTION_PAGES["panels/trims"];
+  const to = COLLECTION_PAGES[toKey];
+  if (!product || !to) return;
+
+  if (from) {
+    from.items = from.items.filter((item) => item.id !== ACOUSTIC_OAK_TRIM_ID);
+    if (!from.items.length) {
+      delete COLLECTION_PAGES["panels/trims"];
+    }
+  }
+
+  to.items = to.items.filter((item) => item.id !== ACOUSTIC_OAK_TRIM_ID);
+  to.image = product.image;
+  to.heroImage = product.image;
+
+  PRODUCT_PAGES[toKey] = {
+    ...product,
+    key: toKey,
+    categorySlug: "corners",
+    collectionSlug: "acoustic-panels-trims",
+    slug: ACOUSTIC_OAK_TRIM_ID,
+  };
+  delete PRODUCT_PAGES[fromKey];
+  delete PRODUCT_PAGES[`${toKey}/${ACOUSTIC_OAK_TRIM_ID}`];
+}
+
+moveOakTrimToAcoustic();
+
 export function getProductPage(
   categorySlug: string,
   collectionSlug: string,
@@ -16515,12 +16582,21 @@ export function getProductPage(
   );
 }
 
+export function getCollectionProductPage(
+  categorySlug: string,
+  collectionSlug: string,
+): ProductPageData | null {
+  return PRODUCT_PAGES[`${categorySlug}/${collectionSlug}`] ?? null;
+}
+
 export function getAllProductParams(): {
   slug: string;
   collection: string;
   product: string;
 }[] {
-  return Object.values(PRODUCT_PAGES).map((page) => ({
+  return Object.values(PRODUCT_PAGES)
+    .filter((page) => page.key.split("/").length === 3)
+    .map((page) => ({
     slug: page.categorySlug,
     collection: page.collectionSlug,
     product: page.slug,

@@ -1,3 +1,5 @@
+import { CATEGORY_PAGES } from "./categoryPages";
+
 export const COMPANY = {
   name: "Haris Building Solutions",
   shortName: "HBS",
@@ -18,223 +20,6 @@ export type NavCategory = {
   children?: NavChild[];
 };
 
-export const NAV_CATEGORIES: NavCategory[] = [
-  {
-    id: "bathrooms",
-    label: "Bathrooms",
-    href: "/bathrooms",
-    children: [
-      { id: "sanitaryware", label: "Sanitaryware", href: "/sanitaryware" },
-      { id: "taps", label: "Taps", href: "/taps" },
-      { id: "showers", label: "Showers", href: "/showers" },
-      { id: "baths", label: "Baths", href: "/baths" },
-      { id: "bath-screens", label: "Bath Screens", href: "/bath-screens" },
-      {
-        id: "shower-enclosures",
-        label: "Shower Enclosures",
-        href: "/shower-enclosures",
-      },
-      {
-        id: "wetroom-screens",
-        label: "Wetroom Screens",
-        href: "/wetroom-screens",
-      },
-      { id: "shower-trays", label: "Shower Trays", href: "/shower-trays" },
-      { id: "furniture", label: "Bath Furniture", href: "/furniture" },
-      { id: "heating", label: "Heating", href: "/heating" },
-      { id: "mirrors-cabinets", label: "Mirrors", href: "/mirrors-cabinets" },
-    ],
-  },
-  {
-    id: "panels",
-    label: "Panels",
-    href: "/panels",
-    children: [
-      { id: "panels", label: "Panels", href: "/panels" },
-      { id: "wpc-panels", label: "WPC Panels", href: "/wpc-panels" },
-      { id: "solid-panels", label: "Solid Panels", href: "/solid-panels" },
-      {
-        id: "ceiling-panels",
-        label: "Ceiling Panels",
-        href: "/ceiling-panels",
-      },
-    ],
-  },
-  {
-    id: "ceiling",
-    label: "Ceiling",
-    href: "/ceiling-tiles",
-    children: [
-      {
-        id: "ceiling-panels",
-        label: "Ceiling Panels",
-        href: "/ceiling-panels",
-      },
-      { id: "ceiling-tiles", label: "Ceiling Tiles", href: "/ceiling-tiles" },
-    ],
-  },
-  { id: "flooring", label: "Flooring", href: "/flooring" },
-  { id: "wall-tiles", label: "Wall Tiles", href: "/wall-tiles" },
-  { id: "kitchens", label: "Kitchens", href: "/kitchens" },
-  {
-    id: "artificial-grass",
-    label: "Artificial Grass",
-    href: "/artificial-grass",
-  },
-  {
-    id: "silicone",
-    label: "Silicone",
-    href: "/silicone",
-    children: [
-      { id: "ct1", label: "CT1", href: "/silicone/ct1" },
-      { id: "bt1", label: "BT1", href: "/silicone/bt1" },
-      { id: "bw1", label: "BW1", href: "/silicone/bw1" },
-      { id: "fc1", label: "FC1", href: "/silicone/fc1" },
-      {
-        id: "fc1-patch-and-fill",
-        label: "FC1 Patch & Fill",
-        href: "/silicone/fc1-patch-and-fill",
-      },
-      { id: "miracle-seal", label: "Miracle Seal", href: "/silicone/miracle-seal" },
-      { id: "multisolve", label: "MultiSolve 500ml", href: "/silicone/multisolve" },
-      { id: "peel-tec", label: "Peel Tec 500ml", href: "/silicone/peel-tec" },
-      {
-        id: "power-grab-n-bond",
-        label: "Power Grab n Bond",
-        href: "/silicone/power-grab-n-bond",
-      },
-      {
-        id: "super-fast-plus-50ml",
-        label: "Superfast Plus 50ml",
-        href: "/silicone/super-fast-plus-50ml",
-      },
-      {
-        id: "superfast-plus-20ml",
-        label: "Superfast Plus 20ml",
-        href: "/silicone/superfast-plus-20ml",
-      },
-      {
-        id: "super-fast-plus-activator",
-        label: "Superfast Plus Activator",
-        href: "/silicone/super-fast-plus-activator",
-      },
-      {
-        id: "ct1-caulking-gun",
-        label: "CT1 Caulking Gun",
-        href: "/silicone/ct1-caulking-gun",
-      },
-    ],
-  },
-  { id: "accessories", label: "Accessories", href: "/accessories" },
-  {
-    id: "verandas",
-    label: "Verandas",
-    href: "/verandas",
-    children: [
-      {
-        id: "aluminium-verandas",
-        label: "Aluminium Verandas",
-        href: "/verandas/aluminium-verandas",
-      },
-      {
-        id: "glass-sliding-doors",
-        label: "Glass Sliding Doors",
-        href: "/verandas/glass-sliding-doors",
-      },
-      {
-        id: "louvered-roofs",
-        label: "Louvered Roofs",
-        href: "/verandas/louvered-roofs",
-      },
-      {
-        id: "folding-roofs",
-        label: "Folding Roofs",
-        href: "/verandas/folding-roofs",
-      },
-    ],
-  },
-  {
-    id: "home-furniture",
-    label: "Furniture",
-    href: "/home-furniture",
-    children: [
-      {
-        id: "dining-tables",
-        label: "Dining Tables",
-        href: "/home-furniture/dining-tables",
-      },
-      { id: "chairs", label: "Chairs", href: "/home-furniture/chairs" },
-      { id: "sofas", label: "Sofas", href: "/home-furniture/sofas" },
-      { id: "oak", label: "Oak", href: "/home-furniture/oak" },
-      { id: "beds", label: "Beds / Mattresses", href: "/home-furniture/beds" },
-      {
-        id: "decorative-mirrors",
-        label: "Mirrors",
-        href: "/decorative-mirrors",
-      },
-      { id: "clocks", label: "Clocks", href: "/clocks" },
-      { id: "home-lighting", label: "Lighting", href: "/home-lighting" },
-    ],
-  },
-  {
-    id: "wall-panelling",
-    label: "Wall Panelling",
-    href: "/panels/",
-    children: [
-      {
-        id: "acoustic-wall-panels",
-        label: "Acoustic Panels",
-        href: "/panels/acoustic-panels",
-      },
-      {
-        id: "aqua-panels",
-        label: "60 cm PVC Panels",
-        href: "/panels/aqua-panels",
-      },
-      { id: "wall-panels", label: "Wall Panels", href: "/panels/wall-panels" },
-      { id: "ceilings", label: "Ceilings", href: "/panels/ceilings" },
-    ],
-  },
-  {
-    id: "outdoor",
-    label: "Outdoor",
-    href: "/outdoor",
-    children: [
-      {
-        id: "outdoor-panels",
-        label: "Outdoor Panels",
-        href: "/outdoor/outdoor-panels",
-      },
-      { id: "cladding", label: "Cladding", href: "/outdoor/cladding" },
-      { id: "decking", label: "Decking", href: "/outdoor/decking" },
-      { id: "fencing", label: "Fencing", href: "/outdoor/fencing" },
-    ],
-  },
-  {
-    id: "corners",
-    label: "Corners",
-    href: "/corners",
-    children: [
-      {
-        id: "angle-trims",
-        label: "Angle Trims / L Shape",
-        href: "/angle-trims",
-      },
-      { id: "end-cap", label: "End Cap", href: "/end-cap" },
-      {
-        id: "internal-corner",
-        label: "Internal Corner",
-        href: "/internal-corner",
-      },
-      {
-        id: "external-corner",
-        label: "External Corner",
-        href: "/external-corner",
-      },
-      { id: "fascia", label: "Fascia", href: "/fascia" },
-    ],
-  },
-];
 
 export const HERO_SLIDES = [
   {
@@ -332,8 +117,7 @@ export const PRODUCT_CATEGORIES = [
   {
     id: "artificial-grass",
     label: "Artificial Grass",
-    image:
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/flooring-1.jpg",
+    image: "/images/artificial-grass.jpg",
   },
   {
     id: "silicone",
@@ -369,9 +153,25 @@ export const PRODUCT_CATEGORIES = [
     id: "corners",
     label: "Corners",
     image:
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/accessories.jpg",
+      "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/81A.png",
   },
 ] as const;
+
+export const NAV_CATEGORIES: NavCategory[] = PRODUCT_CATEGORIES.map((cat) => {
+  const collections = CATEGORY_PAGES[cat.id]?.collections ?? [];
+  const children: NavChild[] = collections.map((item) => ({
+    id: item.id,
+    label: item.label.replace(/\s+/g, " ").trim(),
+    href: item.href,
+  }));
+
+  return {
+    id: cat.id,
+    label: cat.label,
+    href: `/${cat.id}`,
+    ...(children.length ? { children } : {}),
+  };
+});
 
 export const EXPERIENCE_SECTION = {
   title: "Your Partner in Building Materials",
