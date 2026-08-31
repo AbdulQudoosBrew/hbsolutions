@@ -42,7 +42,7 @@ export default function CategoryImage({
     return (
       <div
         className={`flex h-full w-full items-center justify-center ${
-          variant === "product" ? "bg-white" : "bg-[#e8e8e8]"
+          variant === "hero" || variant === "banner" ? "bg-[#e8e8e8]" : "bg-white"
         }`}
       >
         <span className="text-4xl text-[#dddddd]">◆</span>
@@ -51,30 +51,17 @@ export default function CategoryImage({
   }
 
   return (
-    <>
-      {variant === "card" ? (
-        <RemoteImage
-          src={fullSrc}
-          alt=""
-          fill
-          aria-hidden
-          sizes={VARIANT_SIZES.card}
-          quality={40}
-          className="pointer-events-none scale-125 object-cover object-center blur-2xl saturate-150"
-        />
-      ) : null}
-      <RemoteImage
-        src={fullSrc}
-        alt={alt}
-        fill
-        priority={priority}
-        sizes={VARIANT_SIZES[variant]}
-        quality={90}
-        className={`${VARIANT_FIT[variant]} ${
-          variant === "product" ? "bg-white" : "z-[1]"
-        } ${className}`.trim()}
-        onError={() => setHasError(true)}
-      />
-    </>
+    <RemoteImage
+      src={fullSrc}
+      alt={alt}
+      fill
+      priority={priority}
+      sizes={VARIANT_SIZES[variant]}
+      quality={90}
+      className={`${VARIANT_FIT[variant]} ${
+        variant === "hero" || variant === "banner" ? "" : "bg-white"
+      } ${className}`.trim()}
+      onError={() => setHasError(true)}
+    />
   );
 }
