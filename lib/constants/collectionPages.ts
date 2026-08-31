@@ -17,6 +17,10 @@ import {
   STRING_ACOUSTIC_PRODUCTS,
 } from "./stringAcousticPages";
 import { CORNER_COLLECTIONS, CORNER_PRODUCTS } from "./cornerTrimPages";
+import {
+  STRING_ACCESSORY_COLLECTIONS,
+  STRING_ACCESSORY_PRODUCTS,
+} from "./stringAccessoriesPages";
 
 export type CollectionItem = {
   id: string;
@@ -16429,6 +16433,8 @@ Object.assign(PRODUCT_PAGES, STRING_SPC_PRODUCTS);
 Object.assign(PRODUCT_PAGES, STRING_ACOUSTIC_PRODUCTS);
 Object.assign(COLLECTION_PAGES, CORNER_COLLECTIONS);
 Object.assign(PRODUCT_PAGES, CORNER_PRODUCTS);
+Object.assign(COLLECTION_PAGES, STRING_ACCESSORY_COLLECTIONS);
+Object.assign(PRODUCT_PAGES, STRING_ACCESSORY_PRODUCTS);
 
 const GIAVANI_FLOORING_SPC_ITEMS: CollectionItem[] = [
   {

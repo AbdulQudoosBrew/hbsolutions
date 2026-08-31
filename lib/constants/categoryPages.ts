@@ -3,6 +3,7 @@ import { SILICONE_CATEGORY } from "./siliconePages";
 import { KITCHENS_CATEGORY } from "./kitchenPages";
 import { STRING_SPC_CATEGORY_CARD } from "./stringSpcFlooringPages";
 import { CORNERS_CATEGORY } from "./cornerTrimPages";
+import { STRING_ACCESSORY_CATEGORY_CARDS } from "./stringAccessoriesPages";
 
 export type CategoryCollection = {
   id: string;
@@ -31,7 +32,7 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
     slug: "accessories",
     title: "Accessories",
     description:
-      "Haris Building Solutions accessories perfectly compliment any bathroom. From high quality lighting to tile trims, we have everything you need to add the finishing touches to your dream bathroom.",
+      "Finishing products, tiling tools and site accessories from Haris Building Solutions. From bathroom fittings and lighting to tile trims, drill bits, levelling systems and protection film.",
     collectionHeading: "View Our Range",
     collectionAspect: "portrait",
     collections: [
@@ -107,6 +108,7 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
           "https://giavanibathrooms.com/wp-content/uploads/2026/03/Brushed-Bronze.jpg",
         href: "/accessories/niche",
       },
+      ...STRING_ACCESSORY_CATEGORY_CARDS,
     ],
   },
   "bath-screens": {
