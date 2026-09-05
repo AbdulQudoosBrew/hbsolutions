@@ -103,7 +103,7 @@ export default function CategoryPageView({ category }: CategoryPageViewProps) {
           ))}
         </div>
       ) : category.heroImage ? (
-        <div className="relative h-[220px] w-full overflow-hidden bg-[#f0f0f0] sm:h-[280px] md:h-[340px] lg:h-[400px]">
+        <div className="relative h-[220px] w-full overflow-hidden bg-[#ffffff] sm:h-[280px] md:h-[340px] lg:h-[400px]">
           <CategoryImage
             src={category.heroImage}
             alt={category.title}
@@ -113,7 +113,7 @@ export default function CategoryPageView({ category }: CategoryPageViewProps) {
       ) : null}
 
       {category.bannerImage ? (
-        <div className="relative h-[160px] w-full overflow-hidden bg-[#f0f0f0] sm:h-[200px] md:h-[240px] lg:h-[280px]">
+        <div className="relative h-[160px] w-full overflow-hidden bg-[#ffffff] sm:h-[200px] md:h-[240px] lg:h-[280px]">
           <CategoryImage
             src={category.bannerImage}
             alt={`${category.title} banner`}

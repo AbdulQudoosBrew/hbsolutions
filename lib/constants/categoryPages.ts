@@ -512,8 +512,7 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
       "Our specialist range of wall panels offers so many different finishes such as chevron, tiles, marble, wood and many more. You will be spoilt for choice for both living space and bathroom space. Haris Building Solutions panels are 100% waterproof and therefore are perfect for showers and bathrooms. Each of our PVC panels are extremely durable and made to the highest quality.",
     heroImage:
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/category-header12.jpg",
-    bannerImage:
-      "https://giavanibathrooms.com/wp-content/uploads/2026/03/panels-1.jpg",
+    bannerImage: "/images/panels-banner.jpg",
     collectionHeading: "View Our Collection",
     collections: [
       {

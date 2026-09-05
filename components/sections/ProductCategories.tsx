@@ -4,8 +4,16 @@ import ProductCategoryCard from "@/components/ui/ProductCategoryCard";
 import Section from "@/components/ui/Section";
 import TextSection from "@/components/ui/TextSection";
 import { PRODUCT_CATEGORIES } from "@/lib/constants/siteData";
+import { getFeaturedProducts } from "@/lib/featuredProducts";
 
-export default function ProductCategories() {
+export default async function ProductCategories() {
+  const featured = await getFeaturedProducts();
+  const categories = PRODUCT_CATEGORIES.map((category) =>
+    category.id === "featured-products" && featured[0]
+      ? { ...category, image: featured[0].image }
+      : category,
+  );
+
   return (
     <Section id="products" background="white" className="py-16 md:py-20">
       <Container size="wide">
@@ -23,7 +31,7 @@ export default function ProductCategories() {
         </FadeIn>
 
         <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 sm:gap-5 md:grid-cols-4 md:gap-6 lg:grid-cols-5">
-          {PRODUCT_CATEGORIES.map((category, index) => (
+          {categories.map((category, index) => (
             <FadeIn key={category.id} delay={index * 40}>
               <ProductCategoryCard
                 id={category.id}

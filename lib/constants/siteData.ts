@@ -87,6 +87,11 @@ export const CAROUSEL_SLIDES = [
 
 export const PRODUCT_CATEGORIES = [
   {
+    id: "featured-products",
+    label: "Featured Products",
+    image: "/images/panels-banner.jpg",
+  },
+  {
     id: "bathrooms",
     label: "Bathrooms",
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/baths.jpg",

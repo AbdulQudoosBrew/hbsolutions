@@ -97,7 +97,7 @@ export default function CollectionPageView({
       </Container>
 
       {collection.heroImage ? (
-        <div className="relative h-[220px] w-full overflow-hidden bg-[#f0f0f0] sm:h-[280px] md:h-[340px] lg:h-[400px]">
+        <div className="relative h-[220px] w-full overflow-hidden bg-[#ffffff] sm:h-[280px] md:h-[340px] lg:h-[400px]">
           <CategoryImage
             src={collection.heroImage}
             alt={collection.title}

@@ -13,13 +13,53 @@ export function toFullSizeImageUrl(src: string): string {
 
     url.pathname = url.pathname.replace(
       /-\d+x\d+(?=\.(?:jpe?g|png|webp|gif)$)/i,
-      ""
+      "",
     );
 
     return url.toString();
   } catch {
     return src.replace(/-\d+x\d+(?=\.(?:jpe?g|png|webp|gif)$)/i, "");
   }
+}
+
+type ImageFitSize = {
+  width: number;
+  height?: number;
+  quality?: number;
+};
+
+/**
+ * Ask CDNs that support it for a display-sized file.
+ * Kitchen photos on Wix are ~8MB originals; cards only need a few hundred KB.
+ */
+export function toOptimizedImageUrl(
+  src: string,
+  { width, height, quality = 80 }: ImageFitSize,
+): string {
+  if (!src || src.startsWith("/")) return src;
+
+  try {
+    const url = new URL(src);
+    const host = url.hostname;
+
+    if (host.includes("static.wixstatic.com")) {
+      const mediaPath = url.pathname.split("/v1/")[0];
+      const file = mediaPath.split("/").pop() || "image.jpg";
+      const h = height ?? width;
+      url.pathname = `${mediaPath}/v1/fill/w_${width},h_${h},al_c,q_${quality},enc_auto/${file}`;
+      url.search = "";
+      return url.toString();
+    }
+
+    if (host.includes("cdn.shopify.com")) {
+      url.searchParams.set("width", String(width));
+      return url.toString();
+    }
+  } catch {
+    return src;
+  }
+
+  return src;
 }
 
 /**

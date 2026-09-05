@@ -369,7 +369,7 @@ export default function ProductPageView({
       </Container>
 
       {product.heroImage ? (
-        <div className="relative h-[180px] w-full overflow-hidden bg-[#f0f0f0] sm:h-[220px] md:h-[260px] lg:h-[300px]">
+        <div className="relative h-[180px] w-full overflow-hidden bg-[#ffffff] sm:h-[220px] md:h-[260px] lg:h-[300px]">
           <CategoryImage
             src={product.heroImage}
             alt={product.title}
