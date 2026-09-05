@@ -18,7 +18,7 @@ export default function CollectionPageView({
     <div className="bg-white pt-[96px] sm:pt-[104px] lg:pt-[120px]">
       <Container
         size="wide"
-        className="px-4 pb-6 pt-4 sm:px-6 sm:pb-8 sm:pt-6 md:px-8 md:pb-10 md:pt-8 lg:pb-12"
+        className="px-4 pb-10 pt-4 sm:px-6 sm:pb-12 sm:pt-6 md:px-8 md:pb-16 md:pt-8 lg:pb-20"
       >
         <nav
           className="mb-4 flex flex-wrap items-center justify-center gap-x-1.5 gap-y-1 text-[10px] uppercase tracking-[0.18em] text-[#999999] sm:mb-6 sm:gap-x-2 sm:text-[11px] sm:tracking-[0.22em]"
@@ -54,24 +54,8 @@ export default function CollectionPageView({
             </p>
           ) : null}
         </div>
-      </Container>
 
-      {collection.heroImage ? (
-        <div className="relative h-[220px] w-full overflow-hidden bg-[#f0f0f0] sm:h-[280px] md:h-[340px] lg:h-[400px]">
-          <CategoryImage
-            src={collection.heroImage}
-            alt={collection.title}
-            variant="hero"
-            priority
-          />
-        </div>
-      ) : null}
-
-      <Container
-        size="wide"
-        className="px-4 py-10 sm:px-6 sm:py-12 md:px-8 md:py-16 lg:py-20"
-      >
-        <div className="mb-8 flex flex-col items-center gap-2.5 text-center sm:mb-10 sm:gap-3 md:mb-14">
+        <div className="mb-8 mt-8 flex flex-col items-center gap-2.5 text-center sm:mb-10 sm:mt-10 sm:gap-3 md:mb-14">
           <img
             src="https://giavanibathrooms.com/wp-content/uploads/2023/10/333.png"
             alt=""
@@ -111,6 +95,16 @@ export default function CollectionPageView({
           ))}
         </div>
       </Container>
+
+      {collection.heroImage ? (
+        <div className="relative h-[220px] w-full overflow-hidden bg-[#f0f0f0] sm:h-[280px] md:h-[340px] lg:h-[400px]">
+          <CategoryImage
+            src={collection.heroImage}
+            alt={collection.title}
+            variant="hero"
+          />
+        </div>
+      ) : null}
     </div>
   );
 }

@@ -21,6 +21,8 @@ import {
   STRING_ACCESSORY_COLLECTIONS,
   STRING_ACCESSORY_PRODUCTS,
 } from "./stringAccessoriesPages";
+import { normalizeDimensionText } from "@/lib/utils/normalizeDimensions";
+import { stripPricesFromText } from "@/lib/utils/stripPrices";
 
 export type CollectionItem = {
   id: string;
@@ -3212,8 +3214,9 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
     key: "panels/bosco-panels",
     categorySlug: "panels",
     slug: "bosco-panels",
-    title: "Bosco Panels",
-    description: "Explore the BOSCO range from Haris Building Solutions.",
+    title: "Solid WPC 2400mm * 300mm",
+    description:
+      "Explore the Solid WPC 2400mm * 300mm range from Haris Building Solutions.",
     heroImage:
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/wall2.jpg",
     image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/main1.jpg",
@@ -3783,7 +3786,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
     description:
       "Explore the 60 cm PVC Panels range from Haris Building Solutions. Quality wall panelling selected for performance, style and lasting value.",
     image:
-      "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05A.png",
+      "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05A_7dad8fac-0000-4a63-86a3-89b9c43acd43.png",
     itemsHeading: "View Our Range",
     items: [
       {
@@ -16577,6 +16580,94 @@ function moveOakTrimToAcoustic() {
 }
 
 moveOakTrimToAcoustic();
+
+function mergeWallPanel64Into62() {
+  const fromKey = "panels/wall-panel-64-series";
+  const toKey = "panels/wall-panel-62-series";
+  const from = COLLECTION_PAGES[fromKey];
+  const to = COLLECTION_PAGES[toKey];
+  if (!from || !to) return;
+
+  const existing = new Set(to.items.map((item) => item.id));
+
+  for (const item of from.items) {
+    const oldProductKey = `${fromKey}/${item.id}`;
+    const newProductKey = `${toKey}/${item.id}`;
+    const product = PRODUCT_PAGES[oldProductKey];
+    const label = /black line/i.test(item.label)
+      ? item.label
+      : `${item.label} with black line`;
+
+    if (product) {
+      PRODUCT_PAGES[newProductKey] = {
+        ...product,
+        key: newProductKey,
+        collectionSlug: "wall-panel-62-series",
+        title: /black line/i.test(product.title)
+          ? product.title
+          : `${product.title} with black line`,
+      };
+      delete PRODUCT_PAGES[oldProductKey];
+    }
+
+    if (!existing.has(item.id)) {
+      to.items.push({
+        ...item,
+        label,
+        href: `/${newProductKey}`,
+      });
+    }
+  }
+
+  delete COLLECTION_PAGES[fromKey];
+}
+
+mergeWallPanel64Into62();
+
+function removeWallPanel63Series() {
+  const key = "panels/wall-panel-63-series";
+  const page = COLLECTION_PAGES[key];
+  if (!page) return;
+
+  for (const item of page.items) {
+    delete PRODUCT_PAGES[`${key}/${item.id}`];
+  }
+
+  delete COLLECTION_PAGES[key];
+}
+
+removeWallPanel63Series();
+
+for (const page of Object.values(COLLECTION_PAGES)) {
+  page.title = normalizeDimensionText(page.title);
+  page.description = normalizeDimensionText(page.description);
+  for (const item of page.items) {
+    item.label = normalizeDimensionText(item.label);
+  }
+}
+
+for (const page of Object.values(PRODUCT_PAGES)) {
+  page.title = normalizeDimensionText(page.title);
+  page.description = stripPricesFromText(
+    normalizeDimensionText(page.description),
+  );
+  if (page.features) {
+    page.features = page.features.map((feature) =>
+      stripPricesFromText(normalizeDimensionText(feature)),
+    );
+  }
+  if (page.specs) {
+    page.specs = page.specs.map((spec) => ({
+      ...spec,
+      value: normalizeDimensionText(spec.value),
+    }));
+  }
+  page.sizes = page.sizes.map((size) => ({
+    ...size,
+    label: normalizeDimensionText(size.label),
+    value: normalizeDimensionText(size.value),
+  }));
+}
 
 export function getProductPage(
   categorySlug: string,

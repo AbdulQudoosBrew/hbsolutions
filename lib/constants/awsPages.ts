@@ -3854,7 +3854,7 @@ export const AWS_COLLECTIONS: Record<string, CollectionPageData> = {
     description:
       "Explore the 60 cm PVC Panels range from Haris Building Solutions. Quality wall panelling selected for performance, style and lasting value.",
     image:
-      "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05A.png",
+      "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05A_7dad8fac-0000-4a63-86a3-89b9c43acd43.png",
     itemsHeading: "View Our Range",
     items: [
       {

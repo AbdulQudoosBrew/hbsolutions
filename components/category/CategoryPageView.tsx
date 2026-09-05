@@ -15,7 +15,7 @@ export default function CategoryPageView({ category }: CategoryPageViewProps) {
     <div className="bg-white pt-[96px] sm:pt-[104px] lg:pt-[120px]">
       <Container
         size="wide"
-        className="px-4 pb-6 pt-4 sm:px-6 sm:pb-8 sm:pt-6 md:px-8 md:pb-10 md:pt-8 lg:pb-12"
+        className="px-4 pb-10 pt-4 sm:px-6 sm:pb-12 sm:pt-6 md:px-8 md:pb-16 md:pt-8 lg:pb-20"
       >
         <nav
           className="mb-4 flex flex-wrap items-center justify-center gap-x-1.5 gap-y-1 text-[10px] uppercase tracking-[0.18em] text-[#999999] sm:mb-6 sm:gap-x-2 sm:text-[11px] sm:tracking-[0.22em]"
@@ -41,55 +41,8 @@ export default function CategoryPageView({ category }: CategoryPageViewProps) {
             </p>
           ) : null}
         </div>
-      </Container>
 
-      {category.heroMosaic && category.collections.length ? (
-        <div className="grid h-[240px] w-full grid-cols-4 grid-rows-3 sm:h-[300px] sm:grid-cols-6 sm:grid-rows-2 lg:h-[400px] lg:grid-cols-11 lg:grid-rows-1">
-          {category.collections.map((collection, index) => (
-            <Link
-              key={`hero-${collection.id}`}
-              href={collection.href}
-              className="group relative min-h-0 overflow-hidden bg-[#111111]"
-            >
-              <CategoryImage
-                src={collection.image}
-                alt={collection.label}
-                variant="hero"
-                priority={index === 0}
-                className="object-cover transition-transform duration-500 group-hover:scale-105"
-              />
-              <span className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/75 via-black/25 to-transparent px-1 pb-2 pt-8 text-center text-[8px] font-medium uppercase leading-tight tracking-[0.12em] text-white sm:text-[9px] lg:pb-3 lg:text-[10px] lg:tracking-[0.14em]">
-                {collection.label}
-              </span>
-            </Link>
-          ))}
-        </div>
-      ) : category.heroImage ? (
-        <div className="relative h-[220px] w-full overflow-hidden bg-[#f0f0f0] sm:h-[280px] md:h-[340px] lg:h-[400px]">
-          <CategoryImage
-            src={category.heroImage}
-            alt={category.title}
-            variant="hero"
-            priority
-          />
-        </div>
-      ) : null}
-
-      {category.bannerImage ? (
-        <div className="relative h-[160px] w-full overflow-hidden bg-[#f0f0f0] sm:h-[200px] md:h-[240px] lg:h-[280px]">
-          <CategoryImage
-            src={category.bannerImage}
-            alt={`${category.title} banner`}
-            variant="banner"
-          />
-        </div>
-      ) : null}
-
-      <Container
-        size="wide"
-        className="px-4 py-10 sm:px-6 sm:py-12 md:px-8 md:py-16 lg:py-20"
-      >
-        <div className="mb-8 flex flex-col items-center gap-2.5 text-center sm:mb-10 sm:gap-3 md:mb-14">
+        <div className="mb-8 mt-8 flex flex-col items-center gap-2.5 text-center sm:mb-10 sm:mt-10 sm:gap-3 md:mb-14">
           <img
             src="https://giavanibathrooms.com/wp-content/uploads/2023/10/333.png"
             alt=""
@@ -128,6 +81,46 @@ export default function CategoryPageView({ category }: CategoryPageViewProps) {
           ))}
         </div>
       </Container>
+
+      {category.heroMosaic && category.collections.length ? (
+        <div className="grid h-[240px] w-full grid-cols-4 grid-rows-3 sm:h-[300px] sm:grid-cols-6 sm:grid-rows-2 lg:h-[400px] lg:grid-cols-11 lg:grid-rows-1">
+          {category.collections.map((collection) => (
+            <Link
+              key={`hero-${collection.id}`}
+              href={collection.href}
+              className="group relative min-h-0 overflow-hidden bg-[#111111]"
+            >
+              <CategoryImage
+                src={collection.image}
+                alt={collection.label}
+                variant="hero"
+                className="object-cover transition-transform duration-500 group-hover:scale-105"
+              />
+              <span className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/75 via-black/25 to-transparent px-1 pb-2 pt-8 text-center text-[8px] font-medium uppercase leading-tight tracking-[0.12em] text-white sm:text-[9px] lg:pb-3 lg:text-[10px] lg:tracking-[0.14em]">
+                {collection.label}
+              </span>
+            </Link>
+          ))}
+        </div>
+      ) : category.heroImage ? (
+        <div className="relative h-[220px] w-full overflow-hidden bg-[#f0f0f0] sm:h-[280px] md:h-[340px] lg:h-[400px]">
+          <CategoryImage
+            src={category.heroImage}
+            alt={category.title}
+            variant="hero"
+          />
+        </div>
+      ) : null}
+
+      {category.bannerImage ? (
+        <div className="relative h-[160px] w-full overflow-hidden bg-[#f0f0f0] sm:h-[200px] md:h-[240px] lg:h-[280px]">
+          <CategoryImage
+            src={category.bannerImage}
+            alt={`${category.title} banner`}
+            variant="banner"
+          />
+        </div>
+      ) : null}
     </div>
   );
 }

@@ -4,6 +4,7 @@ import { KITCHENS_CATEGORY } from "./kitchenPages";
 import { STRING_SPC_CATEGORY_CARD } from "./stringSpcFlooringPages";
 import { CORNERS_CATEGORY } from "./cornerTrimPages";
 import { STRING_ACCESSORY_CATEGORY_CARDS } from "./stringAccessoriesPages";
+import { normalizeDimensionText } from "@/lib/utils/normalizeDimensions";
 
 export type CategoryCollection = {
   id: string;
@@ -525,7 +526,8 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
       {
         id: "panels/aqua-panels",
         label: "60 cm PVC Panels",
-        image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05A.png",
+        image:
+          "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/05A_7dad8fac-0000-4a63-86a3-89b9c43acd43.png",
         href: "/panels/aqua-panels",
       },
       {
@@ -551,24 +553,10 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
       },
       {
         id: "bosco-panels",
-        label: "BOSCO",
+        label: "Solid WPC 2400mm * 300mm",
         image:
           "https://giavanibathrooms.com/wp-content/uploads/2023/12/main1.jpg",
         href: "/panels/bosco-panels",
-      },
-      {
-        id: "panels/cover-slips",
-        label: "COVER SLIPS",
-        image:
-          "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/9CC7C152-F46F-4339-AB3F-9F1C8F3AC000.jpg",
-        href: "/panels/cover-slips",
-      },
-      {
-        id: "panels/panel-lighting",
-        label: "PANEL LIGHTING",
-        image:
-          "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/LED01.png",
-        href: "/panels/panel-lighting",
       },
       {
         id: "panels/wall-panel-62-series",
@@ -576,20 +564,6 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb2_2026_04_54_27PM_eadabc79-a0ad-4454-abb7-e95c16223d15.png",
         href: "/panels/wall-panel-62-series",
-      },
-      {
-        id: "panels/wall-panel-63-series",
-        label: "PVC 30cm * 240cm cladding",
-        image:
-          "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/63ACorner.png",
-        href: "/panels/wall-panel-63-series",
-      },
-      {
-        id: "panels/wall-panel-64-series",
-        label: "PVC 30cm * 240cm with black line",
-        image:
-          "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/64AOak-Copy_1072efe6-c8e4-4001-b71e-86f5908472a1.jpg",
-        href: "/panels/wall-panel-64-series",
       },
       {
         id: "decorative-panel",
@@ -604,6 +578,20 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
         image:
           "https://giavanibathrooms.com/wp-content/uploads/2026/02/THUMBNAIL-53.jpg",
         href: "/panels/odyssey-collection",
+      },
+      {
+        id: "panels/cover-slips",
+        label: "COVER SLIPS",
+        image:
+          "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/9CC7C152-F46F-4339-AB3F-9F1C8F3AC000.jpg",
+        href: "/panels/cover-slips",
+      },
+      {
+        id: "panels/panel-lighting",
+        label: "PANEL LIGHTING",
+        image:
+          "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/LED01.png",
+        href: "/panels/panel-lighting",
       },
     ],
   },
@@ -1371,6 +1359,14 @@ Object.assign(
   AWS_CATEGORY_PAGES as Record<string, CategoryPageData>,
 );
 Object.assign(CATEGORY_PAGES, { kitchens: KITCHENS_CATEGORY });
+
+for (const page of Object.values(CATEGORY_PAGES)) {
+  page.title = normalizeDimensionText(page.title);
+  page.description = normalizeDimensionText(page.description);
+  for (const collection of page.collections) {
+    collection.label = normalizeDimensionText(collection.label);
+  }
+}
 
 export function getCategoryPage(slug: string): CategoryPageData | null {
   return CATEGORY_PAGES[slug] ?? null;

@@ -128,17 +128,6 @@ export default function ProductPageView({
           </span>
         </nav>
 
-        {product.heroImage ? (
-          <div className="relative mt-4 h-[180px] w-full overflow-hidden bg-[#f0f0f0] sm:mt-6 sm:h-[220px] md:h-[260px] lg:h-[300px]">
-            <CategoryImage
-              src={product.heroImage}
-              alt={product.title}
-              variant="banner"
-              priority
-            />
-          </div>
-        ) : null}
-
         <div className="mt-6 grid items-start gap-6 sm:mt-8 sm:gap-8 md:mt-10 lg:mt-12 lg:grid-cols-12 lg:gap-12 xl:gap-16">
           {/* Gallery */}
           <div className="w-full lg:col-span-5">
@@ -378,6 +367,16 @@ export default function ProductPageView({
           </section>
         ) : null}
       </Container>
+
+      {product.heroImage ? (
+        <div className="relative h-[180px] w-full overflow-hidden bg-[#f0f0f0] sm:h-[220px] md:h-[260px] lg:h-[300px]">
+          <CategoryImage
+            src={product.heroImage}
+            alt={product.title}
+            variant="banner"
+          />
+        </div>
+      ) : null}
     </div>
   );
 }
