@@ -127,9 +127,16 @@ export default function FeaturedEditClient({ items }: FeaturedEditClientProps) {
       {items.length ? (
         <div className="grid grid-cols-2 gap-x-3 gap-y-8 sm:gap-x-5 sm:gap-y-10 md:grid-cols-3 lg:grid-cols-4">
           {items.map((item) => (
-            <div key={item.id} className="flex flex-col items-center text-center">
+            <div
+              key={item.id}
+              className="flex flex-col items-center text-center"
+            >
               <div className="relative aspect-square w-full overflow-hidden border border-[#e5e5e5] bg-white">
-                <CategoryImage src={item.image} alt={item.title} variant="card" />
+                <CategoryImage
+                  src={item.image}
+                  alt={item.title}
+                  variant="card"
+                />
               </div>
               <p className="mt-3 text-[11px] font-medium uppercase tracking-[0.14em] text-[#333333]">
                 {item.title}
