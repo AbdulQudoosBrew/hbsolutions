@@ -35,6 +35,10 @@ const nextConfig: NextConfig = {
         hostname: "static.wixstatic.com",
         pathname: "/media/**",
       },
+      {
+        protocol: "https",
+        hostname: "*.public.blob.vercel-storage.com",
+      },
     ],
   },
 };

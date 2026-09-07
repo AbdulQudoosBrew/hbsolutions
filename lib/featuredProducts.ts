@@ -1,3 +1,4 @@
+import { del, list, put } from "@vercel/blob";
 import { mkdir, readFile, unlink, writeFile } from "fs/promises";
 import path from "path";
 
@@ -11,13 +12,21 @@ export type FeaturedProduct = {
 
 const DATA_FILE = path.join(process.cwd(), "data", "featured-products.json");
 const IMAGE_DIR = path.join(process.cwd(), "public", "featured");
+const CATALOG_PATH = "featured/catalog.json";
 
-export async function ensureFeaturedDirs() {
-  await mkdir(path.dirname(DATA_FILE), { recursive: true });
-  await mkdir(IMAGE_DIR, { recursive: true });
+function blobEnabled() {
+  return Boolean(process.env.BLOB_READ_WRITE_TOKEN);
 }
 
-export async function getFeaturedProducts(): Promise<FeaturedProduct[]> {
+function requireWritable() {
+  if (process.env.VERCEL && !blobEnabled()) {
+    throw new Error(
+      "Featured products cannot be changed on Vercel without Blob storage. In the Vercel project, open Storage, create a Blob store, connect it to this project, then redeploy.",
+    );
+  }
+}
+
+async function readDiskCatalog(): Promise<FeaturedProduct[]> {
   try {
     const raw = await readFile(DATA_FILE, "utf8");
     const parsed = JSON.parse(raw) as FeaturedProduct[];
@@ -27,9 +36,56 @@ export async function getFeaturedProducts(): Promise<FeaturedProduct[]> {
   }
 }
 
-export async function saveFeaturedProducts(items: FeaturedProduct[]) {
-  await ensureFeaturedDirs();
+async function writeDiskCatalog(items: FeaturedProduct[]) {
+  await mkdir(path.dirname(DATA_FILE), { recursive: true });
+  await mkdir(IMAGE_DIR, { recursive: true });
   await writeFile(DATA_FILE, JSON.stringify(items, null, 2), "utf8");
+}
+
+async function readBlobCatalog(): Promise<FeaturedProduct[] | null> {
+  const result = await list({ prefix: CATALOG_PATH, limit: 20 });
+  const catalog = result.blobs.find(
+    (blob) => blob.pathname === CATALOG_PATH || blob.pathname.startsWith(CATALOG_PATH),
+  );
+  if (!catalog) return null;
+
+  const response = await fetch(catalog.url, { cache: "no-store" });
+  if (!response.ok) return null;
+
+  const parsed = (await response.json()) as FeaturedProduct[];
+  return Array.isArray(parsed) ? parsed : [];
+}
+
+async function writeBlobCatalog(items: FeaturedProduct[]) {
+  await put(CATALOG_PATH, JSON.stringify(items, null, 2), {
+    access: "public",
+    addRandomSuffix: false,
+    allowOverwrite: true,
+    contentType: "application/json",
+    cacheControlMaxAge: 0,
+  });
+}
+
+export async function ensureFeaturedDirs() {
+  await mkdir(path.dirname(DATA_FILE), { recursive: true });
+  await mkdir(IMAGE_DIR, { recursive: true });
+}
+
+export async function getFeaturedProducts(): Promise<FeaturedProduct[]> {
+  if (blobEnabled()) {
+    const fromBlob = await readBlobCatalog();
+    if (fromBlob) return fromBlob;
+  }
+  return readDiskCatalog();
+}
+
+export async function saveFeaturedProducts(items: FeaturedProduct[]) {
+  requireWritable();
+  if (blobEnabled()) {
+    await writeBlobCatalog(items);
+    return;
+  }
+  await writeDiskCatalog(items);
 }
 
 export async function addFeaturedProduct(input: {
@@ -38,20 +94,35 @@ export async function addFeaturedProduct(input: {
   fileName: string;
   bytes: Buffer;
 }): Promise<FeaturedProduct> {
-  await ensureFeaturedDirs();
+  requireWritable();
+
   const id = `${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
   const ext = path.extname(input.fileName).toLowerCase() || ".jpg";
   const safeExt = [".jpg", ".jpeg", ".png", ".webp", ".gif"].includes(ext)
     ? ext
     : ".jpg";
   const storedName = `${id}${safeExt}`;
-  await writeFile(path.join(IMAGE_DIR, storedName), input.bytes);
+
+  let image = `/featured/${storedName}`;
+
+  if (blobEnabled()) {
+    const uploaded = await put(`featured/${storedName}`, input.bytes, {
+      access: "public",
+      addRandomSuffix: false,
+      allowOverwrite: true,
+      contentType: `image/${safeExt === ".jpg" ? "jpeg" : safeExt.slice(1)}`,
+    });
+    image = uploaded.url;
+  } else {
+    await ensureFeaturedDirs();
+    await writeFile(path.join(IMAGE_DIR, storedName), input.bytes);
+  }
 
   const item: FeaturedProduct = {
     id,
     title: input.title,
     description: input.description,
-    image: `/featured/${storedName}`,
+    image,
     createdAt: new Date().toISOString(),
   };
 
@@ -62,6 +133,8 @@ export async function addFeaturedProduct(input: {
 }
 
 export async function deleteFeaturedProduct(id: string): Promise<boolean> {
+  requireWritable();
+
   const items = await getFeaturedProducts();
   const item = items.find((entry) => entry.id === id);
   if (!item) return false;
@@ -69,12 +142,20 @@ export async function deleteFeaturedProduct(id: string): Promise<boolean> {
   const next = items.filter((entry) => entry.id !== id);
   await saveFeaturedProducts(next);
 
-  const fileName = path.basename(item.image);
-  if (fileName) {
+  if (item.image.startsWith("http")) {
     try {
-      await unlink(path.join(IMAGE_DIR, fileName));
+      await del(item.image);
     } catch {
       // Image may already be missing.
+    }
+  } else {
+    const fileName = path.basename(item.image);
+    if (fileName) {
+      try {
+        await unlink(path.join(IMAGE_DIR, fileName));
+      } catch {
+        // Image may already be missing.
+      }
     }
   }
 

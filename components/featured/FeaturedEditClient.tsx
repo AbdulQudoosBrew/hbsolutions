@@ -54,8 +54,13 @@ export default function FeaturedEditClient({ items }: FeaturedEditClientProps) {
     if (!confirm("Remove this featured product?")) return;
     setBusy(true);
     try {
-      const response = await fetch(`/api/featured/${id}`, { method: "DELETE" });
-      if (!response.ok) throw new Error("Could not delete.");
+      const response = await fetch(`/api/featured/${encodeURIComponent(id)}`, {
+        method: "DELETE",
+      });
+      const payload = (await response.json()) as { error?: string };
+      if (!response.ok) {
+        throw new Error(payload.error || "Could not delete.");
+      }
       router.refresh();
     } catch (err) {
       setError(err instanceof Error ? err.message : "Could not delete.");
