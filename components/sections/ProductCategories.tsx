@@ -8,7 +8,10 @@ import { getFeaturedProducts } from "@/lib/featuredProducts";
 
 export default async function ProductCategories() {
   const featured = await getFeaturedProducts();
-  const categories = PRODUCT_CATEGORIES.map((category) =>
+  const categories = [
+    ...PRODUCT_CATEGORIES.filter((category) => category.id !== "featured-products"),
+    ...PRODUCT_CATEGORIES.filter((category) => category.id === "featured-products"),
+  ].map((category) =>
     category.id === "featured-products" && featured[0]
       ? { ...category, image: featured[0].image }
       : category,
