@@ -248,10 +248,10 @@ export default function ProductPageView({
               </div>
             ) : null}
 
-            {/* {colours.length > 0 ? (
+            {colours.length > 0 ? (
               <div className="mt-6 sm:mt-8">
                 <p className="text-[10px] uppercase tracking-[0.22em] text-[#111111] sm:text-[11px] sm:tracking-[0.25em]">
-                  Colour
+                  Colour{selectedColour ? ` — ${selectedColour.label}` : ""}
                 </p>
                 <div className="mt-3 flex flex-wrap items-center gap-2.5 sm:mt-4 sm:gap-3">
                   {colours.map((opt) => {
@@ -266,13 +266,15 @@ export default function ProductPageView({
                         aria-label={opt.label}
                         aria-pressed={selected}
                         onClick={() => selectColour(opt.value)}
-                        className={`relative h-8 w-8 rounded-full transition-transform sm:h-9 sm:w-9 ${
+                        className={`relative h-8 w-8 overflow-hidden rounded-full bg-cover bg-center transition-transform sm:h-9 sm:w-9 ${
                           selected
                             ? "scale-110 ring-2 ring-[#111111] ring-offset-2"
                             : "hover:scale-105"
                         }`}
                         style={{
-                          background: swatch,
+                          background: opt.image
+                            ? `url(${opt.image}) center / cover no-repeat`
+                            : swatch,
                           border: light
                             ? "1px solid #d4d4d4"
                             : "1px solid transparent",
@@ -282,7 +284,7 @@ export default function ProductPageView({
                   })}
                 </div>
               </div>
-            ) : null} */}
+            ) : null}
 
             {sizes.length > 0 ? (
               <div className="mt-6 sm:mt-8">

@@ -558,6 +558,13 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
         href: "/panels/bosco-panels",
       },
       {
+        id: "panels/wpc",
+        label: "Wood Plastic Composite Panels",
+        image:
+          "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/80AOak-Copy.jpg",
+        href: "/panels/wpc",
+      },
+      {
         id: "panels/wall-panel-62-series",
         label: "PVC 30cm * 240cm ",
         image:
@@ -577,6 +584,27 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
         image:
           "https://giavanibathrooms.com/wp-content/uploads/2026/02/THUMBNAIL-53.jpg",
         href: "/panels/odyssey-collection",
+      },
+      {
+        id: "panels/flexible-wall-panels-240cm-x-60cm-2-pack",
+        label: "Flexible Wall Panels 2400mm * 600mm",
+        image:
+          "https://cdn.shopify.com/s/files/1/0398/5466/9987/files/Oak_Reed_Lifestyle.png?v=1776170595",
+        href: "/panels/flexible-wall-panels-240cm-x-60cm-2-pack",
+      },
+      {
+        id: "panels/flexible-stone",
+        label: "Flexible Stone",
+        image:
+          "https://cdn.shopify.com/s/files/1/0398/5466/9987/files/ChatGPT_Image_Feb_3_2026_01_44_12_PM.png?v=1776170208",
+        href: "/panels/flexible-stone",
+      },
+      {
+        id: "panels/mosaic-wall-tiles",
+        label: "Mosaic Wall Tiles",
+        image:
+          "https://cdn.shopify.com/s/files/1/0398/5466/9987/files/Mosaic_Tile_Brick_Lifestyle.png?v=1776345654",
+        href: "/panels/mosaic-wall-tiles",
       },
       {
         id: "panels/cover-slips",

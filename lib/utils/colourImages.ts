@@ -63,6 +63,9 @@ export function findImagesForColour(
   colour: ProductOption | undefined
 ): string[] {
   if (!colour) return uniqueImages(images);
+  if (colour.images?.length) {
+    return uniqueImages(colour.images);
+  }
   if (colour.image) {
     return uniqueImages([
       colour.image,

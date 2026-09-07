@@ -16,6 +16,10 @@ import {
   STRING_ACOUSTIC_ITEMS,
   STRING_ACOUSTIC_PRODUCTS,
 } from "./stringAcousticPages";
+import {
+  FURNISH_ACOUSTIC_PATTERN_ITEMS,
+  FURNISH_ACOUSTIC_PATTERN_PRODUCTS,
+} from "./furnishAcousticPatternPages";
 import { CORNER_COLLECTIONS, CORNER_PRODUCTS } from "./cornerTrimPages";
 import {
   STRING_ACCESSORY_COLLECTIONS,
@@ -35,6 +39,7 @@ export type ProductOption = {
   value: string;
   label: string;
   image?: string;
+  images?: string[];
   href?: string;
 };
 
@@ -3272,63 +3277,55 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
     items: [
       {
         id: "wall-panel-010-a-antique-m-grey-1-pack4pcs",
-        label:
-          "Wall Panel - Antique Metallic Grey - Acoustic - 240cm",
+        label: "Wall Panel - Antique Metallic Grey - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP010G-GREY_03fd921c-186b-41f7-835a-401aabc29ae0.png",
         href: "/panels/acoustic-panels/wall-panel-010-a-antique-m-grey-1-pack4pcs",
       },
       {
         id: "wall-panel-010-c-antique-m-brown-1-pack4pcs",
-        label:
-          "Wall Panel - Antique Metallic Gold - Acoustic - 240cm",
+        label: "Wall Panel - Antique Metallic Gold - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP010G-BROWN_5cd83073-9c51-4cca-ade2-d93e9a30f868.png",
         href: "/panels/acoustic-panels/wall-panel-010-c-antique-m-brown-1-pack4pcs",
       },
       {
         id: "wall-panel-010-b-antique-m-gold-1-pack4pcs",
-        label:
-          "Wall Panel - Antique Metallic Brown - Acoustic - 240cm",
+        label: "Wall Panel - Antique Metallic Brown - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP010G_af3a7615-93df-4d3d-9ba4-38c4bee5b8d4.png",
         href: "/panels/acoustic-panels/wall-panel-010-b-antique-m-gold-1-pack4pcs",
       },
       {
         id: "wall-panel-013a-ps-g-grey-acoustic-1-pack4pcs",
-        label:
-          "Wall Panel - PS Gold and Grey - Acoustic - 240cm",
+        label: "Wall Panel - PS Gold and Grey - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP013B.png",
         href: "/panels/acoustic-panels/wall-panel-013a-ps-g-grey-acoustic-1-pack4pcs",
       },
       {
         id: "wall-panel-013b-ps-g-brown-acoustic-1-pack4pcs",
-        label:
-          "Wall Panel - PS Gold and Brown - Acoustic - 240cm",
+        label: "Wall Panel - PS Gold and Brown - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP013A.png",
         href: "/panels/acoustic-panels/wall-panel-013b-ps-g-brown-acoustic-1-pack4pcs",
       },
       {
         id: "pack-a-natural-oak",
-        label:
-          "Wall Panel - Natural Oak - Acoustic - 240cm",
+        label: "Wall Panel - Natural Oak - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/03_64c706af-4068-4642-aaae-186bd6d5b828.jpg",
         href: "/panels/acoustic-panels/pack-a-natural-oak",
       },
       {
         id: "pack-b-light-grey",
-        label:
-          "Wall Panel - Light Grey - Acoustic - 240cm",
+        label: "Wall Panel - Light Grey - Acoustic - 240cm",
         image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01B.jpg",
         href: "/panels/acoustic-panels/pack-b-light-grey",
       },
       {
         id: "pack-c-dark-grey",
-        label:
-          "Wall Panel - Dark Grey - Acoustic - 240cm",
+        label: "Wall Panel - Dark Grey - Acoustic - 240cm",
         image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01C.jpg",
         href: "/panels/acoustic-panels/pack-c-dark-grey",
       },
@@ -3346,8 +3343,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-panel-01-g-gold-acoustic-1-pack4pcs",
-        label:
-          "Wall Panel - Shiny Gold - Acoustic - 240cm",
+        label: "Wall Panel - Shiny Gold - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Image_20250829105426_68_12.png",
         href: "/panels/acoustic-panels/wall-panel-01-g-gold-acoustic-1-pack4pcs",
@@ -3361,8 +3357,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-panel-01q-smoked-oak-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Smoked Oak - Acoustic - 240cm",
+        label: "Wall Panel - Smoked Oak - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01QSmokedOak.png",
         href: "/panels/acoustic-panels/wall-panel-01q-smoked-oak-acoustic-240cm-1-pack-4pcs",
@@ -3376,8 +3371,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-panel-01-s-silver-acoustic-1-pack4pcs-copy",
-        label:
-          "Wall Panel - Shiny Silver - Acoustic - 240cm",
+        label: "Wall Panel - Shiny Silver - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Image_20250829105426_67_12.png",
         href: "/panels/acoustic-panels/wall-panel-01-s-silver-acoustic-1-pack4pcs-copy",
@@ -3390,56 +3384,49 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       },
       {
         id: "pack-01wp-metallic-brown-acoustic",
-        label:
-          "Wall Panel - Metallic Brown - Acoustic - 240cm",
+        label: "Wall Panel - Metallic Brown - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WF_1bb3cfe4-780d-4856-8200-53f855310152.png",
         href: "/panels/acoustic-panels/pack-01wp-metallic-brown-acoustic",
       },
       {
         id: "pack-01wg-metallic-gold-acoustic",
-        label:
-          "Wall Panel - Metallic Gold - Acoustic - 240cm",
+        label: "Wall Panel - Metallic Gold - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WG_b607843a-702e-4040-809a-d1446ff2ed04.png",
         href: "/panels/acoustic-panels/pack-01wg-metallic-gold-acoustic",
       },
       {
         id: "pack-01wh-metallic-light-grey-acoustic",
-        label:
-          "Wall Panel - Metallic Light Grey - Acoustic - 240cm",
+        label: "Wall Panel - Metallic Light Grey - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WH_4a863433-d052-48d2-85d0-33afdc9418ef.png",
         href: "/panels/acoustic-panels/pack-01wh-metallic-light-grey-acoustic",
       },
       {
         id: "pack-01wj-metallic-dark-grey-acoustic",
-        label:
-          "Wall Panel - Metallic Dark Grey - Acoustic - 240cm",
+        label: "Wall Panel - Metallic Dark Grey - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WJ_2ee952b4-4a0a-4272-ab56-1a0a322767eb.png",
         href: "/panels/acoustic-panels/pack-01wj-metallic-dark-grey-acoustic",
       },
       {
         id: "wall-panel-01-wk-mb-white-acoustic-1-pack4pcs",
-        label:
-          "Wall Panel - White Marble - Acoustic - 240cm",
+        label: "Wall Panel - White Marble - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WK_c873f015-3ac0-4a66-a3e2-224c22b00464.png",
         href: "/panels/acoustic-panels/wall-panel-01-wk-mb-white-acoustic-1-pack4pcs",
       },
       {
         id: "wall-panel-01-wn-marble-gold-black-acoustic-1-pack4pcs",
-        label:
-          "Wall Panel - Gold and Black Marble - Acoustic - 240cm",
+        label: "Wall Panel - Gold and Black Marble - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WN_dcb5e1ef-3ecb-47cd-a81c-c44d49e68d54.png",
         href: "/panels/acoustic-panels/wall-panel-01-wn-marble-gold-black-acoustic-1-pack4pcs",
       },
       {
         id: "wall-panel-01-wo-marble-grey-acoustic-1-pack4pcs",
-        label:
-          "Wall Panel - Grey Marble - Acoustic - 240cm",
+        label: "Wall Panel - Grey Marble - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WO2.jpg",
         href: "/panels/acoustic-panels/wall-panel-01-wo-marble-grey-acoustic-1-pack4pcs",
@@ -3453,8 +3440,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-panel-01wx-gold-and-white-marble-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Gold and White Marble - Acoustic - 240cm",
+        label: "Wall Panel - Gold and White Marble - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WXGoldandWhite-Copy.jpg",
         href: "/panels/acoustic-panels/wall-panel-01wx-gold-and-white-marble-acoustic-240cm-1-pack-4pcs",
@@ -3475,24 +3461,21 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-panel-02-wk-mb-white-280cm-acoustic-1-pack3pcs",
-        label:
-          "Wall Panel - White Marble - Acoustic - 280cm",
+        label: "Wall Panel - White Marble - Acoustic - 280cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/02WK2.jpg",
         href: "/panels/acoustic-panels/wall-panel-02-wk-mb-white-280cm-acoustic-1-pack3pcs",
       },
       {
         id: "wall-panel-02-wn-marble-gold-black-280cm-acoustic-1-pack3pcs",
-        label:
-          "Wall Panel - Gold and Black Marble - Acoustic - 280cm",
+        label: "Wall Panel - Gold and Black Marble - Acoustic - 280cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/02_WN_3_ec6c1bba-2fbf-439a-82a6-c41fe05a1c6d.jpg",
         href: "/panels/acoustic-panels/wall-panel-02-wn-marble-gold-black-280cm-acoustic-1-pack3pcs",
       },
       {
         id: "wall-panel-02wo-grey-marble-acoustic-1-pack-3pcs",
-        label:
-          "Wall Panel - Grey Marble - Acoustic - 280cm",
+        label: "Wall Panel - Grey Marble - Acoustic - 280cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/01WO2_70203fa3-f168-4c35-af4e-860da2c18842.jpg",
         href: "/panels/acoustic-panels/wall-panel-02wo-grey-marble-acoustic-1-pack-3pcs",
@@ -3513,8 +3496,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       },
       {
         id: "pack-03c-dark-grey",
-        label:
-          "Wall Panel - Dark Grey - Acoustic - 240cm",
+        label: "Wall Panel - Dark Grey - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/03C_d15f0e89-e03e-4d69-87be-5a72d687b753.png",
         href: "/panels/acoustic-panels/pack-03c-dark-grey",
@@ -3542,8 +3524,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-panel-04b-light-grey-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Light Grey - Acoustic - 240cm",
+        label: "Wall Panel - Light Grey - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/ChatGPTImageFeb12_2026_03_28_47PM.png",
         href: "/panels/acoustic-panels/wall-panel-04b-light-grey-acoustic-240cm-1-pack-4pcs",
@@ -3598,72 +3579,63 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-panel-31d-dark-oak-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Dark Oak - Premium Acoustic - 240cm",
+        label: "Wall Panel - Dark Oak - Premium Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/31DDarkOak1.png",
         href: "/panels/acoustic-panels/wall-panel-31d-dark-oak-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-31f-grey-oak-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Grey Oak - Premium Acoustic - 240cm",
+        label: "Wall Panel - Grey Oak - Premium Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/31FGreyOak1.png",
         href: "/panels/acoustic-panels/wall-panel-31f-grey-oak-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-31h-oak-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Oak - Premium Acoustic - 240cm",
+        label: "Wall Panel - Oak - Premium Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/31HOak021.png",
         href: "/panels/acoustic-panels/wall-panel-31h-oak-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-31t-walnut-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Walnut - Premium Acoustic - 240cm",
+        label: "Wall Panel - Walnut - Premium Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/31TWalnut1.png",
         href: "/panels/acoustic-panels/wall-panel-31t-walnut-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-32f-grey-oak-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Grey Oak - Premium Acoustic - 240cm",
+        label: "Wall Panel - Grey Oak - Premium Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32FGreyOak-Copy.png",
         href: "/panels/acoustic-panels/wall-panel-32f-grey-oak-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-32h-oak-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Oak - Premium Acoustic - 240cm",
+        label: "Wall Panel - Oak - Premium Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32HOak-Copy.png",
         href: "/panels/acoustic-panels/wall-panel-32h-oak-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-32k-shadow-oak-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Shadow Oak - Premium Acoustic - 240cm",
+        label: "Wall Panel - Shadow Oak - Premium Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32KShadowOak-Copy.png",
         href: "/panels/acoustic-panels/wall-panel-32k-shadow-oak-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-32r-concrete-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Concrete - Premium Acoustic - 240cm",
+        label: "Wall Panel - Concrete - Premium Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32RConcrete-Copy.png",
         href: "/panels/acoustic-panels/wall-panel-32r-concrete-acoustic-240cm-1-pack-4pcs",
       },
       {
         id: "wall-panel-32w-light-oak-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Light Oak - Premium Acoustic - 240cm",
+        label: "Wall Panel - Light Oak - Premium Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/32WLightOak-Copy.png",
         href: "/panels/acoustic-panels/wall-panel-32w-light-oak-acoustic-240cm-1-pack-4pcs",
@@ -3726,8 +3698,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-panel-41k-shadow-oak-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Shadow Oak - Acoustic - 240cm",
+        label: "Wall Panel - Shadow Oak - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/41KShadowOak.png",
         href: "/panels/acoustic-panels/wall-panel-41k-shadow-oak-acoustic-240cm-1-pack-4pcs",
@@ -3755,8 +3726,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-panel-42k-shadow-oak-acoustic-240cm-1-pack-4pcs",
-        label:
-          "Wall Panel - Shadow Oak - Acoustic - 240cm",
+        label: "Wall Panel - Shadow Oak - Acoustic - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/42KShadowOak.png",
         href: "/panels/acoustic-panels/wall-panel-42k-shadow-oak-acoustic-240cm-1-pack-4pcs",
@@ -3834,32 +3804,28 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-panel-011a-m-white-wall-board-1-pack2pcs",
-        label:
-          "Wall Panel - White Marble - Wall Board - 240cm",
+        label: "Wall Panel - White Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/04WP011A4.png",
         href: "/panels/aqua-panels/wall-panel-011a-m-white-wall-board-1-pack2pcs",
       },
       {
         id: "wall-panel-011a-m-black-wall-board-1-pack2pcs",
-        label:
-          "Wall Panel - Grey Marble - Wall Board - 240cm",
+        label: "Wall Panel - Grey Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP011B.jpg",
         href: "/panels/aqua-panels/wall-panel-011a-m-black-wall-board-1-pack2pcs",
       },
       {
         id: "wall-panel-011c-m-g-black-wall-board-1-pack2pcs",
-        label:
-          "Wall Panel - Gold and Black Marble - Wall Board - 240cm",
+        label: "Wall Panel - Gold and Black Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP011C7.jpg",
         href: "/panels/aqua-panels/wall-panel-011c-m-g-black-wall-board-1-pack2pcs",
       },
       {
         id: "wall-panel-011d-m-g-white-wall-board-1-pack2pcs",
-        label:
-          "Wall Panel - Gold and White Marble - Wall Board - 240cm",
+        label: "Wall Panel - Gold and White Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/WP011D_17854d36-3a9a-4806-9ff5-d0af7a016919.jpg",
         href: "/panels/aqua-panels/wall-panel-011d-m-g-white-wall-board-1-pack2pcs",
@@ -3894,48 +3860,42 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-covering-white",
-        label:
-          "Wall Panel - White Marble - Wall Board - 240cm",
+        label: "Wall Panel - White Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07A_26a63a0f-cc30-4432-95fb-9f61a9c9d0f5.png",
         href: "/panels/aqua-panels/wall-covering-white",
       },
       {
         id: "wall-covering-grey",
-        label:
-          "Wall Panel - Grey Marble - Wall Board - 240cm",
+        label: "Wall Panel - Grey Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07B_8c313175-2a4b-45da-9ab7-c6ebfd72aa81.png",
         href: "/panels/aqua-panels/wall-covering-grey",
       },
       {
         id: "wp-07c",
-        label:
-          "Wall Panel - Gold and Black Marble - Wall Board - 240cm",
+        label: "Wall Panel - Gold and Black Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07C_c14142e2-5a0d-4981-b755-5cdbb2bd917a.png",
         href: "/panels/aqua-panels/wp-07c",
       },
       {
         id: "pack-07d-white-wall-board",
-        label:
-          "Wall Panel - Gold and White Marble - Wall Board - 240cm",
+        label: "Wall Panel - Gold and White Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07D_d28c6748-f9d5-466f-8742-6de25414f027.png",
         href: "/panels/aqua-panels/pack-07d-white-wall-board",
       },
       {
         id: "pack-o7e-m-mix-grey-wall-board",
-        label:
-          "Wall Panel - Mix Grey Marble - Wall Board - 240cm",
+        label: "Wall Panel - Mix Grey Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07E_6a95cb40-f60d-4d9d-97b1-426ab082782c.png",
         href: "/panels/aqua-panels/pack-o7e-m-mix-grey-wall-board",
       },
       {
         id: "pack-o7f-m-g-grey-wall-board",
-        label:
-          "Wall Panel - Gold and Grey Marble - Wall Board - 240cm",
+        label: "Wall Panel - Gold and Grey Marble - Wall Board - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/07F_fab74acc-59dd-4ef6-a9ed-071fca3bf96d.png",
         href: "/panels/aqua-panels/pack-o7f-m-g-grey-wall-board",
@@ -4164,8 +4124,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-panel-21c-white-oak-seamless-240cm-1-pack-8pcs",
-        label:
-          "Wall Panel - White Oak - Seamless - 240cm",
+        label: "Wall Panel - White Oak - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/21CWhiteOak2-Copy.jpg",
         href: "/panels/wall-panel-21-series/wall-panel-21c-white-oak-seamless-240cm-1-pack-8pcs",
@@ -4392,24 +4351,21 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       },
       {
         id: "wall-panel-80b-grey-02-seamless-240cm-1-pack-12pcs",
-        label:
-          "Wall Panel - Light Grey - Seamless - 240cm",
+        label: "Wall Panel - Light Grey - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/80BLightGrey-Copy.jpg",
         href: "/panels/wall-panels/wall-panel-80b-grey-02-seamless-240cm-1-pack-12pcs",
       },
       {
         id: "wall-panel-80d-black-seamless-240cm-1-pack-12pcs",
-        label:
-          "Wall Panel - Mid Grey - Seamless - 240cm",
+        label: "Wall Panel - Mid Grey - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/80DMidGrey-Copy.jpg",
         href: "/panels/wall-panels/wall-panel-80d-black-seamless-240cm-1-pack-12pcs",
       },
       {
         id: "wall-panel-80c-dark-brown-seamless-240cm-1-pack-12pcs",
-        label:
-          "Wall Panel - Dark Oak - Seamless - 240cm",
+        label: "Wall Panel - Dark Oak - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/80CDarkOak-Copy.jpg",
         href: "/panels/wall-panels/wall-panel-80c-dark-brown-seamless-240cm-1-pack-12pcs",
@@ -4430,16 +4386,14 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
       },
       {
         id: "pack-81c-light-grey",
-        label:
-          "Wall Panel - Light Grey - Seamless - 240cm",
+        label: "Wall Panel - Light Grey - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SC-WP81_LIGHT_GREY.jpg",
         href: "/panels/wall-panels/pack-81c-light-grey",
       },
       {
         id: "pack-81d-dark-grey",
-        label:
-          "Wall Panel - Dark Grey - Seamless - 240cm",
+        label: "Wall Panel - Dark Grey - Seamless - 240cm",
         image:
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/SC-WP81_DARK_GREY.jpg",
         href: "/panels/wall-panels/pack-81d-dark-grey",
@@ -16407,9 +16361,7 @@ function classic10mmColourRank(item: CollectionItem): number {
   ) {
     return 1;
   }
-  if (
-    /chevron|honeycomb|honeycombe|milano|moccaccino|london tile/.test(text)
-  ) {
+  if (/chevron|honeycomb|honeycombe|milano|moccaccino|london tile/.test(text)) {
     return 3;
   }
   return 2;
@@ -16429,11 +16381,17 @@ mergeCollectionItems("panels/classic-10mm", STRING_SHOWER_ITEMS);
 sortClassic10mmByColour();
 mergeCollectionItems("panels/classic-8mm", STRING_CLADDING_ITEMS);
 mergeCollectionItems("panels/acoustic-panels", STRING_ACOUSTIC_ITEMS, true);
+mergeCollectionItems(
+  "panels/acoustic-panels",
+  FURNISH_ACOUSTIC_PATTERN_ITEMS,
+  true,
+);
 Object.assign(PRODUCT_PAGES, STRING_SHOWER_PRODUCTS);
 Object.assign(PRODUCT_PAGES, STRING_CLADDING_PRODUCTS);
 Object.assign(COLLECTION_PAGES, STRING_SPC_COLLECTIONS);
 Object.assign(PRODUCT_PAGES, STRING_SPC_PRODUCTS);
 Object.assign(PRODUCT_PAGES, STRING_ACOUSTIC_PRODUCTS);
+Object.assign(PRODUCT_PAGES, FURNISH_ACOUSTIC_PATTERN_PRODUCTS);
 Object.assign(COLLECTION_PAGES, CORNER_COLLECTIONS);
 Object.assign(PRODUCT_PAGES, CORNER_PRODUCTS);
 Object.assign(COLLECTION_PAGES, STRING_ACCESSORY_COLLECTIONS);
@@ -16494,13 +16452,15 @@ const GIAVANI_FLOORING_SPC_ITEMS: CollectionItem[] = [
   {
     id: "reve-pearl-spc-flooring",
     label: "Reve Pearl SPC Flooring",
-    image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/syjryjr.jpg",
+    image:
+      "https://giavanibathrooms.com/wp-content/uploads/2023/12/syjryjr.jpg",
     href: "/flooring/reve-pearl-spc-flooring/reve-pearl-spc-flooring",
   },
   {
     id: "reve-dark-grey-spc-flooring",
     label: "Reve Dark Grey SPC Flooring",
-    image: "https://giavanibathrooms.com/wp-content/uploads/2023/12/yujyrsj.jpg",
+    image:
+      "https://giavanibathrooms.com/wp-content/uploads/2023/12/yujyrsj.jpg",
     href: "/flooring/reve-dark-grey-spc-flooring/reve-dark-grey-spc-flooring",
   },
 ];
@@ -16638,6 +16598,991 @@ function removeWallPanel63Series() {
 
 removeWallPanel63Series();
 
+function colourOptionFromProduct(product: ProductPageData): ProductOption {
+  const match = product.title.match(/Wall Panel - (.+?) - /i);
+  const label = match?.[1]?.trim() || product.title;
+  const images = product.images?.length ? product.images : [product.image];
+  return {
+    value: label.toLowerCase().replace(/[^a-z0-9]+/g, "-"),
+    label,
+    image: product.image,
+    images,
+  };
+}
+
+function buildWpcSeriesProduct(
+  slug: string,
+  title: string,
+  description: string,
+  sourceKeys: string[],
+): ProductPageData | null {
+  const variants = sourceKeys
+    .map((key) => PRODUCT_PAGES[key])
+    .filter((page): page is ProductPageData => Boolean(page));
+  if (!variants.length) return null;
+
+  const colours = variants.map(colourOptionFromProduct);
+  const images = variants.flatMap((page) =>
+    page.images?.length ? page.images : [page.image],
+  );
+  const first = variants[0];
+
+  return {
+    key: `panels/wpc/${slug}`,
+    categorySlug: "panels",
+    collectionSlug: "wpc",
+    slug,
+    title,
+    description,
+    image: first.image,
+    images,
+    colours,
+    sizes: [],
+    features: first.features,
+    specs: first.specs,
+  };
+}
+
+function addWpcSeamlessSeries() {
+  if (COLLECTION_PAGES["panels/wpc"]) return;
+
+  const series: {
+    slug: string;
+    title: string;
+    description: string;
+    keys: string[];
+  }[] = [
+    {
+      slug: "80-series",
+      title: "Fluted WPC Panels",
+      description:
+        "Fluted WPC wall panels with tongue and groove installation for a continuous finish. Choose a colour to view its gallery.",
+      keys: [
+        "panels/wall-panels/wall-panel-80a-oak-seamless-240cm-1-pack-12pcs",
+        "panels/wall-panels/wall-panel-80b-grey-02-seamless-240cm-1-pack-12pcs",
+        "panels/wall-panels/wall-panel-80d-black-seamless-240cm-1-pack-12pcs",
+        "panels/wall-panels/wall-panel-80c-dark-brown-seamless-240cm-1-pack-12pcs",
+      ],
+    },
+    {
+      slug: "81-series",
+      title: "Monotone WPC Panels",
+      description:
+        "Monotone WPC wall panels. Select a colour to update the images and finish.",
+      keys: [
+        "panels/wall-panels/pack-81a-oak",
+        "panels/wall-panels/pack-81b-dark-oak",
+        "panels/wall-panels/pack-81c-light-grey",
+        "panels/wall-panels/pack-81d-dark-grey",
+        "panels/wall-panels/pack-81e-black",
+      ],
+    },
+    {
+      slug: "82-series",
+      title: "Slate WPC Panels",
+      description:
+        "Slate WPC wall panels. Select a colour to update the images and finish.",
+      keys: [
+        "panels/wall-panels/wall-panel-82a-oak-seamless-240cm-1-pack-12pcs",
+        "panels/wall-panels/wall-panel-82b-grey-seamless-240cm-1-pack-12pcs",
+        "panels/wall-panels/wall-panel-82e-black-seamless-240cm-1-pack-12pcs",
+        "panels/wall-panels/wall-panel-82t-walnut-seamless-240cm-1-pack-12pcs",
+      ],
+    },
+    {
+      slug: "21-series",
+      title: "2400mm * 300mm WPC Panels",
+      description:
+        "2400mm * 300mm WPC wall panels. Select a colour to update the images and finish.",
+      keys: [
+        "panels/wall-panel-21-series/wall-panel-21a-oak-seamless-240cm-1-pack-8pcs",
+        "panels/wall-panel-21-series/wall-panel-21b-grey-seamless-240cm-1-pack-8pcs",
+        "panels/wall-panel-21-series/wall-panel-21c-white-oak-seamless-240cm-1-pack-8pcs",
+        "panels/wall-panel-21-series/wall-panel-21d-dark-oak-seamless-240cm-1-pack-8pcs",
+        "panels/wall-panel-21-series/wall-panel-21e-black-seamless-240cm-1-pack-8pcs",
+        "panels/wall-panel-21-series/wall-panel-21t-walnut-seamless-240cm-1-pack-8pcs",
+      ],
+    },
+  ];
+
+  const items: CollectionItem[] = [];
+
+  for (const entry of series) {
+    const product = buildWpcSeriesProduct(
+      entry.slug,
+      entry.title,
+      entry.description,
+      entry.keys,
+    );
+    if (!product) continue;
+    PRODUCT_PAGES[product.key] = product;
+    items.push({
+      id: entry.slug,
+      label: entry.title,
+      image: product.image,
+      href: `/panels/wpc/${entry.slug}`,
+    });
+  }
+
+  const localColours = [
+    { label: "Light Oak", files: ["light oak.jpeg", "light oak big.jpeg"] },
+    { label: "Grey Oak", files: ["grey oak.jpeg", "grey oak big.jpeg"] },
+    { label: "Black Oak", files: ["black oak.jpeg", "black oak big.jpeg"] },
+    { label: "Walnut", files: ["walnut.jpeg", "walnut big.jpeg"] },
+    { label: "Light Gold", files: ["light gold.jpeg", "light gold big.jpeg"] },
+    {
+      label: "Black Stone",
+      files: ["black stone.jpeg", "black stone big.jpeg"],
+    },
+    { label: "Grey Marble", files: ["grey marble.jpeg"] },
+    {
+      label: "White and Gold Marble",
+      files: ["white and gold marble.jpeg", "white and gold marble big.jpeg"],
+    },
+    { label: "White Marble", files: ["white marble big.jpeg"] },
+  ].map((colour) => {
+    const images = colour.files.map((file) => encodeURI(`/images/wpc/${file}`));
+    return {
+      value: colour.label.toLowerCase().replace(/[^a-z0-9]+/g, "-"),
+      label: colour.label,
+      image: images[0],
+      images,
+    };
+  });
+
+  const localImages = localColours.flatMap((colour) => colour.images ?? []);
+  const cardImage =
+    localColours[0].images?.[1] ?? localColours[0].image ?? localImages[0];
+  PRODUCT_PAGES["panels/wpc/2500-150"] = {
+    key: "panels/wpc/2500-150",
+    categorySlug: "panels",
+    collectionSlug: "wpc",
+    slug: "2500-150",
+    title: "2500mm * 150mm WPC Panels",
+    description:
+      "2500mm * 150mm WPC wall panels. Select a colour to update the images and finish.",
+    image: cardImage,
+    images: localImages,
+    colours: localColours,
+    sizes: [],
+    features: [
+      "Size available: 2500mm * 150mm per panel",
+      "Wood plastic composite wall panel",
+    ],
+    specs: [
+      { label: "Size", value: "2500mm * 150mm" },
+      { label: "Type", value: "WPC wall panel" },
+    ],
+  };
+  items.push({
+    id: "2500-150",
+    label: "2500mm * 150mm WPC Panels",
+    image: cardImage,
+    href: "/panels/wpc/2500-150",
+  });
+
+  if (!items.length) return;
+
+  COLLECTION_PAGES["panels/wpc"] = {
+    key: "panels/wpc",
+    categorySlug: "panels",
+    slug: "wpc",
+    title: "Wood Plastic Composite Panels",
+    description:
+      "Seamless PVC wall panels designed for a smooth, continuous finish. From the hanging wall panel ranges including 80, 81, 82 and 21 Series.",
+    image: items[0].image,
+    itemsHeading: "View Our Range",
+    items,
+  };
+
+  const wallPanels = COLLECTION_PAGES["panels/wall-panels"];
+  if (wallPanels) {
+    wallPanels.items = wallPanels.items.filter(
+      (item) =>
+        !item.id.startsWith("wall-panel-80") &&
+        !item.id.startsWith("wall-panel-82") &&
+        !item.id.startsWith("pack-81"),
+    );
+    if (!wallPanels.items.length) {
+      delete COLLECTION_PAGES["panels/wall-panels"];
+    }
+  }
+
+  delete COLLECTION_PAGES["panels/wall-panel-21-series"];
+}
+
+addWpcSeamlessSeries();
+
+function addFlexibleWallPanels() {
+  const collectionSlug = "flexible-wall-panels-240cm-x-60cm-2-pack";
+  const key = `panels/${collectionSlug}`;
+  if (COLLECTION_PAGES[key]) return;
+
+  const shopify = (file: string) =>
+    `https://cdn.shopify.com/s/files/1/0398/5466/9987/files/${file}?v=1776170595`;
+
+  const lifestyle = shopify("Oak_Reed_Lifestyle.png");
+  const diagram = shopify(
+    "Untitled_design_9_1acb88e3-86b4-4447-8c32-79d176c05488.png",
+  );
+  const designShots: Record<string, string> = {
+    slatt: shopify("Slat_Flexible_Panel.png"),
+    reed: shopify("Reed_Flexible_Panel.png"),
+    flute: shopify("Flute_Flexible_Panel_1.png"),
+  };
+
+  const variants = [
+    { colour: "Oak", design: "Slatt", file: "Oak_Slat.png" },
+    { colour: "Oak", design: "Reed", file: "Oak_Reed.png" },
+    { colour: "Oak", design: "Flute", file: "Oak_Flute.png" },
+    { colour: "Walnut", design: "Slatt", file: "Walnut_Slat.png" },
+    { colour: "Walnut", design: "Reed", file: "Walnut_Reed.png" },
+    { colour: "Walnut", design: "Flute", file: "Walnut_Flute.png" },
+  ];
+
+  const colours = variants.map((variant) => {
+    const productShot = shopify(variant.file);
+    const designKey = variant.design.toLowerCase();
+    const images = [
+      productShot,
+      designShots[designKey],
+      lifestyle,
+      diagram,
+    ].filter(Boolean);
+    return {
+      value: `${variant.colour}-${variant.design}`.toLowerCase(),
+      label: `${variant.colour} / ${variant.design}`,
+      image: productShot,
+      images,
+    };
+  });
+
+  const images = colours.flatMap((colour) => colour.images ?? []);
+
+  PRODUCT_PAGES[key] = {
+    key,
+    categorySlug: "panels",
+    collectionSlug,
+    slug: collectionSlug,
+    title: "Flexible Wall Panels 2400mm * 600mm (2 pack)",
+    description:
+      "Flexible wood veneer wall panels in Slatt, Reed and Flute designs. Real wood veneer is wrapped on all faces for a seamless finish, with a flexible backing so corners and curves are straightforward to cover. Two panels per pack.",
+    image: lifestyle,
+    images,
+    colours,
+    sizes: [],
+    features: [
+      "2 panels per pack: 2400mm * 600mm * 22mm",
+      "Real wood veneer wrapped on all faces",
+      "Flexible backing for corners and curves",
+      "Designs: Slatt, Reed and Flute",
+      "Colours: Oak and Walnut",
+    ],
+    specs: [
+      { label: "Size", value: "2400mm * 600mm * 22mm" },
+      { label: "Pack", value: "2 panels" },
+      { label: "Finish", value: "Real wood veneer" },
+      { label: "Type", value: "Flexible wall panel" },
+    ],
+  };
+
+  COLLECTION_PAGES[key] = {
+    key,
+    categorySlug: "panels",
+    slug: collectionSlug,
+    title: "Flexible Wall Panels 2400mm * 600mm (2 pack)",
+    description:
+      "Flexible wood veneer wall panels in Oak and Walnut, with Slatt, Reed and Flute profiles.",
+    image: lifestyle,
+    itemsHeading: "View Our Range",
+    items: [],
+  };
+}
+
+addFlexibleWallPanels();
+
+function addFlexibleStone() {
+  const collectionSlug = "flexible-stone";
+  const key = `panels/${collectionSlug}`;
+  if (COLLECTION_PAGES[key]) return;
+
+  const file = (name: string, v: string) =>
+    `https://cdn.shopify.com/s/files/1/0398/5466/9987/files/${name}?v=${v}`;
+
+  const lifestyle = file(
+    "ChatGPT_Image_Feb_3_2026_01_44_12_PM.png",
+    "1776170208",
+  );
+  const comparison = file("Travetine_comparison_table.png", "1771842869");
+  const gemini = file(
+    "Gemini_Generated_Image_fejuwqfejuwqfeju.png",
+    "1780306282",
+  );
+
+  const series: {
+    slug: string;
+    title: string;
+    description: string;
+    card: string;
+    colours: { label: string; images: string[] }[];
+  }[] = [
+    {
+      slug: "travertine",
+      title: "Travertine Flexible Stone",
+      description:
+        "MCM flexible stone tiles with a linear pitted travertine texture. Select a colour to update the images and finish.",
+      card: lifestyle,
+      colours: [
+        {
+          label: "Beige",
+          images: [
+            file("travetineBeige.png", "1776170208"),
+            lifestyle,
+            file("travetineGreybend.png", "1771842869"),
+            file("travertine_panel_dimensions.png", "1771842869"),
+            comparison,
+          ],
+        },
+        {
+          label: "Light Grey",
+          images: [
+            file("travetineGrey.png", "1776170208"),
+            file("travetineGreybend.png", "1771842869"),
+            lifestyle,
+            file("travertine_panel_dimensions.png", "1771842869"),
+            comparison,
+          ],
+        },
+      ],
+    },
+    {
+      slug: "riven",
+      title: "Riven Flexible Stone",
+      description:
+        "MCM flexible stone tiles with a split-face riven texture. Select a colour to update the images and finish.",
+      card: file("Riven_-_Grey_Lifestyle.png", "1780932828"),
+      colours: [
+        {
+          label: "Off White",
+          images: [
+            file(
+              "Riven_-_Off_White_113b5d86-cb86-4196-8c66-a1861f1da4ff.png",
+              "1780932828",
+            ),
+            file("Riven_Off_white.png", "1783003948"),
+            file("Riven_panel_dimensions.png", "1780932826"),
+            gemini,
+          ],
+        },
+        {
+          label: "Grey",
+          images: [
+            file(
+              "Riven_-_Grey_3cdbdc4d-5f2a-4a56-aa52-c7c6953ef73e.jpg",
+              "1780932827",
+            ),
+            file("Riven_Grey.png", "1783003875"),
+            file("Riven_-_Grey_Lifestyle.png", "1780932828"),
+            file("Riven_panel_dimensions.png", "1780932826"),
+            gemini,
+          ],
+        },
+      ],
+    },
+    {
+      slug: "chiseled",
+      title: "Chiseled Flexible Stone",
+      description:
+        "MCM flexible stone tiles with a rugged chiseled texture. Select a colour to update the images and finish.",
+      card: file("chiseled_black.png", "1783003644"),
+      colours: [
+        {
+          label: "Black",
+          images: [
+            file("Chiseled_-_Black.png", "1779807044"),
+            file("chiseled_black.png", "1783003644"),
+            file("Chiseled_panel_dimensions_1.png", "1780306870"),
+            gemini,
+          ],
+        },
+        {
+          label: "Off White",
+          images: [
+            file("Chiseled_-_Off_White.png", "1779807044"),
+            file("chiseled_off_white.png", "1783003732"),
+            file("Chiseled_panel_dimensions_1.png", "1780306870"),
+            gemini,
+          ],
+        },
+      ],
+    },
+  ];
+
+  const items: CollectionItem[] = [];
+
+  for (const entry of series) {
+    const colours = entry.colours.map((colour) => ({
+      value: colour.label.toLowerCase().replace(/[^a-z0-9]+/g, "-"),
+      label: colour.label,
+      image: colour.images[0],
+      images: colour.images,
+    }));
+    const productKey = `${key}/${entry.slug}`;
+    PRODUCT_PAGES[productKey] = {
+      key: productKey,
+      categorySlug: "panels",
+      collectionSlug,
+      slug: entry.slug,
+      title: entry.title,
+      description: entry.description,
+      image: entry.card,
+      images: colours.flatMap((colour) => colour.images ?? []),
+      colours,
+      sizes: [],
+      features: [
+        "4 tiles per pack: 1200mm * 600mm",
+        "Weight: 2.4kg per panel",
+        "MCM (modified clay material) flexible stone",
+        "Suitable for interior and exterior use, including curved surfaces",
+        "A-level fire-rated, formaldehyde-free, UV-stable and water-resistant",
+      ],
+      specs: [
+        { label: "Size", value: "1200mm * 600mm" },
+        { label: "Pack", value: "4 tiles" },
+        { label: "Weight", value: "2.4kg per panel" },
+        { label: "Type", value: "MCM flexible stone tile" },
+      ],
+    };
+    items.push({
+      id: entry.slug,
+      label: entry.title,
+      image: entry.card,
+      href: `/panels/${collectionSlug}/${entry.slug}`,
+    });
+  }
+
+  COLLECTION_PAGES[key] = {
+    key,
+    categorySlug: "panels",
+    slug: collectionSlug,
+    title: "Flexible Stone",
+    description:
+      "MCM flexible stone tiles with the look of natural stone. Lightweight, bendable around curves, and suitable for interior and exterior walls. Travertine, Riven and Chiseled textures, 1200mm * 600mm, 4 tiles per pack.",
+    image: lifestyle,
+    itemsHeading: "View Our Range",
+    items,
+  };
+}
+
+addFlexibleStone();
+
+function addMosaicWallTiles() {
+  const collectionSlug = "mosaic-wall-tiles";
+  const key = `panels/${collectionSlug}`;
+  if (COLLECTION_PAGES[key]) return;
+
+  const file = (name: string, v: string) =>
+    `https://cdn.shopify.com/s/files/1/0398/5466/9987/files/${name}?v=${v}`;
+
+  const brickV = "1776345654";
+  const slateV = "1776170496";
+  const hexV = "1776345640";
+  const miniV = "1776345674";
+  const squareV = "1776345713";
+
+  const sharedFeatures = [
+    "10 sheets per pack: 300mm * 300mm",
+    "Coverage: approx. 0.9m² per pack",
+    "Self-adhesive 3D mosaic wall tiles",
+    "Peel-and-stick installation — no grout",
+  ];
+  const sharedSpecs = [
+    { label: "Sheet size", value: "300mm * 300mm" },
+    { label: "Pack", value: "10 sheets" },
+    { label: "Coverage", value: "0.9m² per pack" },
+    { label: "Type", value: "Self-adhesive 3D mosaic tile" },
+  ];
+
+  const series: {
+    slug: string;
+    title: string;
+    description: string;
+    card: string;
+    colours: { label: string; images: string[] }[];
+  }[] = [
+    {
+      slug: "brick",
+      title: "Brick Mosaic Wall Tiles",
+      description:
+        "Self-adhesive 3D mosaic wall tiles in a linear brick pattern with a brushed metallic finish. Select a colour to update the images.",
+      card: file("Mosaic_Tile_Brick_Lifestyle.png", brickV),
+      colours: [
+        {
+          label: "Gold",
+          images: [
+            file("mosaic_tile_brick_gold_full_image.png", brickV),
+            file("BrickGoldMosaicTile.png", brickV),
+            file("Mosaic_Tile_Brick_Lifestyle.png", brickV),
+            file("Brick_Mosaic_Tile_Peel_Image.png", brickV),
+            file("Mosaic_Tile_dimensions_-_Brick.png", brickV),
+          ],
+        },
+        {
+          label: "Chrome",
+          images: [
+            file("mosaic_tile_brick.png", brickV),
+            file("BrickChromeMosaicTile.png", brickV),
+            file("Mosaic_Tile_Brick_Lifestyle.png", brickV),
+            file("Brick_Mosaic_Tile_Peel_Image.png", brickV),
+            file("Mosaic_Tile_dimensions_-_Brick.png", brickV),
+          ],
+        },
+        {
+          label: "Black",
+          images: [
+            file("mosaic_tile_brick_black_full_image.png", brickV),
+            file("BrickBlackMosaicTile.png", brickV),
+            file("Mosaic_Tile_Brick_Lifestyle.png", brickV),
+            file("Brick_Mosaic_Tile_Peel_Image.png", brickV),
+            file("Mosaic_Tile_dimensions_-_Brick.png", brickV),
+          ],
+        },
+      ],
+    },
+    {
+      slug: "slate",
+      title: "Slate Mosaic Wall Tiles",
+      description:
+        "Self-adhesive 3D mosaic wall tiles with an industrial slate effect. Select a colour to update the images.",
+      card: file("Slate_Chromewashed_Mosaic_Tile_Lifestyle.png", slateV),
+      colours: [
+        {
+          label: "Black mixed with Gold",
+          images: [
+            file("mosaic_tile_slate.png", slateV),
+            file("SlateChromewashedMosaicTile.png", slateV),
+            file("Slate_Chromewashed_Mosaic_Tile_Lifestyle.png", slateV),
+            file("Slate_Mosaic_Tile_Peel_Image.png", slateV),
+            file("Mosaic_Tile_dimensions_-_Slate.png", slateV),
+          ],
+        },
+        {
+          label: "Black mixed with Grey",
+          images: [
+            file("Slate_Blackmix_with_grey_Mosaic_Tile_main_image.png", slateV),
+            file("SlateBlackwashedMosaicTile.png", slateV),
+            file("Slate_Chromewashed_Mosaic_Tile_Lifestyle.png", slateV),
+            file("Slate_Mosaic_Tile_Peel_Image.png", slateV),
+            file("Mosaic_Tile_dimensions_-_Slate.png", slateV),
+          ],
+        },
+        {
+          label: "Black mixed with Silver",
+          images: [
+            file(
+              "Slate_Blackmix_with_Silver_Mosaic_Tile_main_image.png",
+              slateV,
+            ),
+            file("Slate_Blackmix_with_Silver_Mosaic_Tile.png", slateV),
+            file("Slate_Chromewashed_Mosaic_Tile_Lifestyle.png", slateV),
+            file("Slate_Mosaic_Tile_Peel_Image.png", slateV),
+            file("Mosaic_Tile_dimensions_-_Slate.png", slateV),
+          ],
+        },
+      ],
+    },
+    {
+      slug: "hexagon",
+      title: "Hexagon Mosaic Wall Tiles",
+      description:
+        "Self-adhesive 3D mosaic wall tiles in a geometric honeycomb pattern. Select a colour to update the images.",
+      card: file("GoldHexMozaicKitchen.png", hexV),
+      colours: [
+        {
+          label: "Gold",
+          images: [
+            file("HexagonGoldMosaicTile.png", hexV),
+            file("mosaic_tile_Hexagon_gold.png", hexV),
+            file("GoldHexMozaicKitchen.png", hexV),
+            file("Hexagon_Mosaic_Tile_Peel_Image.png", hexV),
+            file("Mosaic_Tile_dimensions_-_Hexagon.png", hexV),
+          ],
+        },
+        {
+          label: "Chrome",
+          images: [
+            file("HexagonChromeMosaicTile.png", hexV),
+            file("mosaic_tile_Hexagon.png", hexV),
+            file("GoldHexMozaicKitchen.png", hexV),
+            file("Hexagon_Mosaic_Tile_Peel_Image.png", hexV),
+            file("Mosaic_Tile_dimensions_-_Hexagon.png", hexV),
+          ],
+        },
+      ],
+    },
+    {
+      slug: "mini-hexagon",
+      title: "Mini Hexagon Mosaic Wall Tiles",
+      description:
+        "Self-adhesive 3D mosaic wall tiles in a smaller honeycomb pattern. Select a colour to update the images.",
+      card: file("Mini_Hex_Gold_Mosaic_Tile_Lifestyle.png", miniV),
+      colours: [
+        {
+          label: "Black",
+          images: [
+            file("mosaic_tile_mini_hex_black_full_image.png", miniV),
+            file("MiniHexBlackMosaicTile.png", miniV),
+            file("Mini_Hex_Gold_Mosaic_Tile_Lifestyle.png", miniV),
+            file("Mini_Hex_Mosaic_Tile_Peel_Image.png", miniV),
+            file("Mosaic_Tile_dimensions_-_Mini_Hexagon.png", miniV),
+          ],
+        },
+        {
+          label: "Chrome/Black",
+          images: [
+            file("mosaic_tile_mini_hex.png", miniV),
+            file("MiniHexChromeMosaicTile.png", miniV),
+            file("Mini_Hex_Gold_Mosaic_Tile_Lifestyle.png", miniV),
+            file("Mini_Hex_Mosaic_Tile_Peel_Image.png", miniV),
+            file("Mosaic_Tile_dimensions_-_Mini_Hexagon.png", miniV),
+          ],
+        },
+        {
+          label: "Gold",
+          images: [
+            file("mosaic_tile_mini_hex_gold_full_image.png", miniV),
+            file("MiniHexGoldMosaicTile.png", miniV),
+            file("Mini_Hex_Gold_Mosaic_Tile_Lifestyle.png", miniV),
+            file("Mini_Hex_Mosaic_Tile_Peel_Image.png", miniV),
+            file("Mosaic_Tile_dimensions_-_Mini_Hexagon.png", miniV),
+          ],
+        },
+      ],
+    },
+    {
+      slug: "square",
+      title: "Square Mosaic Wall Tiles",
+      description:
+        "Self-adhesive 3D mosaic wall tiles in a square pattern. Select a colour to update the images.",
+      card: file("Mosaic_Tiles_Square_Lifestyle.png", squareV),
+      colours: [
+        {
+          label: "Gold",
+          images: [
+            file("mosaic_tile_square_gold_full_image.png", squareV),
+            file("SquareGoldMosaicTile.png", squareV),
+            file("Mosaic_Tiles_Square_Lifestyle.png", squareV),
+            file("Square_Mosaic_Tile_Peel_Image.png", squareV),
+            file("Mosaic_Tile_dimensions_-_Square.png", squareV),
+          ],
+        },
+        {
+          label: "Chrome",
+          images: [
+            file("mosaic_tile_square.png", squareV),
+            file("SquareChromeMosaicTile.png", squareV),
+            file("Mosaic_Tiles_Square_Lifestyle.png", squareV),
+            file("Square_Mosaic_Tile_Peel_Image.png", squareV),
+            file("Mosaic_Tile_dimensions_-_Square.png", squareV),
+          ],
+        },
+        {
+          label: "Black",
+          images: [
+            file("mosaic_tile_square_black_full_image.png", squareV),
+            file("SquareBlackMosaicTile.png", squareV),
+            file("Mosaic_Tiles_Square_Lifestyle.png", squareV),
+            file("Square_Mosaic_Tile_Peel_Image.png", squareV),
+            file("Mosaic_Tile_dimensions_-_Square.png", squareV),
+          ],
+        },
+      ],
+    },
+  ];
+
+  const items: CollectionItem[] = [];
+
+  for (const entry of series) {
+    const colours = entry.colours.map((colour) => ({
+      value: colour.label.toLowerCase().replace(/[^a-z0-9]+/g, "-"),
+      label: colour.label,
+      image: colour.images[0],
+      images: colour.images,
+    }));
+    const productKey = `${key}/${entry.slug}`;
+    PRODUCT_PAGES[productKey] = {
+      key: productKey,
+      categorySlug: "panels",
+      collectionSlug,
+      slug: entry.slug,
+      title: entry.title,
+      description: entry.description,
+      image: entry.card,
+      images: colours.flatMap((colour) => colour.images ?? []),
+      colours,
+      sizes: [],
+      features: sharedFeatures,
+      specs: sharedSpecs,
+    };
+    items.push({
+      id: entry.slug,
+      label: entry.title,
+      image: entry.card,
+      href: `/panels/${collectionSlug}/${entry.slug}`,
+    });
+  }
+
+  COLLECTION_PAGES[key] = {
+    key,
+    categorySlug: "panels",
+    slug: collectionSlug,
+    title: "Mosaic Wall Tiles",
+    description:
+      "Self-adhesive 3D mosaic wall tiles in brick, slate, hexagon, mini hexagon and square patterns. 300mm * 300mm sheets, 10 per pack.",
+    image: file("Mosaic_Tile_Brick_Lifestyle.png", brickV),
+    itemsHeading: "View Our Range",
+    items,
+  };
+}
+
+addMosaicWallTiles();
+
+function addFurnishWpcWallPanels() {
+  const collectionSlug = "wpc";
+  const key = `panels/${collectionSlug}`;
+  delete COLLECTION_PAGES["panels/wpc-wall-panels"];
+  if (!COLLECTION_PAGES[key]) return;
+
+  const file = (name: string, v: string) =>
+    `https://cdn.shopify.com/s/files/1/0398/5466/9987/files/${name}?v=${v}`;
+
+  const slattedV = "1773845978";
+  const oakV = "1773845849";
+  const ashV = "1773845624";
+  const flutedV = "1773844442";
+  const flatV = "1773841710";
+  const waveV = "1773841797";
+
+  const series: {
+    slug: string;
+    title: string;
+    description: string;
+    card: string;
+    features: string[];
+    specs: { label: string; value: string }[];
+    colours: { label: string; images: string[] }[];
+  }[] = [
+    {
+      slug: "slatted",
+      title: "Wood Effect Slatted WPC Panels",
+      description:
+        "Wood-effect slatted WPC wall panels. Select a colour to update the images and finish.",
+      card: file("20240904_160842.jpg", slattedV),
+      features: [
+        "14 panels per pack: 2300mm * 152mm * 12mm",
+        "Coverage: approx. 2300mm * 2100mm per pack",
+      ],
+      specs: [
+        { label: "Size", value: "2300mm * 152mm * 12mm" },
+        { label: "Pack", value: "14 panels" },
+        { label: "Coverage", value: "2300mm * 2100mm per pack" },
+      ],
+      colours: [
+        {
+          label: "Dark Oak",
+          images: [
+            file("WALLPANEL-WEFFECT-DARKOAK_001.jpg", oakV),
+            file("20240904_160842.jpg", slattedV),
+            file("20240904_162150.jpg", slattedV),
+            file("20240904_160656.jpg", slattedV),
+            file("20240904_161202.jpg", slattedV),
+          ],
+        },
+        {
+          label: "Light Oak",
+          images: [
+            file("WALLPANEL-WEFFECT-LIGHTOAK_001.jpg", oakV),
+            file("20240904_160842.jpg", slattedV),
+            file("20240904_162150.jpg", slattedV),
+          ],
+        },
+        {
+          label: "Ash Grey",
+          images: [
+            file("WALLPANEL-WEFFECT-ASHGREY_001.jpg", ashV),
+            file("20240904_160842.jpg", slattedV),
+          ],
+        },
+        {
+          label: "Chrome / Black",
+          images: [
+            file("metallic_panels_3.png", slattedV),
+            file("GoldMetallic.jpg", slattedV),
+            file(
+              "MIAMI_3STR_OATM_CLOSEUP02_4906b697-14ca-4eb4-b7ed-59d3002e7b24.jpg",
+              slattedV,
+            ),
+          ],
+        },
+      ],
+    },
+    {
+      slug: "fluted",
+      title: "Fluted WPC Wall Panels",
+      description:
+        "Half-round fluted WPC wall panels for a clean architectural feature wall. Select a colour to update the images and finish.",
+      card: file("black_Fluted_Lifestyle.png", flutedV),
+      features: [
+        "15 panels per pack: 2350mm * 160mm",
+        "Wood plastic composite fluted wall panel",
+      ],
+      specs: [
+        { label: "Size", value: "2350mm * 160mm" },
+        { label: "Pack", value: "15 panels" },
+      ],
+      colours: [
+        {
+          label: "Black",
+          images: [
+            file("black_fluted.png", flutedV),
+            file("black_Fluted_Lifestyle.png", flutedV),
+            file("WALLPANEL-FLUTED-BLK.jpg", flutedV),
+            file("WPC_Fluted_dimensions.png", flutedV),
+          ],
+        },
+        {
+          label: "Grey",
+          images: [
+            file("grey_fluted.png", flutedV),
+            file("grey_fluted_lifestyle.png", "1780407729"),
+            file("WALLPANEL-FLUTED-GRY.jpg", flutedV),
+            file("WPC_Fluted_dimensions.png", flutedV),
+          ],
+        },
+      ],
+    },
+    {
+      slug: "flat",
+      title: "Wood Effect Flat WPC Panels",
+      description:
+        "Wood-effect flat WPC wall panels. Select a colour to update the images and finish.",
+      card: file("Light_Oak_Lifestyle.png", flatV),
+      features: [
+        "5 panels per pack: 2350mm * 400mm",
+        "Wood plastic composite flat wall panel",
+      ],
+      specs: [
+        { label: "Size", value: "2350mm * 400mm" },
+        { label: "Pack", value: "5 panels" },
+      ],
+      colours: [
+        {
+          label: "Light Oak",
+          images: [
+            file("WPCFlatPanel-LightOak.jpg", flatV),
+            file("Light_Oak_Lifestyle.png", flatV),
+            file("Flat_Wave_Light_Oak.jpg", waveV),
+          ],
+        },
+        {
+          label: "Walnut",
+          images: [
+            file("WPCFlatPanel-Walnut.jpg", flatV),
+            file("Walnut_Lifestyle.png", flatV),
+            file("Flat_Wave_Walnut.jpg", waveV),
+          ],
+        },
+        {
+          label: "Ash Grey",
+          images: [
+            file("WPCFlatPanel-AshGrey.jpg", flatV),
+            file("Ash_Grey_Lifestyle.png", flatV),
+            file("Flat_Wave_Ash_Grey.jpg", waveV),
+          ],
+        },
+      ],
+    },
+    {
+      slug: "wave",
+      title: "Wood Effect Wave WPC Panels",
+      description:
+        "Wood-effect wave WPC wall panels with a concave profile. Select a colour to update the images and finish.",
+      card: file("Wave_Panel_Light_Oak_Lifestyle.png", waveV),
+      features: [
+        "10 panels per pack: 2350mm * 160mm",
+        "Wood plastic composite wave wall panel",
+      ],
+      specs: [
+        { label: "Size", value: "2350mm * 160mm" },
+        { label: "Pack", value: "10 panels" },
+      ],
+      colours: [
+        {
+          label: "Light Oak",
+          images: [
+            file("WPCWavePanel-LightOak.jpg", waveV),
+            file("Wave_Panel_Light_Oak_Lifestyle.png", waveV),
+            file("Flat_Wave_Light_Oak.jpg", waveV),
+            file("Modern_Living_Room_with_Warm_Tones.png", waveV),
+          ],
+        },
+        {
+          label: "Walnut",
+          images: [
+            file("WPCWavePanel-Walnut.jpg", waveV),
+            file("Flat_Wave_Walnut.jpg", waveV),
+            file("Modern_Living_Room_with_Warm_Tones.png", waveV),
+          ],
+        },
+        {
+          label: "Ash Grey",
+          images: [
+            file("WPCWavePanel-AshGrey.jpg", waveV),
+            file("Wave_Panel_Ash_Grey_Lifestyle_1.png", waveV),
+            file("Flat_Wave_Ash_Grey.jpg", waveV),
+          ],
+        },
+      ],
+    },
+  ];
+
+  const items: CollectionItem[] = [];
+
+  for (const entry of series) {
+    const colours = entry.colours.map((colour) => ({
+      value: colour.label.toLowerCase().replace(/[^a-z0-9]+/g, "-"),
+      label: colour.label,
+      image: colour.images[0],
+      images: colour.images,
+    }));
+    const productKey = `${key}/${entry.slug}`;
+    PRODUCT_PAGES[productKey] = {
+      key: productKey,
+      categorySlug: "panels",
+      collectionSlug,
+      slug: entry.slug,
+      title: entry.title,
+      description: entry.description,
+      image: entry.card,
+      images: colours.flatMap((colour) => colour.images ?? []),
+      colours,
+      sizes: [],
+      features: entry.features,
+      specs: entry.specs,
+    };
+    items.push({
+      id: entry.slug,
+      label: entry.title,
+      image: entry.card,
+      href: `/panels/${collectionSlug}/${entry.slug}`,
+    });
+  }
+
+  mergeCollectionItems(key, items);
+}
+
+addFurnishWpcWallPanels();
+
 for (const page of Object.values(COLLECTION_PAGES)) {
   page.title = normalizeDimensionText(page.title);
   page.description = normalizeDimensionText(page.description);
@@ -16694,8 +17639,8 @@ export function getAllProductParams(): {
   return Object.values(PRODUCT_PAGES)
     .filter((page) => page.key.split("/").length === 3)
     .map((page) => ({
-    slug: page.categorySlug,
-    collection: page.collectionSlug,
-    product: page.slug,
-  }));
+      slug: page.categorySlug,
+      collection: page.collectionSlug,
+      product: page.slug,
+    }));
 }
