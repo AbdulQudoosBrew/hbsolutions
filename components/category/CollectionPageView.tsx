@@ -7,12 +7,17 @@ interface CollectionPageViewProps {
   collection: CollectionPageData;
   categoryTitle: string;
   categoryHref: string;
+  parentCollection?: {
+    title: string;
+    href: string;
+  };
 }
 
 export default function CollectionPageView({
   collection,
   categoryTitle,
   categoryHref,
+  parentCollection,
 }: CollectionPageViewProps) {
   return (
     <div className="bg-white pt-[96px] sm:pt-[104px] lg:pt-[120px]">
@@ -34,6 +39,17 @@ export default function CollectionPageView({
           >
             {categoryTitle}
           </Link>
+          {parentCollection ? (
+            <>
+              <span aria-hidden>/</span>
+              <Link
+                href={parentCollection.href}
+                className="transition-colors hover:text-[#000000]"
+              >
+                {parentCollection.title}
+              </Link>
+            </>
+          ) : null}
           <span aria-hidden>/</span>
           <span className="max-w-[55vw] truncate text-[#000000] sm:max-w-none">
             {collection.title}
@@ -42,7 +58,7 @@ export default function CollectionPageView({
 
         <div className="mx-auto max-w-3xl px-1 text-center sm:px-0">
           <p className="text-[10px] font-medium uppercase tracking-[0.28em] text-[#888888] sm:text-[11px] sm:tracking-[0.35em]">
-            {categoryTitle}
+            {parentCollection?.title ?? categoryTitle}
           </p>
           <h1 className="mt-2 text-[1.5rem] font-medium uppercase leading-[1.25] tracking-[0.12em] text-[#000000] sm:mt-3 sm:text-3xl sm:tracking-[0.16em] md:text-4xl md:tracking-[0.18em] lg:text-[2.75rem]">
             {collection.title}
@@ -88,7 +104,11 @@ export default function CollectionPageView({
                   {item.label}
                 </span>
                 <span className="block pb-1.5 text-[9px] uppercase tracking-[0.16em] text-[#888888] sm:pb-2 sm:text-[10px] sm:tracking-[0.2em]">
-                  View & Enquire
+                  {item.isSubcategory
+                    ? "View range"
+                    : item.purchasable
+                      ? item.price || "Add to basket"
+                      : "View & Enquire"}
                 </span>
               </div>
             </Link>

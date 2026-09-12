@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Logo from "@/components/ui/Logo";
 import HeaderMenuButton from "@/components/layout/header/HeaderMenuButton";
+import HeaderCartButton from "@/components/layout/header/HeaderCartButton";
 import HeaderSearchButton from "@/components/layout/header/HeaderSearchButton";
 
 export default function MobileHeader() {
@@ -15,6 +16,7 @@ export default function MobileHeader() {
         </Link>
 
         <div className="flex items-center gap-3">
+          <HeaderCartButton />
           <HeaderSearchButton />
           <HeaderMenuButton />
         </div>

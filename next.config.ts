@@ -39,6 +39,11 @@ const nextConfig: NextConfig = {
         protocol: "https",
         hostname: "*.public.blob.vercel-storage.com",
       },
+      {
+        protocol: "https",
+        hostname: "gretagrove.co.uk",
+        pathname: "/wp-content/uploads/**",
+      },
     ],
   },
 };

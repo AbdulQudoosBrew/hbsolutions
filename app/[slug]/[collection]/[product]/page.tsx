@@ -54,6 +54,7 @@ export default async function ProductRoutePage({ params }: ProductRouteProps) {
   const nestedCollection = getNestedCollectionPage(slug, collection, product);
 
   if (nestedCollection && category) {
+    const parentCollection = getCollectionPage(slug, collection);
     return (
       <>
         <Header />
@@ -62,6 +63,14 @@ export default async function ProductRoutePage({ params }: ProductRouteProps) {
             collection={nestedCollection}
             categoryTitle={category.title}
             categoryHref={`/${category.slug}`}
+            parentCollection={
+              parentCollection
+                ? {
+                    title: parentCollection.title,
+                    href: `/${category.slug}/${collection}`,
+                  }
+                : undefined
+            }
           />
         </main>
         <Footer />
@@ -77,14 +86,21 @@ export default async function ProductRoutePage({ params }: ProductRouteProps) {
     notFound();
   }
 
+  const subCollection = page.subcollectionSlug
+    ? getNestedCollectionPage(slug, collection, page.subcollectionSlug)
+    : null;
   const trimCollection = getNestedCollectionPage(slug, collection, "trims");
   const relatedSource =
-    trimCollection && trimCollection.items.some((item) => item.id === page.slug)
+    subCollection ??
+    (trimCollection && trimCollection.items.some((item) => item.id === page.slug)
       ? trimCollection
-      : collectionPage;
+      : collectionPage);
 
   const relatedProducts = relatedSource.items.filter(
-    (item) => item.id !== page.slug && item.id !== "trims",
+    (item) =>
+      item.id !== page.slug &&
+      item.id !== "trims" &&
+      !item.isSubcategory,
   );
 
   return (
@@ -97,9 +113,11 @@ export default async function ProductRoutePage({ params }: ProductRouteProps) {
           categoryHref={`/${category.slug}`}
           collectionTitle={relatedSource.title}
           collectionHref={
-            relatedSource.key.includes("/trims")
-              ? `/${category.slug}/${collection}/trims`
-              : `/${category.slug}/${collectionPage.slug}`
+            relatedSource.key.split("/").length === 3
+              ? `/${relatedSource.key}`
+              : relatedSource.key.includes("/trims")
+                ? `/${category.slug}/${collection}/trims`
+                : `/${category.slug}/${collectionPage.slug}`
           }
           relatedProducts={relatedProducts}
         />

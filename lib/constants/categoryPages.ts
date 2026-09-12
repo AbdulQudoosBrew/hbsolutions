@@ -4,6 +4,7 @@ import { KITCHENS_CATEGORY } from "./kitchenPages";
 import { STRING_SPC_CATEGORY_CARD } from "./stringSpcFlooringPages";
 import { CORNERS_CATEGORY } from "./cornerTrimPages";
 import { STRING_ACCESSORY_CATEGORY_CARDS } from "./stringAccessoriesPages";
+import { GRETAGROVE_CATEGORY } from "@/lib/gretagroveCatalog";
 import { normalizeDimensionText } from "@/lib/utils/normalizeDimensions";
 
 export type CategoryCollection = {
@@ -1386,6 +1387,9 @@ Object.assign(
   AWS_CATEGORY_PAGES as Record<string, CategoryPageData>,
 );
 Object.assign(CATEGORY_PAGES, { kitchens: KITCHENS_CATEGORY });
+Object.assign(CATEGORY_PAGES, {
+  "available-on-delivery": GRETAGROVE_CATEGORY,
+});
 
 for (const page of Object.values(CATEGORY_PAGES)) {
   page.title = normalizeDimensionText(page.title);

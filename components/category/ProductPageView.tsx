@@ -14,6 +14,8 @@ import {
   findImagesForColour,
 } from "@/lib/utils/colourImages";
 import { uniqueImages } from "@/lib/utils/imageUrl";
+import { useAppDispatch } from "@/lib/store/hooks";
+import { addToCart } from "@/lib/store/slices/cartSlice";
 
 interface ProductPageViewProps {
   product: ProductPageData;
@@ -44,6 +46,9 @@ export default function ProductPageView({
   const [size, setSize] = useState(sizes[0]?.value ?? "");
   const [activeImage, setActiveImage] = useState(0);
   const [zoom, setZoom] = useState({ x: 50, y: 50, on: false });
+  const [qty, setQty] = useState(1);
+  const [added, setAdded] = useState(false);
+  const dispatch = useAppDispatch();
 
   const selectedColour = colours.find((c) => c.value === colour);
   const selectedSizeLabel = sizes.find((s) => s.value === size)?.label ?? "";
@@ -204,6 +209,12 @@ export default function ProductPageView({
 
             <div className="mt-4 h-px w-10 bg-[#111111] sm:mt-6 sm:w-12" />
 
+            {product.purchasable ? (
+              <p className="mt-5 text-lg tracking-[0.04em] text-[#111111] sm:mt-6 sm:text-xl">
+                {product.price || "Price on request"}
+              </p>
+            ) : null}
+
             <p className="mt-4 max-w-xl text-sm leading-6 text-[#666666] sm:mt-6 sm:text-[15px] sm:leading-7">
               {product.description}
             </p>
@@ -311,17 +322,61 @@ export default function ProductPageView({
             ) : null}
 
             <div className="mt-8 sm:mt-10">
-              <Link
-                href={enquireHref}
-                className="inline-flex h-11 w-full items-center justify-center bg-[#111111] px-8 text-[11px] font-medium uppercase tracking-[0.22em] text-white transition-colors hover:bg-[#000000] sm:h-12 sm:w-auto sm:min-w-[220px]"
-              >
-                Enquire Now
-              </Link>
+              {product.purchasable ? (
+                <div className="flex flex-col gap-3 sm:flex-row sm:items-center">
+                  <label className="inline-flex h-11 items-center border border-[#e5e5e5] px-3 text-[11px] uppercase tracking-[0.16em] text-[#666666] sm:h-12">
+                    Qty
+                    <input
+                      type="number"
+                      min={1}
+                      value={qty}
+                      onChange={(event) =>
+                        setQty(Math.max(1, Number(event.target.value) || 1))
+                      }
+                      className="ml-3 w-16 border-0 bg-transparent text-sm text-[#111111] outline-none"
+                    />
+                  </label>
+                  <button
+                    type="button"
+                    onClick={() => {
+                      dispatch(
+                        addToCart({
+                          id: product.key,
+                          title: product.title,
+                          image: product.image,
+                          href: `/${product.key}`,
+                          price: product.price || "",
+                          unitAmount: product.priceAmount || 0,
+                          qty,
+                        }),
+                      );
+                      setAdded(true);
+                    }}
+                    className="inline-flex h-11 w-full items-center justify-center bg-[#111111] px-8 text-[11px] font-medium uppercase tracking-[0.22em] text-white transition-colors hover:bg-[#000000] sm:h-12 sm:w-auto sm:min-w-[220px]"
+                  >
+                    {added ? "Added to basket" : "Add to basket"}
+                  </button>
+                  <Link
+                    href="/cart"
+                    className="inline-flex h-11 items-center justify-center px-2 text-[11px] uppercase tracking-[0.18em] text-[#666666] hover:text-[#111111] sm:h-12"
+                  >
+                    View basket
+                  </Link>
+                </div>
+              ) : (
+                <Link
+                  href={enquireHref}
+                  className="inline-flex h-11 w-full items-center justify-center bg-[#111111] px-8 text-[11px] font-medium uppercase tracking-[0.22em] text-white transition-colors hover:bg-[#000000] sm:h-12 sm:w-auto sm:min-w-[220px]"
+                >
+                  Enquire Now
+                </Link>
+              )}
             </div>
 
             <p className="mt-4 max-w-md text-xs leading-5 text-[#999999] sm:mt-5">
-              Trade and retail enquiries welcome. We’ll confirm availability,
-              finishes and lead times.
+              {product.purchasable
+                ? "This item is available on delivery. Add it to your basket to place an order."
+                : "Trade and retail enquiries welcome. We’ll confirm availability, finishes and lead times."}
             </p>
           </div>
         </div>
@@ -363,6 +418,11 @@ export default function ProductPageView({
                   <span className="mt-2.5 px-1 text-center text-[10px] uppercase leading-snug tracking-[0.12em] text-[#444444] transition-colors group-hover:text-[#111111] sm:mt-3 sm:text-[11px] sm:tracking-[0.16em]">
                     {item.label}
                   </span>
+                  {item.price ? (
+                    <span className="mt-1 block text-center text-[10px] tracking-[0.08em] text-[#888888]">
+                      {item.price}
+                    </span>
+                  ) : null}
                 </Link>
               ))}
             </div>

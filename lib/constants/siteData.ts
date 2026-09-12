@@ -92,6 +92,12 @@ export const PRODUCT_CATEGORIES = [
     image: "/images/panels-banner.jpg",
   },
   {
+    id: "available-on-delivery",
+    label: "Available on Delivery",
+    image:
+      "https://gretagrove.co.uk/wp-content/uploads/2026/03/Graphite-Marble-Wall-Panel-LS.jpg",
+  },
+  {
     id: "bathrooms",
     label: "Bathrooms",
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/baths.jpg",

@@ -27,12 +27,19 @@ import {
 } from "./stringAccessoriesPages";
 import { normalizeDimensionText } from "@/lib/utils/normalizeDimensions";
 import { stripPricesFromText } from "@/lib/utils/stripPrices";
+import {
+  GRETAGROVE_COLLECTIONS,
+  GRETAGROVE_PRODUCTS,
+} from "@/lib/gretagroveCatalog";
 
 export type CollectionItem = {
   id: string;
   label: string;
   image: string;
   href: string;
+  price?: string;
+  purchasable?: boolean;
+  isSubcategory?: boolean;
 };
 
 export type ProductOption = {
@@ -74,6 +81,10 @@ export type ProductPageData = {
   sizes: ProductOption[];
   features?: string[];
   specs?: ProductSpec[];
+  price?: string;
+  priceAmount?: number;
+  purchasable?: boolean;
+  subcollectionSlug?: string;
 };
 
 export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
@@ -17583,6 +17594,9 @@ function addFurnishWpcWallPanels() {
 
 addFurnishWpcWallPanels();
 
+Object.assign(COLLECTION_PAGES, GRETAGROVE_COLLECTIONS);
+Object.assign(PRODUCT_PAGES, GRETAGROVE_PRODUCTS);
+
 for (const page of Object.values(COLLECTION_PAGES)) {
   page.title = normalizeDimensionText(page.title);
   page.description = normalizeDimensionText(page.description);
@@ -17593,12 +17607,14 @@ for (const page of Object.values(COLLECTION_PAGES)) {
 
 for (const page of Object.values(PRODUCT_PAGES)) {
   page.title = normalizeDimensionText(page.title);
-  page.description = stripPricesFromText(
-    normalizeDimensionText(page.description),
-  );
+  page.description = page.purchasable
+    ? normalizeDimensionText(page.description)
+    : stripPricesFromText(normalizeDimensionText(page.description));
   if (page.features) {
     page.features = page.features.map((feature) =>
-      stripPricesFromText(normalizeDimensionText(feature)),
+      page.purchasable
+        ? normalizeDimensionText(feature)
+        : stripPricesFromText(normalizeDimensionText(feature)),
     );
   }
   if (page.specs) {
@@ -17636,11 +17652,24 @@ export function getAllProductParams(): {
   collection: string;
   product: string;
 }[] {
-  return Object.values(PRODUCT_PAGES)
+  const products = Object.values(PRODUCT_PAGES)
     .filter((page) => page.key.split("/").length === 3)
     .map((page) => ({
       slug: page.categorySlug,
       collection: page.collectionSlug,
       product: page.slug,
     }));
+
+  const nested = Object.values(COLLECTION_PAGES)
+    .filter((page) => page.key.split("/").length === 3)
+    .map((page) => {
+      const [slug, collection, product] = page.key.split("/");
+      return { slug, collection, product };
+    });
+
+  const seen = new Set(products.map((item) => `${item.slug}/${item.collection}/${item.product}`));
+  return [
+    ...products,
+    ...nested.filter((item) => !seen.has(`${item.slug}/${item.collection}/${item.product}`)),
+  ];
 }

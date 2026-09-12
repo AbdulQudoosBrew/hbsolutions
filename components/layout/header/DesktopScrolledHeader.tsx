@@ -1,5 +1,6 @@
 import { NAV_CATEGORIES } from "@/lib/constants/siteData";
 import HeaderNavItem from "@/components/layout/header/HeaderNavItem";
+import HeaderCartButton from "@/components/layout/header/HeaderCartButton";
 import HeaderSearchButton from "@/components/layout/header/HeaderSearchButton";
 
 export default function DesktopScrolledHeader({
@@ -33,7 +34,8 @@ export default function DesktopScrolledHeader({
           ))}
         </ul>
 
-        <div className="shrink-0">
+        <div className="flex shrink-0 items-center gap-4">
+          <HeaderCartButton />
           <HeaderSearchButton />
         </div>
       </div>
