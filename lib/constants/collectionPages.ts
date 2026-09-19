@@ -6263,7 +6263,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     slug: "smart-wc-floorstanding",
     title: "Smart WC Floorstanding",
     description:
-      "Introducing the Haris Building Solutions Smart Toilet – the first in its category to popularise a two-piece, back-to-wall smart WC in Europe. Combining premium quality, modern design, and exceptional value, it meets today’s highest hygiene standards and includes all essential smart features. Operated via remote control or the smart lid’s side panel, it offers top-tier performance and convenience. Backed by a comprehensive warranty: 10 years on ceramic components and 3 years on the smart lid and electronics &#8211; for innovation you can trust.",
+      "Introducing the Haris Building Solutions Smart Toilet – the first in its category to popularise a two-piece, back-to-wall smart WC in Europe. Combining premium quality, modern design, and exceptional value, it meets today’s highest hygiene standards and includes all essential smart features. Operated via remote control or the smart lid’s side panel, it offers top-tier performance and convenience. Backed by a comprehensive warranty: 10 years on ceramic components and 3 years on the smart lid and electronics– for innovation you can trust.",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2026/06/FLOOR-STANDING.jpg",
     images: [
@@ -6285,7 +6285,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     slug: "smart-wc-wall-hung",
     title: "Smart WC Wall Hung",
     description:
-      "Introducing the Haris Building Solutions Smart Toilet – the first in its category to popularise a two-piece, back-to-wall smart WC in Europe. Combining premium quality, modern design, and exceptional value, it meets today’s highest hygiene standards and includes all essential smart features. Operated via remote control or the smart lid’s side panel, it offers top-tier performance and convenience. Backed by a comprehensive warranty: 10 years on ceramic components and 3 years on the smart lid and electronics &#8211; for innovation you can trust.",
+      "Introducing the Haris Building Solutions Smart Toilet – the first in its category to popularise a two-piece, back-to-wall smart WC in Europe. Combining premium quality, modern design, and exceptional value, it meets today’s highest hygiene standards and includes all essential smart features. Operated via remote control or the smart lid’s side panel, it offers top-tier performance and convenience. Backed by a comprehensive warranty: 10 years on ceramic components and 3 years on the smart lid and electronics– for innovation you can trust.",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2026/06/WALL-HUNG.jpg",
     images: [
@@ -6426,7 +6426,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     slug: "ruby-open-back-close-coupled-wc",
     title: "Ruby Open Back Close Coupled WC",
     description:
-      "Pan QC: 7206 &#8211; £189.00 Cistern QC: 7174 &#8211; £97.00 Seat QC: 7176 &#8211; £58.00 Wrap Over Seat QC: 7177 &#8211; £58.00",
+      "Pan QC: 7206– £189.00 Cistern QC: 7174– £97.00 Seat QC: 7176– £58.00 Wrap Over Seat QC: 7177– £58.00",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Open-Back-Close-Coupled-WC.jpg",
     images: [
@@ -6443,7 +6443,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     slug: "ruby-fully-back-to-wall-close-coupled-wc",
     title: "Ruby Fully Back To Wall Close Coupled WC",
     description:
-      "Pan QC:7970 &#8211; £230.00 Cistern QC:7174 &#8211; £97.00 Seat QC:7176 &#8211; £58.00 Wrap Over Seat QC:7177 &#8211; £58.00",
+      "Pan QC:7970– £230.00 Cistern QC:7174– £97.00 Seat QC:7176– £58.00 Wrap Over Seat QC:7177– £58.00",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
     images: [
@@ -6460,7 +6460,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     slug: "ruby-comfort-height-open-back-close-coupled-wc",
     title: "Ruby Comfort Height Open Back Close Coupled WC",
     description:
-      "Pan QC: 7172 &#8211; £156.00 Cistern QC: 7174 &#8211; £97.00 Seat QC: 7176 &#8211; £58.00 Wrap Over Seat QC:7177 &#8211; £58.00",
+      "Pan QC: 7172– £156.00 Cistern QC: 7174– £97.00 Seat QC: 7176– £58.00 Wrap Over Seat QC:7177– £58.00",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Comfort-Height-Open-Back-Close-Coupled-WC.jpg",
     images: [
@@ -6477,7 +6477,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     slug: "ruby-comfort-height-fully-enclosed-close-coupled-wc",
     title: "Ruby Comfort Height Fully Enclosed Close Coupled WC",
     description:
-      "Pan QC:7971 &#8211; £300.00 Cistern QC:7174 &#8211; £97.00 Seat QC:7176 &#8211; £58.00 Wrap Over Seat QC:7177 &#8211; £58.00",
+      "Pan QC:7971– £300.00 Cistern QC:7174– £97.00 Seat QC:7176– £58.00 Wrap Over Seat QC:7177– £58.00",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Comfort-Height-Fully-Enclosed-Close-Coupled-WC.jpg",
     images: [
@@ -6494,7 +6494,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     slug: "ruby-back-to-wall-wc-and-slimline-seat",
     title: "Ruby Back To Wall WC and Slimline Seat",
     description:
-      "Pan QC:672 &#8211; £193.00 Seat QC:7176 &#8211; £58.00 Wrap Over Seat QC:7177 &#8211; £58.00",
+      "Pan QC:672– £193.00 Seat QC:7176– £58.00 Wrap Over Seat QC:7177– £58.00",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Back-To-Wall-WC-and-Slimline-Seat.jpg",
     images: [
@@ -6510,7 +6510,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     slug: "ruby-wall-hung-wc",
     title: "Ruby Wall Hung WC",
     description:
-      "Pan QC: 676 &#8211; £271.00 Seat QC: 7176 &#8211; £58.00 Wrap Over Seat QC: 7177 &#8211; £58.00",
+      "Pan QC: 676– £271.00 Seat QC: 7176– £58.00 Wrap Over Seat QC: 7177– £58.00",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Ruby-Wall-Hung-WC.jpg",
     images: [
@@ -6526,7 +6526,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     slug: "azzurra-open-back-close-coupled-wc",
     title: "Azzurra Open Back Close Coupled WC",
     description:
-      "Pan QC:7178 &#8211; £189.00 Cistern QC:7181 &#8211; £97.00 Seat QC:7182 &#8211; £58.00 Wrap Over Seat QC:7183 &#8211; £58.00",
+      "Pan QC:7178– £189.00 Cistern QC:7181– £97.00 Seat QC:7182– £58.00 Wrap Over Seat QC:7183– £58.00",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Open-Back-Close-Coupled-WC.jpg",
     images: [
@@ -6544,7 +6544,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     slug: "azzurra-fully-back-to-wall-close-coupled-wc",
     title: "Azzurra Fully Back To Wall Close Coupled WC",
     description:
-      "Pan QC:7966 &#8211; £230.00 Cistern QC:7181 &#8211; £97.00 Seat QC:7182 &#8211; £58.00 Wrap Over Seat QC:7183 &#8211; £58.00",
+      "Pan QC:7966– £230.00 Cistern QC:7181– £97.00 Seat QC:7182– £58.00 Wrap Over Seat QC:7183– £58.00",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
     images: [
@@ -6560,7 +6560,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     slug: "azzurra-comfort-height-open-back-close-coupled-wc",
     title: "Azzurra Comfort Height Open Back Close Coupled WC",
     description:
-      "Pan QC:7179 &#8211; £156.00 Cistern QC:7181 &#8211; £97.00 Seat QC:7182 &#8211; £58.00 Wrap Over Seat QC:7183 &#8211; £58.00",
+      "Pan QC:7179– £156.00 Cistern QC:7181– £97.00 Seat QC:7182– £58.00 Wrap Over Seat QC:7183– £58.00",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Comfort-Height-Open-Back-Close-Coupled-WC.jpg",
     images: [
@@ -6578,7 +6578,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
       slug: "azzurra-comfort-height-fully-back-to-wall-close-coupled-wc",
       title: "Azzurra Comfort Height Fully Back To Wall Close Coupled WC",
       description:
-        "Pan QC:7968 &#8211; £300.00 Cistern QC:7181 &#8211; £97.00 Seat QC:7182 &#8211; £58.00 Wrap Over Seat QC:7183 &#8211; £58.00",
+        "Pan QC:7968– £300.00 Cistern QC:7181– £97.00 Seat QC:7182– £58.00 Wrap Over Seat QC:7183– £58.00",
       image:
         "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Comfort-Height-Fully-Back-To-Wall-Close-Coupled-WC.jpg",
       images: [
@@ -6594,7 +6594,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     slug: "azzurra-back-to-wall-wc",
     title: "Azzurra Back To Wall WC",
     description:
-      "Pan QC:7180 &#8211; £193.00 Seat QC:7182 &#8211; £58.00 Wrap Over Seat QC:7183 &#8211; £58.00",
+      "Pan QC:7180– £193.00 Seat QC:7182– £58.00 Wrap Over Seat QC:7183– £58.00",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Back-To-Wall-WC.jpg",
     images: [
@@ -6611,7 +6611,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     slug: "azzurra-wall-hung-wc",
     title: "Azzurra Wall Hung WC",
     description:
-      "Pan QC:674 &#8211; £271.00 Seat QC:7182 &#8211; £58.00 Wrap Over Seat QC:7183 &#8211; £58.00",
+      "Pan QC:674– £271.00 Seat QC:7182– £58.00 Wrap Over Seat QC:7183– £58.00",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Azzurra-Wall-Hung-WC.jpg",
     images: [
@@ -6628,7 +6628,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     slug: "comet-open-back-close-coupled-wc",
     title: "Comet Open Back Close Coupled WC",
     description:
-      "Pan QC:6779 &#8211; £171.00 Cistern QC:6780 &#8211; £85.00 Seat QC:6781 &#8211; £58.00 Wrap Over Seat QC:6782 &#8211; £58.00",
+      "Pan QC:6779– £171.00 Cistern QC:6780– £85.00 Seat QC:6781– £58.00 Wrap Over Seat QC:6782– £58.00",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Comet-Open-Back-Close-Coupled-WC.jpg",
     images: [
@@ -6645,7 +6645,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     slug: "comet-comfort-height-open-back-close-coupled-wc",
     title: "Comet Comfort Height Open Back Close Coupled WC",
     description:
-      "Pan QC:6783 &#8211; £235.00 Cistern QC:6780 &#8211; £85.00 Seat QC:6781 &#8211; £58.00 Wrap Over Seat QC:6782 &#8211; £58.00",
+      "Pan QC:6783– £235.00 Cistern QC:6780– £85.00 Seat QC:6781– £58.00 Wrap Over Seat QC:6782– £58.00",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Comet-Comfort-Height-Open-Back-Close-Coupled-WC-1.jpg",
     images: [
@@ -6662,7 +6662,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     slug: "comet-comfort-height-back-to-wall-wc",
     title: "Comet Comfort Height Back to Wall WC",
     description:
-      "Pan QC:6784 &#8211; £220.00 Seat QC: 6781 &#8211; £58.00 Wrap Over Seat QC:6782 &#8211; £58.00",
+      "Pan QC:6784– £220.00 Seat QC: 6781– £58.00 Wrap Over Seat QC:6782– £58.00",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Comet-Comfort-Height-Back-to-Wall-WC.jpg",
     images: [
@@ -6679,7 +6679,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     slug: "juniper-open-back-close-coupled-wc",
     title: "Juniper Open Back Close Coupled WC",
     description:
-      "Pan QC:6787 &#8211; £181.00 Cistern QC:6788 &#8211; £136.00 Seat QC: 6789 &#8211; £74.00 Wrap Over Seat QC:6790 &#8211; £62.00",
+      "Pan QC:6787– £181.00 Cistern QC:6788– £136.00 Seat QC: 6789– £74.00 Wrap Over Seat QC:6790– £62.00",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juniper-Open-Back-Close-Coupled-WC.jpg",
     images: [
@@ -6696,7 +6696,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     slug: "juniper-comfort-height-open-back-close-coupled-wc",
     title: "Juniper Comfort Height Open Back Close Coupled WC",
     description:
-      "Pan QC: 6791 &#8211; £275.00 Cistern QC: 6788 &#8211; £136.00 Seat QC: 6789 &#8211; £74.00 Wrap Over Seat QC: 6790 &#8211; £62.00",
+      "Pan QC: 6791– £275.00 Cistern QC: 6788– £136.00 Seat QC: 6789– £74.00 Wrap Over Seat QC: 6790– £62.00",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juniper-Comfort-Height-Open-Back-Close-Coupled-WC.jpg",
     images: [
@@ -6713,7 +6713,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     slug: "juniper-back-to-wall-wc",
     title: "Juniper Back To Wall WC",
     description:
-      "Pan QC:7138 &#8211; £348.00 Seat QC:6789 &#8211; £74.00 Wrap Over Seat QC:6790 &#8211; £62.00",
+      "Pan QC:7138– £348.00 Seat QC:6789– £74.00 Wrap Over Seat QC:6790– £62.00",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/Juniper-Back-To-Wall-WC.jpg",
     images: [
@@ -12227,7 +12227,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     slug: "heating-element-chrome",
     title: "Heating Element Chrome",
     description:
-      "150mm &#8211; HE150 &#8211; Price: £85 300mm &#8211; HE300 &#8211; Price: £90 600mm &#8211; HE600 &#8211; Price: £95",
+      "150mm– HE150– Price: £85 300mm– HE300– Price: £90 600mm– HE600– Price: £95",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/rr-1-768x1024.jpg",
     images: [
@@ -12577,7 +12577,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     slug: "bosco-beech-panels-122mm-x-12mm-x-2600mm",
     title: "Beech",
     description:
-      "All panels are sold as singles 8 pack price &#8211; £544 Left hand or Right hand matching trims &#8211; £32.00",
+      "All panels are sold as singles 8 pack price– £544 Left hand or Right hand matching trims– £32.00",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/Beech-768x1024.jpg",
     images: [
@@ -12594,7 +12594,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     slug: "bosco-charcoal-panels-122mm-x-12mm-x-2600mm",
     title: "Charcoal",
     description:
-      "All panels are sold as singles 8 pack price &#8211; £544 Left hand or Right hand matching trims &#8211; £32.00",
+      "All panels are sold as singles 8 pack price– £544 Left hand or Right hand matching trims– £32.00",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/Charcoal-768x1024.jpg",
     images: [
@@ -12610,7 +12610,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     slug: "bosco-grey-oak-panels-122mm-x-12mm-x-2600mm",
     title: "Grey Oak",
     description:
-      "All panels are sold as singles 8 pack price &#8211; £544 Left hand or Right hand matching trims &#8211; £32.00",
+      "All panels are sold as singles 8 pack price– £544 Left hand or Right hand matching trims– £32.00",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/Grey-Oak-768x1024.jpg",
     images: [
@@ -12627,7 +12627,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     slug: "bosco-walnut-panels-122mm-x-12mm-x-2600mm",
     title: "Walnut",
     description:
-      "All panels are sold as singles 8 pack price &#8211; £544 Left hand or Right hand matching trims &#8211; £32.00",
+      "All panels are sold as singles 8 pack price– £544 Left hand or Right hand matching trims– £32.00",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/Walnut-768x1024.jpg",
     images: [
@@ -12644,7 +12644,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     slug: "bosco-natural-oak-panels-122mm-x-12mm-x-2600mm",
     title: "Natural Oak",
     description:
-      "All panels are sold as singles 8 pack price &#8211; £544 Left hand or Right hand matching trims &#8211; £32.00",
+      "All panels are sold as singles 8 pack price– £544 Left hand or Right hand matching trims– £32.00",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/Natural-Oak-768x1024.jpg",
     images: [
@@ -15736,7 +15736,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     slug: "heating-element-chrome",
     title: "Heating Element Chrome",
     description:
-      "150mm &#8211; HE150 &#8211; Price: £85 300mm &#8211; HE300 &#8211; Price: £90 600mm &#8211; HE600 &#8211; Price: £95",
+      "150mm– HE150– Price: £85 300mm– HE300– Price: £90 600mm– HE600– Price: £95",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2023/11/rr-1-768x1024.jpg",
     images: [
@@ -15886,7 +15886,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     slug: "concealed-extractor-fan",
     title: "Concealed Extractor Fan",
     description:
-      "152mm x 152mm Construction material &#8211; plastic Colour/finish &#8211; white EN 55014 &#8211; Radio frequency disturbances EN 61000 &#8211; Electronic interference EN 60335 &#8211; Safety of household appliances",
+      "152mm x 152mm Construction material– plastic Colour/finish– white EN 55014– Radio frequency disturbances EN 61000– Electronic interference EN 60335– Safety of household appliances",
     image:
       "https://giavanibathrooms.com/wp-content/uploads/2023/12/sfd-768x1024.jpg",
     images: [
@@ -17667,9 +17667,13 @@ export function getAllProductParams(): {
       return { slug, collection, product };
     });
 
-  const seen = new Set(products.map((item) => `${item.slug}/${item.collection}/${item.product}`));
+  const seen = new Set(
+    products.map((item) => `${item.slug}/${item.collection}/${item.product}`),
+  );
   return [
     ...products,
-    ...nested.filter((item) => !seen.has(`${item.slug}/${item.collection}/${item.product}`)),
+    ...nested.filter(
+      (item) => !seen.has(`${item.slug}/${item.collection}/${item.product}`),
+    ),
   ];
 }
