@@ -639,13 +639,7 @@ export const AWS_COLLECTIONS: Record<string, CollectionPageData> = {
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Jessica_bk.png",
         href: "/home-furniture/chairs/jessica-bk-dark-grey-chair-black-ring-knocker-black-legs",
       },
-      {
-        id: "clearance-chairs",
-        label: "Clearance Chairs",
-        image:
-          "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Chairs.png",
-        href: "/home-furniture/chairs/clearance-chairs",
-      },
+
       {
         id: "oak-florence-chair",
         label: "Florence Berry Mixed Chair (Oak Legs)",
@@ -1014,13 +1008,7 @@ export const AWS_COLLECTIONS: Record<string, CollectionPageData> = {
           "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Cheshireextendingtable.png",
         href: "/home-furniture/dining-tables/cheshire-1-2-1-5-1-6-2m-extending-dining-table",
       },
-      {
-        id: "clearance-dining",
-        label: "Clearance Dining",
-        image:
-          "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Dining.png",
-        href: "/home-furniture/dining-tables/clearance-dining",
-      },
+    
       {
         id: "g-jessica-1-6-1-8m-dining-table",
         label: "G-Jessica Dining Table (1.6/1.8m)",
@@ -1569,13 +1557,7 @@ export const AWS_COLLECTIONS: Record<string, CollectionPageData> = {
     image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Lucca.png",
     itemsHeading: "View Our Range",
     items: [
-      {
-        id: "clearance-lucca",
-        label: "Clearance Lucca",
-        image:
-          "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Lucca.png",
-        href: "/home-furniture/oak/clearance-lucca",
-      },
+   
       {
         id: "coffee-table",
         label: "Lucca 1.1m Round Extending Dining Table",
@@ -5941,27 +5923,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
         { label: "Type", value: "chair" },
       ],
     },
-  "home-furniture/chairs/clearance-chairs": {
-    key: "home-furniture/chairs/clearance-chairs",
-    categorySlug: "home-furniture",
-    collectionSlug: "chairs",
-    slug: "clearance-chairs",
-    title: "Clearance Chairs",
-    description:
-      "See our reduced prices on clearance product lines Prices are plus VAT All collections will still receive 8% discount on top of the reduced prices Buy the remaining stock of an item to receive an additional 10% discount (total 18% on collections)",
-    image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Chairs.png",
-    images: [
-      "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Chairs.png",
-    ],
-    colours: [],
-    sizes: [],
-    features: [
-      "See our reduced prices on clearance product lines",
-      "All collections will still receive 8% discount on top of the reduced prices",
-      "Buy the remaining stock of an item to receive an additional 10% discount (total 18% on collections)",
-    ],
-    specs: [],
-  },
+  
   "home-furniture/chairs/oak-florence-chair": {
     key: "home-furniture/chairs/oak-florence-chair",
     categorySlug: "home-furniture",
@@ -7554,27 +7516,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
         { label: "Available codes", value: "MB15, MB14" },
       ],
     },
-  "home-furniture/dining-tables/clearance-dining": {
-    key: "home-furniture/dining-tables/clearance-dining",
-    categorySlug: "home-furniture",
-    collectionSlug: "dining-tables",
-    slug: "clearance-dining",
-    title: "Clearance Dining",
-    description:
-      "See our reduced prices on clearance product lines Prices are plus VAT All collections will still receive 8% discount on top of the reduced prices Buy the remaining stock of an item to receive an additional 10% discount (total 18% on collections)",
-    image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Dining.png",
-    images: [
-      "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Dining.png",
-    ],
-    colours: [],
-    sizes: [],
-    features: [
-      "See our reduced prices on clearance product lines",
-      "All collections will still receive 8% discount on top of the reduced prices",
-      "Buy the remaining stock of an item to receive an additional 10% discount (total 18% on collections)",
-    ],
-    specs: [],
-  },
+  
   "home-furniture/dining-tables/g-jessica-1-6-1-8m-dining-table": {
     key: "home-furniture/dining-tables/g-jessica-1-6-1-8m-dining-table",
     categorySlug: "home-furniture",
@@ -9226,27 +9168,7 @@ export const AWS_PRODUCTS: Record<string, ProductPageData> = {
       { label: "Type", value: "milan" },
     ],
   },
-  "home-furniture/oak/clearance-lucca": {
-    key: "home-furniture/oak/clearance-lucca",
-    categorySlug: "home-furniture",
-    collectionSlug: "oak",
-    slug: "clearance-lucca",
-    title: "Clearance Lucca",
-    description:
-      "See our reduced prices on clearance product lines Prices are plus VAT All collections will still receive 8% discount on top of the reduced prices Buy the remaining stock of an item to receive an additional 10% discount (total 18% on collections)",
-    image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Lucca.png",
-    images: [
-      "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/Lucca.png",
-    ],
-    colours: [],
-    sizes: [],
-    features: [
-      "See our reduced prices on clearance product lines",
-      "All collections will still receive 8% discount on top of the reduced prices",
-      "Buy the remaining stock of an item to receive an additional 10% discount (total 18% on collections)",
-    ],
-    specs: [],
-  },
+
   "home-furniture/oak/coffee-table": {
     key: "home-furniture/oak/coffee-table",
     categorySlug: "home-furniture",
