@@ -19,7 +19,8 @@ const TOP_COLLECTIONS: {
   {
     slug: "wall-panels",
     label: "Wall Panels",
-    description: "PVC, Ultravex, Vellura, PU stone and plant wall panels available for delivery.",
+    description:
+      "PVC, Ultravex, Vellura, PU stone and plant wall panels available for delivery.",
   },
   {
     slug: "pvc-cladding",
@@ -29,12 +30,14 @@ const TOP_COLLECTIONS: {
   {
     slug: "slat-panels",
     label: "Slat Panels",
-    description: "Aluvo slat panels and acoustic panels available for delivery.",
+    description:
+      "Aluvo slat panels and acoustic panels available for delivery.",
   },
   {
     slug: "spc-flooring",
     label: "SPC Flooring",
-    description: "SPC flooring, herringbone, tile finish, beading and skirting available for delivery.",
+    description:
+      "SPC flooring, herringbone, tile finish, beading and skirting available for delivery.",
   },
   {
     slug: "indoor-tiles",
@@ -59,12 +62,14 @@ const TOP_COLLECTIONS: {
   {
     slug: "outdoor-slatwall",
     label: "Outdoor Slatwall",
-    description: "Composite slatwall and Blackline series available for delivery.",
+    description:
+      "Composite slatwall and Blackline series available for delivery.",
   },
   {
     slug: "composite-fencing",
     label: "Composite Fencing",
-    description: "Composite fencing panels and accessories available for delivery.",
+    description:
+      "Composite fencing panels and accessories available for delivery.",
   },
   {
     slug: "trims-accessories",
@@ -74,23 +79,20 @@ const TOP_COLLECTIONS: {
   {
     slug: "accessories-adhesives",
     label: "Adhesives",
-    description: "Froggit adhesives and related accessories available for delivery.",
+    description:
+      "Froggit adhesives and related accessories available for delivery.",
   },
   {
     slug: "accessories",
     label: "Accessories",
     description: "Installation accessories available for delivery.",
   },
-  {
-    slug: "pos-samples",
-    label: "POS Samples",
-    description: "Point of sale samples available for delivery.",
-  },
-  {
-    slug: "other",
-    label: "More Products",
-    description: "Further products available for delivery.",
-  },
+
+    // {
+    //   slug: "other",
+    //   label: "More Products",
+    //   description: "Further products available for delivery.",
+    // },
 ];
 
 const CHILD_TO_TOP: Record<string, string> = {
@@ -238,7 +240,8 @@ const SUBCATEGORIES: Record<string, Subcategory[]> = {
     {
       slug: "acoustic-panels",
       label: "Acoustic Panels",
-      description: "Wood veneer and metallic acoustic panels available for delivery.",
+      description:
+        "Wood veneer and metallic acoustic panels available for delivery.",
       match: [
         "acoustic-panels",
         "wood-veneer-acoustic-panels",
@@ -320,7 +323,12 @@ const SUBCATEGORIES: Record<string, Subcategory[]> = {
       slug: "composite-decking",
       label: "Composite Decking",
       description: "Composite decking available for delivery.",
-      match: ["composite-decking", "wpc-decking-2500", "wpc-decking-3600", "wpc-decking-5000"],
+      match: [
+        "composite-decking",
+        "wpc-decking-2500",
+        "wpc-decking-3600",
+        "wpc-decking-5000",
+      ],
     },
     {
       slug: "co-extrusion",
@@ -368,7 +376,12 @@ const SUBCATEGORIES: Record<string, Subcategory[]> = {
       slug: "composite-cladding",
       label: "Composite Cladding",
       description: "Composite cladding boards available for delivery.",
-      match: ["composite-cladding", "cladding-2500mm", "cladding-3600", "cladding-5000"],
+      match: [
+        "composite-cladding",
+        "cladding-2500mm",
+        "cladding-3600",
+        "cladding-5000",
+      ],
     },
   ],
   "outdoor-slatwall": [
@@ -386,7 +399,8 @@ const SUBCATEGORIES: Record<string, Subcategory[]> = {
     {
       slug: "blackline-series",
       label: "Blackline Series",
-      description: "Composite slatwall Blackline series available for delivery.",
+      description:
+        "Composite slatwall Blackline series available for delivery.",
       match: [
         "composite-slatwall-blackline-series",
         "slatwall-2500-blackline-series",
@@ -438,13 +452,17 @@ function resolveCollection(product: RawProduct) {
     const child = CHILD_TO_TOP[slug];
     if (child) mapped.add(child);
   }
-  return TOP_COLLECTIONS.find((entry) => mapped.has(entry.slug))?.slug ?? "other";
+  return (
+    TOP_COLLECTIONS.find((entry) => mapped.has(entry.slug))?.slug ?? "other"
+  );
 }
 
 function resolveSubcategory(topSlug: string, product: RawProduct) {
   const slugs = new Set(product.categories.map((category) => category.slug));
   const subs = SUBCATEGORIES[topSlug] ?? [];
-  const byCategory = subs.find((sub) => sub.match.some((entry) => slugs.has(entry)));
+  const byCategory = subs.find((sub) =>
+    sub.match.some((entry) => slugs.has(entry)),
+  );
   if (byCategory) return byCategory;
   return (
     subs.find((sub) =>
@@ -539,7 +557,9 @@ function buildCatalog() {
       subBuckets.set(sub.slug, bucket);
     }
 
-    const usedSubs = definedSubs.filter((sub) => (subBuckets.get(sub.slug) ?? []).length);
+    const usedSubs = definedSubs.filter(
+      (sub) => (subBuckets.get(sub.slug) ?? []).length,
+    );
     const useSubcategoryPages = usedSubs.length > 1;
 
     const parentItems: CollectionItem[] = [];

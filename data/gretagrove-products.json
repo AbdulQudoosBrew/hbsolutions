@@ -1651,172 +1651,14 @@
     "inStock": false
   },
   {
-    "id": 4051,
-    "name": "Composite Slat Wall Edge Seal Charcoal 2500mm x 50mm",
-    "slug": "composite-slat-wall-edge-seal-charcoal-2500mm-x-50mm",
-    "sku": "PIMEDSE2500CH",
-    "type": "simple",
-    "parent": 0,
-    "price": "595",
-    "regularPrice": "595",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "The Charcoal Edge Seal is designed to neatly close exposed ends of Composite Slat Wall panels, delivering a sharp and defined finish. Its strong dark tone creates a clean visual boundary while protecting panel edges from exposure. Manufactured to align precisely with the slat profile for a cohesive and professional result.",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Charcoal-Edge-Seal-1.jpg",
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Charcoal-Edge-Seal-2-1.jpg",
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Charcoal-Edge-Seal-3-1.jpg"
-    ],
-    "categories": [
-      {
-        "id": 160,
-        "name": "Composite Slatwall",
-        "slug": "composite-slatwall"
-      },
-      {
-        "id": 168,
-        "name": "Composite Slatwall 2500mm",
-        "slug": "composite-slatwall-2500"
-      },
-      {
-        "id": 190,
-        "name": "Outdoor Slatwall",
-        "slug": "outdoor-slatwall"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 4050,
-    "name": "Composite Slat Wall Edge Seal Blue Grey 2500mm x 50mm",
-    "slug": "composite-slat-wall-edge-seal-blue-grey-2500mm-x-50mm",
-    "sku": "PIMEDSE2500BG",
-    "type": "simple",
-    "parent": 0,
-    "price": "595",
-    "regularPrice": "595",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "The Blue Grey Edge Seal enhances Composite Slat Wall installations with a clean, understated perimeter detail. Its contemporary tone softens transitions while maintaining clear edge definition. Designed to create a tidy, cohesive end finish across both vertical and horizontal installations.",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/01/wpc-pimber-trims-edge-seal-blue-grey-36m-main.jpg"
-    ],
-    "categories": [
-      {
-        "id": 160,
-        "name": "Composite Slatwall",
-        "slug": "composite-slatwall"
-      },
-      {
-        "id": 168,
-        "name": "Composite Slatwall 2500mm",
-        "slug": "composite-slatwall-2500"
-      },
-      {
-        "id": 190,
-        "name": "Outdoor Slatwall",
-        "slug": "outdoor-slatwall"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 4049,
-    "name": "Composite Slat Wall Edge Seal Anthracite Grey 2500mm x 50mm",
-    "slug": "composite-slat-wall-edge-seal-anthracite-grey-2500mm-x-50mm",
-    "sku": "PIMEDSE2500AG",
-    "type": "simple",
-    "parent": 0,
-    "price": "595",
-    "regularPrice": "595",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "Anthracite Grey Edge Seal provides a sleek finishing solution for exposed slat wall edges. The structured grey tone complements modern cladding schemes while ensuring a seamless integration with surrounding panels. Engineered for a secure fit to maintain both aesthetic consistency and edge protection.",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Anthracite-Grey-Edge-Seal-4.jpg"
-    ],
-    "categories": [
-      {
-        "id": 160,
-        "name": "Composite Slatwall",
-        "slug": "composite-slatwall"
-      },
-      {
-        "id": 168,
-        "name": "Composite Slatwall 2500mm",
-        "slug": "composite-slatwall-2500"
-      },
-      {
-        "id": 190,
-        "name": "Outdoor Slatwall",
-        "slug": "outdoor-slatwall"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 4052,
-    "name": "Composite Slat Wall Edge Seal Choco Brown 2500mm x 50mm",
-    "slug": "composite-slat-wall-edge-seal-choco-brown-2500mm-x-50mm",
-    "sku": "PIMEDSE2500CB",
-    "type": "simple",
-    "parent": 0,
-    "price": "595",
-    "regularPrice": "595",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "Choco Brown Edge Seal completes slat wall installations with a warm and structured perimeter finish. The darker brown tone enhances depth while maintaining a consistent timber effect aesthetic. Designed for precise edge closure and long lasting exterior durability.",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Choco-Brown-Edge-Seal-3-1.jpg"
-    ],
-    "categories": [
-      {
-        "id": 160,
-        "name": "Composite Slatwall",
-        "slug": "composite-slatwall"
-      },
-      {
-        "id": 171,
-        "name": "Composite Slatwall Edge Seal 2500mm",
-        "slug": "composite-slatwall-edge-seal-2500"
-      },
-      {
-        "id": 190,
-        "name": "Outdoor Slatwall",
-        "slug": "outdoor-slatwall"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
     "id": 4053,
     "name": "Composite Slat Wall Edge Seal Natural 2500mm x 50mm",
     "slug": "composite-slat-wall-edge-seal-natural-2500mm-x-50mm",
     "sku": "PIMEDSE2500NA",
     "type": "simple",
     "parent": 0,
-    "price": "595",
-    "regularPrice": "595",
+    "price": "2200",
+    "regularPrice": "2200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Natural Edge Seal delivers a subtle finishing detail that complements lighter timber effect slat panels. Its warm neutral tone blends effortlessly into natural exterior schemes while neatly sealing panel ends. Provides both visual continuity and a refined finishing touch.",
@@ -1834,131 +1676,14 @@
     "inStock": false
   },
   {
-    "id": 4055,
-    "name": "Composite Slat Wall External Trim Anthracite Grey 2500mm x 49.5mm",
-    "slug": "composite-slat-wall-external-trim-anthracite-grey-2500mm-x-49-5mm",
-    "sku": "PIMEXTT2500AG",
-    "type": "simple",
-    "parent": 0,
-    "price": "595",
-    "regularPrice": "595",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "Anthracite Grey 2.5 metre External Trim provides a refined contemporary edge solution for the Composite Slat Wall. The smooth mid to dark grey profile complements modern façades, and the full 2.5 metre length allows for cleaner installations across larger surfaces with minimal visible joints. Built to align precisely with the slat profile for a cohesive finish.",
-    "description": "2500&#215;49.5x56mm",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Anthracite-Grey-Edge-Seal-1.jpg"
-    ],
-    "categories": [
-      {
-        "id": 160,
-        "name": "Composite Slatwall",
-        "slug": "composite-slatwall"
-      },
-      {
-        "id": 170,
-        "name": "Composite Slatwall External Trims 2500mm",
-        "slug": "composite-slatwall-external-trims-2500"
-      },
-      {
-        "id": 190,
-        "name": "Outdoor Slatwall",
-        "slug": "outdoor-slatwall"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 4056,
-    "name": "Composite Slat Wall External Trim Blue Grey 2500mm x 49.5mm",
-    "slug": "composite-slat-wall-external-trim-blue-grey-2500mm-x-49-5mm",
-    "sku": "PIMEXTT2500BG",
-    "type": "simple",
-    "parent": 0,
-    "price": "595",
-    "regularPrice": "595",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "The 2.5 metre Blue Grey External Trim introduces a cool toned finishing detail that enhances modern exterior schemes. Its extended length makes it particularly suited to larger façades where continuity and reduced connection points are essential. Designed to frame and protect exposed edges while maintaining a balanced, contemporary appearance.",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Blue-Grey-Edge-Seal.jpg"
-    ],
-    "categories": [
-      {
-        "id": 160,
-        "name": "Composite Slatwall",
-        "slug": "composite-slatwall"
-      },
-      {
-        "id": 170,
-        "name": "Composite Slatwall External Trims 2500mm",
-        "slug": "composite-slatwall-external-trims-2500"
-      },
-      {
-        "id": 190,
-        "name": "Outdoor Slatwall",
-        "slug": "outdoor-slatwall"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 4059,
-    "name": "Composite Slat Wall External Trim Natural 2500mm x 49.5mm",
-    "slug": "composite-slat-wall-external-trim-natural-2500mm-x-49-5mm",
-    "sku": "PIMEXTT2500NA",
-    "type": "simple",
-    "parent": 0,
-    "price": "595",
-    "regularPrice": "595",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "Natural 2.5 metre External Trim delivers a softer edge finish that complements timber effect slat wall panels. The longer profile enables smoother transitions across extended runs, creating a consistent and visually seamless installation. Designed to provide clean corner definition while preserving the warmth of the overall façade.",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Natural-External-Trim.jpg"
-    ],
-    "categories": [
-      {
-        "id": 160,
-        "name": "Composite Slatwall",
-        "slug": "composite-slatwall"
-      },
-      {
-        "id": 170,
-        "name": "Composite Slatwall External Trims 2500mm",
-        "slug": "composite-slatwall-external-trims-2500"
-      },
-      {
-        "id": 190,
-        "name": "Outdoor Slatwall",
-        "slug": "outdoor-slatwall"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
     "id": 4043,
     "name": "Composite Slat Wall Anthracite Grey 2500mm x 169mm",
     "slug": "composite-slat-wall-anthracite-grey-2500mm-x-169mm",
     "sku": "WPCP2500AG",
     "type": "simple",
     "parent": 0,
-    "price": "990",
-    "regularPrice": "990",
+    "price": "2800",
+    "regularPrice": "2800",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Anthracite Grey Composite Slat Wall panels create a sharp, modern façade solution. Manufactured in 2.5 metre lengths, they are well suited to shorter than usual surfaces, allowing for extended coverage with fewer visible breaks. The defined slat profile adds architectural dimension, supported by a brushed surface that delivers a consistent contemporary finish.",
@@ -2000,8 +1725,8 @@
     "sku": "WPCP2500BG",
     "type": "simple",
     "parent": 0,
-    "price": "990",
-    "regularPrice": "990",
+    "price": "2800",
+    "regularPrice": "2800",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Blue Grey Composite Slat Wall panels introduce a refined contemporary tone to exterior applications. The 2.5 metre board length makes them suitable for shorter than usual surfaces, helping to minimise joints across wider elevations. The slatted structure creates depth and shadow lines, complemented by a brushed finish for a clean and modern appearance.",
@@ -2042,8 +1767,8 @@
     "sku": "WPCP2500CH",
     "type": "simple",
     "parent": 0,
-    "price": "990",
-    "regularPrice": "990",
+    "price": "2800",
+    "regularPrice": "2800",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Charcoal Composite Slat Wall panels deliver a bold architectural finish for exterior façades and feature walls. Cut to 2.5 metre lengths, they are ideal for shorter than usual surfaces where extended runs are required, reducing joins and maintaining clean visual lines. The structured slatted profile enhances shadow detail and depth, while the brushed surface reinforces a contemporary exterior aesthetic.",
@@ -2083,8 +1808,8 @@
     "sku": "WPCP2500NA",
     "type": "simple",
     "parent": 0,
-    "price": "990",
-    "regularPrice": "990",
+    "price": "2800",
+    "regularPrice": "2800",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Natural Composite Slat Wall panels provide a lighter wood inspired aesthetic with the durability of composite construction. Cut in 2.5 metre lengths, they are designed for shorter than usual surfaces, allowing continuous runs with reduced jointing. The structured slat profile introduces texture and façade depth, while the brushed finish maintains a consistent exterior look.",
@@ -2125,8 +1850,8 @@
     "sku": "WPCP2500CB",
     "type": "simple",
     "parent": 0,
-    "price": "990",
-    "regularPrice": "990",
+    "price": "2800",
+    "regularPrice": "2800",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Choco Brown Composite Slat Wall panels offer a warm yet contemporary exterior solution. With 2.5 metre lengths, they are ideal for shorter than usual surfaces, supporting seamless installations across façades. The defined slatted design enhances architectural interest, while the brushed surface delivers a refined and uniform finish.",
@@ -2166,8 +1891,8 @@
     "sku": "ALTR-HTR-BRSI",
     "type": "simple",
     "parent": 0,
-    "price": "350",
-    "regularPrice": "350",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -2198,8 +1923,8 @@
     "sku": "UV-ALTR-TTR",
     "type": "simple",
     "parent": 0,
-    "price": "295",
-    "regularPrice": "295",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -2223,489 +1948,7 @@
     "isPurchasable": false,
     "inStock": false
   },
-  {
-    "id": 4713,
-    "name": "PVC Ceiling Cladding POS Pin Swatch",
-    "slug": "pvc-ceiling-cladding-pos-pin-swatch",
-    "sku": "POSCLADPNSW",
-    "type": "simple",
-    "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "GretaGrove PVC Ceiling Cladding POS Pin Swatch A compact trade display pin swatch for retailers and showrooms, featuring colour chips across our full PVC Ceiling Cladding range. True to product swatches let your customers see and compare colours in store before they buy. Ideal for builders&#8217; merchants, showrooms and trade counters.",
-    "description": "PVC Ceiling Cladding POS Pin Swatch | Trade Display Samples for Retailers Give your customers a genuine hands on experience of our PVC Ceiling Cladding range with this dedicated Point of Sale Pin Swatch, designed specifically for retailers, showrooms and trade counters who want to convert enquiries into orders. Built for businesses that sell PVC cladding to end consumers, this POS pin swatch brings together true to product colour chips across our full PVC Ceiling Cladding range, including marble, stone, tile and wood effect finishes, all connected on a single pin ring for quick and compact in store browsing. Every swatch is taken from genuine production stock, so what your customers view in store is a true representation of what they will receive. Why stock this POS Pin Swatch PVC ceiling cladding is a fast growing choice for kitchens, bathrooms and commercial interiors, and buyers increasingly want to see colour, texture and finish in person before committing to a supplier. A compact pin swatch helps your sales team answer questions on the spot at the counter, shortens the buying decision and reduces returns caused by colour mismatch or unmet expectations. Each swatch reflects the same 100% waterproof and mould resistant construction found across the full range, with a lightweight tongue and groove design engineered for straightforward installation in high traffic residential and commercial spaces. These are the same performance benefits your customers will experience once the cladding is installed, making the pin swatch a powerful trust building tool at the point of sale. Ideal for: Builders&#8217; merchants and trade counters Interior fit out and cladding showrooms Home improvement and DIY retailers Sales teams presenting to architects, developers and contractors What&#8217;s included: Colour swatches covering the current PVC Ceiling Cladding range, mounted on a pin ring supplied ready for in store display This POS Pin Swatch is available exclusively through GretaGrove as part of our trade supply range",
-    "images": [],
-    "categories": [
-      {
-        "id": 203,
-        "name": "POS Samples",
-        "slug": "pos-samples"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 4714,
-    "name": "PVC Wall Panel POS Pin Swatch",
-    "slug": "pvc-wall-panel-pos-pin-swatch",
-    "sku": "POSWLPNPNSW",
-    "type": "simple",
-    "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "GretaGrove PVC Wall Panel POS Pin Swatch A compact trade display pin swatch for retailers and showrooms, featuring colour chips across our full PVC Wall Panel range of 34 designs. True to product swatches let your customers see and compare colours in store before they buy. Ideal for builders&#8217; merchants, showrooms and trade counters.",
-    "description": "PVC Wall Panel POS Pin Swatch | Trade Display Samples for Retailers Give your customers a genuine hands on experience of our PVC Wall Panel range with this dedicated Point of Sale Pin Swatch, designed specifically for retailers, showrooms and trade counters who want to convert enquiries into orders. Built for businesses that sell wall panels to end consumers, this POS pin swatch brings together true to product colour chips across our full PVC Wall Panel range of 34 designs, all connected on a single pin ring for quick and compact in store browsing. Every swatch is taken from genuine production stock, so what your customers view in store is a true representation of what they will receive. Why stock this POS Pin Swatch PVC wall panels are a fast growing choice for bathrooms, kitchens and commercial interiors, and buyers increasingly want to see colour, texture and finish in person before committing to a supplier. A compact pin swatch helps your sales team answer questions on the spot at the counter, shortens the buying decision and reduces returns caused by colour mismatch or unmet expectations. Each swatch reflects the same 100% waterproof and mould resistant construction found across the full range, with a scratch resistant surface and decorative finish designed to hold up in high traffic residential and commercial spaces. These are the same performance benefits your customers will experience once the panels are installed, making the pin swatch a powerful trust building tool at the point of sale. Ideal for: Builders&#8217; merchants and trade counters Interior fit out and wall panel showrooms Home improvement and DIY retailers Sales teams presenting to architects, developers and contractors What&#8217;s included: Colour swatches covering the current PVC Wall Panel range of 34 designs, mounted on a pin ring supplied ready for in store display",
-    "images": [],
-    "categories": [
-      {
-        "id": 203,
-        "name": "POS Samples",
-        "slug": "pos-samples"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 4718,
-    "name": "SPC Wood Embossed & Tile Finish POS Sample Book",
-    "slug": "spc-wood-embossed-tile-finish-pos-sample-book",
-    "sku": "POSSMPBSPCM",
-    "type": "simple",
-    "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "GretaGrove SPC Wood Embossed &amp; Tile Finish POS Sample Book A trade display sample book for retailers and showrooms, featuring cut samples across our full Wood Embossed and Tile Finish SPC flooring ranges. True to product samples let your customers see, touch and compare in store before they buy. Ideal for builders&#8217; merchants, showrooms and trade counters.",
-    "description": "SPC Wood Embossed &amp; Tile Finish POS Sample Book | Trade Display Samples for Retailers Give your customers a genuine hands on experience of our SPC Wood Embossed and Tile Finish flooring ranges with this dedicated Point of Sale Sample Book, designed specifically for retailers, showrooms and trade counters who want to convert enquiries into orders. Built for businesses that sell SPC flooring to end consumers, this POS sample book brings together true to product cut samples across our full Wood Embossed range, including White Oak, Medium Oak, Grey Oak, English Oak, Antique Country Oak, Victorian Oak, Black Wood and Light Grey Oak, alongside our full Tile Finish range, including Oil Slate, Sandstone, Grey Marble, Anthracite Marble, Axis Grey, Pinnacle Bone, Grey Onyx and Carrara Marble, in one easy to browse format. This allows your customers to flick through, compare and choose with confidence before they buy. Every sample is taken from genuine production stock, so what your customers view in store is a true representation of what they will receive. Why stock this POS Sample Book SPC flooring is one of the fastest growing categories in interior surface finishes, and buyers increasingly want to see wood grain, stone effect and colour in person before committing to a supplier. A well presented sample book helps your sales team answer questions on the spot, shortens the buying decision and reduces returns caused by colour mismatch or unmet expectations. Each sample is built from a rigid Stone Plastic Composite core that resists warping, shrinking and expansion, with a 0.55mm wear layer for scratch, stain and scuff resistance and a fully waterproof construction suitable for kitchens, bathrooms and other moisture prone spaces. The Wood Embossed range replicates the natural texture and appearance of real timber, while the Tile Finish range replicates the look and feel of natural stone and marble, both compatible with underfloor heating and a straightforward click lock installation. These are the same performance benefits your customers will experience once the flooring is installed, making the sample book a powerful trust building tool at the point of sale. Ideal for: Builders&#8217; merchants and trade counters Flooring and interiors showrooms Home improvement and DIY retailers Sales teams presenting to architects, developers and contractors What&#8217;s included: Cut samples covering the current Wood Embossed and Tile Finish colour ranges, bound in a book format supplied ready for in store display This POS Sample Book is available exclusively through GretaGrove as part of our trade supply range",
-    "images": [],
-    "categories": [
-      {
-        "id": 203,
-        "name": "POS Samples",
-        "slug": "pos-samples"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 4719,
-    "name": "SPC Herringbone POS Sample Book",
-    "slug": "spc-herringbone-pos-sample-book",
-    "sku": "",
-    "type": "simple",
-    "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "GretaGrove SPC Herringbone POS Sample Book A trade display sample book for retailers and showrooms, featuring cut samples across our full SPC Herringbone colour range. True to product samples let your customers see, touch and compare in store before they buy. Ideal for builders&#8217; merchants, showrooms and trade counters.",
-    "description": "SPC Herringbone POS Sample Book | Trade Display Samples for Retailers Give your customers a genuine hands on experience of our SPC Herringbone flooring range with this dedicated Point of Sale Sample Book, designed specifically for retailers, showrooms and trade counters who want to convert enquiries into orders. Built for businesses that sell SPC flooring to end consumers, this POS sample book brings together true to product cut samples across our full Herringbone colour range, including Pebble Grey, Midnight Grey, Warm Walnut, Ashton Grey, Chestnut Oak, Ivory Birch, Butternut Beige and Natural Oak, in one easy to browse format, allowing your customers to flick through, compare and choose with confidence before they buy. Every sample is taken from genuine production stock, so what your customers view in store is a true representation of what they will receive. Why stock this POS Sample Book Herringbone flooring is a fast growing choice for homeowners and businesses wanting a premium, high end aesthetic inspired by traditional parquet, and buyers increasingly want to see colour, grain and laying pattern in person before committing to a supplier. A well presented sample book helps your sales team answer questions on the spot, shortens the buying decision and reduces returns caused by colour mismatch or unmet expectations. Each sample is built from a rigid Stone Plastic Composite core that resists warping, shrinking and expansion, with a 0.55mm wear layer for scratch, stain and scuff resistance and a fully waterproof construction suitable for kitchens, bathrooms and other moisture prone spaces. These are the same performance benefits your customers will experience once the flooring is installed, making the sample book a powerful trust building tool at the point of sale. Ideal for: Builders&#8217; merchants and trade counters Flooring and interiors showrooms Home improvement and DIY retailers Sales teams presenting to architects, developers and contractors What&#8217;s included: Cut samples covering the current SPC Herringbone colour range, Pebble Grey, Midnight Grey, Warm Walnut, Ashton Grey, Chestnut Oak, Ivory Birch, Butternut Beige and Natural Oak, bound in a book format supplied ready for in store display This POS Sample Book is available exclusively through GretaGrove as part of our trade supply range",
-    "images": [],
-    "categories": [
-      {
-        "id": 203,
-        "name": "POS Samples",
-        "slug": "pos-samples"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 4720,
-    "name": "Metallic Acoustic Panels POS Sample Box",
-    "slug": "metallic-acoustic-panels-pos-sample-box",
-    "sku": "POSMACPSPLB",
-    "type": "simple",
-    "parent": 0,
-    "price": "500",
-    "regularPrice": "500",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "GretaGrove Metallic Acoustic Panels POS Sample Box A trade display sample box for retailers and showrooms, featuring cut samples across our full Metallic Acoustic Panel colour range. True to product samples let your customers see, touch and compare in store before they buy. Ideal for builders&#8217; merchants, showrooms and trade counters.",
-    "description": "Metallic Acoustic Panels POS Sample Box | Trade Display Samples for Retailers Give your customers a genuine hands on experience of our Metallic Acoustic Panel range with this dedicated Point of Sale Sample Box, designed specifically for retailers, showrooms and trade counters who want to convert enquiries into orders. Built for businesses that sell acoustic wall panels to end consumers, this POS sample box brings together true to product cut samples across our full Metallic Acoustic Panel colour range, including White Gold Marble, Beige Gold Vein, Beige Gold Dot, Black Gold Dot, Black Gold Vein and Black Gold Marble, allowing your customers to see, touch and compare before they buy. Every sample is taken from genuine production stock, so what your customers view in store is a true representation of what they will receive. Why stock this POS Sample Box Metallic acoustic panels are a fast growing choice for feature walls in homes, offices, hospitality venues and retail environments, and buyers increasingly want to see finish, tone and texture in person before committing to a supplier. A well presented sample display helps your sales team answer questions on the spot, shortens the buying decision and reduces returns caused by colour mismatch or unmet expectations. Metallic Acoustic Panels are manufactured from MDF slats with an acoustic felt backing, combining a decorative metallic finish with genuine acoustic performance that reduces echo and reverberation. These are the same performance benefits your customers will experience once the panels are installed, making the sample box a powerful trust building tool at the point of sale. Ideal for: Builders&#8217; merchants and trade counters Interior fit out and wall panel showrooms Home improvement and DIY retailers Sales teams presenting to architects, developers and contractors What&#8217;s included: Cut samples covering the current Metallic Acoustic Panel colour range, White Gold Marble, Beige Gold Vein, Beige Gold Dot, Black Gold Dot, Black Gold Vein and Black Gold Marble, supplied ready for in store display This POS Sample Box is available exclusively through GretaGrove as part of our trade supply range.",
-    "images": [],
-    "categories": [
-      {
-        "id": 203,
-        "name": "POS Samples",
-        "slug": "pos-samples"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 4721,
-    "name": "Aluvo POS Sample Book 1",
-    "slug": "aluvo-pos-sample-book-1",
-    "sku": "POSSMPBALV1",
-    "type": "simple",
-    "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "GretaGrove Aluvo POS Sample Book 1 A trade display sample book for retailers and showrooms, featuring cut samples from the Aluvo 3 Slat, 4 Slat, 6 Slat and LS Slat collections in an easy to browse format. True to product samples let your customers see, touch and compare in store before they buy. Ideal for builders&#8217; merchants, showrooms and trade counters.",
-    "description": "Aluvo POS Sample Book 1 | Trade Display Samples for Retailers Give your customers a genuine hands on experience of our Aluvo slat panel range with this dedicated Point of Sale Sample Book, designed specifically for retailers, showrooms and trade counters who want to convert enquiries into orders. Built for businesses that sell slat panels to end consumers, this POS sample book brings together true to product cut samples from our 3 Slat, 4 Slat, 6 Slat and LS Slat collections in one easy to browse format, allowing your customers to flick through, compare and choose with confidence before they buy. Every sample is taken from genuine production stock, so what your customers view in store is a true representation of what they will receive. Why stock this POS Sample Book Aluvo slat panels are a fast growing choice for statement walls and feature interiors, and buyers increasingly want to see slat spacing, width and texture in person before committing to a supplier. A well presented sample book helps your sales team answer questions on the spot, shortens the buying decision and reduces returns caused by colour mismatch or unmet expectations. Each profile in this book brings a distinct look to a room, from the classic spacing of 3 and 4 Slat panels through to the denser 6 Slat profile and the clean lines of LS Slats, all built with the same durable slat construction that resists fading, staining and moisture. These are the same performance benefits your customers will experience once the panels are installed, making the sample book a powerful trust building tool at the point of sale. Ideal for: Builders&#8217; merchants and trade counters Interior fit out and wall panel showrooms Home improvement and DIY retailers Sales teams presenting to architects, developers and contractors What&#8217;s included: Cut samples covering the 3 Slat, 4 Slat, 6 Slat and LS Slat collections from the current Aluvo range, bound in a book format supplied ready for in store display This POS Sample Book is available exclusively through GretaGrove as part of our trade supply range",
-    "images": [],
-    "categories": [
-      {
-        "id": 203,
-        "name": "POS Samples",
-        "slug": "pos-samples"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 4722,
-    "name": "Aluvo POS Sample Book 2",
-    "slug": "aluvo-pos-sample-book-2",
-    "sku": "POSSMPBALV2",
-    "type": "simple",
-    "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "GretaGrove Aluvo POS Sample Book 2 A trade display sample book for retailers and showrooms, featuring cut samples from the Aluvo Weave, Half Round and Curve panel collections in an easy to browse format. True to product samples let your customers see, touch and compare in store before they buy. Ideal for builders&#8217; merchants, showrooms and trade counters.",
-    "description": "Aluvo POS Sample Book 2 | Trade Display Samples for Retailers Give your customers a genuine hands on experience of our Aluvo slat panel range with this dedicated Point of Sale Sample Book, designed specifically for retailers, showrooms and trade counters who want to convert enquiries into orders. Built for businesses that sell slat panels to end consumers, this POS sample book brings together true to product cut samples from our Weave, Half Round and Curve panel collections in one easy to browse format, allowing your customers to flick through, compare and choose with confidence before they buy. Every sample is taken from genuine production stock, so what your customers view in store is a true representation of what they will receive. Why stock this POS Sample Book Aluvo slat panels are a fast growing choice for statement walls and feature interiors, and buyers increasingly want to see profile shape, spacing and texture in person before committing to a supplier. A well presented sample book helps your sales team answer questions on the spot, shortens the buying decision and reduces returns caused by colour mismatch or unmet expectations. Each profile in this book brings a distinct look to a room, from the woven texture of the Weave collection through to the softened edges of Half Round and the fluid lines of Curve panels, all built with the same durable slat construction that resists fading, staining and moisture. These are the same performance benefits your customers will experience once the panels are installed, making the sample book a powerful trust building tool at the point of sale. Ideal for: Builders&#8217; merchants and trade counters Interior fit out and wall panel showrooms Home improvement and DIY retailers Sales teams presenting to architects, developers and contractors What&#8217;s included: Cut samples covering the Weave, Half Round and Curve panel collections from the current Aluvo range, bound in a book format supplied ready for in store display This POS Sample Book is available exclusively through GretaGrove as part of our trade supply range",
-    "images": [],
-    "categories": [
-      {
-        "id": 203,
-        "name": "POS Samples",
-        "slug": "pos-samples"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 4723,
-    "name": "Aluvo POS Sample Box 1",
-    "slug": "aluvo-pos-sample-box-1",
-    "sku": "POSSPLBALV1",
-    "type": "simple",
-    "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "GretaGrove Aluvo POS Sample Box 1 A trade display sample box for retailers and showrooms, featuring cut samples from the Aluvo 3 Slat, 4 Slat, 6 Slat and LS Slat collections. True to product samples let your customers see, touch and compare in store before they buy. Ideal for builders&#8217; merchants, showrooms and trade counters.",
-    "description": "Aluvo POS Sample Box 1 | Trade Display Samples for Retailers Give your customers a genuine hands on experience of our Aluvo slat panel range with this dedicated Point of Sale Sample Box, designed specifically for retailers, showrooms and trade counters who want to convert enquiries into orders. Built for businesses that sell slat panels to end consumers, this POS sample box brings together true to product cut samples from our 3 Slat, 4 Slat, 6 Slat and LS Slat collections, allowing your customers to see, touch and compare before they buy. Every sample is taken from genuine production stock, so what your customers view in store is a true representation of what they will receive. Why stock this POS Sample Box Aluvo slat panels are a fast growing choice for statement walls and feature interiors, and buyers increasingly want to see slat spacing, width and texture in person before committing to a supplier. A well presented sample display helps your sales team answer questions on the spot, shortens the buying decision and reduces returns caused by colour mismatch or unmet expectations. Each profile in this box brings a distinct look to a room, from the classic spacing of 3 and 4 Slat panels through to the denser 6 Slat profile and the clean lines of LS Slats, all built with the same durable slat construction that resists fading, staining and moisture. These are the same performance benefits your customers will experience once the panels are installed, making the sample box a powerful trust building tool at the point of sale. Ideal for: Builders&#8217; merchants and trade counters Interior fit out and wall panel showrooms Home improvement and DIY retailers Sales teams presenting to architects, developers and contractors What&#8217;s included: Cut samples covering the 3 Slat, 4 Slat, 6 Slat and LS Slat collections from the current Aluvo range, supplied ready for in store display This POS Sample Box is available exclusively through GretaGrove as part of our trade supply range",
-    "images": [],
-    "categories": [
-      {
-        "id": 203,
-        "name": "POS Samples",
-        "slug": "pos-samples"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 4724,
-    "name": "Aluvo POS Sample Box 2",
-    "slug": "aluvo-pos-sample-box-2",
-    "sku": "POSSPLBALV2",
-    "type": "simple",
-    "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "GretaGrove Aluvo POS Sample Box 2 A trade display sample box for retailers and showrooms, featuring cut samples from the Aluvo Weave, Half Round and Curve panel collections. True to product samples let your customers see, touch and compare in store before they buy. Ideal for builders&#8217; merchants, showrooms and trade counters.",
-    "description": "Aluvo POS Sample Box 2 | Trade Display Samples for Retailers Give your customers a genuine hands on experience of our Aluvo slat panel range with this dedicated Point of Sale Sample Box, designed specifically for retailers, showrooms and trade counters who want to convert enquiries into orders. Built for businesses that sell slat panels to end consumers, this POS sample box brings together true to product cut samples from our Weave, Half Round and Curve panel collections, allowing your customers to see, touch and compare before they buy. Every sample is taken from genuine production stock, so what your customers view in store is a true representation of what they will receive. Why stock this POS Sample Box Aluvo slat panels are a fast growing choice for statement walls and feature interiors, and buyers increasingly want to see profile shape, spacing and texture in person before committing to a supplier. A well presented sample display helps your sales team answer questions on the spot, shortens the buying decision and reduces returns caused by colour mismatch or unmet expectations. Each profile in this box brings a distinct look to a room, from the woven texture of the Weave collection through to the softened edges of Half Round and the fluid lines of Curve panels, all built with the same durable slat construction that resists fading, staining and moisture. These are the same performance benefits your customers will experience once the panels are installed, making the sample box a powerful trust building tool at the point of sale. Ideal for: Builders&#8217; merchants and trade counters Interior fit out and wall panel showrooms Home improvement and DIY retailers Sales teams presenting to architects, developers and contractors What&#8217;s included: Cut samples covering the Weave, Half Round and Curve panel collections from the current Aluvo range, supplied ready for in store display This POS Sample Box is available exclusively through GretaGrove as part of our trade supply range",
-    "images": [],
-    "categories": [
-      {
-        "id": 203,
-        "name": "POS Samples",
-        "slug": "pos-samples"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 4725,
-    "name": "Composite Decking POS Sample Box",
-    "slug": "composite-decking-pos-sample-box",
-    "sku": "POSSPLBWDEC",
-    "type": "simple",
-    "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "GretaGrove Composite Decking POS Sample Box A trade display sample box for retailers and showrooms, featuring cut length samples across our full Composite Decking colour profile range. True to product samples let your customers see, touch and compare in store before they buy. Ideal for builders&#8217; merchants, showrooms and trade counters.",
-    "description": "Composite Decking POS Sample Box | Trade Display Samples for Retailers Give your customers a genuine hands on experience of our Composite Decking range with this dedicated Point of Sale Sample Box, designed specifically for retailers, showrooms and trade counters who want to convert enquiries into orders. Built for businesses that sell composite decking to end consumers, this POS sample box brings together true to product cut length samples across our full Composite Decking colour profile range, allowing your customers to see, touch and compare before they buy. Every sample is taken from genuine production stock, so what your customers view in store is a true representation of what they will receive. Why stock this POS Sample Box Composite decking is one of the fastest growing categories in outdoor composite flooring, and buyers increasingly research colour, texture and durability before committing to a supplier. A well presented sample display helps your sales team answer questions on the spot, shortens the buying decision and reduces returns caused by colour mismatch or unmet expectations. The composite construction combines strength and weather resistance with a natural wood look, giving strong resistance to fading, staining and moisture while requiring minimal maintenance compared to traditional timber decking. These are the same performance benefits your customers will experience once the decking is installed, making the sample box a powerful trust building tool at the point of sale. Ideal for: Builders&#8217; merchants and trade counters Decking and landscaping showrooms Garden centres and outdoor living retailers Sales teams presenting to architects, developers and contractors What&#8217;s included: Cut length samples covering the current Composite Decking colour profile range, supplied ready for in store display This POS Sample Box is available exclusively through GretaGrove as part of our trade supply range.",
-    "images": [],
-    "categories": [
-      {
-        "id": 203,
-        "name": "POS Samples",
-        "slug": "pos-samples"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 4726,
-    "name": "Composite Slatwall POS Sample Box",
-    "slug": "composite-slatwall-pos-sample-box",
-    "sku": "POSSPLBWPIM",
-    "type": "simple",
-    "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "GretaGrove Composite Slatwall POS Sample Box A trade display sample box for retailers and showrooms, featuring cut length samples across our full Composite Slatwall colour profile range. True to product samples let your customers see, touch and compare in store before they buy. Ideal for builders&#8217; merchants, showrooms and trade counters.",
-    "description": "Composite Slatwall POS Sample Box | Trade Display Samples for Retailers Give your customers a genuine hands on experience of our Composite Slatwall range with this dedicated Point of Sale Sample Box, designed specifically for retailers, showrooms and trade counters who want to convert enquiries into orders. Built for businesses that sell composite Slatwall to end consumers, this POS sample box brings together true to product cut length samples across our full Composite Slatwall colour profile range, allowing your customers to see, touch and compare before they buy. Every sample is taken from genuine production stock, so what your customers view in store is a true representation of what they will receive. Why stock this POS Sample Box Composite Slatwall is one of the fastest growing categories in outdoor and interior feature wall design, and buyers increasingly research colour, texture and durability before committing to a supplier. A well presented sample display helps your sales team answer questions on the spot, shortens the buying decision and reduces returns caused by colour mismatch or unmet expectations. The composite construction combines strength and weather resistance with a natural wood look, giving strong resistance to fading, staining and moisture while requiring minimal maintenance compared to traditional timber slats. These are the same performance benefits your customers will experience once the Slatwall is installed, making the sample box a powerful trust building tool at the point of sale. Ideal for: Builders&#8217; merchants and trade counters Slatwall and landscaping showrooms Garden centres and outdoor living retailers Sales teams presenting to architects, developers and contractors What&#8217;s included: Cut length samples covering the current Composite Slatwall colour profile range, supplied ready for in store display This POS Sample Box is available exclusively through GretaGrove as part of our trade supply range.",
-    "images": [],
-    "categories": [
-      {
-        "id": 203,
-        "name": "POS Samples",
-        "slug": "pos-samples"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 4727,
-    "name": "Composite Cladding POS Sample Box",
-    "slug": "composite-cladding-pos-sample-box",
-    "sku": "POSSPLBODCL",
-    "type": "simple",
-    "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "GretaGrove Composite Cladding POS Sample Box A trade display sample box for retailers and showrooms, featuring cut length samples across our full Composite Cladding colour profile range. True to product samples let your customers see, touch and compare in store before they buy. Ideal for builders&#8217; merchants, showrooms and trade counters.",
-    "description": "Composite Cladding POS Sample Box | Trade Display Samples for Retailers Give your customers a genuine hands on experience of our Composite Cladding range with this dedicated Point of Sale Sample Box, designed specifically for retailers, showrooms and trade counters who want to convert enquiries into orders. Built for businesses that sell composite cladding to end consumers, this POS sample box brings together true to product cut length samples across our full Composite Cladding colour profile range, allowing your customers to see, touch and compare before they buy. Every sample is taken from genuine production stock, so what your customers view in store is a true representation of what they will receive. Why stock this POS Sample Box Composite cladding is one of the fastest growing categories in exterior wall finishes, and buyers increasingly research colour, texture and durability before committing to a supplier. A well presented sample display helps your sales team answer questions on the spot, shortens the buying decision and reduces returns caused by colour mismatch or unmet expectations. The composite construction combines strength and weather resistance with a natural wood look, giving strong resistance to fading, staining and moisture while requiring minimal maintenance compared to traditional timber cladding. These are the same performance benefits your customers will experience once the cladding is installed, making the sample box a powerful trust building tool at the point of sale. Ideal for: Builders&#8217; merchants and trade counters Cladding and landscaping showrooms Garden centres and outdoor living retailers Sales teams presenting to architects, developers and contractors What&#8217;s included: Cut length samples covering the current Composite Cladding colour profile range, supplied ready for in store display.",
-    "images": [],
-    "categories": [
-      {
-        "id": 203,
-        "name": "POS Samples",
-        "slug": "pos-samples"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 4728,
-    "name": "Composite Fencing POS Sample Box",
-    "slug": "composite-fencing-pos-sample-box",
-    "sku": "POSSPLBCMFE",
-    "type": "simple",
-    "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "GretaGrove Composite Fencing POS Sample Box A trade display sample box for retailers and showrooms, featuring cut length samples across our full Composite Fencing colour profile range. True to product samples let your customers see, touch and compare in store before they buy. Ideal for builders&#8217; merchants, showrooms and trade counters.",
-    "description": "Composite Fencing POS Sample Box | Trade Display Samples for Retailers Give your customers a genuine hands on experience of our Composite Fencing range with this dedicated Point of Sale Sample Box, designed specifically for retailers, showrooms and trade counters who want to convert enquiries into orders. Built for businesses that sell composite fencing to end consumers, this POS sample box brings together true to product cut length samples across our full Composite Fencing colour profile range, allowing your customers to see, touch and compare before they buy. Every sample is taken from genuine production stock, so what your customers view in store is a true representation of what they will receive. Why stock this POS Sample Box Composite fencing is one of the fastest growing categories in outdoor garden and boundary products, and buyers increasingly research colour, texture and durability before committing. A well presented sample display helps your sales team answer questions on the spot, shortens the buying decision and reduces returns caused by colour mismatch or unmet expectations. The composite construction combines strength and weather resistance with a natural wood look, giving strong resistance to fading, staining, warping and rot compared to traditional timber fencing. These are the same performance benefits your customers will experience once the fencing is installed, making the sample box a powerful trust building tool at the point of sale. Ideal for: Builders&#8217; merchants and trade counters Fencing and landscaping showrooms Garden centres and outdoor living retailers Sales teams presenting to architects, developers and contractors What&#8217;s included: Cut length samples covering the current Composite Fencing colour profile range, supplied ready for in store display This POS Sample Box is available exclusively through GretaGrove as part of our trade supply range.",
-    "images": [],
-    "categories": [
-      {
-        "id": 203,
-        "name": "POS Samples",
-        "slug": "pos-samples"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 4729,
-    "name": "Ultravex Click Wall Panel POS Sample Book",
-    "slug": "ultravex-click-wall-panel-pos-sample-book",
-    "sku": "POSSMPBUVCL",
-    "type": "simple",
-    "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "GretaGrove Ultravex Click Wall Panel POS Sample Book A trade display sample book for retailers and showrooms, featuring cut samples across our full Ultravex Click Wall Panel colour profile range in an easy to browse format. True to product samples let your customers see, touch and compare in store before they buy. Ideal for builders&#8217; merchants, showrooms and trade counters.",
-    "description": "Ultravex Click Wall Panel POS Sample Book | Trade Display Samples for Retailers Give your customers a genuine hands on experience of our Ultravex Click Wall Panel range with this dedicated Point of Sale Sample Book, designed specifically for retailers, showrooms and trade counters who want to convert enquiries into orders. Built for businesses that sell wall panels to end consumers, this POS sample book brings together true to product cut samples across our full Ultravex colour profile range in one easy to browse format, allowing your customers to flick through, compare and choose with confidence before they buy. Every sample is taken from genuine production stock, so what your customers view in store is a true representation of what they will receive. Why stock this POS Sample Book Ultravex Click Wall Panels are a fast growing choice for homeowners and businesses looking to upgrade interior walls, and buyers increasingly want to see colour and texture in person before committing to a supplier. A well presented sample book helps your sales team answer questions on the spot, shortens the buying decision and reduces returns caused by colour mismatch or unmet expectations. Ultravex panels feature a durable click fit construction designed for straightforward installation, combining strength with a refined surface finish that holds up well in everyday use. These are the same performance benefits your customers will experience once the panels are installed, making the sample book a powerful trust building tool at the point of sale. Ideal for: Builders&#8217; merchants and trade counters Interior fit out and wall panel showrooms Home improvement and DIY retailers Sales teams presenting to architects, developers and contractors What&#8217;s included: Cut samples covering the current Ultravex Click Wall Panel colour profile range, bound in a book format supplied ready for in store display This POS Sample Book is available exclusively through GretaGrove as part of our trade supply range.",
-    "images": [],
-    "categories": [
-      {
-        "id": 203,
-        "name": "POS Samples",
-        "slug": "pos-samples"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 4788,
-    "name": "Co Extrusion Decking POS Sample Box",
-    "slug": "co-extrusion-decking-sample-box",
-    "sku": "POSSPLBDSDK",
-    "type": "simple",
-    "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "Co Extrusion Decking POS Sample Box | Trade Display Samples for Retailers Give your customers a genuine hands on experience of our Co Extrusion decking range with this Point of Sale Sample Box, built for retailers, showrooms and trade counters. True to product cut length samples across the full colour profile range let customers see, touch and compare before they buy, while the co extrusion construction&#8217;s resistance to fading, staining and moisture makes it a powerful trust building tool at the point of sale. Available exclusively through GretaGrove as part of our trade supply range.",
-    "description": "Co Extrusion Decking POS Sample Box | Trade Display Samples for Retailers Give your customers a genuine hands on experience of our Co Extrusion decking range with this dedicated Point of Sale Sample Box, designed specifically for retailers, showrooms and trade counters who want to convert enquiries into orders. Built for businesses that sell composite decking to end consumers, this POS sample box brings together true to product cut length samples across our full Co Extrusion colour profile range, allowing your customers to see, touch and compare before they buy. Every sample is taken from genuine production stock, so what your customers view in store is a true representation of what they will receive. Why stock this POS Sample Box Co Extrusion decking is one of the fastest growing categories in outdoor composite flooring, and buyers increasingly research colour, texture and durability before committing to a supplier. A well presented sample display helps your sales team answer questions on the spot, shortens the buying decision and reduces returns caused by colour mismatch or unmet expectations. The co extrusion construction features a dense protective outer shell bonded to a durable composite core, giving strong resistance to fading, staining and moisture while retaining a natural wood look. These are the same performance benefits your customers will experience once the decking is installed, making the sample box a powerful trust building tool at the point of sale. Ideal for: Builders&#8217; merchants and trade counters Decking and landscaping showrooms Garden centres and outdoor living retailers Sales teams presenting to architects, developers and contractors What&#8217;s included: Cut length samples covering the current Co Extrusion decking colour profile range, supplied ready for in store display This POS Sample Box is available exclusively through GretaGrove as part of our trade supply range.",
-    "images": [],
-    "categories": [
-      {
-        "id": 203,
-        "name": "POS Samples",
-        "slug": "pos-samples"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": true
-  },
-  {
-    "id": 4057,
-    "name": "Composite Slat Wall External Trim Charcoal 2500mm x 49.5mm",
-    "slug": "wpc-pimber-external-trim-2-5m-charcoal",
-    "sku": "PIMEXTT2500CH",
-    "type": "simple",
-    "parent": 0,
-    "price": "595",
-    "regularPrice": "595",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "The 2.5 metre Charcoal External Trim is designed to deliver a bold, uninterrupted perimeter finish to the Composite Slat Wall installations. Its deep charcoal tone defines corners and exposed edges with strong architectural contrast, while the 2.5 metre length reduces joins across taller or wider elevations. Engineered for seamless integration, it ensures a sharp and professional final detail.",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/01/External-trim-Charcoal.jpg"
-    ],
-    "categories": [
-      {
-        "id": 160,
-        "name": "Composite Slatwall",
-        "slug": "composite-slatwall"
-      },
-      {
-        "id": 170,
-        "name": "Composite Slatwall External Trims 2500mm",
-        "slug": "composite-slatwall-external-trims-2500"
-      },
-      {
-        "id": 190,
-        "name": "Outdoor Slatwall",
-        "slug": "outdoor-slatwall"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 4058,
-    "name": "Composite Slat Wall External Trim Choco Brown 5000mm x 49.5mm",
-    "slug": "wpc-pimber-external-trim-2-5m-choco-brown",
-    "sku": "PIMEXTT2500CB",
-    "type": "simple",
-    "parent": 0,
-    "price": "595",
-    "regularPrice": "595",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "The 2.5 metre Choco Brown External Trim offers a rich and structured perimeter solution for Composite Slat Wall. Its deeper brown tone enhances warmth while maintaining strong definition along edges and vertical lines. The 2.5 metre length supports streamlined installations across larger elevations with reduced joint visibility.",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Choco-Brown-External-Trim-1.jpg"
-    ],
-    "categories": [
-      {
-        "id": 160,
-        "name": "Composite Slatwall",
-        "slug": "composite-slatwall"
-      },
-      {
-        "id": 170,
-        "name": "Composite Slatwall External Trims 2500mm",
-        "slug": "composite-slatwall-external-trims-2500"
-      },
-      {
-        "id": 190,
-        "name": "Outdoor Slatwall",
-        "slug": "outdoor-slatwall"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
+
   {
     "id": 2527,
     "name": "Tile Levelling Clips 2mm– 250 Pcs / Pack",
@@ -2713,8 +1956,8 @@
     "sku": "TLSCL2MM",
     "type": "simple",
     "parent": 0,
-    "price": "600",
-    "regularPrice": "600",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -2747,8 +1990,8 @@
     "sku": "TLSCL1MM",
     "type": "simple",
     "parent": 0,
-    "price": "500",
-    "regularPrice": "500",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -2781,8 +2024,8 @@
     "sku": "TLSCL15MM",
     "type": "simple",
     "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -2815,8 +2058,8 @@
     "sku": "TLSCL3MM",
     "type": "simple",
     "parent": 0,
-    "price": "650",
-    "regularPrice": "650",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -2917,8 +2160,8 @@
     "sku": "PVC8MMEXBL",
     "type": "simple",
     "parent": 0,
-    "price": "220",
-    "regularPrice": "220",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -2951,8 +2194,8 @@
     "sku": "PVC8MMCOBL",
     "type": "simple",
     "parent": 0,
-    "price": "220",
-    "regularPrice": "220",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -2985,8 +2228,8 @@
     "sku": "PVC8MMEXSI",
     "type": "simple",
     "parent": 0,
-    "price": "220",
-    "regularPrice": "220",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3019,8 +2262,8 @@
     "sku": "PVC8MMINWH",
     "type": "simple",
     "parent": 0,
-    "price": "220",
-    "regularPrice": "220",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3053,8 +2296,8 @@
     "sku": "PVC8MMLTWH",
     "type": "simple",
     "parent": 0,
-    "price": "220",
-    "regularPrice": "220",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3087,8 +2330,8 @@
     "sku": "PVC8MMLTBL",
     "type": "simple",
     "parent": 0,
-    "price": "220",
-    "regularPrice": "220",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3121,8 +2364,8 @@
     "sku": "PVC8MMHTRBL",
     "type": "simple",
     "parent": 0,
-    "price": "220",
-    "regularPrice": "220",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3155,8 +2398,8 @@
     "sku": "PVC8MMHTRSI",
     "type": "simple",
     "parent": 0,
-    "price": "220",
-    "regularPrice": "220",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3189,8 +2432,8 @@
     "sku": "PVC8MMEXWH",
     "type": "simple",
     "parent": 0,
-    "price": "220",
-    "regularPrice": "220",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3223,8 +2466,8 @@
     "sku": "PVC8MMINBL",
     "type": "simple",
     "parent": 0,
-    "price": "220",
-    "regularPrice": "220",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3257,8 +2500,8 @@
     "sku": "PVC10MMUTGL",
     "type": "simple",
     "parent": 0,
-    "price": "240",
-    "regularPrice": "240",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3289,8 +2532,8 @@
     "sku": "PVC8MMQUWH",
     "type": "simple",
     "parent": 0,
-    "price": "220",
-    "regularPrice": "220",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3323,8 +2566,8 @@
     "sku": "PVC10MMUTBL",
     "type": "simple",
     "parent": 0,
-    "price": "250",
-    "regularPrice": "250",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3357,8 +2600,8 @@
     "sku": "PVC8MMINSI",
     "type": "simple",
     "parent": 0,
-    "price": "220",
-    "regularPrice": "220",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3391,8 +2634,8 @@
     "sku": "PVC8MMHTRWH",
     "type": "simple",
     "parent": 0,
-    "price": "220",
-    "regularPrice": "220",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3425,8 +2668,8 @@
     "sku": "PVC8MMUTBL",
     "type": "simple",
     "parent": 0,
-    "price": "220",
-    "regularPrice": "220",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3459,8 +2702,8 @@
     "sku": "PVC10MMEXWH",
     "type": "simple",
     "parent": 0,
-    "price": "240",
-    "regularPrice": "240",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3493,8 +2736,8 @@
     "sku": "PVC10MMINBL",
     "type": "simple",
     "parent": 0,
-    "price": "250",
-    "regularPrice": "250",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3527,8 +2770,8 @@
     "sku": "PVC10MMEXBL",
     "type": "simple",
     "parent": 0,
-    "price": "250",
-    "regularPrice": "250",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3561,8 +2804,8 @@
     "sku": "PVC8MMQUSI",
     "type": "simple",
     "parent": 0,
-    "price": "220",
-    "regularPrice": "220",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3595,8 +2838,8 @@
     "sku": "PVC10MMINWH",
     "type": "simple",
     "parent": 0,
-    "price": "240",
-    "regularPrice": "240",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3629,8 +2872,8 @@
     "sku": "PVC8MMQUBL",
     "type": "simple",
     "parent": 0,
-    "price": "220",
-    "regularPrice": "220",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3663,8 +2906,8 @@
     "sku": "PVC8MMCOWH",
     "type": "simple",
     "parent": 0,
-    "price": "220",
-    "regularPrice": "220",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3697,8 +2940,8 @@
     "sku": "PVC8MMUTSI",
     "type": "simple",
     "parent": 0,
-    "price": "220",
-    "regularPrice": "220",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3731,8 +2974,8 @@
     "sku": "PVC8MMLTSI",
     "type": "simple",
     "parent": 0,
-    "price": "220",
-    "regularPrice": "220",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3765,8 +3008,8 @@
     "sku": "PVC10MMINSI",
     "type": "simple",
     "parent": 0,
-    "price": "240",
-    "regularPrice": "240",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3799,8 +3042,8 @@
     "sku": "PVC10MMEXSI",
     "type": "simple",
     "parent": 0,
-    "price": "240",
-    "regularPrice": "240",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3833,8 +3076,8 @@
     "sku": "PVC10MMUTSI",
     "type": "simple",
     "parent": 0,
-    "price": "240",
-    "regularPrice": "240",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3867,8 +3110,8 @@
     "sku": "PVC8MMCOSI",
     "type": "simple",
     "parent": 0,
-    "price": "220",
-    "regularPrice": "220",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3901,8 +3144,8 @@
     "sku": "UV-ALTR-LTR",
     "type": "simple",
     "parent": 0,
-    "price": "295",
-    "regularPrice": "295",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3935,8 +3178,8 @@
     "sku": "UV-ALTR-HTR",
     "type": "simple",
     "parent": 0,
-    "price": "295",
-    "regularPrice": "295",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -3969,8 +3212,8 @@
     "sku": "UV-ALTR-INT",
     "type": "simple",
     "parent": 0,
-    "price": "295",
-    "regularPrice": "295",
+    "price": "1000",
+    "regularPrice": "2910005",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -4003,8 +3246,8 @@
     "sku": "UV-ALTR-UTR",
     "type": "simple",
     "parent": 0,
-    "price": "295",
-    "regularPrice": "295",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -4037,8 +3280,8 @@
     "sku": "UV-ALTR-EXT",
     "type": "simple",
     "parent": 0,
-    "price": "295",
-    "regularPrice": "295",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -4071,8 +3314,8 @@
     "sku": "ALTR-20L-BRI",
     "type": "simple",
     "parent": 0,
-    "price": "270",
-    "regularPrice": "270",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -4105,8 +3348,8 @@
     "sku": "ALTR-20L-BRU",
     "type": "simple",
     "parent": 0,
-    "price": "275",
-    "regularPrice": "275",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -4139,8 +3382,8 @@
     "sku": "ALTR-20L-MAB",
     "type": "simple",
     "parent": 0,
-    "price": "275",
-    "regularPrice": "275",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -4173,8 +3416,8 @@
     "sku": "ALTR-12L-GMG",
     "type": "simple",
     "parent": 0,
-    "price": "240",
-    "regularPrice": "240",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -4207,8 +3450,8 @@
     "sku": "ALTR-10L-GMG",
     "type": "simple",
     "parent": 0,
-    "price": "210",
-    "regularPrice": "210",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -4241,8 +3484,8 @@
     "sku": "ALTR-12L-BRG",
     "type": "simple",
     "parent": 0,
-    "price": "288",
-    "regularPrice": "288",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -4275,8 +3518,8 @@
     "sku": "ALTR-10L-BRG",
     "type": "simple",
     "parent": 0,
-    "price": "230",
-    "regularPrice": "230",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -4309,8 +3552,8 @@
     "sku": "ALTR-12L-BRSI",
     "type": "simple",
     "parent": 0,
-    "price": "210",
-    "regularPrice": "210",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -4343,8 +3586,8 @@
     "sku": "ALTR-10L-BRSI",
     "type": "simple",
     "parent": 0,
-    "price": "195",
-    "regularPrice": "195",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -4377,8 +3620,8 @@
     "sku": "ALTR-12L-BRI",
     "type": "simple",
     "parent": 0,
-    "price": "230",
-    "regularPrice": "230",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -4411,8 +3654,8 @@
     "sku": "ALTR-10L-BRI",
     "type": "simple",
     "parent": 0,
-    "price": "210",
-    "regularPrice": "210",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -4445,8 +3688,8 @@
     "sku": "ALTR-12L-MAB",
     "type": "simple",
     "parent": 0,
-    "price": "280",
-    "regularPrice": "280",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -4479,8 +3722,8 @@
     "sku": "ALTR-10L-MAB",
     "type": "simple",
     "parent": 0,
-    "price": "240",
-    "regularPrice": "240",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -4513,8 +3756,8 @@
     "sku": "ALTR-12B-BRSI",
     "type": "simple",
     "parent": 0,
-    "price": "288",
-    "regularPrice": "288",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -4547,8 +3790,8 @@
     "sku": "ALTR-10B-BRSI",
     "type": "simple",
     "parent": 0,
-    "price": "268",
-    "regularPrice": "268",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -4581,8 +3824,8 @@
     "sku": "ALTR-12C-BRSI",
     "type": "simple",
     "parent": 0,
-    "price": "220",
-    "regularPrice": "220",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -4615,8 +3858,8 @@
     "sku": "ALTR-10C-BRSI",
     "type": "simple",
     "parent": 0,
-    "price": "210",
-    "regularPrice": "210",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -4649,8 +3892,8 @@
     "sku": "ALTR-UTR-BRI",
     "type": "simple",
     "parent": 0,
-    "price": "320",
-    "regularPrice": "320",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -4683,8 +3926,8 @@
     "sku": "ALTR-INT-BRI",
     "type": "simple",
     "parent": 0,
-    "price": "385",
-    "regularPrice": "385",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -4717,8 +3960,8 @@
     "sku": "ALTR-25L-BRI",
     "type": "simple",
     "parent": 0,
-    "price": "350",
-    "regularPrice": "350",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -4751,8 +3994,8 @@
     "sku": "WPCP2500TE",
     "type": "simple",
     "parent": 0,
-    "price": "990",
-    "regularPrice": "990",
+    "price": "2800",
+    "regularPrice": "2800",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Teak Composite Slat Wall panels combine a natural timber effect with a modern slatted format. Supplied in 2.5 metre lengths, they are particularly suited to longer than usual surfaces, enabling clean uninterrupted lines across extended areas. The structured slat design adds depth and shadow, supported by a brushed finish for a balanced contemporary exterior appearance.",
@@ -4786,86 +4029,7 @@
     "isPurchasable": false,
     "inStock": false
   },
-  {
-    "id": 4054,
-    "name": "Composite Slat Wall Edge Seal Teak 2500mm x 50mm",
-    "slug": "composite-slat-wall-edge-seal-teak-2500mm-x-50mm",
-    "sku": "PIMEDSE2500TE",
-    "type": "simple",
-    "parent": 0,
-    "price": "595",
-    "regularPrice": "595",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Teak-Edge-Seal-1.jpg",
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Teak-Edge-Seal-2-1.jpg",
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Teak-Edge-Seal-3-1.jpg"
-    ],
-    "categories": [
-      {
-        "id": 160,
-        "name": "Composite Slatwall",
-        "slug": "composite-slatwall"
-      },
-      {
-        "id": 167,
-        "name": "Composite Slatwall Edge Seal 5000mm",
-        "slug": "composite-slatwall-edge-seal-5000"
-      },
-      {
-        "id": 190,
-        "name": "Outdoor Slatwall",
-        "slug": "outdoor-slatwall"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 4060,
-    "name": "Composite Slat Wall External Trim Teak 2500mm x 49.5mm",
-    "slug": "composite-slat-wall-external-trim-teak-2500mm-x-49-5mm",
-    "sku": "PIMEXTT2500TE",
-    "type": "simple",
-    "parent": 0,
-    "price": "595",
-    "regularPrice": "595",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "Teak 2.5 metre External Trim provides a warm timber inspired finishing detail designed for longer uninterrupted surfaces. The 2.5 metre profile minimises joins across expansive walls, helping achieve a smooth and cohesive appearance. Precision manufactured to integrate seamlessly with the Composite Slat Wall for a clean and durable exterior finish.",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/03/Teak-External-Trim.jpg"
-    ],
-    "categories": [
-      {
-        "id": 160,
-        "name": "Composite Slatwall",
-        "slug": "composite-slatwall"
-      },
-      {
-        "id": 170,
-        "name": "Composite Slatwall External Trims 2500mm",
-        "slug": "composite-slatwall-external-trims-2500"
-      },
-      {
-        "id": 190,
-        "name": "Outdoor Slatwall",
-        "slug": "outdoor-slatwall"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
+
   {
     "id": 2563,
     "name": "PVC Ceiling Cladding Classic Grey Marble 2700mm x 250mm",
@@ -5117,210 +4281,7 @@
     "isPurchasable": false,
     "inStock": true
   },
-  {
-    "id": 2279,
-    "name": "Wood Veneer Acoustic Panel End Trim Grey Oak 2400mm x 27mm",
-    "slug": "acoustic-panels-end-trim-grey-oak",
-    "sku": "SLPAENDTGREOA",
-    "type": "simple",
-    "parent": 0,
-    "price": "1500",
-    "regularPrice": "1500",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "Grey Oak Acoustic Panel End Trims provide a subtle modern finish to acoustic panels The neutral grey infused wood effect works effortlessly in Scandinavian, industrial and minimalist schemes. These trims ensure exposed edges are concealed, maintaining visual continuity across feature walls and full panel installations.",
-    "description": "Wood Veneer Acoustic Panel End Trim Black Oak 2400mm x 27mm",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Grey-Oak-End-Trim.jpg"
-    ],
-    "categories": [
-      {
-        "id": 185,
-        "name": "Acoustic Panel End Trims",
-        "slug": "acoustic-panel-end-trims"
-      },
-      {
-        "id": 183,
-        "name": "Slat Panels",
-        "slug": "slat-panels"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": true
-  },
-  {
-    "id": 2280,
-    "name": "Wood Veneer Acoustic Panel End Trim Natural Oak 2400mm x 27mm",
-    "slug": "wood-veneer-acoustic-panel-end-trim-natural-oak-2400mm-x-27mm",
-    "sku": "SLPAENDTNATOA",
-    "type": "simple",
-    "parent": 0,
-    "price": "1500",
-    "regularPrice": "1500",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "Natural Oak Acoustic Panel End Trims provide a clean and cohesive finish to matching Acoustic Panels. The warm oak tone enhances interior spaces with a bright, welcoming aesthetic while concealing exposed panel edges for a seamless installation. Ideal for residential and commercial feature walls where a natural timber look is required with minimal maintenance.",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Natural-Oak-End-Trim.jpg"
-    ],
-    "categories": [
-      {
-        "id": 185,
-        "name": "Acoustic Panel End Trims",
-        "slug": "acoustic-panel-end-trims"
-      },
-      {
-        "id": 183,
-        "name": "Slat Panels",
-        "slug": "slat-panels"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 2281,
-    "name": "Wood Veneer Acoustic Panel End Trim Light Walnut 2400mm x 27mm",
-    "slug": "acoustic-panels-end-trim-light-walnut",
-    "sku": "SLPAENDTWALNT",
-    "type": "simple",
-    "parent": 0,
-    "price": "1500",
-    "regularPrice": "1500",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "Light Walnut Acoustic Panel End Trims complete panel installations with a refined and contemporary edge. The mid tone walnut colouring introduces warmth without overpowering the overall design, making it suitable for modern offices, retail environments and living spaces. Designed to neatly cap panel ends for a professional, finished appearance.",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Light-Walnut-End-Trim.jpg"
-    ],
-    "categories": [
-      {
-        "id": 185,
-        "name": "Acoustic Panel End Trims",
-        "slug": "acoustic-panel-end-trims"
-      },
-      {
-        "id": 183,
-        "name": "Slat Panels",
-        "slug": "slat-panels"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 2282,
-    "name": "Wood Veneer Acoustic Panel End Trim Choco Brown 2400mm x 27mm",
-    "slug": "acoustic-panels-end-trim-choco-brown",
-    "sku": "SLPAENDTCHOBR",
-    "type": "simple",
-    "parent": 0,
-    "price": "1500",
-    "regularPrice": "1500",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "Choco Brown Acoustic Panel End Trims create a bold and sophisticated frame to acoustic slat installations. The deeper brown shade adds depth and contrast, particularly against lighter walls or minimalist interiors. Engineered to align precisely with panel profiles, ensuring a consistent and polished finish across longer wall runs.",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Choco-Brown-End-Trim.jpg"
-    ],
-    "categories": [
-      {
-        "id": 185,
-        "name": "Acoustic Panel End Trims",
-        "slug": "acoustic-panel-end-trims"
-      },
-      {
-        "id": 183,
-        "name": "Slat Panels",
-        "slug": "slat-panels"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 2283,
-    "name": "Wood Veneer Acoustic Panel End Trim Black Oak 2400mm x 27mm",
-    "slug": "acoustic-panels-end-trim-black-oak",
-    "sku": "SLPAENDTBLKOA",
-    "type": "simple",
-    "parent": 0,
-    "price": "1500",
-    "regularPrice": "1500",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "Black Oak Acoustic Panel End Trims provide a dramatic and architectural edge to acoustic panel installations. The dark oak effect introduces contrast and definition, ideal for statement walls and premium commercial interiors. These trims ensure a tidy termination point, reinforcing a high quality, professional finish across every project.",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Black-Oak-End-Trim.jpg"
-    ],
-    "categories": [
-      {
-        "id": 185,
-        "name": "Acoustic Panel End Trims",
-        "slug": "acoustic-panel-end-trims"
-      },
-      {
-        "id": 183,
-        "name": "Slat Panels",
-        "slug": "slat-panels"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 2284,
-    "name": "Wood Veneer Acoustic Panel End Trim Ash Grey 2400mm x 27mm",
-    "slug": "acoustic-panels-end-trim-ash-grey",
-    "sku": "SLPAENDTASHGR",
-    "type": "simple",
-    "parent": 0,
-    "price": "1500",
-    "regularPrice": "1500",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "Ash Grey Acoustic Panel End Trims deliver a clean and understated finish to panel systems. The cooler grey palette complements modern interiors and corporate settings, offering a sharp and structured look. Designed for precise alignment with slat panels, they enhance overall presentation while maintaining integrity.",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Ash-Grey-End-Trim.jpg"
-    ],
-    "categories": [
-      {
-        "id": 185,
-        "name": "Acoustic Panel End Trims",
-        "slug": "acoustic-panel-end-trims"
-      },
-      {
-        "id": 183,
-        "name": "Slat Panels",
-        "slug": "slat-panels"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
+
   {
     "id": 2285,
     "name": "PVC Ceiling Cladding Carrara Marble Matt 2700mm x 250mm",
@@ -5695,84 +4656,7 @@
     "isPurchasable": false,
     "inStock": true
   },
-  {
-    "id": 2304,
-    "name": "Composite Slat Wall Edge Seal Blue Grey 5000mm x 50mm",
-    "slug": "wpc-pimber-trims-edge-seal-blue-grey",
-    "sku": "PIMEDSE5000BG",
-    "type": "simple",
-    "parent": 0,
-    "price": "1095",
-    "regularPrice": "1095",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "The Blue Grey Edge Seal enhances Composite Slat Wall installations with a clean, understated perimeter detail. Its contemporary tone softens transitions while maintaining clear edge definition. Designed to create a tidy, cohesive end finish across both vertical and horizontal installations.",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/01/wpc-pimber-trims-edge-seal-blue-grey-36m-main.jpg"
-    ],
-    "categories": [
-      {
-        "id": 160,
-        "name": "Composite Slatwall",
-        "slug": "composite-slatwall"
-      },
-      {
-        "id": 167,
-        "name": "Composite Slatwall Edge Seal 5000mm",
-        "slug": "composite-slatwall-edge-seal-5000"
-      },
-      {
-        "id": 190,
-        "name": "Outdoor Slatwall",
-        "slug": "outdoor-slatwall"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": true
-  },
-  {
-    "id": 2305,
-    "name": "Composite Slat Wall Edge Seal Anthracite Grey 5000mm x 50mm",
-    "slug": "wpc-pimber-trims-edge-seal-anthracite-grey",
-    "sku": "PIMEDSE5000AG",
-    "type": "simple",
-    "parent": 0,
-    "price": "1095",
-    "regularPrice": "1095",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "Anthracite Grey Edge Seal provides a sleek finishing solution for exposed slat wall edges. The structured grey tone complements modern cladding schemes while ensuring a seamless integration with surrounding panels. Engineered for a secure fit to maintain both aesthetic consistency and edge protection.",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Anthracite-Grey-Edge-Seal-4.jpg"
-    ],
-    "categories": [
-      {
-        "id": 160,
-        "name": "Composite Slatwall",
-        "slug": "composite-slatwall"
-      },
-      {
-        "id": 167,
-        "name": "Composite Slatwall Edge Seal 5000mm",
-        "slug": "composite-slatwall-edge-seal-5000"
-      },
-      {
-        "id": 190,
-        "name": "Outdoor Slatwall",
-        "slug": "outdoor-slatwall"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": true
-  },
+
   {
     "id": 2306,
     "name": "Composite Slat Wall Choco Brown 5000mm x 169mm",
@@ -5780,8 +4664,8 @@
     "sku": "WPCP5000CB",
     "type": "simple",
     "parent": 0,
-    "price": "1890",
-    "regularPrice": "1890",
+    "price": "3500",
+    "regularPrice": "3500",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Choco Brown Composite Slat Wall panels offer a warm yet contemporary exterior solution. With extended 5 metre lengths, they are ideal for longer than usual surfaces, supporting seamless installations across larger façades. The defined slatted design enhances architectural interest, while the brushed surface delivers a refined and uniform finish.",
@@ -5817,8 +4701,8 @@
     "sku": "WPCP5000BG",
     "type": "simple",
     "parent": 0,
-    "price": "1890",
-    "regularPrice": "1890",
+    "price": "3500",
+    "regularPrice": "3500",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Blue Grey Composite Slat Wall panels introduce a refined contemporary tone to exterior applications. The 5 metre board length makes them suitable for longer than usual surfaces, helping to minimise joints across wider elevations. The slatted structure creates depth and shadow lines, complemented by a brushed finish for a clean and modern appearance.",
@@ -7045,8 +5929,8 @@
     "sku": "WPCP3600CH",
     "type": "simple",
     "parent": 0,
-    "price": "1490",
-    "regularPrice": "1490",
+    "price": "3200",
+    "regularPrice": "3200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -7087,8 +5971,8 @@
     "sku": "WPCP3600NA",
     "type": "simple",
     "parent": 0,
-    "price": "1490",
-    "regularPrice": "1490",
+    "price": "3200",
+    "regularPrice": "3200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -7129,8 +6013,8 @@
     "sku": "WPCP3600TE",
     "type": "simple",
     "parent": 0,
-    "price": "1490",
-    "regularPrice": "1490",
+    "price": "3200",
+    "regularPrice": "3200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -7723,157 +6607,7 @@
     "isPurchasable": false,
     "inStock": true
   },
-  {
-    "id": 2378,
-    "name": "Composite Slat Wall External Trim Natural 3600mm x 49.5mm",
-    "slug": "wpc-pimber-trims-external-trim-natural-3-6m",
-    "sku": "PIMEXTT3600NA",
-    "type": "simple",
-    "parent": 0,
-    "price": "995",
-    "regularPrice": "995",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "Teak 5 metre External Trim provides a warm timber inspired finishing detail designed for longer uninterrupted surfaces. The 5 metre profile minimises joins across expansive walls, helping achieve a smooth and cohesive appearance. Precision manufactured to integrate seamlessly with the Composite Slat Wall for a clean and durable exterior finish.",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Natural-External-Trim.jpg"
-    ],
-    "categories": [
-      {
-        "id": 160,
-        "name": "Composite Slatwall",
-        "slug": "composite-slatwall"
-      },
-      {
-        "id": 198,
-        "name": "Composite Slatwall External Trims 3600mm",
-        "slug": "composite-slatwall-external-trims-3600"
-      },
-      {
-        "id": 190,
-        "name": "Outdoor Slatwall",
-        "slug": "outdoor-slatwall"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 2379,
-    "name": "Composite Slat Wall External Trim Teak 3600mm x 49.5mm",
-    "slug": "wpc-pimber-trims-external-trim-teak-3-6m",
-    "sku": "PIMEXTT3600TE",
-    "type": "simple",
-    "parent": 0,
-    "price": "995",
-    "regularPrice": "995",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/03/Teak-External-Trim.jpg"
-    ],
-    "categories": [
-      {
-        "id": 160,
-        "name": "Composite Slatwall",
-        "slug": "composite-slatwall"
-      },
-      {
-        "id": 198,
-        "name": "Composite Slatwall External Trims 3600mm",
-        "slug": "composite-slatwall-external-trims-3600"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 2380,
-    "name": "Composite Slat Wall External Trim Charcoal 3600mm x 49.5mm",
-    "slug": "wpc-pimber-trims-external-trim-charcoal-3-6m",
-    "sku": "PIMEXTT3600CH",
-    "type": "simple",
-    "parent": 0,
-    "price": "995",
-    "regularPrice": "995",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Charcoal-External-Trim.jpg"
-    ],
-    "categories": [
-      {
-        "id": 160,
-        "name": "Composite Slatwall",
-        "slug": "composite-slatwall"
-      },
-      {
-        "id": 198,
-        "name": "Composite Slatwall External Trims 3600mm",
-        "slug": "composite-slatwall-external-trims-3600"
-      },
-      {
-        "id": 190,
-        "name": "Outdoor Slatwall",
-        "slug": "outdoor-slatwall"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 2381,
-    "name": "Composite Slat Wall External Trim Blue Grey 3600mm x 49.5mm",
-    "slug": "wpc-pimber-trims-external-trim-blue-grey-3-6m",
-    "sku": "PIMEXTT3600BG",
-    "type": "simple",
-    "parent": 0,
-    "price": "995",
-    "regularPrice": "995",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Blue-Grey-Edge-Seal.jpg"
-    ],
-    "categories": [
-      {
-        "id": 160,
-        "name": "Composite Slatwall",
-        "slug": "composite-slatwall"
-      },
-      {
-        "id": 198,
-        "name": "Composite Slatwall External Trims 3600mm",
-        "slug": "composite-slatwall-external-trims-3600"
-      },
-      {
-        "id": 190,
-        "name": "Outdoor Slatwall",
-        "slug": "outdoor-slatwall"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
+
   {
     "id": 2382,
     "name": "Decking Solid Keel Joist 5000mm x 40mm",
@@ -7975,129 +6709,7 @@
     "isPurchasable": false,
     "inStock": true
   },
-  {
-    "id": 2385,
-    "name": "Composite Slat Wall Edge Seal Teak 5000mm x 50mm",
-    "slug": "wpc-pimber-trims-edge-seal-teak",
-    "sku": "PIMEDSE5000TE",
-    "type": "simple",
-    "parent": 0,
-    "price": "1095",
-    "regularPrice": "1095",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "Teak Edge Seal provides a smooth and cohesive finishing solution for Composite Slat Wall systems. Its warm timber inspired colour enhances façade continuity while neatly sealing exposed panel ends. Manufactured to ensure a clean fit and polished overall installation.",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Teak-Edge-Seal-1.jpg",
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Teak-Edge-Seal-2-1.jpg",
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Teak-Edge-Seal-3-1.jpg"
-    ],
-    "categories": [
-      {
-        "id": 160,
-        "name": "Composite Slatwall",
-        "slug": "composite-slatwall"
-      },
-      {
-        "id": 167,
-        "name": "Composite Slatwall Edge Seal 5000mm",
-        "slug": "composite-slatwall-edge-seal-5000"
-      },
-      {
-        "id": 190,
-        "name": "Outdoor Slatwall",
-        "slug": "outdoor-slatwall"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": true
-  },
-  {
-    "id": 2386,
-    "name": "Composite Slat Wall Edge Seal Natural 5000mm x 50mm",
-    "slug": "wpc-pimber-trims-edge-seal-natural",
-    "sku": "PIMEDSE5000NA",
-    "type": "simple",
-    "parent": 0,
-    "price": "1095",
-    "regularPrice": "1095",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "Natural Edge Seal delivers a subtle finishing detail that complements lighter timber effect slat panels. Its warm neutral tone blends effortlessly into natural exterior schemes while neatly sealing panel ends. Provides both visual continuity and a refined finishing touch.",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Natural-Edge-Seal-3.jpg",
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Natural-Edge-Seal-2.jpg",
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Natural-Edge-Seal.jpg"
-    ],
-    "categories": [
-      {
-        "id": 160,
-        "name": "Composite Slatwall",
-        "slug": "composite-slatwall"
-      },
-      {
-        "id": 167,
-        "name": "Composite Slatwall Edge Seal 5000mm",
-        "slug": "composite-slatwall-edge-seal-5000"
-      },
-      {
-        "id": 190,
-        "name": "Outdoor Slatwall",
-        "slug": "outdoor-slatwall"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": true
-  },
-  {
-    "id": 2387,
-    "name": "Composite Slat Wall Edge Seal Charcoal 5000mm x 50mm",
-    "slug": "wpc-pimber-trims-edge-seal-charcoal",
-    "sku": "PIMEDSE5000CH",
-    "type": "simple",
-    "parent": 0,
-    "price": "1095",
-    "regularPrice": "1095",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "The Charcoal Edge Seal is designed to neatly close exposed ends of Composite Slat Wall panels, delivering a sharp and defined finish. Its strong dark tone creates a clean visual boundary while protecting panel edges from exposure. Manufactured to align precisely with the slat profile for a cohesive and professional result.",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Charcoal-Edge-Seal-1.jpg",
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Charcoal-Edge-Seal-2-1.jpg",
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Charcoal-Edge-Seal-3-1.jpg"
-    ],
-    "categories": [
-      {
-        "id": 160,
-        "name": "Composite Slatwall",
-        "slug": "composite-slatwall"
-      },
-      {
-        "id": 167,
-        "name": "Composite Slatwall Edge Seal 5000mm",
-        "slug": "composite-slatwall-edge-seal-5000"
-      },
-      {
-        "id": 190,
-        "name": "Outdoor Slatwall",
-        "slug": "outdoor-slatwall"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": true
-  },
+
   {
     "id": 2388,
     "name": "Composite Slat Wall Teak 5000mm x 169mm",
@@ -8105,8 +6717,8 @@
     "sku": "WPCP5000TE",
     "type": "simple",
     "parent": 0,
-    "price": "1890",
-    "regularPrice": "1890",
+    "price": "3500",
+    "regularPrice": "3500",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Teak Composite Slat Wall panels combine a natural timber effect with a modern slatted format. Supplied in 5 metre lengths, they are particularly suited to longer than usual surfaces, enabling clean uninterrupted lines across extended areas. The structured slat design adds depth and shadow, supported by a brushed finish for a balanced contemporary exterior appearance.",
@@ -8146,8 +6758,8 @@
     "sku": "WPCP5000NA",
     "type": "simple",
     "parent": 0,
-    "price": "1890",
-    "regularPrice": "1890",
+    "price": "3500",
+    "regularPrice": "3500",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Natural Composite Slat Wall panels provide a lighter wood inspired aesthetic with the durability of composite construction. Produced in 5 metre lengths, they are designed for longer than usual surfaces, allowing continuous runs with reduced jointing. The structured slat profile introduces texture and façade depth, while the brushed finish maintains a consistent exterior look.",
@@ -8188,8 +6800,8 @@
     "sku": "WPCP5000CH",
     "type": "simple",
     "parent": 0,
-    "price": "1890",
-    "regularPrice": "1890",
+    "price": "3500",
+    "regularPrice": "3500",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Charcoal Composite Slat Wall panels deliver a bold architectural finish for exterior façades and feature walls. Supplied in full 5 metre lengths, they are ideal for longer than usual surfaces where extended runs are required, reducing joins and maintaining clean visual lines. The structured slatted profile enhances shadow detail and depth, while the brushed surface reinforces a contemporary exterior aesthetic.",
@@ -8199,6 +6811,50 @@
       "https://gretagrove.co.uk/wp-content/uploads/2026/02/Charcoal-Edge-Seal-Lifestyle.jpg",
       "https://gretagrove.co.uk/wp-content/uploads/2026/02/Charcoal-Lifestyle-2.jpg",
       "https://gretagrove.co.uk/wp-content/uploads/2026/02/Charcoal-Lifestyle-3.jpg"
+    ],
+    "categories": [
+      {
+        "id": 160,
+        "name": "Composite Slatwall",
+        "slug": "composite-slatwall"
+      },
+      {
+        "id": 161,
+        "name": "Composite Slatwall 5000mm",
+        "slug": "composite-slatwall-5000"
+      },
+      {
+        "id": 190,
+        "name": "Outdoor Slatwall",
+        "slug": "outdoor-slatwall"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": true
+  },
+  {
+    "id": 1465,
+    "name": "Composite Slat Wall Anthracite Grey 5000mm x 169mm",
+    "slug": "wpc-pimber-anthracite-grey",
+    "sku": "WPCP5000AG",
+    "type": "simple",
+    "parent": 0,
+    "price": "3500",
+    "regularPrice": "3500",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "Anthracite Grey Composite Slat Wall panels create a sharp, modern façade solution. Manufactured in 5 metre lengths, they are well suited to longer than usual surfaces, allowing for extended coverage with fewer visible breaks. The defined slat profile adds architectural dimension, supported by a brushed surface that delivers a consistent contemporary finish.",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Anthracite-Grey-Face-1.jpg",
+      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Anthracite-Grey-2-1-1.jpg",
+      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Anthracite-Grey-3png.jpg",
+      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Anthracite-Grey-Lifestyle-2.jpg",
+      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Anthracite-Grey-Lifestyle-1.jpg",
+      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Anthracite-Grey-Lifestyle-3.jpg"
     ],
     "categories": [
       {
@@ -8499,6 +7155,129 @@
     "variations": [],
     "isPurchasable": false,
     "inStock": true
+  },
+  {
+    "id": 1291,
+    "name": "Composite Decking Bullnose Teak 5000mm x 135mm",
+    "slug": "wpc-decking-teak-bullnose",
+    "sku": "WPCDEN5000TK",
+    "type": "simple",
+    "parent": 0,
+    "price": "3600",
+    "regularPrice": "3600",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "Teak Bullnose delivers a refined finishing detail for decking steps and perimeter borders. The precision nosed edge creates a smooth transition and elevated aesthetic, while the 5 metre board length allows efficient installation across wider spans.",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Teak-Bullnose.jpg",
+      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Teak-Bullnose-2.jpg",
+      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Teak-Bullnose-3.jpg"
+    ],
+    "categories": [
+      {
+        "id": 137,
+        "name": "Bullnose Decking 5000mm",
+        "slug": "bullnose-decking-5000"
+      },
+      {
+        "id": 134,
+        "name": "Composite Decking",
+        "slug": "composite-decking"
+      },
+      {
+        "id": 189,
+        "name": "Decking",
+        "slug": "decking"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": false
+  },
+  {
+    "id": 1293,
+    "name": "Composite Decking Bullnose Grey 5000mm x 135mm",
+    "slug": "wpc-decking-grey-bullnose",
+    "sku": "WPCDEN5000GR",
+    "type": "simple",
+    "parent": 0,
+    "price": "3600",
+    "regularPrice": "3600",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "Grey Bullnose provides a clean and structured finishing solution for decking layouts. The integrated nosed edge enhances step fronts and exposed borders, delivering a polished perimeter. Manufactured in 5 metre lengths to minimise joins and streamline installation.",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Grey-Bullnose.jpg",
+      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Grey-Bullnose-2.jpg",
+      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Grey-Bullnose-3.jpg"
+    ],
+    "categories": [
+      {
+        "id": 137,
+        "name": "Bullnose Decking 5000mm",
+        "slug": "bullnose-decking-5000"
+      },
+      {
+        "id": 134,
+        "name": "Composite Decking",
+        "slug": "composite-decking"
+      },
+      {
+        "id": 189,
+        "name": "Decking",
+        "slug": "decking"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": false
+  },
+  {
+    "id": 1294,
+    "name": "Composite Decking Bullnose Choco Brown 5000mm x 135mm",
+    "slug": "wpc-decking-chocolate-brown-bullnose",
+    "sku": "WPCDEN5000CB",
+    "type": "simple",
+    "parent": 0,
+    "price": "3600",
+    "regularPrice": "3600",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "Choco Brown Bullnose is designed to complete composite decking projects with a cohesive and professional edge. The rounded nosed profile softens exposed edges while maintaining structural definition. Produced in 5 metre lengths to support larger installations with fewer joins.",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Choco-Brown-Bullnose.jpg",
+      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Choco-Brown-Bullnose-3.jpg",
+      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Choco-Brown-Bullnose-2.jpg"
+    ],
+    "categories": [
+      {
+        "id": 137,
+        "name": "Bullnose Decking 5000mm",
+        "slug": "bullnose-decking-5000"
+      },
+      {
+        "id": 134,
+        "name": "Composite Decking",
+        "slug": "composite-decking"
+      },
+      {
+        "id": 189,
+        "name": "Decking",
+        "slug": "decking"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": false
   },
   {
     "id": 2400,
@@ -12826,8 +11605,8 @@
     "sku": "FENABACA100",
     "type": "simple",
     "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "The 100mm Base and Cap set is designed to complete WPC post installations with a neat and professional finish. The base provides structural support at ground level, while the cap protects and conceals the top of the post. Manufactured in a coordinating composite brushed finish, it ensures visual continuity throughout the fencing system.",
@@ -12855,8 +11634,8 @@
     "sku": "ALTR-10L-POC",
     "type": "simple",
     "parent": 0,
-    "price": "210",
-    "regularPrice": "210",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -12889,8 +11668,8 @@
     "sku": "ALTR-10L-BRC",
     "type": "simple",
     "parent": 0,
-    "price": "210",
-    "regularPrice": "210",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -12923,8 +11702,8 @@
     "sku": "ALTR-12L-POC",
     "type": "simple",
     "parent": 0,
-    "price": "210",
-    "regularPrice": "210",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -12957,8 +11736,8 @@
     "sku": "ALTR-12L-BRC",
     "type": "simple",
     "parent": 0,
-    "price": "210",
-    "regularPrice": "210",
+    "price": "1200",
+    "regularPrice": "1200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -13018,8 +11797,8 @@
     "sku": "PVC3MMHTWH",
     "type": "simple",
     "parent": 0,
-    "price": "400",
-    "regularPrice": "400",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -13050,8 +11829,8 @@
     "sku": "PVC3MMINWH",
     "type": "simple",
     "parent": 0,
-    "price": "240",
-    "regularPrice": "240",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -13082,8 +11861,8 @@
     "sku": "PVC3MMEXWH",
     "type": "simple",
     "parent": 0,
-    "price": "240",
-    "regularPrice": "240",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -13114,8 +11893,8 @@
     "sku": "",
     "type": "simple",
     "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -13146,8 +11925,8 @@
     "sku": "FROG290ADWH",
     "type": "simple",
     "parent": 0,
-    "price": "300",
-    "regularPrice": "300",
+    "price": "800",
+    "regularPrice": "800",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Froggit Multi Purpose Adhesive is a high performance bonding solution developed for professional trade use across a wide range of substrates. Supplied in a 290ml cartridge for standard applicator guns, it delivers strong initial grab and durable long term adhesion. Suitable for interior installations including panels, trims and general construction applications, this adhesive provides reliable performance with consistent bead control. Designed to support efficient on site installation while maintaining structural integrity across multiple materials.",
@@ -13180,8 +11959,8 @@
     "sku": "FROG290SSWH",
     "type": "simple",
     "parent": 0,
-    "price": "300",
-    "regularPrice": "300",
+    "price": "800",
+    "regularPrice": "800",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Froggit White Silicone Sealant is a flexible sealing solution formulated for professional finishing applications. Ideal for kitchens, bathrooms and internal sealing points, it provides durable moisture resistance and long lasting elasticity. The bright white tone delivers a neat, defined finish around fixtures, panels and sanitary installations. Supplied in a 290ml cartridge for straightforward application, it ensures smooth tooling and reliable joint performance in high humidity environments.",
@@ -13214,8 +11993,8 @@
     "sku": "FROG290SSCL",
     "type": "simple",
     "parent": 0,
-    "price": "300",
-    "regularPrice": "300",
+    "price": "800",
+    "regularPrice": "800",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Froggit Clear Silicone Sealant offers a versatile and unobtrusive sealing solution for projects requiring a neutral finish. Engineered for flexibility and water resistance, it is suitable for glazing, trims and multi surface sealing applications. The clear formulation ensures minimal visual impact while maintaining strong adhesion and long term durability. Packaged in a 290ml cartridge, it supports precise application and clean results across professional installation environments.",
@@ -13270,123 +12049,7 @@
     "isPurchasable": false,
     "inStock": true
   },
-  {
-    "id": 1452,
-    "name": "Composite Slat Wall External Trim Anthracite Grey 3600mm x 49.5mm",
-    "slug": "wpc-pimber-trims-external-trim-anthracite-grey-3-6m",
-    "sku": "PIMEXTT3600AG",
-    "type": "simple",
-    "parent": 0,
-    "price": "995",
-    "regularPrice": "995",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "Anthracite Grey 3.6 metre External Trim provides a refined contemporary edge solution for the Composite Slat Wall. The smooth mid to dark grey profile complements modern façades, and the full 3.6 metre length allows for cleaner installations across larger surfaces with minimal visible joints. Built to align precisely with the slat profile for a cohesive finish.",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Anthracite-Grey-Edge-Seal-1.jpg"
-    ],
-    "categories": [
-      {
-        "id": 160,
-        "name": "Composite Slatwall",
-        "slug": "composite-slatwall"
-      },
-      {
-        "id": 198,
-        "name": "Composite Slatwall External Trims 3600mm",
-        "slug": "composite-slatwall-external-trims-3600"
-      },
-      {
-        "id": 190,
-        "name": "Outdoor Slatwall",
-        "slug": "outdoor-slatwall"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 1451,
-    "name": "Composite Slat Wall External Trim Choco Brown 3600mm x 49.5mm",
-    "slug": "wpc-pimber-trims-external-trim-choco-brown-3-6m",
-    "sku": "PIMEXTT3600CB",
-    "type": "simple",
-    "parent": 0,
-    "price": "995",
-    "regularPrice": "995",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "The 3.6 metre Choco Brown External Trim offers a rich and structured perimeter solution for Composite Slat Wall. Its deeper brown tone enhances warmth while maintaining strong definition along edges and vertical lines. The 3.6 metre length supports streamlined installations across larger elevations with reduced joint visibility.",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Choco-Brown-External-Trim.jpg"
-    ],
-    "categories": [
-      {
-        "id": 160,
-        "name": "Composite Slatwall",
-        "slug": "composite-slatwall"
-      },
-      {
-        "id": 198,
-        "name": "Composite Slatwall External Trims 3600mm",
-        "slug": "composite-slatwall-external-trims-3600"
-      },
-      {
-        "id": 190,
-        "name": "Outdoor Slatwall",
-        "slug": "outdoor-slatwall"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 1432,
-    "name": "Composite Slat Wall External Trim Teak 5000mm x 49.5mm",
-    "slug": "wpc-pimber-trims-external-trim-teak",
-    "sku": "PIMEXTT5000TE",
-    "type": "simple",
-    "parent": 0,
-    "price": "1095",
-    "regularPrice": "1095",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "Teak 5 metre External Trim provides a warm timber inspired finishing detail designed for longer uninterrupted surfaces. The 5 metre profile minimises joins across expansive walls, helping achieve a smooth and cohesive appearance. Precision manufactured to integrate seamlessly with the Composite Slat Wall for a clean and durable exterior finish.",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Teak-External-Trim-1.jpg"
-    ],
-    "categories": [
-      {
-        "id": 160,
-        "name": "Composite Slatwall",
-        "slug": "composite-slatwall"
-      },
-      {
-        "id": 166,
-        "name": "Composite Slatwall External Trims 5000mm",
-        "slug": "composite-slatwall-external-trims-5000"
-      },
-      {
-        "id": 190,
-        "name": "Outdoor Slatwall",
-        "slug": "outdoor-slatwall"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": true
-  },
+
   {
     "id": 1414,
     "name": "WPC Decking Trims– Edge Seal Natural",
@@ -13425,8 +12088,8 @@
     "sku": "WPCP3600AG",
     "type": "simple",
     "parent": 0,
-    "price": "1490",
-    "regularPrice": "1490",
+    "price": "3200",
+    "regularPrice": "3200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Anthracite Grey Composite Slat Wall panels create a sharp, modern façade solution. Manufactured in 3.6 metre lengths, they are well suited to longer than usual surfaces, allowing for extended coverage with fewer visible breaks. The defined slat profile adds architectural dimension, supported by a brushed surface that delivers a consistent contemporary finish.",
@@ -13469,8 +12132,8 @@
     "sku": "WPCP3600BG",
     "type": "simple",
     "parent": 0,
-    "price": "1490",
-    "regularPrice": "1490",
+    "price": "3200",
+    "regularPrice": "3200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Blue Grey Composite Slat Wall panels create a sharp, modern façade solution. Manufactured in 3.6 metre lengths, they are well suited to longer than usual surfaces, allowing for extended coverage with fewer visible breaks. The defined slat profile adds architectural dimension, supported by a brushed surface that delivers a consistent contemporary finish.",
@@ -13513,8 +12176,8 @@
     "sku": "WPCP3600CB",
     "type": "simple",
     "parent": 0,
-    "price": "1490",
-    "regularPrice": "1490",
+    "price": "3200",
+    "regularPrice": "3200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Choco Brown Composite Slat Wall panels offer a warm yet contemporary exterior solution. With 3.6 metre lengths, they are ideal for shorter than usual surfaces, supporting seamless installations across façades. The defined slatted design enhances architectural interest, while the brushed surface delivers a refined and uniform finish.",
@@ -13549,6 +12212,910 @@
     "variations": [],
     "isPurchasable": false,
     "inStock": true
+  },
+
+  {
+    "id": 1452,
+    "name": "Composite Slat Wall External Trim Anthracite Grey 3600mm x 49.5mm",
+    "slug": "wpc-pimber-trims-external-trim-anthracite-grey-3-6m",
+    "sku": "PIMEXTT3600AG",
+    "type": "simple",
+    "parent": 0,
+    "price": "2200",
+    "regularPrice": "2200",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "Anthracite Grey 3.6 metre External Trim provides a refined contemporary edge solution for the Composite Slat Wall. The smooth mid to dark grey profile complements modern façades, and the full 3.6 metre length allows for cleaner installations across larger surfaces with minimal visible joints. Built to align precisely with the slat profile for a cohesive finish.",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Anthracite-Grey-Edge-Seal-1.jpg"
+    ],
+    "categories": [
+      {
+        "id": 160,
+        "name": "Composite Slatwall",
+        "slug": "composite-slatwall"
+      },
+      {
+        "id": 198,
+        "name": "Composite Slatwall External Trims 3600mm",
+        "slug": "composite-slatwall-external-trims-3600"
+      },
+      {
+        "id": 190,
+        "name": "Outdoor Slatwall",
+        "slug": "outdoor-slatwall"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": false
+  },
+  {
+    "id": 1451,
+    "name": "Composite Slat Wall External Trim Choco Brown 3600mm x 49.5mm",
+    "slug": "wpc-pimber-trims-external-trim-choco-brown-3-6m",
+    "sku": "PIMEXTT3600CB",
+    "type": "simple",
+    "parent": 0,
+    "price": "2200",
+    "regularPrice": "2200",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "The 3.6 metre Choco Brown External Trim offers a rich and structured perimeter solution for Composite Slat Wall. Its deeper brown tone enhances warmth while maintaining strong definition along edges and vertical lines. The 3.6 metre length supports streamlined installations across larger elevations with reduced joint visibility.",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Choco-Brown-External-Trim.jpg"
+    ],
+    "categories": [
+      {
+        "id": 160,
+        "name": "Composite Slatwall",
+        "slug": "composite-slatwall"
+      },
+      {
+        "id": 198,
+        "name": "Composite Slatwall External Trims 3600mm",
+        "slug": "composite-slatwall-external-trims-3600"
+      },
+      {
+        "id": 190,
+        "name": "Outdoor Slatwall",
+        "slug": "outdoor-slatwall"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": false
+  },
+  {
+    "id": 1432,
+    "name": "Composite Slat Wall External Trim Teak 5000mm x 49.5mm",
+    "slug": "wpc-pimber-trims-external-trim-teak",
+    "sku": "PIMEXTT5000TE",
+    "type": "simple",
+    "parent": 0,
+    "price": "2200",
+    "regularPrice": "2200",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "Teak 5 metre External Trim provides a warm timber inspired finishing detail designed for longer uninterrupted surfaces. The 5 metre profile minimises joins across expansive walls, helping achieve a smooth and cohesive appearance. Precision manufactured to integrate seamlessly with the Composite Slat Wall for a clean and durable exterior finish.",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Teak-External-Trim-1.jpg"
+    ],
+    "categories": [
+      {
+        "id": 160,
+        "name": "Composite Slatwall",
+        "slug": "composite-slatwall"
+      },
+      {
+        "id": 166,
+        "name": "Composite Slatwall External Trims 5000mm",
+        "slug": "composite-slatwall-external-trims-5000"
+      },
+      {
+        "id": 190,
+        "name": "Outdoor Slatwall",
+        "slug": "outdoor-slatwall"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": true
+  },
+  {
+    "id": 2385,
+    "name": "Composite Slat Wall Edge Seal Teak 5000mm x 50mm",
+    "slug": "wpc-pimber-trims-edge-seal-teak",
+    "sku": "PIMEDSE5000TE",
+    "type": "simple",
+    "parent": 0,
+    "price": "2200",
+    "regularPrice": "2200",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "Teak Edge Seal provides a smooth and cohesive finishing solution for Composite Slat Wall systems. Its warm timber inspired colour enhances façade continuity while neatly sealing exposed panel ends. Manufactured to ensure a clean fit and polished overall installation.",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Teak-Edge-Seal-1.jpg",
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Teak-Edge-Seal-2-1.jpg",
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Teak-Edge-Seal-3-1.jpg"
+    ],
+    "categories": [
+      {
+        "id": 160,
+        "name": "Composite Slatwall",
+        "slug": "composite-slatwall"
+      },
+      {
+        "id": 167,
+        "name": "Composite Slatwall Edge Seal 5000mm",
+        "slug": "composite-slatwall-edge-seal-5000"
+      },
+      {
+        "id": 190,
+        "name": "Outdoor Slatwall",
+        "slug": "outdoor-slatwall"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": true
+  },
+  {
+    "id": 2386,
+    "name": "Composite Slat Wall Edge Seal Natural 5000mm x 50mm",
+    "slug": "wpc-pimber-trims-edge-seal-natural",
+    "sku": "PIMEDSE5000NA",
+    "type": "simple",
+    "parent": 0,
+    "price": "2200",
+    "regularPrice": "2200",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "Natural Edge Seal delivers a subtle finishing detail that complements lighter timber effect slat panels. Its warm neutral tone blends effortlessly into natural exterior schemes while neatly sealing panel ends. Provides both visual continuity and a refined finishing touch.",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Natural-Edge-Seal-3.jpg",
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Natural-Edge-Seal-2.jpg",
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Natural-Edge-Seal.jpg"
+    ],
+    "categories": [
+      {
+        "id": 160,
+        "name": "Composite Slatwall",
+        "slug": "composite-slatwall"
+      },
+      {
+        "id": 167,
+        "name": "Composite Slatwall Edge Seal 5000mm",
+        "slug": "composite-slatwall-edge-seal-5000"
+      },
+      {
+        "id": 190,
+        "name": "Outdoor Slatwall",
+        "slug": "outdoor-slatwall"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": true
+  },
+  {
+    "id": 2387,
+    "name": "Composite Slat Wall Edge Seal Charcoal 5000mm x 50mm",
+    "slug": "wpc-pimber-trims-edge-seal-charcoal",
+    "sku": "PIMEDSE5000CH",
+    "type": "simple",
+    "parent": 0,
+    "price": "2200",
+    "regularPrice": "2200",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "The Charcoal Edge Seal is designed to neatly close exposed ends of Composite Slat Wall panels, delivering a sharp and defined finish. Its strong dark tone creates a clean visual boundary while protecting panel edges from exposure. Manufactured to align precisely with the slat profile for a cohesive and professional result.",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Charcoal-Edge-Seal-1.jpg",
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Charcoal-Edge-Seal-2-1.jpg",
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Charcoal-Edge-Seal-3-1.jpg"
+    ],
+    "categories": [
+      {
+        "id": 160,
+        "name": "Composite Slatwall",
+        "slug": "composite-slatwall"
+      },
+      {
+        "id": 167,
+        "name": "Composite Slatwall Edge Seal 5000mm",
+        "slug": "composite-slatwall-edge-seal-5000"
+      },
+      {
+        "id": 190,
+        "name": "Outdoor Slatwall",
+        "slug": "outdoor-slatwall"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": true
+  },
+  {
+    "id": 2304,
+    "name": "Composite Slat Wall Edge Seal Blue Grey 5000mm x 50mm",
+    "slug": "wpc-pimber-trims-edge-seal-blue-grey",
+    "sku": "PIMEDSE5000BG",
+    "type": "simple",
+    "parent": 0,
+    "price": "2200",
+    "regularPrice": "2200",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "The Blue Grey Edge Seal enhances Composite Slat Wall installations with a clean, understated perimeter detail. Its contemporary tone softens transitions while maintaining clear edge definition. Designed to create a tidy, cohesive end finish across both vertical and horizontal installations.",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/01/wpc-pimber-trims-edge-seal-blue-grey-36m-main.jpg"
+    ],
+    "categories": [
+      {
+        "id": 160,
+        "name": "Composite Slatwall",
+        "slug": "composite-slatwall"
+      },
+      {
+        "id": 167,
+        "name": "Composite Slatwall Edge Seal 5000mm",
+        "slug": "composite-slatwall-edge-seal-5000"
+      },
+      {
+        "id": 190,
+        "name": "Outdoor Slatwall",
+        "slug": "outdoor-slatwall"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": true
+  },
+  {
+    "id": 2305,
+    "name": "Composite Slat Wall Edge Seal Anthracite Grey 5000mm x 50mm",
+    "slug": "wpc-pimber-trims-edge-seal-anthracite-grey",
+    "sku": "PIMEDSE5000AG",
+    "type": "simple",
+    "parent": 0,
+    "price": "2200",
+    "regularPrice": "2200",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "Anthracite Grey Edge Seal provides a sleek finishing solution for exposed slat wall edges. The structured grey tone complements modern cladding schemes while ensuring a seamless integration with surrounding panels. Engineered for a secure fit to maintain both aesthetic consistency and edge protection.",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Anthracite-Grey-Edge-Seal-4.jpg"
+    ],
+    "categories": [
+      {
+        "id": 160,
+        "name": "Composite Slatwall",
+        "slug": "composite-slatwall"
+      },
+      {
+        "id": 167,
+        "name": "Composite Slatwall Edge Seal 5000mm",
+        "slug": "composite-slatwall-edge-seal-5000"
+      },
+      {
+        "id": 190,
+        "name": "Outdoor Slatwall",
+        "slug": "outdoor-slatwall"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": true
+  },
+  {
+    "id": 4054,
+    "name": "Composite Slat Wall Edge Seal Teak 2500mm x 50mm",
+    "slug": "composite-slat-wall-edge-seal-teak-2500mm-x-50mm",
+    "sku": "PIMEDSE2500TE",
+    "type": "simple",
+    "parent": 0,
+    "price": "2200",
+    "regularPrice": "2200",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Teak-Edge-Seal-1.jpg",
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Teak-Edge-Seal-2-1.jpg",
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Teak-Edge-Seal-3-1.jpg"
+    ],
+    "categories": [
+      {
+        "id": 160,
+        "name": "Composite Slatwall",
+        "slug": "composite-slatwall"
+      },
+      {
+        "id": 167,
+        "name": "Composite Slatwall Edge Seal 5000mm",
+        "slug": "composite-slatwall-edge-seal-5000"
+      },
+      {
+        "id": 190,
+        "name": "Outdoor Slatwall",
+        "slug": "outdoor-slatwall"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": false
+  },
+  {
+    "id": 4060,
+    "name": "Composite Slat Wall External Trim Teak 2500mm x 49.5mm",
+    "slug": "composite-slat-wall-external-trim-teak-2500mm-x-49-5mm",
+    "sku": "PIMEXTT2500TE",
+    "type": "simple",
+    "parent": 0,
+    "price": "2200",
+    "regularPrice": "2200",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "Teak 2.5 metre External Trim provides a warm timber inspired finishing detail designed for longer uninterrupted surfaces. The 2.5 metre profile minimises joins across expansive walls, helping achieve a smooth and cohesive appearance. Precision manufactured to integrate seamlessly with the Composite Slat Wall for a clean and durable exterior finish.",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/03/Teak-External-Trim.jpg"
+    ],
+    "categories": [
+      {
+        "id": 160,
+        "name": "Composite Slatwall",
+        "slug": "composite-slatwall"
+      },
+      {
+        "id": 170,
+        "name": "Composite Slatwall External Trims 2500mm",
+        "slug": "composite-slatwall-external-trims-2500"
+      },
+      {
+        "id": 190,
+        "name": "Outdoor Slatwall",
+        "slug": "outdoor-slatwall"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": false
+  },
+  {
+    "id": 4057,
+    "name": "Composite Slat Wall External Trim Charcoal 2500mm x 49.5mm",
+    "slug": "wpc-pimber-external-trim-2-5m-charcoal",
+    "sku": "PIMEXTT2500CH",
+    "type": "simple",
+    "parent": 0,
+    "price": "2200",
+    "regularPrice": "2200",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "The 2.5 metre Charcoal External Trim is designed to deliver a bold, uninterrupted perimeter finish to the Composite Slat Wall installations. Its deep charcoal tone defines corners and exposed edges with strong architectural contrast, while the 2.5 metre length reduces joins across taller or wider elevations. Engineered for seamless integration, it ensures a sharp and professional final detail.",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/01/External-trim-Charcoal.jpg"
+    ],
+    "categories": [
+      {
+        "id": 160,
+        "name": "Composite Slatwall",
+        "slug": "composite-slatwall"
+      },
+      {
+        "id": 170,
+        "name": "Composite Slatwall External Trims 2500mm",
+        "slug": "composite-slatwall-external-trims-2500"
+      },
+      {
+        "id": 190,
+        "name": "Outdoor Slatwall",
+        "slug": "outdoor-slatwall"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": false
+  },
+  {
+    "id": 4058,
+    "name": "Composite Slat Wall External Trim Choco Brown 5000mm x 49.5mm",
+    "slug": "wpc-pimber-external-trim-2-5m-choco-brown",
+    "sku": "PIMEXTT2500CB",
+    "type": "simple",
+    "parent": 0,
+    "price": "2200",
+    "regularPrice": "2200",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "The 2.5 metre Choco Brown External Trim offers a rich and structured perimeter solution for Composite Slat Wall. Its deeper brown tone enhances warmth while maintaining strong definition along edges and vertical lines. The 2.5 metre length supports streamlined installations across larger elevations with reduced joint visibility.",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Choco-Brown-External-Trim-1.jpg"
+    ],
+    "categories": [
+      {
+        "id": 160,
+        "name": "Composite Slatwall",
+        "slug": "composite-slatwall"
+      },
+      {
+        "id": 170,
+        "name": "Composite Slatwall External Trims 2500mm",
+        "slug": "composite-slatwall-external-trims-2500"
+      },
+      {
+        "id": 190,
+        "name": "Outdoor Slatwall",
+        "slug": "outdoor-slatwall"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": false
+  },
+  {
+    "id": 2378,
+    "name": "Composite Slat Wall External Trim Natural 3600mm x 49.5mm",
+    "slug": "wpc-pimber-trims-external-trim-natural-3-6m",
+    "sku": "PIMEXTT3600NA",
+    "type": "simple",
+    "parent": 0,
+    "price": "2200",
+    "regularPrice": "2200",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "Teak 5 metre External Trim provides a warm timber inspired finishing detail designed for longer uninterrupted surfaces. The 5 metre profile minimises joins across expansive walls, helping achieve a smooth and cohesive appearance. Precision manufactured to integrate seamlessly with the Composite Slat Wall for a clean and durable exterior finish.",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Natural-External-Trim.jpg"
+    ],
+    "categories": [
+      {
+        "id": 160,
+        "name": "Composite Slatwall",
+        "slug": "composite-slatwall"
+      },
+      {
+        "id": 198,
+        "name": "Composite Slatwall External Trims 3600mm",
+        "slug": "composite-slatwall-external-trims-3600"
+      },
+      {
+        "id": 190,
+        "name": "Outdoor Slatwall",
+        "slug": "outdoor-slatwall"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": false
+  },
+  {
+    "id": 2379,
+    "name": "Composite Slat Wall External Trim Teak 3600mm x 49.5mm",
+    "slug": "wpc-pimber-trims-external-trim-teak-3-6m",
+    "sku": "PIMEXTT3600TE",
+    "type": "simple",
+    "parent": 0,
+    "price": "2200",
+    "regularPrice": "2200",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/03/Teak-External-Trim.jpg"
+    ],
+    "categories": [
+      {
+        "id": 160,
+        "name": "Composite Slatwall",
+        "slug": "composite-slatwall"
+      },
+      {
+        "id": 198,
+        "name": "Composite Slatwall External Trims 3600mm",
+        "slug": "composite-slatwall-external-trims-3600"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": false
+  },
+  {
+    "id": 2380,
+    "name": "Composite Slat Wall External Trim Charcoal 3600mm x 49.5mm",
+    "slug": "wpc-pimber-trims-external-trim-charcoal-3-6m",
+    "sku": "PIMEXTT3600CH",
+    "type": "simple",
+    "parent": 0,
+    "price": "2200",
+    "regularPrice": "2200",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Charcoal-External-Trim.jpg"
+    ],
+    "categories": [
+      {
+        "id": 160,
+        "name": "Composite Slatwall",
+        "slug": "composite-slatwall"
+      },
+      {
+        "id": 198,
+        "name": "Composite Slatwall External Trims 3600mm",
+        "slug": "composite-slatwall-external-trims-3600"
+      },
+      {
+        "id": 190,
+        "name": "Outdoor Slatwall",
+        "slug": "outdoor-slatwall"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": false
+  },
+  {
+    "id": 2381,
+    "name": "Composite Slat Wall External Trim Blue Grey 3600mm x 49.5mm",
+    "slug": "wpc-pimber-trims-external-trim-blue-grey-3-6m",
+    "sku": "PIMEXTT3600BG",
+    "type": "simple",
+    "parent": 0,
+    "price": "2200",
+    "regularPrice": "2200",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Blue-Grey-Edge-Seal.jpg"
+    ],
+    "categories": [
+      {
+        "id": 160,
+        "name": "Composite Slatwall",
+        "slug": "composite-slatwall"
+      },
+      {
+        "id": 198,
+        "name": "Composite Slatwall External Trims 3600mm",
+        "slug": "composite-slatwall-external-trims-3600"
+      },
+      {
+        "id": 190,
+        "name": "Outdoor Slatwall",
+        "slug": "outdoor-slatwall"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": false
+  },
+  {
+    "id": 4051,
+    "name": "Composite Slat Wall Edge Seal Charcoal 2500mm x 50mm",
+    "slug": "composite-slat-wall-edge-seal-charcoal-2500mm-x-50mm",
+    "sku": "PIMEDSE2500CH",
+    "type": "simple",
+    "parent": 0,
+    "price": "2200",
+    "regularPrice": "2200",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "The Charcoal Edge Seal is designed to neatly close exposed ends of Composite Slat Wall panels, delivering a sharp and defined finish. Its strong dark tone creates a clean visual boundary while protecting panel edges from exposure. Manufactured to align precisely with the slat profile for a cohesive and professional result.",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Charcoal-Edge-Seal-1.jpg",
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Charcoal-Edge-Seal-2-1.jpg",
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Charcoal-Edge-Seal-3-1.jpg"
+    ],
+    "categories": [
+      {
+        "id": 160,
+        "name": "Composite Slatwall",
+        "slug": "composite-slatwall"
+      },
+      {
+        "id": 168,
+        "name": "Composite Slatwall 2500mm",
+        "slug": "composite-slatwall-2500"
+      },
+      {
+        "id": 190,
+        "name": "Outdoor Slatwall",
+        "slug": "outdoor-slatwall"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": false
+  },
+  {
+    "id": 4050,
+    "name": "Composite Slat Wall Edge Seal Blue Grey 2500mm x 50mm",
+    "slug": "composite-slat-wall-edge-seal-blue-grey-2500mm-x-50mm",
+    "sku": "PIMEDSE2500BG",
+    "type": "simple",
+    "parent": 0,
+    "price": "2200",
+    "regularPrice": "2200",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "The Blue Grey Edge Seal enhances Composite Slat Wall installations with a clean, understated perimeter detail. Its contemporary tone softens transitions while maintaining clear edge definition. Designed to create a tidy, cohesive end finish across both vertical and horizontal installations.",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/01/wpc-pimber-trims-edge-seal-blue-grey-36m-main.jpg"
+    ],
+    "categories": [
+      {
+        "id": 160,
+        "name": "Composite Slatwall",
+        "slug": "composite-slatwall"
+      },
+      {
+        "id": 168,
+        "name": "Composite Slatwall 2500mm",
+        "slug": "composite-slatwall-2500"
+      },
+      {
+        "id": 190,
+        "name": "Outdoor Slatwall",
+        "slug": "outdoor-slatwall"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": false
+  },
+  {
+    "id": 4049,
+    "name": "Composite Slat Wall Edge Seal Anthracite Grey 2500mm x 50mm",
+    "slug": "composite-slat-wall-edge-seal-anthracite-grey-2500mm-x-50mm",
+    "sku": "PIMEDSE2500AG",
+    "type": "simple",
+    "parent": 0,
+    "price": "2200",
+    "regularPrice": "2200",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "Anthracite Grey Edge Seal provides a sleek finishing solution for exposed slat wall edges. The structured grey tone complements modern cladding schemes while ensuring a seamless integration with surrounding panels. Engineered for a secure fit to maintain both aesthetic consistency and edge protection.",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Anthracite-Grey-Edge-Seal-4.jpg"
+    ],
+    "categories": [
+      {
+        "id": 160,
+        "name": "Composite Slatwall",
+        "slug": "composite-slatwall"
+      },
+      {
+        "id": 168,
+        "name": "Composite Slatwall 2500mm",
+        "slug": "composite-slatwall-2500"
+      },
+      {
+        "id": 190,
+        "name": "Outdoor Slatwall",
+        "slug": "outdoor-slatwall"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": false
+  },
+  {
+    "id": 4052,
+    "name": "Composite Slat Wall Edge Seal Choco Brown 2500mm x 50mm",
+    "slug": "composite-slat-wall-edge-seal-choco-brown-2500mm-x-50mm",
+    "sku": "PIMEDSE2500CB",
+    "type": "simple",
+    "parent": 0,
+    "price": "2200",
+    "regularPrice": "2200",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "Choco Brown Edge Seal completes slat wall installations with a warm and structured perimeter finish. The darker brown tone enhances depth while maintaining a consistent timber effect aesthetic. Designed for precise edge closure and long lasting exterior durability.",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Choco-Brown-Edge-Seal-3-1.jpg"
+    ],
+    "categories": [
+      {
+        "id": 160,
+        "name": "Composite Slatwall",
+        "slug": "composite-slatwall"
+      },
+      {
+        "id": 171,
+        "name": "Composite Slatwall Edge Seal 2500mm",
+        "slug": "composite-slatwall-edge-seal-2500"
+      },
+      {
+        "id": 190,
+        "name": "Outdoor Slatwall",
+        "slug": "outdoor-slatwall"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": false
+  },
+
+  {
+    "id": 4055,
+    "name": "Composite Slat Wall External Trim Anthracite Grey 2500mm x 49.5mm",
+    "slug": "composite-slat-wall-external-trim-anthracite-grey-2500mm-x-49-5mm",
+    "sku": "PIMEXTT2500AG",
+    "type": "simple",
+    "parent": 0,
+    "price": "2200",
+    "regularPrice": "595",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "Anthracite Grey 2.5 metre External Trim provides a refined contemporary edge solution for the Composite Slat Wall. The smooth mid to dark grey profile complements modern façades, and the full 2.5 metre length allows for cleaner installations across larger surfaces with minimal visible joints. Built to align precisely with the slat profile for a cohesive finish.",
+    "description": "2500&#215;49.5x56mm",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Anthracite-Grey-Edge-Seal-1.jpg"
+    ],
+    "categories": [
+      {
+        "id": 160,
+        "name": "Composite Slatwall",
+        "slug": "composite-slatwall"
+      },
+      {
+        "id": 170,
+        "name": "Composite Slatwall External Trims 2500mm",
+        "slug": "composite-slatwall-external-trims-2500"
+      },
+      {
+        "id": 190,
+        "name": "Outdoor Slatwall",
+        "slug": "outdoor-slatwall"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": false
+  },
+  {
+    "id": 4056,
+    "name": "Composite Slat Wall External Trim Blue Grey 2500mm x 49.5mm",
+    "slug": "composite-slat-wall-external-trim-blue-grey-2500mm-x-49-5mm",
+    "sku": "PIMEXTT2500BG",
+    "type": "simple",
+    "parent": 0,
+    "price": "2200",
+    "regularPrice": "2200",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "The 2.5 metre Blue Grey External Trim introduces a cool toned finishing detail that enhances modern exterior schemes. Its extended length makes it particularly suited to larger façades where continuity and reduced connection points are essential. Designed to frame and protect exposed edges while maintaining a balanced, contemporary appearance.",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Blue-Grey-Edge-Seal.jpg"
+    ],
+    "categories": [
+      {
+        "id": 160,
+        "name": "Composite Slatwall",
+        "slug": "composite-slatwall"
+      },
+      {
+        "id": 170,
+        "name": "Composite Slatwall External Trims 2500mm",
+        "slug": "composite-slatwall-external-trims-2500"
+      },
+      {
+        "id": 190,
+        "name": "Outdoor Slatwall",
+        "slug": "outdoor-slatwall"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": false
+  },
+  {
+    "id": 4059,
+    "name": "Composite Slat Wall External Trim Natural 2500mm x 49.5mm",
+    "slug": "composite-slat-wall-external-trim-natural-2500mm-x-49-5mm",
+    "sku": "PIMEXTT2500NA",
+    "type": "simple",
+    "parent": 0,
+    "price": "2200",
+    "regularPrice": "2200",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "Natural 2.5 metre External Trim delivers a softer edge finish that complements timber effect slat wall panels. The longer profile enables smoother transitions across extended runs, creating a consistent and visually seamless installation. Designed to provide clean corner definition while preserving the warmth of the overall façade.",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Natural-External-Trim.jpg"
+    ],
+    "categories": [
+      {
+        "id": 160,
+        "name": "Composite Slatwall",
+        "slug": "composite-slatwall"
+      },
+      {
+        "id": 170,
+        "name": "Composite Slatwall External Trims 2500mm",
+        "slug": "composite-slatwall-external-trims-2500"
+      },
+      {
+        "id": 190,
+        "name": "Outdoor Slatwall",
+        "slug": "outdoor-slatwall"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": false
   },
   {
     "id": 1337,
@@ -13683,8 +13250,8 @@
     "sku": "PIMEDSE3600AG",
     "type": "simple",
     "parent": 0,
-    "price": "895",
-    "regularPrice": "895",
+    "price": "2200",
+    "regularPrice": "2200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Anthracite Grey Edge Seal provides a sleek finishing solution for exposed slat wall edges. The structured grey tone complements modern cladding schemes while ensuring a seamless integration with surrounding panels. Engineered for a secure fit to maintain both aesthetic consistency and edge protection.",
@@ -13722,8 +13289,8 @@
     "sku": "PIMEDSE3600BG",
     "type": "simple",
     "parent": 0,
-    "price": "895",
-    "regularPrice": "895",
+    "price": "2200",
+    "regularPrice": "2200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "The Blue Grey Edge Seal enhances Composite Slat Wall installations with a clean, understated perimeter detail. Its contemporary tone softens transitions while maintaining clear edge definition. Designed to create a tidy, cohesive end finish across both vertical and horizontal installations.",
@@ -13763,8 +13330,8 @@
     "sku": "PIMEDSE3600TE",
     "type": "simple",
     "parent": 0,
-    "price": "895",
-    "regularPrice": "895",
+    "price": "2200",
+    "regularPrice": "2200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -13804,8 +13371,8 @@
     "sku": "PIMEDSE3600NA",
     "type": "simple",
     "parent": 0,
-    "price": "895",
-    "regularPrice": "895",
+    "price": "2200",
+    "regularPrice": "2200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Natural Edge Seal delivers a subtle finishing detail that complements lighter timber effect slat panels. Its warm neutral tone blends effortlessly into natural exterior schemes while neatly sealing panel ends. Provides both visual continuity and a refined finishing touch.",
@@ -13846,8 +13413,8 @@
     "sku": "PIMEDSE3600CH",
     "type": "simple",
     "parent": 0,
-    "price": "895",
-    "regularPrice": "895",
+    "price": "2200",
+    "regularPrice": "2200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "The Charcoal Edge Seal is designed to neatly close exposed ends of Composite Slat Wall panels, delivering a sharp and defined finish. Its strong dark tone creates a clean visual boundary while protecting panel edges from exposure. Manufactured to align precisely with the slat profile for a cohesive and professional result.",
@@ -13887,8 +13454,8 @@
     "sku": "PIMEDSE3600CB",
     "type": "simple",
     "parent": 0,
-    "price": "895",
-    "regularPrice": "895",
+    "price": "2200",
+    "regularPrice": "2200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Choco Brown Edge Seal completes slat wall installations with a warm and structured perimeter finish. The darker brown tone enhances depth while maintaining a consistent timber effect aesthetic. Designed for precise edge closure and long lasting exterior durability.",
@@ -14388,8 +13955,8 @@
     "sku": "PVC3MMUTWH",
     "type": "simple",
     "parent": 0,
-    "price": "240",
-    "regularPrice": "240",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "",
@@ -17068,50 +16635,7 @@
     "isPurchasable": false,
     "inStock": true
   },
-  {
-    "id": 1465,
-    "name": "Composite Slat Wall Anthracite Grey 5000mm x 169mm",
-    "slug": "wpc-pimber-anthracite-grey",
-    "sku": "WPCP5000AG",
-    "type": "simple",
-    "parent": 0,
-    "price": "1890",
-    "regularPrice": "1890",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "Anthracite Grey Composite Slat Wall panels create a sharp, modern façade solution. Manufactured in 5 metre lengths, they are well suited to longer than usual surfaces, allowing for extended coverage with fewer visible breaks. The defined slat profile adds architectural dimension, supported by a brushed surface that delivers a consistent contemporary finish.",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Anthracite-Grey-Face-1.jpg",
-      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Anthracite-Grey-2-1-1.jpg",
-      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Anthracite-Grey-3png.jpg",
-      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Anthracite-Grey-Lifestyle-2.jpg",
-      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Anthracite-Grey-Lifestyle-1.jpg",
-      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Anthracite-Grey-Lifestyle-3.jpg"
-    ],
-    "categories": [
-      {
-        "id": 160,
-        "name": "Composite Slatwall",
-        "slug": "composite-slatwall"
-      },
-      {
-        "id": 161,
-        "name": "Composite Slatwall 5000mm",
-        "slug": "composite-slatwall-5000"
-      },
-      {
-        "id": 190,
-        "name": "Outdoor Slatwall",
-        "slug": "outdoor-slatwall"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": true
-  },
+
   {
     "id": 1453,
     "name": "Composite Slat Wall Edge Seal Choco Brown 5000m x 50mm",
@@ -17119,8 +16643,8 @@
     "sku": "PIMEDSE5000CB",
     "type": "simple",
     "parent": 0,
-    "price": "1095",
-    "regularPrice": "1095",
+    "price": "2200",
+    "regularPrice": "2200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Choco Brown Edge Seal completes slat wall installations with a warm and structured perimeter finish. The darker brown tone enhances depth while maintaining a consistent timber effect aesthetic. Designed for precise edge closure and long lasting exterior durability.",
@@ -17278,8 +16802,8 @@
     "sku": "PIMEXTT5000AG",
     "type": "simple",
     "parent": 0,
-    "price": "1095",
-    "regularPrice": "1095",
+    "price": "2200",
+    "regularPrice": "2200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Anthracite Grey 5 metre External Trim provides a refined contemporary edge solution for the Composite Slat Wall. The smooth mid to dark grey profile complements modern façades, and the full 5 metre length allows for cleaner installations across larger surfaces with minimal visible joints. Built to align precisely with the slat profile for a cohesive finish.",
@@ -17317,8 +16841,8 @@
     "sku": "PIMEXTT5000CH",
     "type": "simple",
     "parent": 0,
-    "price": "1095",
-    "regularPrice": "1095",
+    "price": "2200",
+    "regularPrice": "2200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "The 5 metre Charcoal External Trim is designed to deliver a bold, uninterrupted perimeter finish to the Composite Slat Wall installations. Its deep charcoal tone defines corners and exposed edges with strong architectural contrast, while the extended 5 metre length reduces joins across taller or wider elevations. Engineered for seamless integration, it ensures a sharp and professional final detail.",
@@ -17356,8 +16880,8 @@
     "sku": "PIMEXTT5000NA",
     "type": "simple",
     "parent": 0,
-    "price": "1095",
-    "regularPrice": "1095",
+    "price": "2200",
+    "regularPrice": "2200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Natural 5 metre External Trim delivers a softer edge finish that complements timber effect slat wall panels. The longer profile enables smoother transitions across extended runs, creating a consistent and visually seamless installation. Designed to provide clean corner definition while preserving the warmth of the overall façade.",
@@ -17395,8 +16919,8 @@
     "sku": "PIMEXTT5000BG",
     "type": "simple",
     "parent": 0,
-    "price": "1095",
-    "regularPrice": "1095",
+    "price": "2200",
+    "regularPrice": "2200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "The 5 metre Blue Grey External Trim introduces a cool toned finishing detail that enhances modern exterior schemes. Its extended length makes it particularly suited to larger façades where continuity and reduced connection points are essential. Designed to frame and protect exposed edges while maintaining a balanced, contemporary appearance.",
@@ -17434,8 +16958,8 @@
     "sku": "PIMEXTT5000CB",
     "type": "simple",
     "parent": 0,
-    "price": "1095",
-    "regularPrice": "1095",
+    "price": "2200",
+    "regularPrice": "2200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "The 5 metre Choco Brown External Trim offers a rich and structured perimeter solution for Composite Slat Wall. Its deeper brown tone enhances warmth while maintaining strong definition along edges and vertical lines. The extended 5 metre length supports streamlined installations across larger elevations with reduced joint visibility.",
@@ -17851,8 +17375,8 @@
     "sku": "WPC196PBG5000CN",
     "type": "simple",
     "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
+    "price": "4200",
+    "regularPrice": "4200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Chestnut Blackline Series Slatwall combine rich timber inspired colour with a bold black shadow line detail between slats. Manufactured in full 5 metre lengths, they are designed for longer than usual surfaces, allowing extended uninterrupted runs with reduced visible joints. The structured slatted profile enhances façade depth while the brushed surface reinforces a refined contemporary exterior finish. Supplied two panels per carton for efficient installation planning.",
@@ -17891,8 +17415,8 @@
     "sku": "WPC196PBG5000TK",
     "type": "simple",
     "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
+    "price": "4200",
+    "regularPrice": "4200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Teak Blackline Series Slatwall panels deliver a warm architectural appearance enhanced by a distinctive black shadow line between each slat. Produced in 5 metre lengths, they are well suited to longer than usual surfaces where clean continuous lines are required. The defined slat profile adds depth and structure, while the brushed surface maintains a consistent modern exterior aesthetic. Supplied two panels per box for streamlined project coverage.",
@@ -18081,8 +17605,8 @@
     "sku": "WPC196PBGEXTRCN",
     "type": "simple",
     "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
+    "price": "2200",
+    "regularPrice": "2200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Chestnut Blackline End Trims are designed to complete the Blackline Series Slatwall installation with a clean and professional perimeter finish. The defined brushed surface complements the slatted profile while concealing exposed board edges for a seamless result. Manufactured to align precisely with the Blackline system, these trims provide a consistent architectural appearance across external elevations. Supplied five pieces per carton for efficient project coordination.",
@@ -18120,8 +17644,8 @@
     "sku": "WPC196PBGEXTRTK",
     "type": "simple",
     "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
+    "price": "2200",
+    "regularPrice": "2200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Teak Blackline End Trims are engineered to deliver a refined finishing detail for Blackline Series Slatwall applications. The brushed exterior surface matches the slat panels, ensuring continuity across longer runs and corner transitions. Designed for durability and visual consistency, these trims create a neat and structured edge to complete the overall façade system. Supplied five pieces per carton for streamlined installation planning.",
@@ -18159,8 +17683,8 @@
     "sku": "WPC196PBGLTRCN",
     "type": "simple",
     "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
+    "price": "2200",
+    "regularPrice": "2200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Chestnut Blackline Edge Seals are designed to create a clean perimeter finish for Blackline Series Slatwall installations. The profile neatly conceals exposed panel sides, delivering a defined edge detail that enhances the overall architectural look. Manufactured to integrate precisely with the Blackline system, these trims ensure visual consistency across longer elevations while maintaining a professional finish. Supplied five pieces per carton for efficient project planning.",
@@ -18198,8 +17722,8 @@
     "sku": "WPC196PBGLTRTK",
     "type": "simple",
     "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
+    "price": "2200",
+    "regularPrice": "2200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Teak Blackline Edge Seals provide a structured and seamless finishing solution for Blackline Series Slatwall applications. The angled profile is engineered to cover panel edges cleanly, supporting a sharp and uniform façade appearance. Designed to align with the Blackline range, these trims complete installations with a cohesive and refined edge detail. Supplied five pieces per carton for streamlined installation management.",
@@ -18237,8 +17761,8 @@
     "sku": "WPC196PBG2500TK",
     "type": "simple",
     "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
+    "price": "3500",
+    "regularPrice": "3500",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Teak Blackline Series Slatwall panels deliver a warm architectural appearance enhanced by a distinctive black shadow line between each slat. Produced in 2.5 metre lengths, they are well suited to longer than usual surfaces where clean continuous lines are required. The defined slat profile adds depth and structure, while the brushed surface maintains a consistent modern exterior aesthetic. Supplied two panels per box for streamlined project coverage.",
@@ -18277,8 +17801,8 @@
     "sku": "WPC196PBG2500CN",
     "type": "simple",
     "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
+    "price": "3500",
+    "regularPrice": "3500",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Chestnut Blackline Series Slatwall combine rich timber inspired colour with a bold black shadow line detail between slats. Manufactured in full 2.5 metre lengths, they are designed for longer than usual surfaces, allowing extended uninterrupted runs with reduced visible joints. The structured slatted profile enhances façade depth while the brushed surface reinforces a refined contemporary exterior finish. Supplied two panels per carton for efficient installation planning.",
@@ -18346,8 +17870,8 @@
     "sku": "FENABACA80",
     "type": "simple",
     "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
+    "price": "1000",
+    "regularPrice": "1000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "The 80mm Base and Cap set provides a secure and polished finishing solution for aluminium posts. Designed to enhance both stability and appearance, the base anchors the structure while the cap delivers a clean top closure. Its durable finish ensures the fencing system maintains a uniform and professional appearance.",
@@ -18375,8 +17899,8 @@
     "sku": "FENPOS1950ALUTS",
     "type": "simple",
     "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
+    "price": "4500",
+    "regularPrice": "4500",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "The Tri Slit Aluminium Post provides a lightweight yet strong alternative for fencing installations. Designed to support panels in multiple orientations, the aluminium construction ensures stability while offering a streamlined appearance. The smooth matt finish delivers a clean, contemporary look suited to modern garden and perimeter designs.",
@@ -18402,8 +17926,8 @@
     "sku": "FENPOS2400CHDS",
     "type": "simple",
     "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
+    "price": "5000",
+    "regularPrice": "5000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "The Dual Slit WPC Post is designed to create clean and secure boundary installations where panels are fixed inline. The composite construction provides a strong and stable support solution while maintaining a coordinated aesthetic with composite fencing panels. The brushed surface finish delivers a refined appearance, making it ideal for residential and commercial fencing projects requiring durability and visual consistency.",
@@ -19507,8 +19031,8 @@
     "sku": "FENPOS2400CHQS",
     "type": "simple",
     "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
+    "price": "5000",
+    "regularPrice": "5000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "The Quad Slit WPC Post is engineered for versatile fence configurations, allowing panels to connect in multiple directions. Manufactured from composite material, it offers structural integrity and long term performance while maintaining a sleek brushed exterior. This post provides flexibility during installation and ensures a cohesive finish across corner and intersecting fence lines.",
@@ -19534,8 +19058,8 @@
     "sku": "FENPAN200NA",
     "type": "simple",
     "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
+    "price": "2200",
+    "regularPrice": "2200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "The Natural Composite Fencing Panel introduces warmth and softness to boundary installations. The timber inspired wood grain surface provides a classic look, while the brushed reverse delivers a cleaner, more contemporary finish. Ideal for brightening garden spaces while maintaining a cohesive and premium appearance.",
@@ -19568,8 +19092,8 @@
     "sku": "FENPAN200TK",
     "type": "simple",
     "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
+    "price": "2200",
+    "regularPrice": "2200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Teak offers a warm and inviting fencing solution that brings natural character to outdoor environments. The dual surface construction allows installers to choose between a textured wood grain finish or a more understated brushed side. Its rich tone complements greenery and landscaping features, creating a balanced and welcoming exterior boundary.",
@@ -19602,8 +19126,8 @@
     "sku": "FENPAN200AG",
     "type": "simple",
     "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
+    "price": "2200",
+    "regularPrice": "2200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Anthracite Grey delivers a refined and structured appearance suited to modern developments and landscaped environments. The reversible design provides a realistic timber grain effect on one side and a smooth brushed surface on the other, offering adaptability without compromising on durability. Its balanced tone pairs seamlessly with decking, cladding and aluminium frameworks.",
@@ -19637,8 +19161,8 @@
     "sku": "FENPAN200CH",
     "type": "simple",
     "parent": 0,
-    "price": "0",
-    "regularPrice": "0",
+    "price": "2200",
+    "regularPrice": "2200",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "The Charcoal Composite Fencing Panel offers a striking, modern solution for defined outdoor spaces. With a detailed wood grain texture on one face and a clean brushed finish on the reverse, it allows flexibility during installation depending on the desired aesthetic. The darker tone enhances privacy and contrast, making it ideal for contemporary garden designs and architectural landscaping schemes.",
@@ -20010,129 +19534,7 @@
     "isPurchasable": false,
     "inStock": true
   },
-  {
-    "id": 1291,
-    "name": "Composite Decking Bullnose Teak 5000mm x 135mm",
-    "slug": "wpc-decking-teak-bullnose",
-    "sku": "WPCDEN5000TK",
-    "type": "simple",
-    "parent": 0,
-    "price": "3600",
-    "regularPrice": "3600",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "Teak Bullnose delivers a refined finishing detail for decking steps and perimeter borders. The precision nosed edge creates a smooth transition and elevated aesthetic, while the 5 metre board length allows efficient installation across wider spans.",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Teak-Bullnose.jpg",
-      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Teak-Bullnose-2.jpg",
-      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Teak-Bullnose-3.jpg"
-    ],
-    "categories": [
-      {
-        "id": 137,
-        "name": "Bullnose Decking 5000mm",
-        "slug": "bullnose-decking-5000"
-      },
-      {
-        "id": 134,
-        "name": "Composite Decking",
-        "slug": "composite-decking"
-      },
-      {
-        "id": 189,
-        "name": "Decking",
-        "slug": "decking"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 1293,
-    "name": "Composite Decking Bullnose Grey 5000mm x 135mm",
-    "slug": "wpc-decking-grey-bullnose",
-    "sku": "WPCDEN5000GR",
-    "type": "simple",
-    "parent": 0,
-    "price": "3600",
-    "regularPrice": "3600",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "Grey Bullnose provides a clean and structured finishing solution for decking layouts. The integrated nosed edge enhances step fronts and exposed borders, delivering a polished perimeter. Manufactured in 5 metre lengths to minimise joins and streamline installation.",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Grey-Bullnose.jpg",
-      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Grey-Bullnose-2.jpg",
-      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Grey-Bullnose-3.jpg"
-    ],
-    "categories": [
-      {
-        "id": 137,
-        "name": "Bullnose Decking 5000mm",
-        "slug": "bullnose-decking-5000"
-      },
-      {
-        "id": 134,
-        "name": "Composite Decking",
-        "slug": "composite-decking"
-      },
-      {
-        "id": 189,
-        "name": "Decking",
-        "slug": "decking"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
-  {
-    "id": 1294,
-    "name": "Composite Decking Bullnose Choco Brown 5000mm x 135mm",
-    "slug": "wpc-decking-chocolate-brown-bullnose",
-    "sku": "WPCDEN5000CB",
-    "type": "simple",
-    "parent": 0,
-    "price": "3600",
-    "regularPrice": "3600",
-    "currencyMinorUnit": 2,
-    "currencySymbol": "£",
-    "shortDescription": "Choco Brown Bullnose is designed to complete composite decking projects with a cohesive and professional edge. The rounded nosed profile softens exposed edges while maintaining structural definition. Produced in 5 metre lengths to support larger installations with fewer joins.",
-    "description": "",
-    "images": [
-      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Choco-Brown-Bullnose.jpg",
-      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Choco-Brown-Bullnose-3.jpg",
-      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Choco-Brown-Bullnose-2.jpg"
-    ],
-    "categories": [
-      {
-        "id": 137,
-        "name": "Bullnose Decking 5000mm",
-        "slug": "bullnose-decking-5000"
-      },
-      {
-        "id": 134,
-        "name": "Composite Decking",
-        "slug": "composite-decking"
-      },
-      {
-        "id": 189,
-        "name": "Decking",
-        "slug": "decking"
-      }
-    ],
-    "attributes": [],
-    "hasOptions": false,
-    "variations": [],
-    "isPurchasable": false,
-    "inStock": false
-  },
+
   {
     "id": 1295,
     "name": "Composite Decking Bullnose Charcoal 5000mm x 135mm",
@@ -20473,6 +19875,210 @@
     "variations": [],
     "isPurchasable": false,
     "inStock": true
+  },
+  {
+    "id": 2279,
+    "name": "Wood Veneer Acoustic Panel End Trim Grey Oak 2400mm x 27mm",
+    "slug": "acoustic-panels-end-trim-grey-oak",
+    "sku": "SLPAENDTGREOA",
+    "type": "simple",
+    "parent": 0,
+    "price": "1500",
+    "regularPrice": "1500",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "Grey Oak Acoustic Panel End Trims provide a subtle modern finish to acoustic panels The neutral grey infused wood effect works effortlessly in Scandinavian, industrial and minimalist schemes. These trims ensure exposed edges are concealed, maintaining visual continuity across feature walls and full panel installations.",
+    "description": "Wood Veneer Acoustic Panel End Trim Black Oak 2400mm x 27mm",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Grey-Oak-End-Trim.jpg"
+    ],
+    "categories": [
+      {
+        "id": 185,
+        "name": "Acoustic Panel End Trims",
+        "slug": "acoustic-panel-end-trims"
+      },
+      {
+        "id": 183,
+        "name": "Slat Panels",
+        "slug": "slat-panels"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": true
+  },
+  {
+    "id": 2280,
+    "name": "Wood Veneer Acoustic Panel End Trim Natural Oak 2400mm x 27mm",
+    "slug": "wood-veneer-acoustic-panel-end-trim-natural-oak-2400mm-x-27mm",
+    "sku": "SLPAENDTNATOA",
+    "type": "simple",
+    "parent": 0,
+    "price": "1500",
+    "regularPrice": "1500",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "Natural Oak Acoustic Panel End Trims provide a clean and cohesive finish to matching Acoustic Panels. The warm oak tone enhances interior spaces with a bright, welcoming aesthetic while concealing exposed panel edges for a seamless installation. Ideal for residential and commercial feature walls where a natural timber look is required with minimal maintenance.",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Natural-Oak-End-Trim.jpg"
+    ],
+    "categories": [
+      {
+        "id": 185,
+        "name": "Acoustic Panel End Trims",
+        "slug": "acoustic-panel-end-trims"
+      },
+      {
+        "id": 183,
+        "name": "Slat Panels",
+        "slug": "slat-panels"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": false
+  },
+  {
+    "id": 2281,
+    "name": "Wood Veneer Acoustic Panel End Trim Light Walnut 2400mm x 27mm",
+    "slug": "acoustic-panels-end-trim-light-walnut",
+    "sku": "SLPAENDTWALNT",
+    "type": "simple",
+    "parent": 0,
+    "price": "1500",
+    "regularPrice": "1500",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "Light Walnut Acoustic Panel End Trims complete panel installations with a refined and contemporary edge. The mid tone walnut colouring introduces warmth without overpowering the overall design, making it suitable for modern offices, retail environments and living spaces. Designed to neatly cap panel ends for a professional, finished appearance.",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Light-Walnut-End-Trim.jpg"
+    ],
+    "categories": [
+      {
+        "id": 185,
+        "name": "Acoustic Panel End Trims",
+        "slug": "acoustic-panel-end-trims"
+      },
+      {
+        "id": 183,
+        "name": "Slat Panels",
+        "slug": "slat-panels"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": false
+  },
+  {
+    "id": 2282,
+    "name": "Wood Veneer Acoustic Panel End Trim Choco Brown 2400mm x 27mm",
+    "slug": "acoustic-panels-end-trim-choco-brown",
+    "sku": "SLPAENDTCHOBR",
+    "type": "simple",
+    "parent": 0,
+    "price": "1500",
+    "regularPrice": "1500",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "Choco Brown Acoustic Panel End Trims create a bold and sophisticated frame to acoustic slat installations. The deeper brown shade adds depth and contrast, particularly against lighter walls or minimalist interiors. Engineered to align precisely with panel profiles, ensuring a consistent and polished finish across longer wall runs.",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Choco-Brown-End-Trim.jpg"
+    ],
+    "categories": [
+      {
+        "id": 185,
+        "name": "Acoustic Panel End Trims",
+        "slug": "acoustic-panel-end-trims"
+      },
+      {
+        "id": 183,
+        "name": "Slat Panels",
+        "slug": "slat-panels"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": false
+  },
+  {
+    "id": 2283,
+    "name": "Wood Veneer Acoustic Panel End Trim Black Oak 2400mm x 27mm",
+    "slug": "acoustic-panels-end-trim-black-oak",
+    "sku": "SLPAENDTBLKOA",
+    "type": "simple",
+    "parent": 0,
+    "price": "1500",
+    "regularPrice": "1500",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "Black Oak Acoustic Panel End Trims provide a dramatic and architectural edge to acoustic panel installations. The dark oak effect introduces contrast and definition, ideal for statement walls and premium commercial interiors. These trims ensure a tidy termination point, reinforcing a high quality, professional finish across every project.",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Black-Oak-End-Trim.jpg"
+    ],
+    "categories": [
+      {
+        "id": 185,
+        "name": "Acoustic Panel End Trims",
+        "slug": "acoustic-panel-end-trims"
+      },
+      {
+        "id": 183,
+        "name": "Slat Panels",
+        "slug": "slat-panels"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": false
+  },
+  {
+    "id": 2284,
+    "name": "Wood Veneer Acoustic Panel End Trim Ash Grey 2400mm x 27mm",
+    "slug": "acoustic-panels-end-trim-ash-grey",
+    "sku": "SLPAENDTASHGR",
+    "type": "simple",
+    "parent": 0,
+    "price": "1500",
+    "regularPrice": "1500",
+    "currencyMinorUnit": 2,
+    "currencySymbol": "£",
+    "shortDescription": "Ash Grey Acoustic Panel End Trims deliver a clean and understated finish to panel systems. The cooler grey palette complements modern interiors and corporate settings, offering a sharp and structured look. Designed for precise alignment with slat panels, they enhance overall presentation while maintaining integrity.",
+    "description": "",
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/02/Ash-Grey-End-Trim.jpg"
+    ],
+    "categories": [
+      {
+        "id": 185,
+        "name": "Acoustic Panel End Trims",
+        "slug": "acoustic-panel-end-trims"
+      },
+      {
+        "id": 183,
+        "name": "Slat Panels",
+        "slug": "slat-panels"
+      }
+    ],
+    "attributes": [],
+    "hasOptions": false,
+    "variations": [],
+    "isPurchasable": false,
+    "inStock": false
   },
   {
     "id": 1409,

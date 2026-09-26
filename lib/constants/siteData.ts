@@ -20,7 +20,6 @@ export type NavCategory = {
   children?: NavChild[];
 };
 
-
 export const HERO_SLIDES = [
   {
     id: 1,
@@ -133,8 +132,7 @@ export const PRODUCT_CATEGORIES = [
   {
     id: "silicone",
     label: "Silicone",
-    image:
-      "https://shop.ct1.com/pub/media/catalog/product/c/t/ct1_white.jpg",
+    image: "https://shop.ct1.com/pub/media/catalog/product/c/t/ct1_white.jpg",
   },
   {
     id: "accessories",
@@ -163,18 +161,19 @@ export const PRODUCT_CATEGORIES = [
   {
     id: "corners",
     label: "Corners",
-    image:
-      "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/81A.png",
+    image: "https://cdn.shopify.com/s/files/1/0247/8846/7766/files/81A.png",
   },
 ] as const;
 
 export const NAV_CATEGORIES: NavCategory[] = PRODUCT_CATEGORIES.map((cat) => {
   const collections = CATEGORY_PAGES[cat.id]?.collections ?? [];
-  const children: NavChild[] = collections.map((item) => ({
-    id: item.id,
-    label: item.label.replace(/\s+/g, " ").trim(),
-    href: item.href,
-  }));
+  const children: NavChild[] = collections
+    .filter((item) => !item.label.toLowerCase().includes("german kitchen"))
+    .map((item) => ({
+      id: item.id,
+      label: item.label.replace(/\s+/g, " ").trim(),
+      href: item.href,
+    }));
 
   return {
     id: cat.id,
