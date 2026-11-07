@@ -1,5 +1,6 @@
 import type { MetadataRoute } from "next";
-import { SITE_URL } from "@/lib/seo";
+
+const SITE_URL = "https://hbsolutions.uk";
 
 export default function robots(): MetadataRoute.Robots {
   return {
@@ -9,6 +10,6 @@ export default function robots(): MetadataRoute.Robots {
       disallow: ["/edit", "/cart", "/favourites"],
     },
     sitemap: `${SITE_URL}/sitemap.xml`,
-    host: SITE_URL,
   };
 }
+
