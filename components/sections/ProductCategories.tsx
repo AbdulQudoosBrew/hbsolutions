@@ -31,7 +31,7 @@ export default async function ProductCategories() {
           <TextSection
             title="Our Product Range"
             paragraphs={[
-              "Explore our full collection of building materials, bathroom products and finishing solutions.",
+              "Waterproof wall panels, SPC flooring, bathrooms, kitchens and aluminium roofing supplied from Cheetham Hill, Manchester.",
             ]}
             headingLevel="h2"
             align="center"

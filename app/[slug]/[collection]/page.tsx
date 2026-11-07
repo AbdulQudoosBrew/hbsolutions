@@ -11,7 +11,7 @@ import {
   getCollectionProductPage,
 } from "@/lib/constants/collectionPages";
 import { getCategoryPage } from "@/lib/constants/categoryPages";
-import { COMPANY } from "@/lib/constants/siteData";
+import { buildPageMetadata } from "@/lib/seo";
 
 type CollectionRouteProps = {
   params: Promise<{ slug: string; collection: string }>;
@@ -29,23 +29,26 @@ export async function generateMetadata({
   const { slug, collection } = await params;
   const product = getCollectionProductPage(slug, collection);
   if (product) {
-    return {
-      title: `${product.title} - ${COMPANY.name}`,
+    return buildPageMetadata({
+      title: product.title,
       description: product.description,
-    };
+      path: `/${slug}/${collection}`,
+      image: product.image,
+    });
   }
 
   const page = getCollectionPage(slug, collection);
-  const category = getCategoryPage(slug);
 
   if (!page) {
-    return { title: COMPANY.name };
+    return { title: "Building materials in Manchester" };
   }
 
-  return {
-    title: `${page.title}${category ? ` - ${category.title}` : ""} - ${COMPANY.name}`,
+  return buildPageMetadata({
+    title: page.title,
     description: page.description,
-  };
+    path: `/${slug}/${collection}`,
+    image: page.image,
+  });
 }
 
 export default async function CollectionRoutePage({

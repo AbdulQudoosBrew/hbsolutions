@@ -8,6 +8,7 @@ import Container from "@/components/ui/Container";
 import WhatsAppButton from "@/components/ui/WhatsAppButton";
 import { getFeaturedProducts } from "@/lib/featuredProducts";
 import { COMPANY } from "@/lib/constants/siteData";
+import { buildPageMetadata } from "@/lib/seo";
 
 export const dynamic = "force-dynamic";
 
@@ -21,12 +22,18 @@ export async function generateMetadata({
   const { id } = await params;
   const items = await getFeaturedProducts();
   const product = items.find((item) => item.id === id);
-  return {
-    title: product
-      ? `${product.title} - ${COMPANY.name}`
-      : COMPANY.name,
-    description: product?.description,
-  };
+  if (!product) {
+    return { title: COMPANY.name };
+  }
+
+  return buildPageMetadata({
+    title: product.title,
+    description:
+      product.description ||
+      `${product.title} from Haris Building Solutions in Manchester.`,
+    path: `/featured-products/${id}`,
+    image: product.image,
+  });
 }
 
 export default async function FeaturedProductPage({

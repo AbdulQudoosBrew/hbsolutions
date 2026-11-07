@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
-import { COMPANY } from "@/lib/constants/siteData";
 
 export const metadata: Metadata = {
-  title: `Favourites - ${COMPANY.name}`,
+  title: "Favourites",
   description: "Products you have saved as favourites.",
+  robots: { index: false, follow: false },
 };
 
 export default function FavouritesLayout({

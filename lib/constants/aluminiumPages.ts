@@ -27,7 +27,7 @@ export const ALUMINIUM_CATEGORY: CategoryPageData = {
   slug: "aluminium",
   title: "Aluminium",
   description:
-    "Premium aluminium alloy roofing panels from Haris Building Solutions. A durable, lightweight and low-maintenance solution for residential and commercial applications, available in insulated and non-insulated options with customisable lengths.",
+    "Aluminium roofing panels in Manchester for verandas, carports, garden rooms and commercial covers. Insulated and non-insulated alloy sheets with custom lengths, supplied from Cheetham Hill.",
   heroImage: HERO_IMAGE,
   collectionHeading: "Aluminium Alloy Roofing Panels",
   collections: [

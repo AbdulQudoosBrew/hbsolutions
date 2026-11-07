@@ -232,7 +232,7 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
     slug: "flooring",
     title: "Flooring & Tiles",
     description:
-      "Revamp your living space or bathroom floor with the amazing SPC wall and floors. This material has taken the industry by storm and is the future for all living spaces. Easier to clean and maintain, long wearing and beautiful finishes. It is the flooring and wall solution you have been waiting for! The Tongue & Groove system together with the mineral structure makes the product adapt perfectly to any surface for a professional finish. The Composite Panel provides superior rigidity and high resistance making the product more durable and hard wearing than a ceramic tile.",
+      "SPC flooring in Manchester: waterproof click-fit wood and stone-effect planks for kitchens, bathrooms and busy homes. Rigid core luxury vinyl supplied from Cheetham Hill for trade and retail.",
     heroImage:
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/category-header13.jpg",
     bannerImage:
@@ -511,7 +511,7 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
     slug: "panels",
     title: "Wall & Ceiling Panels",
     description:
-      "Our specialist range of wall panels offers so many different finishes such as chevron, tiles, marble, wood and many more. You will be spoilt for choice for both living space and bathroom space. Haris Building Solutions panels are 100% waterproof and therefore are perfect for showers and bathrooms. Each of our PVC panels are extremely durable and made to the highest quality.",
+      "Waterproof wall panels in Manchester for bathrooms, showers and living spaces. PVC, WPC, acoustic slat and ceiling panels in marble, wood, tile and chevron finishes, supplied from Cheetham Hill.",
     heroImage:
       "https://giavanibathrooms.com/wp-content/uploads/2026/03/category-header12.jpg",
     bannerImage: "/images/panels-banner.jpg",
@@ -1183,7 +1183,7 @@ export const CATEGORY_PAGES: Record<string, CategoryPageData> = {
     slug: "bathrooms",
     title: "Bathrooms",
     description:
-      "Explore our full bathrooms range — sanitaryware, taps, showers, baths, bath screens, shower enclosures, wetroom screens, shower trays, bath furniture, heating and mirrors — selected for performance, style and lasting value.",
+      "Bathroom supplies in Manchester: sanitaryware, taps, showers, baths, enclosures, wetroom screens, trays, furniture, heating and mirrors for trade and home projects from Cheetham Hill.",
     heroMosaic: true,
     collectionHeading: "Bathroom Categories",
     collections: [

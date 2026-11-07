@@ -653,7 +653,7 @@ function buildCatalog() {
     slug: CATEGORY_SLUG,
     title: "Available on Delivery",
     description:
-      "Products available for delivery and online order. Add items to your basket and send your order through.",
+      "PVC wall panels, acoustic slat panels, SPC flooring and outdoor cladding available for delivery from Haris Building Solutions in Manchester. Order online and add items to your basket.",
     collectionHeading: "Shop by range",
     collections: categoryCards,
   };

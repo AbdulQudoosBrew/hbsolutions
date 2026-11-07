@@ -13,7 +13,7 @@ import {
   getCollectionPage,
   getCollectionProductPage,
 } from "@/lib/constants/collectionPages";
-import { COMPANY } from "@/lib/constants/siteData";
+import { buildPageMetadata, categorySeoTitle } from "@/lib/seo";
 
 type CategoryPageProps = {
   params: Promise<{ slug: string }>;
@@ -32,13 +32,15 @@ export async function generateMetadata({
   const category = getCategoryPage(slug);
 
   if (!category) {
-    return { title: COMPANY.name };
+    return { title: "Building materials in Manchester" };
   }
 
-  return {
-    title: `${category.title} - ${COMPANY.name}`,
+  return buildPageMetadata({
+    title: categorySeoTitle(slug, category.title),
     description: category.description,
-  };
+    path: `/${slug}`,
+    image: category.heroImage || category.collections[0]?.image,
+  });
 }
 
 export default async function CategoryPage({ params }: CategoryPageProps) {

@@ -12,7 +12,7 @@ import {
   getProductPage,
 } from "@/lib/constants/collectionPages";
 import { getCategoryPage } from "@/lib/constants/categoryPages";
-import { COMPANY } from "@/lib/constants/siteData";
+import { buildPageMetadata } from "@/lib/seo";
 
 type ProductRouteProps = {
   params: Promise<{ slug: string; collection: string; product: string }>;
@@ -31,21 +31,27 @@ export async function generateMetadata({
   const nestedCollection = getNestedCollectionPage(slug, collection, product);
   if (nestedCollection) {
     const category = getCategoryPage(slug);
-    return {
-      title: `${nestedCollection.title}${category ? ` - ${category.title}` : ""} - ${COMPANY.name}`,
+    return buildPageMetadata({
+      title: category
+        ? `${nestedCollection.title} ${category.title}`
+        : nestedCollection.title,
       description: nestedCollection.description,
-    };
+      path: `/${slug}/${collection}/${product}`,
+      image: nestedCollection.image,
+    });
   }
 
   const page = getProductPage(slug, collection, product);
   if (!page) {
-    return { title: COMPANY.name };
+    return { title: "Building materials in Manchester" };
   }
 
-  return {
-    title: `${page.title} - ${COMPANY.name}`,
+  return buildPageMetadata({
+    title: page.title,
     description: page.description,
-  };
+    path: `/${slug}/${collection}/${product}`,
+    image: page.image,
+  });
 }
 
 export default async function ProductRoutePage({ params }: ProductRouteProps) {

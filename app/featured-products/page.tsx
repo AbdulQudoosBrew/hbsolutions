@@ -4,15 +4,16 @@ import Footer from "@/components/layout/Footer";
 import Header from "@/components/layout/Header";
 import WhatsAppButton from "@/components/ui/WhatsAppButton";
 import { getFeaturedProducts } from "@/lib/featuredProducts";
-import { COMPANY } from "@/lib/constants/siteData";
+import { buildPageMetadata } from "@/lib/seo";
 
 export const dynamic = "force-dynamic";
 
-export const metadata: Metadata = {
-  title: `Featured Products - ${COMPANY.name}`,
+export const metadata: Metadata = buildPageMetadata({
+  title: "Featured Building Materials in Manchester",
   description:
-    "Featured products from Haris Building Solutions, selected for current projects and ranges.",
-};
+    "Featured waterproof wall panels, flooring, bathrooms and finishing products from Haris Building Solutions in Cheetham Hill, Manchester.",
+  path: "/featured-products",
+});
 
 export default async function FeaturedProductsPage() {
   const items = await getFeaturedProducts();

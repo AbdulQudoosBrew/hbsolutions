@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
-import { COMPANY } from "@/lib/constants/siteData";
 
 export const metadata: Metadata = {
-  title: `Basket - ${COMPANY.name}`,
+  title: "Basket",
   description: "Your Available on Delivery basket.",
+  robots: { index: false, follow: false },
 };
 
 export default function CartLayout({

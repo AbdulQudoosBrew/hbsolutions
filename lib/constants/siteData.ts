@@ -23,9 +23,9 @@ export type NavCategory = {
 export const HERO_SLIDES = [
   {
     id: 1,
-    title: "Quality Building Materials for Every Project",
+    title: "Building Materials in Manchester for Every Project",
     description:
-      "Haris Building Solutions supplies a comprehensive range of building and finishing materials — from WPC panels, shower panels and flooring to bathrooms, kitchens, artificial grass, silicone, acoustic panels, ceiling panels, ceiling tiles, trims, corners and fascia.",
+      "Haris Building Solutions in Cheetham Hill supplies waterproof bathroom wall panels, WPC and acoustic slat panels, SPC flooring, bathrooms, kitchens, aluminium roofing and trade finishing products across Greater Manchester.",
     ctaLabel: "Discover our product range",
     ctaHref: "#products",
     image:
@@ -189,17 +189,17 @@ export const NAV_CATEGORIES: NavCategory[] = PRODUCT_CATEGORIES.map((cat) => {
 });
 
 export const EXPERIENCE_SECTION = {
-  title: "Your Partner in Building Materials",
+  title: "Manchester Building Materials for Trade & Home",
   paragraphs: [
-    "Haris Building Solutions is dedicated to supplying high-quality building materials for residential, commercial and trade projects. From panel systems and flooring to bathrooms, kitchens and finishing products, we help customers find the right materials for every stage of a build.",
-    "Our range includes WPC panels, shower panels, acoustic and solid panels, ceiling panels and tiles, silicone, artificial grass, and a full selection of trims including angle trims, end caps, internal corners, external corners and fascia — all chosen for durability, value and ease of installation.",
+    "Based in Cheetham Hill, Haris Building Solutions supplies building materials to homeowners, contractors and trade customers across Manchester and Greater Manchester. From waterproof bathroom wall panels and SPC flooring to bathrooms, kitchens and aluminium roofing, we help you specify the right products for each job.",
+    "Popular searches we stock include PVC wall panels, WPC fluted panels, acoustic slat wall panels, click-fit SPC flooring, CT1 silicone, artificial grass and aluminium roofing sheets. Collection is available from M8 8XA, with delivery across the North West.",
   ],
 } as const;
 
 export const DESIGN_SECTION = {
-  title: "Plan, Build & Finish",
+  title: "Plan, Build & Finish in Manchester",
   paragraphs: [
-    "We stock robust, practical materials designed to meet the demands of modern construction and renovation. Whether you need panels for wet areas, ceiling systems for interior spaces, or finishing trims to complete a professional install, Haris Building Solutions provides reliable products backed by knowledgeable support.",
+    "Visit us in Cheetham Hill or get in touch for trade pricing on waterproof wall panels, SPC flooring, bathroom suites and aluminium roofing. We help Manchester installers and homeowners choose durable, easy-to-fit materials with clear specifications and dependable supply.",
   ],
 } as const;
 
