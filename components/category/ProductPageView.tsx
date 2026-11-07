@@ -14,6 +14,7 @@ import {
   findImagesForColour,
 } from "@/lib/utils/colourImages";
 import { uniqueImages } from "@/lib/utils/imageUrl";
+import FavouriteButton from "@/components/ui/FavouriteButton";
 import { useAppDispatch } from "@/lib/store/hooks";
 import { addToCart } from "@/lib/store/slices/cartSlice";
 
@@ -203,9 +204,22 @@ export default function ProductPageView({
             <p className="text-[10px] uppercase tracking-[0.24em] text-[#999999] sm:text-[11px] sm:tracking-[0.28em]">
               {collectionTitle}
             </p>
-            <h1 className="mt-2 text-[22px] font-light leading-snug tracking-[0.05em] text-[#111111] uppercase sm:mt-3 sm:text-[28px] sm:leading-tight sm:tracking-[0.06em] md:text-[34px]">
-              {product.title}
-            </h1>
+            <div className="mt-2 flex items-start justify-between gap-4 sm:mt-3">
+              <h1 className="text-[22px] font-light leading-snug tracking-[0.05em] text-[#111111] uppercase sm:text-[28px] sm:leading-tight sm:tracking-[0.06em] md:text-[34px]">
+                {product.title}
+              </h1>
+              <FavouriteButton
+                variant="text"
+                className="shrink-0"
+                item={{
+                  id: `/${product.key}`,
+                  title: product.title,
+                  image: product.image,
+                  href: `/${product.key}`,
+                  price: product.price,
+                }}
+              />
+            </div>
 
             <div className="mt-4 h-px w-10 bg-[#111111] sm:mt-6 sm:w-12" />
 

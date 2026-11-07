@@ -1,6 +1,7 @@
 import Link from "next/link";
 import CategoryImage from "@/components/ui/CategoryImage";
 import Container from "@/components/ui/Container";
+import FavouriteButton from "@/components/ui/FavouriteButton";
 import type { CollectionPageData } from "@/lib/constants/collectionPages";
 
 interface CollectionPageViewProps {
@@ -98,6 +99,17 @@ export default function CollectionPageView({
                   variant="card"
                   className="object-contain transition-transform duration-500 group-hover:scale-[1.03]"
                 />
+                {item.isSubcategory ? null : (
+                  <FavouriteButton
+                    item={{
+                      id: item.href,
+                      title: item.label,
+                      image: item.image,
+                      href: item.href,
+                      price: item.price,
+                    }}
+                  />
+                )}
               </div>
               <div className="mt-3 w-full sm:mt-4">
                 <span className="inline-flex min-h-9 w-full items-center justify-center px-1 text-[11px] font-medium uppercase leading-snug tracking-[0.14em] text-[#333333] transition-transform duration-300 group-hover:scale-110 sm:min-h-10 sm:px-2 sm:text-xs sm:tracking-[0.2em] md:text-[13px]">

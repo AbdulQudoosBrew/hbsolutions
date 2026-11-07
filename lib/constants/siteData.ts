@@ -107,6 +107,11 @@ export const PRODUCT_CATEGORIES = [
     image: "https://giavanibathrooms.com/wp-content/uploads/2026/03/panels.jpg",
   },
   {
+    id: "aluminium",
+    label: "Aluminium",
+    image: "/images/aliminium/2.jpeg",
+  },
+  {
     id: "flooring",
     label: "Flooring",
     image:

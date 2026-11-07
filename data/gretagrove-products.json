@@ -1948,7 +1948,6 @@
     "isPurchasable": false,
     "inStock": false
   },
-
   {
     "id": 2527,
     "name": "Tile Levelling Clips 2mm– 250 Pcs / Pack",
@@ -4029,7 +4028,6 @@
     "isPurchasable": false,
     "inStock": false
   },
-
   {
     "id": 2563,
     "name": "PVC Ceiling Cladding Classic Grey Marble 2700mm x 250mm",
@@ -4281,7 +4279,6 @@
     "isPurchasable": false,
     "inStock": true
   },
-
   {
     "id": 2285,
     "name": "PVC Ceiling Cladding Carrara Marble Matt 2700mm x 250mm",
@@ -4323,8 +4320,8 @@
     "sku": "UV2440CLGL",
     "type": "simple",
     "parent": 0,
-    "price": "6500",
-    "regularPrice": "6500",
+    "price": "6000",
+    "regularPrice": "6000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Clyde Ultravex Panel features a contemporary light grey stone-inspired design, delivering a modern wall finish for commercial interiors. Sized at 2440mm x 1220mm x 3mm, this lightweight panel provides a seamless and low-maintenance alternative to traditional tiling, making it suitable for bathrooms, retail units, and refurbishment environments.",
@@ -4357,8 +4354,8 @@
     "sku": "UV2440CAMA",
     "type": "simple",
     "parent": 0,
-    "price": "6500",
-    "regularPrice": "6500",
+    "price": "6000",
+    "regularPrice": "6000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Carrara Marble Ultravex Panel replicates the timeless look of classic marble in a slim, lightweight 3mm format. Measuring 2440mm x 1220mm, it provides a durable and hygienic wall solution for commercial bathrooms, kitchens, and interior fit-outs. Easy to handle and install, it offers the aesthetic of natural marble without the associated weight or upkeep.",
@@ -4391,8 +4388,8 @@
     "sku": "UV2440CAGO",
     "type": "simple",
     "parent": 0,
-    "price": "6500",
-    "regularPrice": "6500",
+    "price": "6000",
+    "regularPrice": "6000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Carrara Gold Ultravex Panel combines a bright white marble-inspired base with refined gold veining to create a premium interior statement. At 2440mm x 1220mm x 3mm, it offers a lightweight, easy-to-install wall solution suitable for commercial interiors and refurbishment projects requiring a decorative yet practical finish.",
@@ -4425,8 +4422,8 @@
     "sku": "UV2440BUGL",
     "type": "simple",
     "parent": 0,
-    "price": "6500",
-    "regularPrice": "6500",
+    "price": "6000",
+    "regularPrice": "6000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Burnt Gloss Ultravex Panel features a striking marble-inspired surface with contrasting dark and warm veining for a dramatic wall finish. Measuring 2440mm x 1220mm x 3mm, this lightweight panel provides a seamless and low-maintenance alternative to traditional stone surfaces in commercial and trade applications.",
@@ -4459,8 +4456,8 @@
     "sku": "UV2440BLMA",
     "type": "simple",
     "parent": 0,
-    "price": "6500",
-    "regularPrice": "6500",
+    "price": "6000",
+    "regularPrice": "6000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Black Marble Ultravex Panel features a dramatic dark stone-inspired surface with defined veining for a statement interior finish. Measuring 2440mm x 1220mm x 3mm, it offers a lightweight and easy-to-install alternative to natural marble, suitable for commercial interiors and contemporary refurbishment projects.",
@@ -4493,8 +4490,8 @@
     "sku": "UV2440WHGL",
     "type": "simple",
     "parent": 0,
-    "price": "6500",
-    "regularPrice": "6500",
+    "price": "6000",
+    "regularPrice": "6000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "White Ultravex Panel is a lightweight 3mm decorative wall panel designed for commercial and trade interior applications. Measuring 2440mm x 1220mm, it provides a seamless, hygienic wall finish ideal for bathrooms, kitchens, retail spaces, and refurbishment projects. Easy to install and low maintenance, it offers a practical alternative to traditional wall coverings.",
@@ -4527,8 +4524,8 @@
     "sku": "UV2440RIST",
     "type": "simple",
     "parent": 0,
-    "price": "6500",
-    "regularPrice": "6500",
+    "price": "6000",
+    "regularPrice": "6000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "River Stone Ultravex Panel delivers a refined stone-inspired wall finish in a slim 3mm panel format. Sized at 2440mm x 1220mm, it offers a lightweight and hygienic solution for commercial bathrooms, kitchens, and interior refurbishment projects, combining durability with efficient installation.",
@@ -4561,8 +4558,8 @@
     "sku": "UV2440GYMA",
     "type": "simple",
     "parent": 0,
-    "price": "6500",
-    "regularPrice": "6500",
+    "price": "6000",
+    "regularPrice": "6000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Grey Marble Ultravex Panel delivers a refined stone-inspired wall surface in a slim and lightweight format. At 2440mm x 1220mm x 3mm, it provides a seamless, moisture-resistant wall solution ideal for commercial bathrooms, kitchens, and interior fit-outs.",
@@ -4595,8 +4592,8 @@
     "sku": "UV2440GRMA",
     "type": "simple",
     "parent": 0,
-    "price": "6500",
-    "regularPrice": "6500",
+    "price": "6000",
+    "regularPrice": "6000",
     "currencyMinorUnit": 2,
     "currencySymbol": "£",
     "shortDescription": "Graphite Marble Ultravex Panel provides a bold, contemporary wall finish inspired by dark natural stone. Measuring 2440mm x 1220mm x 3mm, it offers a lightweight and low-maintenance alternative to traditional marble tiling, suitable for commercial interiors and modern refurbishment environments.",
@@ -4656,7 +4653,6 @@
     "isPurchasable": false,
     "inStock": true
   },
-
   {
     "id": 2306,
     "name": "Composite Slat Wall Choco Brown 5000mm x 169mm",
@@ -6607,7 +6603,6 @@
     "isPurchasable": false,
     "inStock": true
   },
-
   {
     "id": 2382,
     "name": "Decking Solid Keel Joist 5000mm x 40mm",
@@ -6709,7 +6704,6 @@
     "isPurchasable": false,
     "inStock": true
   },
-
   {
     "id": 2388,
     "name": "Composite Slat Wall Teak 5000mm x 169mm",
@@ -12049,7 +12043,6 @@
     "isPurchasable": false,
     "inStock": true
   },
-
   {
     "id": 1414,
     "name": "WPC Decking Trims– Edge Seal Natural",
@@ -12213,7 +12206,6 @@
     "isPurchasable": false,
     "inStock": true
   },
-
   {
     "id": 1452,
     "name": "Composite Slat Wall External Trim Anthracite Grey 3600mm x 49.5mm",
@@ -12999,7 +12991,6 @@
     "isPurchasable": false,
     "inStock": false
   },
-
   {
     "id": 4055,
     "name": "Composite Slat Wall External Trim Anthracite Grey 2500mm x 49.5mm",
@@ -16635,7 +16626,6 @@
     "isPurchasable": false,
     "inStock": true
   },
-
   {
     "id": 1453,
     "name": "Composite Slat Wall Edge Seal Choco Brown 5000m x 50mm",
@@ -17905,7 +17895,9 @@
     "currencySymbol": "£",
     "shortDescription": "The Tri Slit Aluminium Post provides a lightweight yet strong alternative for fencing installations. Designed to support panels in multiple orientations, the aluminium construction ensures stability while offering a streamlined appearance. The smooth matt finish delivers a clean, contemporary look suited to modern garden and perimeter designs.",
     "description": "",
-    "images": ["https://gretagrove.co.uk/wp-content/uploads/2026/01/Post.jpg"],
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Post.jpg"
+    ],
     "categories": [
       {
         "id": 174,
@@ -17932,7 +17924,9 @@
     "currencySymbol": "£",
     "shortDescription": "The Dual Slit WPC Post is designed to create clean and secure boundary installations where panels are fixed inline. The composite construction provides a strong and stable support solution while maintaining a coordinated aesthetic with composite fencing panels. The brushed surface finish delivers a refined appearance, making it ideal for residential and commercial fencing projects requiring durability and visual consistency.",
     "description": "",
-    "images": ["https://gretagrove.co.uk/wp-content/uploads/2026/01/Post.jpg"],
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Post.jpg"
+    ],
     "categories": [
       {
         "id": 174,
@@ -19037,7 +19031,9 @@
     "currencySymbol": "£",
     "shortDescription": "The Quad Slit WPC Post is engineered for versatile fence configurations, allowing panels to connect in multiple directions. Manufactured from composite material, it offers structural integrity and long term performance while maintaining a sleek brushed exterior. This post provides flexibility during installation and ensures a cohesive finish across corner and intersecting fence lines.",
     "description": "",
-    "images": ["https://gretagrove.co.uk/wp-content/uploads/2026/01/Post.jpg"],
+    "images": [
+      "https://gretagrove.co.uk/wp-content/uploads/2026/01/Post.jpg"
+    ],
     "categories": [
       {
         "id": 174,
@@ -19534,7 +19530,6 @@
     "isPurchasable": false,
     "inStock": true
   },
-
   {
     "id": 1295,
     "name": "Composite Decking Bullnose Charcoal 5000mm x 135mm",

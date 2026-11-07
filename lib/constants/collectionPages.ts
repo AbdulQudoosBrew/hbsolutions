@@ -31,6 +31,7 @@ import {
   GRETAGROVE_COLLECTIONS,
   GRETAGROVE_PRODUCTS,
 } from "@/lib/gretagroveCatalog";
+import { ALUMINIUM_COLLECTIONS, ALUMINIUM_PRODUCTS } from "./aluminiumPages";
 
 export type CollectionItem = {
   id: string;
@@ -17596,6 +17597,8 @@ addFurnishWpcWallPanels();
 
 Object.assign(COLLECTION_PAGES, GRETAGROVE_COLLECTIONS);
 Object.assign(PRODUCT_PAGES, GRETAGROVE_PRODUCTS);
+Object.assign(COLLECTION_PAGES, ALUMINIUM_COLLECTIONS);
+Object.assign(PRODUCT_PAGES, ALUMINIUM_PRODUCTS);
 
 for (const page of Object.values(COLLECTION_PAGES)) {
   page.title = normalizeDimensionText(page.title);

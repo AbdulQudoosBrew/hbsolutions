@@ -2,6 +2,7 @@ import Link from "next/link";
 import Logo from "@/components/ui/Logo";
 import HeaderMenuButton from "@/components/layout/header/HeaderMenuButton";
 import HeaderCartButton from "@/components/layout/header/HeaderCartButton";
+import HeaderFavouritesButton from "@/components/layout/header/HeaderFavouritesButton";
 import HeaderSearchButton from "@/components/layout/header/HeaderSearchButton";
 
 export default function DesktopTopHeader({
@@ -32,6 +33,7 @@ export default function DesktopTopHeader({
         </Link>
 
         <div className="flex items-center gap-4 justify-self-end">
+          <HeaderFavouritesButton />
           <HeaderCartButton />
           <HeaderSearchButton />
         </div>
