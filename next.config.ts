@@ -2,6 +2,16 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   reactCompiler: true,
+  async redirects() {
+    return [
+      {
+        source: "/:path*",
+        has: [{ type: "host", value: "www.hbsolutions.uk" }],
+        destination: "https://hbsolutions.uk/:path*",
+        permanent: true,
+      },
+    ];
+  },
   images: {
     qualities: [75, 90],
     remotePatterns: [
