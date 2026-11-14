@@ -1,0 +1,12 @@
+.git
+.github
+.next
+.vercel
+node_modules
+out
+temp-pages
+*.md
+.env*
+npm-debug.log*
+**/.DS_Store
+agent-transcripts

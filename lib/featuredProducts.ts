@@ -26,6 +26,18 @@ function requireWritable() {
   }
 }
 
+async function writeDiskCatalog(items: FeaturedProduct[]) {
+  try {
+    await mkdir(path.dirname(DATA_FILE), { recursive: true });
+    await mkdir(IMAGE_DIR, { recursive: true });
+    await writeFile(DATA_FILE, JSON.stringify(items, null, 2), "utf8");
+  } catch {
+    throw new Error(
+      "Featured products cannot be saved on Cloudflare Workers (no persistent disk). Use local `npm run dev` to edit them, or add a KV/R2 binding later.",
+    );
+  }
+}
+
 async function readDiskCatalog(): Promise<FeaturedProduct[]> {
   try {
     const raw = await readFile(DATA_FILE, "utf8");
@@ -36,16 +48,11 @@ async function readDiskCatalog(): Promise<FeaturedProduct[]> {
   }
 }
 
-async function writeDiskCatalog(items: FeaturedProduct[]) {
-  await mkdir(path.dirname(DATA_FILE), { recursive: true });
-  await mkdir(IMAGE_DIR, { recursive: true });
-  await writeFile(DATA_FILE, JSON.stringify(items, null, 2), "utf8");
-}
-
 async function readBlobCatalog(): Promise<FeaturedProduct[] | null> {
   const result = await list({ prefix: CATALOG_PATH, limit: 20 });
   const catalog = result.blobs.find(
-    (blob) => blob.pathname === CATALOG_PATH || blob.pathname.startsWith(CATALOG_PATH),
+    (blob) =>
+      blob.pathname === CATALOG_PATH || blob.pathname.startsWith(CATALOG_PATH),
   );
   if (!catalog) return null;
 
@@ -114,8 +121,14 @@ export async function addFeaturedProduct(input: {
     });
     image = uploaded.url;
   } else {
-    await ensureFeaturedDirs();
-    await writeFile(path.join(IMAGE_DIR, storedName), input.bytes);
+    try {
+      await ensureFeaturedDirs();
+      await writeFile(path.join(IMAGE_DIR, storedName), input.bytes);
+    } catch {
+      throw new Error(
+        "Featured product images cannot be saved on Cloudflare Workers (no persistent disk).",
+      );
+    }
   }
 
   const item: FeaturedProduct = {
