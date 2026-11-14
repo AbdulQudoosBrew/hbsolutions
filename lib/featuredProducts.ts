@@ -33,7 +33,7 @@ async function writeDiskCatalog(items: FeaturedProduct[]) {
     await writeFile(DATA_FILE, JSON.stringify(items, null, 2), "utf8");
   } catch {
     throw new Error(
-      "Featured products cannot be saved on Cloudflare Workers (no persistent disk). Use local `npm run dev` to edit them, or add a KV/R2 binding later.",
+      "Featured products could not be saved on disk. Check that the data folder is writable.",
     );
   }
 }
@@ -125,9 +125,7 @@ export async function addFeaturedProduct(input: {
       await ensureFeaturedDirs();
       await writeFile(path.join(IMAGE_DIR, storedName), input.bytes);
     } catch {
-      throw new Error(
-        "Featured product images cannot be saved on Cloudflare Workers (no persistent disk).",
-      );
+      throw new Error("Featured product images could not be saved on disk.");
     }
   }
 

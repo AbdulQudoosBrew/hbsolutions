@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
-import { initOpenNextCloudflareForDev } from "@opennextjs/cloudflare";
 
 const nextConfig: NextConfig = {
+  output: "standalone",
   reactCompiler: true,
   async redirects() {
     return [
@@ -14,7 +14,6 @@ const nextConfig: NextConfig = {
     ];
   },
   images: {
-    unoptimized: true,
     qualities: [75, 90],
     remotePatterns: [
       {
@@ -61,5 +60,3 @@ const nextConfig: NextConfig = {
 };
 
 export default nextConfig;
-
-initOpenNextCloudflareForDev();

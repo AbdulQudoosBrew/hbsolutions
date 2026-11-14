@@ -8,14 +8,9 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "build:worker": "opennextjs-cloudflare build",
-    "start": "next start",
-    "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
-    "deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy",
-    "cf-typegen": "wrangler types --env-interface CloudflareEnv cloudflare-env.d.ts"
+    "start": "next start"
   },
   "dependencies": {
-    "@opennextjs/cloudflare": "^1.20.17",
     "@reduxjs/toolkit": "^2.12.0",
     "@vercel/blob": "^2.8.0",
     "next": "^16.4.6",
@@ -30,11 +25,6 @@
     "@types/react-dom": "^19",
     "babel-plugin-react-compiler": "1.0.0",
     "tailwindcss": "^4",
-    "typescript": "^5",
-    "wrangler": "^4.162.0"
-  },
-  "allowScripts": {
-    "esbuild@0.28.2": true,
-    "workerd@1.20261113.1": true
+    "typescript": "^5"
   }
 }
