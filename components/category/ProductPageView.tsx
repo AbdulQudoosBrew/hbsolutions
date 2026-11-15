@@ -14,6 +14,7 @@ import {
   findImagesForColour,
 } from "@/lib/utils/colourImages";
 import { uniqueImages } from "@/lib/utils/imageUrl";
+import { getProductSummaryLines } from "@/lib/utils/productBlurb";
 import FavouriteButton from "@/components/ui/FavouriteButton";
 import { useAppDispatch } from "@/lib/store/hooks";
 import { addToCart } from "@/lib/store/slices/cartSlice";
@@ -229,20 +230,11 @@ export default function ProductPageView({
               </p>
             ) : null}
 
-            <p className="mt-4 max-w-xl text-sm leading-6 text-[#666666] sm:mt-6 sm:text-[15px] sm:leading-7">
-              {product.description}
-            </p>
-
-            {product.features && product.features.length > 0 ? (
-              <ul className="mt-5 max-w-xl space-y-2 text-sm leading-6 text-[#555555] sm:mt-6 sm:text-[15px] sm:leading-7">
-                {product.features.map((feature) => (
-                  <li key={feature} className="flex gap-2.5">
-                    <span className="mt-[0.55em] h-1.5 w-1.5 shrink-0 bg-[#111111]" />
-                    <span>{feature}</span>
-                  </li>
-                ))}
-              </ul>
-            ) : null}
+            <div className="mt-4 max-w-xl space-y-2 text-sm leading-6 text-[#666666] sm:mt-6 sm:text-[15px] sm:leading-7">
+              {getProductSummaryLines(product).map((line) => (
+                <p key={line}>{line}</p>
+              ))}
+            </div>
 
             {product.specs && product.specs.length > 0 ? (
               <div className="mt-7 max-w-xl sm:mt-9">

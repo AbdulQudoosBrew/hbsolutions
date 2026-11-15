@@ -2588,7 +2588,7 @@ export const COLLECTION_PAGES: Record<string, CollectionPageData> = {
         id: "sienna-600mm-wall-hung-unit",
         label: "Sienna 600mm Wall Hung",
         image:
-          "https://giavanibathrooms.com/wp-content/uploads/2026/02/600-wall-hung.jpg",
+          "https://giavanibathrooms.com/wp-content/uploads/2026/02/sienna-unit_600_wll_cream_full-lifestyle_01-1.jpg",
         href: "/furniture/sienna-furniture/sienna-600mm-wall-hung-unit",
       },
       {
@@ -11330,7 +11330,7 @@ export const PRODUCT_PAGES: Record<string, ProductPageData> = {
     description:
       "600mm wall hung vanity unit Integrated basin included Contemporary floating wall mounted design Clean, minimalist aesthetic with refined proportions Available in Matt White, Matt Black and Matt Cashmere finishes Space-enhancing design ideal for en-suites and main bathrooms Integrated storage for everyday bathroom essentials Smooth, modern surfaces for a premium finish Designed for contemporary fitted bathroom interiors Part of the Sienna furniture collection",
     image:
-      "https://giavanibathrooms.com/wp-content/uploads/2026/02/600-wall-hung.jpg",
+      "https://giavanibathrooms.com/wp-content/uploads/2026/02/sienna-unit_600_wll_cream_full-lifestyle_01-1.jpg",
     images: [
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/white.jpg",
       "https://giavanibathrooms.com/wp-content/uploads/2026/02/black.jpg",

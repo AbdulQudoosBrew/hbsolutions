@@ -1,6 +1,6 @@
 const NUMBER = String.raw`\d+(?:\.\d+)?`;
 const UNIT = String.raw`(?:mm|cm|m)`;
-const NOT_AFTER_M = String.raw`(?![m²³2])`;
+const NOT_AFTER_M = String.raw`(?![ml²³2])`;
 const DIM_WORD = String.raw`(?:\s+(?:width|height|thickness|depth|length))`;
 
 function toMm(value: number, unit: string): number {
@@ -56,9 +56,7 @@ export function normalizeDimensionText(text: string): string {
   );
 
   out = out.replace(sharedUnit, (match, nums: string, unit: string) => {
-    const values = nums
-      .split(/\s*[*×x]\s*/)
-      .map((n) => toMm(Number(n), unit));
+    const values = nums.split(/\s*[*×x]\s*/).map((n) => toMm(Number(n), unit));
     if (values.length < 2 || values.some((n) => Number.isNaN(n))) return match;
     return values
       .sort((a, b) => b - a)

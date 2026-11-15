@@ -137,7 +137,8 @@ export const PRODUCT_CATEGORIES = [
   {
     id: "silicone",
     label: "Silicone",
-    image: "https://shop.ct1.com/pub/media/catalog/product/c/t/ct1_white.jpg",
+    image:
+      "https://www.ct1.com/wp-content/uploads/CT1-Large-TRIBRID-MIB-e1618395842929-2.jpg",
   },
   {
     id: "accessories",

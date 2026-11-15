@@ -29,12 +29,33 @@ export default async function FeaturedProductsPage() {
             description:
               "A selection of featured products from Haris Building Solutions.",
             collectionHeading: "View Our Range",
-            collections: items.map((item) => ({
-              id: item.id,
-              label: item.title,
-              image: item.image,
-              href: `/featured-products/${item.id}`,
-            })),
+            collections: [
+              {
+                id: "aluminium-alloy-roofing-panels",
+                label: "Aluminium Alloy Roofing Panels",
+                image: "/images/aliminium/2.jpeg",
+                href: "/aluminium/aluminium-alloy-roofing-panels",
+              },
+              {
+                id: "sienna-600mm-wall-hung-unit",
+                label: "Sienna 600mm Wall Hung",
+                image:
+                  "https://giavanibathrooms.com/wp-content/uploads/2026/02/sienna-unit_600_wll_cream_full-lifestyle_01-1.jpg",
+                href: "/furniture/sienna-furniture/sienna-600mm-wall-hung-unit",
+              },
+              ...items
+                .filter(
+                  (item) =>
+                    item.id !== "aluminium-alloy-roofing-panels" &&
+                    item.id !== "sienna-600mm-wall-hung-unit",
+                )
+                .map((item) => ({
+                  id: item.id,
+                  label: item.title,
+                  image: item.image,
+                  href: `/featured-products/${item.id}`,
+                })),
+            ],
           }}
         />
       </main>

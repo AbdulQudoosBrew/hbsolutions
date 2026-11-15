@@ -3,6 +3,7 @@ import CategoryImage from "@/components/ui/CategoryImage";
 import Container from "@/components/ui/Container";
 import FavouriteButton from "@/components/ui/FavouriteButton";
 import type { CollectionPageData } from "@/lib/constants/collectionPages";
+import { getCollectionSummaryLines } from "@/lib/utils/productBlurb";
 
 interface CollectionPageViewProps {
   collection: CollectionPageData;
@@ -65,10 +66,12 @@ export default function CollectionPageView({
             {collection.title}
           </h1>
 
-          {collection.description ? (
-            <p className="mx-auto mt-4 max-w-2xl text-sm leading-[1.7] text-[#555555] sm:mt-5 sm:text-[15px] sm:leading-[1.75] md:mt-6 md:text-base">
-              {collection.description}
-            </p>
+          {collection.description || collection.items.length ? (
+            <div className="mx-auto mt-4 max-w-2xl space-y-2 text-sm leading-[1.7] text-[#555555] sm:mt-5 sm:text-[15px] sm:leading-[1.75] md:mt-6 md:text-base">
+              {getCollectionSummaryLines(collection).map((line) => (
+                <p key={line}>{line}</p>
+              ))}
+            </div>
           ) : null}
         </div>
 

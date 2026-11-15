@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "aluminium-alloy-roofing-panels",
+    "title": "Aluminium Alloy Roofing Panels",
+    "description": "Premium aluminium alloy roofing panels for verandas, carports, garden rooms and commercial covers. Lightweight, rust-resistant and low-maintenance, available insulated or non-insulated with custom lengths from Cheetham Hill, Manchester.",
+    "image": "/images/aliminium/2.jpeg",
+    "createdAt": "2026-11-15T00:00:00.000Z"
+  },
+  {
+    "id": "sienna-600mm-wall-hung-unit",
+    "title": "Sienna 600mm Wall Hung",
+    "description": "600mm wall hung vanity with integrated basin. Floating wall-mounted design in Matt White, Matt Black and Matt Cashmere.",
+    "image": "https://giavanibathrooms.com/wp-content/uploads/2026/02/sienna-unit_600_wll_cream_full-lifestyle_01-1.jpg",
+    "createdAt": "2026-11-15T14:00:00.000Z"
+  }
+]
