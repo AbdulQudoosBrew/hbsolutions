@@ -99,7 +99,9 @@ export function getProductSummaryLines(product: ProductPageData): string[] {
 function mmFromLabels(labels: string[]) {
   const sizes = [
     ...new Set(
-      labels.flatMap((label) => label.match(/\d{3,4}\s*mm(?![a-z])/gi) ?? []),
+      labels.flatMap(
+        (label) => String(label ?? "").match(/\d{3,4}\s*mm(?![a-z])/gi) ?? [],
+      ),
     ),
   ];
   return sizes.slice(0, 6);
@@ -147,7 +149,9 @@ export function getCollectionSummaryLines(
   collection: CollectionPageData,
 ): string[] {
   const lines: string[] = [];
-  const labels = collection.items.map((item) => item.label);
+  const labels = collection.items
+    .map((item) => item.label || item.id || "")
+    .filter(Boolean);
   const description = splitCopy(collection.description || "");
   const sizes = mmFromLabels(labels);
 

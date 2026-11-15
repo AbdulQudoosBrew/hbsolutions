@@ -299,6 +299,7 @@ export const KITCHENS_COLLECTIONS = {
     items: [
       {
         id: "kitchen-01",
+        label: "German Kitchen 01",
         image:
           "https://static.wixstatic.com/media/9b37ef_718352d3b597426a9d6c34265306f376~mv2.jpg",
         href: "/kitchens/german-kitchens/kitchen-01",

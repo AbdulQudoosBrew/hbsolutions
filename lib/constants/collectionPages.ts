@@ -17604,7 +17604,7 @@ for (const page of Object.values(COLLECTION_PAGES)) {
   page.title = normalizeDimensionText(page.title);
   page.description = normalizeDimensionText(page.description);
   for (const item of page.items) {
-    item.label = normalizeDimensionText(item.label);
+    item.label = normalizeDimensionText(item.label || item.id || "");
   }
 }
 
